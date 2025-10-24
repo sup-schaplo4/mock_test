@@ -1,0 +1,453 @@
+{
+  "topic": "Blood Relations",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "2017_Q119",
+      "question_number": 119,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. If in the given arrangement, Q+ V = 31, then what is the possible age of R?",
+      "options": {
+        "A": "27",
+        "B": "56",
+        "C": "23",
+        "D": "59",
+        "E": "30"
+      },
+      "correct_answer": "E",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) Hence, R possible age is 30.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00009",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253984"
+      }
+    },
+    {
+      "id": "2017_Q120",
+      "question_number": 120,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. If P is 24 years old, what will be the sum of ages of P and T?",
+      "options": {
+        "A": "28",
+        "B": "78",
+        "C": "64",
+        "D": "49",
+        "E": "75"
+      },
+      "correct_answer": "B",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) Hence, sum of P and T age is 78.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00010",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253985"
+      }
+    },
+    {
+      "id": "2017_Q121",
+      "question_number": 121,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. How is T related to Q?",
+      "options": {
+        "A": "Grandmother",
+        "B": "Granddaughter",
+        "C": "Aunt",
+        "D": "Mother-in-law",
+        "E": "Mother"
+      },
+      "correct_answer": "A",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) Hence, T is grandmother of Q.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00011",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253986"
+      }
+    },
+    {
+      "id": "2017_Q122",
+      "question_number": 122,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. If M is married to S, then how is S related to R?",
+      "options": {
+        "A": "Grandmother",
+        "B": "Granddaughter",
+        "C": "Grandfather",
+        "D": "Uncle",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": "E",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) The gender of S is not known. Hence, relation between S and R cannot be determined.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00012",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253988"
+      }
+    },
+    {
+      "id": "2017_Q123",
+      "question_number": 123,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. Who amongst the following is/are younger than V?",
+      "options": {
+        "A": "Both P and U",
+        "B": "Only Q",
+        "C": "Only P",
+        "D": "Both P and Q",
+        "E": "No one"
+      },
+      "correct_answer": "D",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) Hence, both P and Q are younger than V.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00013",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253989"
+      }
+    },
+    {
+      "id": "2018_Q36",
+      "question_number": 36,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. Who is not the female member of the given group?",
+      "options": {
+        "A": "Geeta",
+        "B": "Susheel",
+        "C": "Aashi",
+        "D": "Sonu",
+        "E": "All are females"
+      },
+      "correct_answer": "C",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan). So, the complete family tree is, Hence, Aashi is not the female member of this family group.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00064",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254050"
+      }
+    },
+    {
+      "id": "2018_Q37",
+      "question_number": 37,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. Who is the nephew of Susheel?",
+      "options": {
+        "A": "Chetan",
+        "B": "Aashi",
+        "C": "Sonu",
+        "D": "Pankaj",
+        "E": "Geeta"
+      },
+      "correct_answer": "A",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan). So, the complete family tree is, Hence, from the above family tree, it is clear that Chetan is the nephew of Susheel.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00065",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254051"
+      }
+    },
+    {
+      "id": "2018_Q38",
+      "question_number": 38,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. Who are the married females in the family?",
+      "options": {
+        "A": "Susheel, Aashi",
+        "B": "Susheel, Seema",
+        "C": "Geeta, Seema",
+        "D": "Geeta, Pankaj",
+        "E": "Susheel, Geeta"
+      },
+      "correct_answer": "C",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan). Hence, from the above family tree, it is clear that Geeta and Seema are the married females in the family.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00066",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254052"
+      }
+    },
+    {
+      "id": "2018_Q39",
+      "question_number": 39,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. To which generation Pankaj belongs?",
+      "options": {
+        "A": "1st",
+        "B": "2nd",
+        "C": "4th",
+        "D": "3rd",
+        "E": "Can’t be determined"
+      },
+      "correct_answer": "B",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan). Hence, Pankaj belongs to 2nd generation.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00067",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254055"
+      }
+    },
+    {
+      "id": "2018_Q40",
+      "question_number": 40,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. Who is the son of Geeta?",
+      "options": {
+        "A": "Sonu",
+        "B": "Aashi",
+        "C": "Pankaj",
+        "D": "Vinit",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan) So, the complete family tree is, Hence, Aashi is the son of Geeta.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00068",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254056"
+      }
+    },
+    {
+      "id": "2018_Q77",
+      "question_number": 77,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. In a family of 9 members- Jyotsna, Lavanya, Mahesh, Megha, Prem, Priya, Ram, Supriya, and Vijay. There are 2 married couples in the family. Further following information is known: How is Ram related to Lavanya?",
+      "options": {
+        "A": "Mother-in-law",
+        "B": "Father-in-law",
+        "C": "Either a) or b)",
+        "D": "Can't be determined",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "Symbols used are as follows: Option C is the correct answer. Ram’s gender is not known, Ram can be either male or female. Ram can be either Father-in-law or Mother-in-law to Lavanya.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00104",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254096"
+      }
+    },
+    {
+      "id": "2018_Q78",
+      "question_number": 78,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. In a family of 9 members- Jyotsna, Lavanya, Mahesh, Megha, Prem, Priya, Ram, Supriya, and Vijay. There are 2 married couples in the family. Further following information is known: How many male members are there in the family?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "5",
+        "D": "Can't be determined",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "Symbols used are as follows: Option D is the correct answer. Gender of 3 members are not known so, it is not convenient to know the number of male members in the family.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00105",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254097",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q79",
+      "question_number": 79,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. In a family of 9 members- Jyotsna, Lavanya, Mahesh, Megha, Prem, Priya, Ram, Supriya, and Vijay. There are 2 married couples in the family. Further following information is known: Who is the paternal aunt of Megha?",
+      "options": {
+        "A": "Priya",
+        "B": "Jyotsna",
+        "C": "Lavanya",
+        "D": "Can't be determined",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "Symbols used are as follows: Option C is the correct answer. Paternal aunt is Father’s sister. Megha’s paternal aunt is Lavanya.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00106",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254098",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q80",
+      "question_number": 80,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. In a family of 9 members- Jyotsna, Lavanya, Mahesh, Megha, Prem, Priya, Ram, Supriya, and Vijay. There are 2 married couples in the family. Further following information is known: If Mahesh is married to Sucheta, how is Sucheta related to Supriya?",
+      "options": {
+        "A": "Mother",
+        "B": "Father",
+        "C": "Grandmother",
+        "D": "Grandfather",
+        "E": "Can't be determined"
+      },
+      "correct_answer": "C",
+      "explanation": "Symbols used are as follows: Option C is the correct answer. As Mahesh is a male and is married to Sucheta(Female. So, Sucheta is grand mother to Supriya.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00107",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254101",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q150",
+      "question_number": 150,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven people P, Q, R, S, T, U, and V are from seven different countries India, Brazil, China, USA, UAE, UK, and Russia not necessarily in the same order. Each one of them works in the same company but on different designation i.e., Chief Executive Officer (CEO), Chairman, Manager, Deputy Manager (DM), Assistant Manager (AM), Assistant and Clerk. These ranks are given in descending order (ex. CEO is the senior and Clerk is the junior). P is senior to V but he is neither CEO nor Manager. U is senior to R who is not from UAE. Two designations are between Q and the one who is from Brazil. P is from China and immediate senior to the one who is from UAE. Q is a junior to the AM and he is from Russia. More than four people are senior to S. The number of people who are senior to the one who is from Brazil is the same as the number of people junior to V. T is from the USA and is junior to one who is from India. In a family, T is the mother of J. J is the husband of C. C is the mother of K. K is married to L. Y is the mother of L. Y is married to S. R is married to P. K is the brother of P. O is the daughter of K.How is O related to R?",
+      "options": {
+        "A": "Niece",
+        "B": "Nephew",
+        "C": "Son",
+        "D": "Can’t be determined",
+        "E": "Daughter"
+      },
+      "correct_answer": "A",
+      "explanation": "From the family tree, O is the daughter of K, and K is the brother of P. R is married to P. Therefore, O is the niece of R.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00185",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254188",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

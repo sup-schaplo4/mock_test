@@ -1,0 +1,289 @@
+{
+  "topic": "Square/Rectangular/Triangular Seating",
+  "total_questions": 9,
+  "questions": [
+    {
+      "id": "2022_Q188",
+      "question_number": 188,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "There are eight persons J, K, L, M, R, O, P and N are sitting around a rectangular table in such a way that four of them sit at four corners of the Table while four sits in the middle of each of the four sides. The one who sit at the four corners face outside the centre while those who sit in the middle of the sides face inside. P sit second to the left of O. K sits second to the right of J. L sits third to the left of N. L faces inside. R sits third to the left O. L is not the immediate neighbour of J. Who among the following faces R?",
+      "options": {
+        "A": "K",
+        "B": "L",
+        "C": "M",
+        "D": "N",
+        "E": "None of these"
+      },
+      "correct_answer": "A",
+      "explanation": "From the final arrangement, K faces R.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00219",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254225",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q190",
+      "question_number": 190,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "There are eight persons J, K, L, M, R, O, P and N are sitting around a rectangular table in such a way that four of them sit at four corners of the Table while four sits in the middle of each of the four sides. The one who sit at the four corners face outside the centre while those who sit in the middle of the sides face inside. P sit second to the left of O. K sits second to the right of J. L sits third to the left of N. L faces inside. R sits third to the left O. L is not the immediate neighbour of J. Who among the following sits exactly opposite to M?",
+      "options": {
+        "A": "L",
+        "B": "R",
+        "C": "N",
+        "D": "P",
+        "E": "None of these"
+      },
+      "correct_answer": "E",
+      "explanation": "M does not have anyone sitting directly opposite to him in the rectangular arrangement described.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00220",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254227",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q194",
+      "question_number": 194,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order.Who among the following person bought Pearl?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00279",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254292",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q195",
+      "question_number": 195,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order.Who among the following person sits third to the right of F?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00280",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254293",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q196",
+      "question_number": 196,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order. Four of the five among the following are similar in such a way to form a group, who among the following doesn’t belong to the group?",
+      "options": {
+        "A": "The one who bought Jade",
+        "B": "The one who bought Emerald",
+        "C": "The one who sits immediate left of G",
+        "D": "D",
+        "E": "The one who sits third to the right of A"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00281",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254294",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q197",
+      "question_number": 197,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order. Who among the following person sits second to the right of the one who bought Diamond?",
+      "options": {
+        "A": "The one who sits immediate left of E",
+        "B": "C",
+        "C": "B",
+        "D": "The one who sits second to the left of G",
+        "E": "D"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00282",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254295",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q198",
+      "question_number": 198,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order. Which of the following statements is/are true? I) H bought Emerald. II) E sits immediate left of B. III) D does not buy Diamond. IV) C sits opposite to the one who bought pearl.",
+      "options": {
+        "A": "Only I and III",
+        "B": "Only III and IV",
+        "C": "Only I and II",
+        "D": "Only II and III",
+        "E": "None of the statements is false"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00283",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254296",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q199",
+      "question_number": 199,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order. Which of the following statements is not true?",
+      "options": {
+        "A": "The one who bought Garnet sits in the middle of the side of the table.",
+        "B": "C sits opposite to the one who bought Amethyst.",
+        "C": "D sits between the one who bought Diamond and Amethyst when counted from the left of Diamond.",
+        "D": "F bought Topaz.",
+        "E": "None of these"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00284",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254297",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q200",
+      "question_number": 200,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order.Who among the following person bought Garnet?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Square/Rectangular/Triangular Seating",
+      "topic": "Special Seating",
+      "question_id": "REASONING_00285",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254299",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

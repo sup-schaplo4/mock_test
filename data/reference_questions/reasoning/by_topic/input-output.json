@@ -1,0 +1,689 @@
+{
+  "topic": "Input-Output",
+  "total_questions": 23,
+  "questions": [
+    {
+      "id": "2017_Q111",
+      "question_number": 111,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions. When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement : (All the numbers are two-digit numbers before performing the operations) Input : tweet 43 also 13 suit 29 money kite 71 59 Step I : Is tweet 43 13 suit 29 money kite 59 73 Step II : kt ls tweet 43 13 suit 29 money 73 61 Step III : mny kt ls tweet 13 73 61 47 31 Step V : twt st mny kt ls 73 61 47 31 17 Step V is the last step of the above arrangement as the intended output of arrangement is obtained. As per the rules followed in the given steps, find the appropriate steps for the given input. Input : neat bites 23 11 piles your 37 79 give 47 As per the given arrangement, in step IV, ‘pls is related to ‘gv’ following a certain pattern. Following the same pattern, ‘83’ is related to ‘41’ in step III. In step V, to which of the following is ‘bts’ related to following the same pattern?",
+      "options": {
+        "A": "gv",
+        "B": "41",
+        "C": "53",
+        "D": "nt",
+        "E": "yr"
+      },
+      "correct_answer": "C",
+      "explanation": "The words are arranged in the alphabetical order and eliminate vowels from the word and numbers are arranged in the descending order. In step I, word is arranged in the left end and number is arranged in the right end. In step II, next word is arranged before the previous word and next number is arranged after the previous number. The operation goes on like this. Input: neat bites 23 11 piles your 37 79 give 47 Step I: bts neat 23 11 piles your 37 give 47 83 Step II: gv bts neat 23 11 piles your 37 83 53 Step III: nt gv bts 23 11 piles your 83 53 41 Step IV: pls nt gv bts 11 your 83 53 41 29 Step V: yr pls nt gv bts 83 53 41 29 13 In step IV, there is one word between ‘pls’ and ‘gv’ and ‘pls’ is before ‘gv’. Similarly, in step III, there is one word between ‘83’ and ‘41’ and ‘83’ is before ‘41’. In step V, there is one word between ‘bts’ and ‘53’ and ‘bts’ is before ‘53’.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00001",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253960"
+      }
+    },
+    {
+      "id": "2017_Q112",
+      "question_number": 112,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions. When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement : (All the numbers are two-digit numbers before performing the operations) Input : tweet 43 also 13 suit 29 money kite 71 59 Step I : Is tweet 43 13 suit 29 money kite 59 73 Step II : kt ls tweet 43 13 suit 29 money 73 61 Step III : mny kt ls tweet 13 73 61 47 31 Step V : twt st mny kt ls 73 61 47 31 17 Step V is the last step of the above arrangement as the intended output of arrangement is obtained. As per the rules followed in the given steps, find the appropriate steps for the given input. Input : neat bites 23 11 piles your 37 79 give 47 Which is the third element to the left of the seventh element from the left end in step V of the given arrangement?",
+      "options": {
+        "A": "gv",
+        "B": "53",
+        "C": "nt",
+        "D": "53",
+        "E": "83"
+      },
+      "correct_answer": "A",
+      "explanation": "The words are arranged in the alphabetical order and eliminate vowels from the word and numbers are arranged in the descending order. In step I, word is arranged in the left end and number is arranged in the right end. In step II, next word is arranged before the previous word and next number is arranged after the previous number. The operation goes on like this. Input: neat bites 23 11 piles your 37 79 give 47 Step I: bts neat 23 11 piles your 37 give 47 83 Step II: gv bts neat 23 11 piles your 37 83 53 Step III: nt gv bts 23 11 piles your 83 53 41 Step IV: pls nt gv bts 11 your 83 53 41 29 Step V: yr pls nt gv bts 83 53 41 29 13 Hence, in step V seventh element from the left end is ‘53’. Third element to left of ‘53’ is ‘gv’.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00002",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253971"
+      }
+    },
+    {
+      "id": "2017_Q113",
+      "question_number": 113,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions. When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement : (All the numbers are two-digit numbers before performing the operations) Input : tweet 43 also 13 suit 29 money kite 71 59 Step I : Is tweet 43 13 suit 29 money kite 59 73 Step II : kt ls tweet 43 13 suit 29 money 73 61 Step III : mny kt ls tweet 13 73 61 47 31 Step V : twt st mny kt ls 73 61 47 31 17 Step V is the last step of the above arrangement as the intended output of arrangement is obtained. As per the rules followed in the given steps, find the appropriate steps for the given input. Input : neat bites 23 11 piles your 37 79 give 47 How many elements are there between ‘your’ and ‘83’ in step III of the given arrangement?",
+      "options": {
+        "A": "None",
+        "B": "Two",
+        "C": "Three",
+        "D": "One",
+        "E": "More than three"
+      },
+      "correct_answer": "A",
+      "explanation": "The words are arranged in the alphabetical order and eliminate vowels from the word and numbers are arranged in the descending order. In step I, word is arranged in the left end and number is arranged in the right end. In step II, next word is arranged before the previous word and next number is arranged after the previous number. The operation goes on like this. Input: neat bites 23 11 piles your 37 79 give 47 Step I: bts neat 23 11 piles your 37 give 47 83 Step II: gv bts neat 23 11 piles your 37 83 53 Step III: nt gv bts 23 11 piles your 83 53 41 Step IV: pls nt gv bts 11 your 83 53 41 29 Step V: yr pls nt gv bts 83 53 41 29 13 Hence, in step III there is no element between ‘your’ and ‘83’.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00003",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253974"
+      }
+    },
+    {
+      "id": "2017_Q114",
+      "question_number": 114,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions. When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement : (All the numbers are two-digit numbers before performing the operations) Input : tweet 43 also 13 suit 29 money kite 71 59 Step I : Is tweet 43 13 suit 29 money kite 59 73 Step II : kt ls tweet 43 13 suit 29 money 73 61 Step III : mny kt ls tweet 13 73 61 47 31 Step V : twt st mny kt ls 73 61 47 31 17 Step V is the last step of the above arrangement as the intended output of arrangement is obtained. As per the rules followed in the given steps, find the appropriate steps for the given input. Input : neat bites 23 11 piles your 37 79 give 47Which is the fourth element to the right of ’11 in the Step IV of the given arrangement?",
+      "options": {
+        "A": "29",
+        "B": "41",
+        "C": "bts",
+        "D": "83",
+        "E": "your"
+      },
+      "correct_answer": "B",
+      "explanation": "The words are arranged in the alphabetical order and eliminate vowels from the word and numbers are arranged in the descending order. In step I, word is arranged in the left end and number is arranged in the right end. In step II, next word is arranged before the previous word and next number is arranged after the previous number. The operation goes on like this. Input: neat bites 23 11 piles your 37 79 give 47 Step I: bts neat 23 11 piles your 37 give 47 83 Step II: gv bts neat 23 11 piles your 37 83 53 Step III: nt gv bts 23 11 piles your 83 53 41 Step IV: pls nt gv bts 11 your 83 53 41 29 Step V: yr pls nt gv bts 83 53 41 29 13 Hence, in step IV, fourth element to right of ‘11’ is ‘41’.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00004",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253976"
+      }
+    },
+    {
+      "id": "2017_Q115",
+      "question_number": 115,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions. When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement : (All the numbers are two-digit numbers before performing the operations) Input : tweet 43 also 13 suit 29 money kite 71 59 Step I : Is tweet 43 13 suit 29 money kite 59 73 Step II : kt ls tweet 43 13 suit 29 money 73 61 Step III : mny kt ls tweet 13 73 61 47 31 Step V : twt st mny kt ls 73 61 47 31 17 Step V is the last step of the above arrangement as the intended output of arrangement is obtained. As per the rules followed in the given steps, find the appropriate steps for the given input. Input : neat bites 23 11 piles your 37 79 give 47. In which one of the following steps is ‘bts 11 your’ found consecutively in the same order in the given arrangement?",
+      "options": {
+        "A": "Step II",
+        "B": "Step III",
+        "C": "There is no such step",
+        "D": "Step V",
+        "E": "Step IV"
+      },
+      "correct_answer": "E",
+      "explanation": "The words are arranged in the alphabetical order and eliminate vowels from the word and numbers are arranged in the descending order. In step I, word is arranged in the left end and number is arranged in the right end. In step II, next word is arranged before the previous word and next number is arranged after the previous number. The operation goes on like this. Input: neat bites 23 11 piles your 37 79 give 47 Step I: bts neat 23 11 piles your 37 give 47 83 Step II: gv bts neat 23 11 piles your 37 83 53 Step III: nt gv bts 23 11 piles your 83 53 41 Step IV: pls nt gv bts 11 your 83 53 41 29 Step V: yr pls nt gv bts 83 53 41 29 13 Hence, in step IV, ‘bts 11 your’ found consecutively.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00005",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253977"
+      }
+    },
+    {
+      "id": "2017_Q116",
+      "question_number": 116,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions. When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement : (All the numbers are two-digit numbers before performing the operations) Input : tweet 43 also 13 suit 29 money kite 71 59 Step I : Is tweet 43 13 suit 29 money kite 59 73 Step II : kt ls tweet 43 13 suit 29 money 73 61 Step III : mny kt ls tweet 13 73 61 47 31 Step V : twt st mny kt ls 73 61 47 31 17 Step V is the last step of the above arrangement as the intended output of arrangement is obtained. As per the rules followed in the given steps, find the appropriate steps for the given input. Input : neat bites 23 11 piles your 37 79 give 47. In step II of the given arrangement, which elements appear to the immediate right and immediate left of ‘neat’ respectively?",
+      "options": {
+        "A": "‘37’ and ‘piles’",
+        "B": "‘give’ and ‘11’",
+        "C": "’11 and ‘your’",
+        "D": "‘23’ and ‘bts’",
+        "E": "piles and gv"
+      },
+      "correct_answer": "D",
+      "explanation": "The words are arranged in the alphabetical order and eliminate vowels from the word and numbers are arranged in the descending order. In step I, word is arranged in the left end and number is arranged in the right end. In step II, next word is arranged before the previous word and next number is arranged after the previous number. The operation goes on like this. Input: neat bites 23 11 piles your 37 79 give 47 Step I: bts neat 23 11 piles your 37 give 47 83 Step II: gv bts neat 23 11 piles your 37 83 53 Step III: nt gv bts 23 11 piles your 83 53 41 Step IV: pls nt gv bts 11 your 83 53 41 29 Step V: yr pls nt gv bts 83 53 41 29 13 Hence, in step II ‘23’ is immediate right of ‘neat’ and ‘bts’ is immediate left of ‘neat’.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00006",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253979"
+      }
+    },
+    {
+      "id": "2018_Q46",
+      "question_number": 46,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following alphanumeric sequence carefully and answer the questions given beside: 84 LAST 67 CRAB 78 NEWS 89 ROSE 76 UNDO If the digits of the word that is starting with consonant and ending at a consonant are to be multiplied within the number while the digits of the rest words are to be added within the number then the words are arranged according to ascending order of the number from left to right end then what would be the 11th letter from left end?",
+      "options": {
+        "A": "A",
+        "B": "D",
+        "C": "S",
+        "D": "W",
+        "E": "T"
+      },
+      "correct_answer": "C",
+      "explanation": "We have the given sequence, 84 LAST 67 CRAB 78 NEWS 89 ROSE 76 UNDO After, multiplying the digits of the word that is starting with consonant and ending at a consonant and adding the digits of the rest words within the number, we get: 32 LAST 42 CRAB 56 NEWS 17 ROSE 13 UNDO Arranging the words according to ascending order of the number from left to right end, we get 13 UNDO 17 ROSE 32 LAST 42 CRAB 56 NEWS Here, the 11th letter from left end is S.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00074",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254062",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q47",
+      "question_number": 47,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following alphanumeric sequence carefully and answer the questions given beside: 84 LAST 67 CRAB 78 NEWS 89 ROSE 76 UNDO If all the letters which are attached to an odd number are reversed and all the letters which are attached to an even number are changed to their succeeding letter then how many letters in the new sequence will appear exactly twice?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five",
+        "E": "Seven"
+      },
+      "correct_answer": "D",
+      "explanation": "We have the given sequence, 84 LAST 67 CRAB 78 NEWS 89 ROSE 76 UNDO After, reversing all the letters which are attached to an odd number and changing all the letters which are attached to an even number to their succeeding letter, we get: 84 MBTU 67 XIZY 78 OFXT 89 ILHV 76 VOEP Now, the letters in the new sequence appearing twice are T, X, I, V and O. 84 MBTU 67 XIZY 78 OFXT 89 ILHV 76 VOEP",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00075",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254063",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q34",
+      "question_number": 34,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row-1 A, B, C, D, E and F are seated and all of them are facing south. In row-2 P, Q, R, S, T and V are seated and all of them are facing north. Therefore, in the given seating arrangement each member seated in a row faces another member of the other row. V sits third to the right of S. S faces F and F does not sit at any of the extreme ends of the line. D sits third to the right of C. R faces C. The one who is facing E sits third to the right of P. B and P do not sit at the extreme ends of the line. T is not an immediate neighbour of V and A is not an immediate neighbour of C. R does not sit at the extreme end. How many such pairs of letters are there in the word ‘Rockabilly’ each of which has as many letters between them in the word as in the English alphabet (Both forward and backward)?",
+      "options": {
+        "A": "Nil",
+        "B": "One",
+        "C": "Two",
+        "D": "Three",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "So, there are 2 pairs.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00151",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254148",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q35",
+      "question_number": 35,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29.How many steps will be required to complete the arrangement?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00152",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254150"
+      }
+    },
+    {
+      "id": "2019_Q36",
+      "question_number": 36,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. Which word/Number would be at the fifth place from the right in Step IV?",
+      "options": {
+        "A": "11",
+        "B": "ear",
+        "C": "12",
+        "D": "gone",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00153",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254151"
+      }
+    },
+    {
+      "id": "2019_Q37",
+      "question_number": 37,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. How many elements are there between ‘judge’ and ‘34’ in step II?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00154",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254152"
+      }
+    },
+    {
+      "id": "2019_Q38",
+      "question_number": 38,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. Which of the following represents the position of ‘sitting’ in step V?",
+      "options": {
+        "A": "1st from right",
+        "B": "5th from left",
+        "C": "6th from left",
+        "D": "2nd from right",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00155",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254153"
+      }
+    },
+    {
+      "id": "2019_Q39",
+      "question_number": 39,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. Which of the following elements is third to the left of 6th element from the right end in the last step?",
+      "options": {
+        "A": "34",
+        "B": "judge",
+        "C": "Arranges",
+        "D": "ear",
+        "E": "None of these"
+      },
+      "correct_answer": "A",
+      "explanation": "In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00156",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254154"
+      }
+    },
+    {
+      "id": "2022_Q191",
+      "question_number": 191,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "When a number and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement. Input: weight 34 93 and 14 density 84 concept to 49 74 be understood 56 Step 1: and weight 34 93 density 84 concept to 49 74 be understood 56 14 Step 2: 34 and weight 93 density 84 concept to 49 74 understood 56 14 be Step 3: concept 34 and weight 93 density 84 to 74 understood 56 14 be 49 Step 4: 56 concept 34 and weight 93 84 to 74 understood 14 be 49 density Step 5: to 56 concept 34 and weight 93 84 understood 14 be 49 density 74 Step 6: 84 to 56 concept 34 and weight 93 14 be 49 density 74 understood Step 7: weight 84 to 56 concept 34 and 14 be 49 density 74 understood 93 Step 7 is the last step of the above arrangement as the intended arrangement is obtained. As per the rules followed in the given steps, find out the appropriate steps for the given output. Input: 36 24 maintain 87 safe distance 60 12 with other 98 cars.In which step of the given arrangement are the elements ‘24 cars 87’ found in the same order?",
+      "options": {
+        "A": "Step 6",
+        "B": "Step 5",
+        "C": "Step 3",
+        "D": "Step 2",
+        "E": "Step 1"
+      },
+      "correct_answer": "C",
+      "explanation": "Input: 36 24 maintain 87 safe distance 60 12 with other 98 cars Step 1: cars 36 24 maintain 87 safe distance 60 with other 98 12 Step 2: 24 cars 36 maintain 87 safe 60 with other 98 12 distance Step 3: maintain 24 cars 87 safe 60 with other 98 12 distance 36 In Step 3, the elements '24 cars 87' are found in the same order.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00221",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254228"
+      }
+    },
+    {
+      "id": "2022_Q194",
+      "question_number": 194,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "When a number and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement. Input: weight 34 93 and 14 density 84 concept to 49 74 be understood 56 Step 1: and weight 34 93 density 84 concept to 49 74 be understood 56 14 Step 2: 34 and weight 93 density 84 concept to 49 74 understood 56 14 be Step 3: concept 34 and weight 93 density 84 to 74 understood 56 14 be 49 Step 4: 56 concept 34 and weight 93 84 to 74 understood 14 be 49 density Step 5: to 56 concept 34 and weight 93 84 understood 14 be 49 density 74 Step 6: 84 to 56 concept 34 and weight 93 14 be 49 density 74 understood Step 7: weight 84 to 56 concept 34 and 14 be 49 density 74 understood 93 Step 7 is the last step of the above arrangement as the intended arrangement is obtained. As per the rules followed in the given steps, find out the appropriate steps for the given output. Input: 36 24 maintain 87 safe distance 60 12 with other 98 cars.Which element is exactly between ’87’ and ’60’ in the third step of the given arrangement?",
+      "options": {
+        "A": "distance",
+        "B": "with",
+        "C": "other",
+        "D": "safe",
+        "E": "cars"
+      },
+      "correct_answer": "D",
+      "explanation": "Step 3: maintain 24 cars 87 safe 60 with other 98 12 distance 36 Between '87' and '60' is 'safe'.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00222",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254229",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q195",
+      "question_number": 195,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "When a number and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and rearrangement. Input: weight 34 93 and 14 density 84 concept to 49 74 be understood 56 Step 1: and weight 34 93 density 84 concept to 49 74 be understood 56 14 Step 2: 34 and weight 93 density 84 concept to 49 74 understood 56 14 be Step 3: concept 34 and weight 93 density 84 to 74 understood 56 14 be 49 Step 4: 56 concept 34 and weight 93 84 to 74 understood 14 be 49 density Step 5: to 56 concept 34 and weight 93 84 understood 14 be 49 density 74 Step 6: 84 to 56 concept 34 and weight 93 14 be 49 density 74 understood Step 7: weight 84 to 56 concept 34 and 14 be 49 density 74 understood 93 Step 7 is the last step of the above arrangement as the intended arrangement is obtained. As per the rules followed in the given steps, find out the appropriate steps for the given output. Input: 36 24 maintain 87 safe distance 60 12 with other 98 cars.Which element is sixth to the right of the element which is tenth from the right end of the last step of the given arrangement?",
+      "options": {
+        "A": "36",
+        "B": "other",
+        "C": "distance",
+        "D": "87",
+        "E": "12"
+      },
+      "correct_answer": "A",
+      "explanation": "Last step (Step 6): 98 safe 60 maintain 24 cars 12 distance 36 other 87 with Tenth from the right end is '60'. Sixth to the right of '60' is '36'.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00223",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254230",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q143",
+      "question_number": 143,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. Which of the following is the third element from the right end in step 3 for the above input?",
+      "options": {
+        "A": "26",
+        "B": "yatci",
+        "C": "19",
+        "D": "feel",
+        "E": "84"
+      },
+      "correct_answer": "C",
+      "explanation": "Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 In Step 1, the last word as per dictionary(from the given words) has been placed on the extreme left and the last letter of the word has been replaced with the succeeding letter. Also, the smallest number has been placed at the extreme right and 1 is added to the number. Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 In Step 2, again the last word as per dictionary(after the word 'wound') has been placed at the extreme left and last letter of the word has been replaced with the succeeding letter. Also, the next smallest number has been placed at the extreme right and 1 is added to the number. This process is being repeated till all the words are placed on the left and all the numbers on the right. Now, Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train Step 1: yatci bride 39 master 77 61 nocturnal 25 feel 84 train 19 Step 2: traio yatci bride 39 master 77 61 nocturnal feel 84 19 26 Step 3: nocturnam traio yatci bride master 77 61 feel 84 19 26 4S0tep 4: mastes nocturnam traio yatci bride 77 feel 84 19 26 40 6S2tep 5: feem mastes nocturnam traio yatci bride 84 19 26 40 62 78 Step 6: bridf feem mastes nocturnam traio yatci 19 26 40 62 78 85 Step 6 is the final output. Instep 3, third element from the right end is '19'",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00231",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254239"
+      }
+    },
+    {
+      "id": "2023_Q144",
+      "question_number": 144,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. The elements ‘bride 77 feel’ come together in the same order in which of the below steps?",
+      "options": {
+        "A": "Step 2",
+        "B": "Step 4",
+        "C": "Step 5",
+        "D": "Step 6",
+        "E": "Step 3"
+      },
+      "correct_answer": "B",
+      "explanation": "Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train Step 1: yatci bride 39 master 77 61 nocturnal 25 feel 84 train 19 Step 2: traio yatci bride 39 master 77 61 nocturnal feel 84 19 26 Step 3: nocturnam traio yatci bride master 77 61 feel 84 19 26 4S0tep 4: mastes nocturnam traio yatci bride 77 feel 84 19 26 40 6S2tep 5: feem mastes nocturnam traio yatci bride 84 19 26 40 62 7S8tep 6: bridf feem mastes nocturnam traio yatci 19 26 40 62 78 85 Step 6 is the final output.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00232",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254240"
+      }
+    },
+    {
+      "id": "2023_Q145",
+      "question_number": 145,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. Which of the following elements is fourth to the left of element which is seventh from the left end of Step 5?",
+      "options": {
+        "A": "mastes",
+        "B": "traio",
+        "C": "62",
+        "D": "40",
+        "E": "nocturnam"
+      },
+      "correct_answer": "E",
+      "explanation": "Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train Step 1: yatci bride 39 master 77 61 nocturnal 25 feel 84 train 19 Step 2: traio yatci bride 39 master 77 61 nocturnal feel 84 19 26 Step 3: nocturnam traio yatci bride master 77 61 feel 84 19 26 4S0tep 4: mastes nocturnam traio yatci bride 77 feel 84 19 26 40 6S2tep 5: feem mastes nocturnam traio yatci bride 84 19 26 40 62 7S8tep 6: bridf feem mastes nocturnam traio yatci 19 26 40 62 78 85 Step 6 is the final output. '84' is seventh from the left end in Step 5. The element which is fourth to the left of '84' in step 5 is 'nocturnam'.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00233",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254241"
+      }
+    },
+    {
+      "id": "2023_Q146",
+      "question_number": 146,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. Which of the following elements are placed in the middle in step number 6?",
+      "options": {
+        "A": "bride 84",
+        "B": "77 feel",
+        "C": "traio 26",
+        "D": "yatci 19",
+        "E": "bridf 85"
+      },
+      "correct_answer": "D",
+      "explanation": "Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train Step 1: yatci bride 39 master 77 61 nocturnal 25 feel 84 train 19 Step 2: traio yatci bride 39 master 77 61 nocturnal feel 84 19 26 Step 3: nocturnam traio yatci bride master 77 61 feel 84 19 26 4S0tep 4: mastes nocturnam traio yatci bride 77 feel 84 19 26 40 6S2tep 5: feem mastes nocturnam traio yatci bride 84 19 26 40 62 7S8tep 6: bridf feem mastes nocturnam traio yatci 19 26 40 62 78 85 Step 6 is the final output.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00234",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254242"
+      }
+    },
+    {
+      "id": "2023_Q147",
+      "question_number": 147,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. What is the sum of the fourth element from the right end in step 3 and eighth element from the left end in step 5?",
+      "options": {
+        "A": "103",
+        "B": "96",
+        "C": "168",
+        "D": "38",
+        "E": "161"
+      },
+      "correct_answer": "A",
+      "explanation": "Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train Step 1: yatci bride 39 master 77 61 nocturnal 25 feel 84 train 19 Step 2: traio yatci bride 39 master 77 61 nocturnal feel 84 19 26 Step 3: nocturnam traio yatci bride master 77 61 feel 84 19 26 4S0tep 4: mastes nocturnam traio yatci bride 77 feel 84 19 26 40 6S2tep 5: feem mastes nocturnam traio yatci bride 84 19 26 40 62 7S8tep 6: bridf feem mastes nocturnam traio yatci 19 26 40 62 78 85 Step 6 is the final output. Fourth element from the right end in step 3= 84 Eighth element from the left end in step 5= 19 Sum= 84+ 19= 103",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00235",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254243"
+      }
+    },
+    {
+      "id": "2023_Q162",
+      "question_number": 162,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 25 36 18 49 12 55 22 33 Step I: 12 25 36 18 49 55 22 33 Step II: 12 18 25 36 49 55 22 33 Step III: 12 18 22 25 36 49 55 33 Step IV: 12 18 22 25 33 36 49 55 And Step IV is the last step of the above input. As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input. Input: 42 15 68 29 74 37 51 23. Which step number would be the following output?  15 23 29 37 42 51 68 74",
+      "options": {
+        "A": "Step III",
+        "B": "Step IV",
+        "C": "Step V",
+        "D": "Step VI",
+        "E": "There will be no such step"
+      },
+      "correct_answer": "B",
+      "explanation": "The statement speaks of the failure of Housing and Urban development policies of the government. Hence, the policy in regard to the urban housing should be reviewed.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Input-Output",
+      "topic": "Input-Output",
+      "question_id": "REASONING_00250",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254260",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

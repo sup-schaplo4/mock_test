@@ -1,0 +1,324 @@
+[
+  {
+    "question_id": "ARITH_TIME_SPEED_DISTANCE_001",
+    "question": "A car travels 150 km at a speed of 50 km/hr. How much time does it take to cover this distance?",
+    "options": {
+      "A": "1 hour",
+      "B": "2 hours",
+      "C": "3 hours",
+      "D": "4 hours",
+      "E": "5 hours"
+    },
+    "correct_answer": "C",
+    "explanation": "To find the time, we use the formula: \\( \\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} \\). Here, \\( \\text{Distance} = 150 \\text{ km} \\) and \\( \\text{Speed} = 50 \\text{ km/hr} \\). \\( \\text{Time} = \\frac{150}{50} = 3 \\text{ hours} \\). Therefore, the correct answer is C.",
+    "difficulty": "Easy",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Basic Speed-Distance-Time Problems",
+    "concept_tags": [
+      "basic calculation",
+      "direct formula"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 1,
+      "api_cost": 0.00327,
+      "question_number": 1
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED_DISTANCE_002",
+    "question": "Two trains are traveling towards each other from two stations 300 km apart. Train A travels at 60 km/hr and Train B at 40 km/hr. How long will it take for the trains to meet?",
+    "options": {
+      "A": "2 hours",
+      "B": "3 hours",
+      "C": "4 hours",
+      "D": "5 hours",
+      "E": "6 hours"
+    },
+    "correct_answer": "B",
+    "explanation": "When two objects move towards each other, their relative speed is the sum of their speeds. \\( \\text{Relative Speed} = 60 + 40 = 100 \\text{ km/hr} \\). \\( \\text{Time} = \\frac{\\text{Distance}}{\\text{Relative Speed}} = \\frac{300}{100} = 3 \\text{ hours} \\). So, the trains will meet after 3 hours. The correct answer is B.",
+    "difficulty": "Medium",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Relative Speed (opposite direction)",
+    "concept_tags": [
+      "relative speed",
+      "opposite direction"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.00327,
+      "question_number": 2
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED_DISTANCE_003",
+    "question": "A boat can travel at 15 km/hr in still water. If the speed of the stream is 3 km/hr, how long will it take the boat to travel 36 km downstream?",
+    "options": {
+      "A": "1.5 hours",
+      "B": "2 hours",
+      "C": "2.4 hours",
+      "D": "3 hours",
+      "E": "4 hours"
+    },
+    "correct_answer": "B",
+    "explanation": "For downstream, the effective speed of the boat is the sum of its speed in still water and the speed of the stream. \\( \\text{Effective Speed} = 15 + 3 = 18 \\text{ km/hr} \\). \\( \\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{36}{18} = 2 \\text{ hours} \\). Hence, the correct answer is B.",
+    "difficulty": "Medium",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Boat and Stream Problems",
+    "concept_tags": [
+      "downstream speed",
+      "effective speed"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.00327,
+      "question_number": 3
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED_DISTANCE_004",
+    "question": "Train A, 200 meters long, is running at 60 km/hr. How long will it take to cross a 300-meter-long bridge?",
+    "options": {
+      "A": "20 seconds",
+      "B": "25 seconds",
+      "C": "30 seconds",
+      "D": "35 seconds",
+      "E": "40 seconds"
+    },
+    "correct_answer": "C",
+    "explanation": "To cross the bridge, the train must cover its own length plus the length of the bridge: \\( 200 + 300 = 500 \\text{ meters} \\). First, convert the train's speed from km/hr to m/s: \\( 60 \\times \\frac{5}{18} = 16.67 \\text{ m/s} \\). \\( \\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{500}{16.67} \\approx 30 \\text{ seconds} \\). Thus, the correct answer is C.",
+    "difficulty": "Hard",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Train Problems (crossing bridges)",
+    "concept_tags": [
+      "train speed",
+      "distance conversion"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.00327,
+      "question_number": 4
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED_DISTANCE_005",
+    "question": "A cyclist covers a certain distance at 20 km/hr and returns at 25 km/hr. What is the average speed for the entire journey?",
+    "options": {
+      "A": "22 km/hr",
+      "B": "22.5 km/hr",
+      "C": "23 km/hr",
+      "D": "24 km/hr",
+      "E": "24.5 km/hr"
+    },
+    "correct_answer": "A",
+    "explanation": "The average speed for a round trip is given by: \\( \\text{Average Speed} = \\frac{2xy}{x+y} \\), where \\( x \\) and \\( y \\) are the speeds. Here, \\( x = 20 \\text{ km/hr} \\) and \\( y = 25 \\text{ km/hr} \\). \\( \\text{Average Speed} = \\frac{2 \\times 20 \\times 25}{20 + 25} = \\frac{1000}{45} = 22.22 \\approx 22 \\text{ km/hr} \\). Hence, the correct answer is A.",
+    "difficulty": "Hard",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Average Speed",
+    "concept_tags": [
+      "average speed",
+      "round trip"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.00327,
+      "question_number": 5
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED__DISTANCE_001",
+    "question": "A train travels at a speed of 90 km/hr and covers a distance in 4 hours. What is the total distance covered by the train?",
+    "options": {
+      "A": "320 km",
+      "B": "360 km",
+      "C": "400 km",
+      "D": "450 km",
+      "E": "480 km"
+    },
+    "correct_answer": "C",
+    "explanation": "To find the distance, use the formula: Distance = Speed × Time. Here, Speed = 90 km/hr and Time = 4 hours. Therefore, Distance = 90 × 4 = 360 km.",
+    "difficulty": "Easy",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Basic speed-distance-time problems",
+    "concept_tags": [
+      "distance calculation",
+      "direct formula"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 2,
+      "api_cost": 0.003558,
+      "question_number": 6
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED__DISTANCE_002",
+    "question": "Two trains of lengths 120 m and 150 m are running in opposite directions with speeds of 45 km/hr and 60 km/hr respectively. Find the time taken by the trains to cross each other.",
+    "options": {
+      "A": "10 seconds",
+      "B": "12 seconds",
+      "C": "15 seconds",
+      "D": "18 seconds",
+      "E": "20 seconds"
+    },
+    "correct_answer": "B",
+    "explanation": "The relative speed of the trains = 45 + 60 = 105 km/hr = (105 × 1000) / 3600 m/s = 29.17 m/s. Total length = 120 + 150 = 270 m. Time = Distance / Speed = 270 / 29.17 = 9.26 seconds, approximately 12 seconds.",
+    "difficulty": "Medium",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Relative speed (opposite direction)",
+    "concept_tags": [
+      "relative speed",
+      "conversion",
+      "unit conversion"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 2,
+      "api_cost": 0.003558,
+      "question_number": 7
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED__DISTANCE_003",
+    "question": "A boat takes 3 hours to travel downstream from point A to point B and 5 hours to return upstream. If the speed of the stream is 3 km/hr, what is the speed of the boat in still water?",
+    "options": {
+      "A": "9 km/hr",
+      "B": "12 km/hr",
+      "C": "15 km/hr",
+      "D": "18 km/hr",
+      "E": "21 km/hr"
+    },
+    "correct_answer": "C",
+    "explanation": "Let the speed of the boat in still water be x km/hr. Downstream speed = (x + 3) km/hr, upstream speed = (x - 3) km/hr. Distance = Speed × Time. Equating distances: 3(x + 3) = 5(x - 3). Solving, 3x + 9 = 5x - 15 ⇒ 2x = 24 ⇒ x = 12 km/hr.",
+    "difficulty": "Medium",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Boat and stream problems",
+    "concept_tags": [
+      "boat and stream",
+      "equation solving"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 2,
+      "api_cost": 0.003558,
+      "question_number": 8
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED__DISTANCE_004",
+    "question": "Two runners, A and B, start a race simultaneously from the same point. A runs at 9 km/hr, while B runs at 12 km/hr. If they run in opposite directions, how far apart will they be after 20 minutes?",
+    "options": {
+      "A": "5 km",
+      "B": "6 km",
+      "C": "7 km",
+      "D": "8 km",
+      "E": "10 km"
+    },
+    "correct_answer": "C",
+    "explanation": "Relative speed = 9 + 12 = 21 km/hr. Time = 20/60 = 1/3 hours. Distance apart = Relative speed × Time = 21 × 1/3 = 7 km.",
+    "difficulty": "Hard",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Relative speed (opposite direction)",
+    "concept_tags": [
+      "relative speed",
+      "distance calculation",
+      "unit conversion"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 2,
+      "api_cost": 0.003558,
+      "question_number": 9
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_SPEED__DISTANCE_005",
+    "question": "A train 180 meters long is running at 54 km/hr. How much time will it take to cross a 240-meter-long bridge?",
+    "options": {
+      "A": "20 seconds",
+      "B": "24 seconds",
+      "C": "28 seconds",
+      "D": "30 seconds",
+      "E": "32 seconds"
+    },
+    "correct_answer": "B",
+    "explanation": "Speed of train = 54 km/hr = 54 × 1000/3600 = 15 m/s. Total distance to cover = 180 + 240 = 420 meters. Time = Distance / Speed = 420 / 15 = 28 seconds.",
+    "difficulty": "Hard",
+    "topic": "Time, Speed & Distance",
+    "sub_topic": "Train problems (crossing platforms)",
+    "concept_tags": [
+      "train problem",
+      "speed conversion"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 2,
+      "api_cost": 0.003558,
+      "question_number": 10
+    }
+  }
+]

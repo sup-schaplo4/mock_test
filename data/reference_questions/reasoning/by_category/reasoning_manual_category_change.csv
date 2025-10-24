@@ -1,0 +1,200 @@
+question_id,reasoning_topic,topic,main_category
+REASONING_00008,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00014,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00015,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00016,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00017,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00018,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00019,Statement & Course of Action,Statement & Course of Action,Analytical & Critical Reasoning
+REASONING_00020,Inequalities,Inequalities,Verbal & Logical Reasoning
+REASONING_00025,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00026,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00027,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00028,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00029,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00030,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00031,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00033,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00034,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00035,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00036,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00037,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00038,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00043,Strengthening/Weakening Arguments,Strengthen/Weaken,Analytical & Critical Reasoning
+REASONING_00044,Statement & Course of Action,Statement & Course of Action,Analytical & Critical Reasoning
+REASONING_00046,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00047,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00048,Statement & Course of Action,Statement & Course of Action,Analytical & Critical Reasoning
+REASONING_00049,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00050,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00051,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00052,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00053,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00056,Direction Sense,Direction Sense,Verbal & Logical Reasoning
+REASONING_00057,Direction Sense,Direction Sense,Verbal & Logical Reasoning
+REASONING_00058,Strengthening/Weakening Arguments,Strengthen/Weaken,Analytical & Critical Reasoning
+REASONING_00059,Box Based Puzzle,Box Puzzle,Puzzles & Seating Arrangements
+REASONING_00060,Box Based Puzzle,Box Puzzle,Puzzles & Seating Arrangements
+REASONING_00061,Box Based Puzzle,Box Puzzle,Puzzles & Seating Arrangements
+REASONING_00062,Box Based Puzzle,Box Puzzle,Puzzles & Seating Arrangements
+REASONING_00063,Box Based Puzzle,Box Puzzle,Puzzles & Seating Arrangements
+REASONING_00074,Input-Output,Input-Output,Analytical & Critical Reasoning
+REASONING_00075,Input-Output,Input-Output,Analytical & Critical Reasoning
+REASONING_00083,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00088,Direction Sense,Direction Sense,Verbal & Logical Reasoning
+REASONING_00089,Direction Sense,Direction Sense,Verbal & Logical Reasoning
+REASONING_00090,Statement & Assumption,Statement & Assumption,Analytical & Critical Reasoning
+REASONING_00091,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00093,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00095,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00096,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00097,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00098,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00099,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00100,Syllogisms,Syllogisms,Verbal & Logical Reasoning
+REASONING_00101,Syllogisms,Syllogisms,Verbal & Logical Reasoning
+REASONING_00102,Syllogisms,Syllogisms,Verbal & Logical Reasoning
+REASONING_00103,Syllogisms,Syllogisms,Verbal & Logical Reasoning
+REASONING_00105,Blood Relations,Blood Relations,Verbal & Logical Reasoning
+REASONING_00106,Blood Relations,Blood Relations,Verbal & Logical Reasoning
+REASONING_00107,Blood Relations,Blood Relations,Verbal & Logical Reasoning
+REASONING_00108,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00109,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00110,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00111,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00112,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00113,Strengthening/Weakening Arguments,Strengthen/Weaken,Analytical & Critical Reasoning
+REASONING_00114,Statement & Assumption,Statement & Assumption,Analytical & Critical Reasoning
+REASONING_00115,Statement & Course of Action,Statement & Course of Action,Analytical & Critical Reasoning
+REASONING_00117,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00118,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00119,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00120,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00121,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00122,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00123,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00124,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00125,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00126,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00127,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00133,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00134,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00135,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00136,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00137,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00145,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00146,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00147,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00148,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00149,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00150,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00151,Input-Output,Input-Output,Analytical & Critical Reasoning
+REASONING_00158,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00159,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00160,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00161,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00162,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00163,Statement & Assumption,Statement & Assumption,Analytical & Critical Reasoning
+REASONING_00164,Statement & Assumption,Statement & Assumption,Analytical & Critical Reasoning
+REASONING_00166,Statement & Course of Action,Statement & Course of Action,Analytical & Critical Reasoning
+REASONING_00167,Statement & Course of Action,Statement & Course of Action,Analytical & Critical Reasoning
+REASONING_00168,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00169,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00170,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00171,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00172,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00173,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00174,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00176,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00177,Strengthening/Weakening Arguments,Strengthen/Weaken,Analytical & Critical Reasoning
+REASONING_00178,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00179,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00180,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00181,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00182,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00183,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00184,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00185,Blood Relations,Blood Relations,Verbal & Logical Reasoning
+REASONING_00189,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00190,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00191,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00192,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00193,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00194,Statement & Assumption,Statement & Assumption,Analytical & Critical Reasoning
+REASONING_00195,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00196,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00197,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00198,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00199,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00200,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00201,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00202,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00203,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00204,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00205,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00206,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00207,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00208,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00211,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00212,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00213,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00214,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00216,Statement & Course of Action,Statement & Course of Action,Analytical & Critical Reasoning
+REASONING_00217,Statement & Course of Action,Statement & Course of Action,Analytical & Critical Reasoning
+REASONING_00218,Strengthening/Weakening Arguments,Strengthen/Weaken,Analytical & Critical Reasoning
+REASONING_00219,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements
+REASONING_00220,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements
+REASONING_00222,Input-Output,Input-Output,Analytical & Critical Reasoning
+REASONING_00223,Input-Output,Input-Output,Analytical & Critical Reasoning
+REASONING_00224,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00225,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00226,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00227,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00228,Floor Based Puzzle,Floor Puzzle,Puzzles & Seating Arrangements
+REASONING_00230,Coding-Decoding,Coding-Decoding,Verbal & Logical Reasoning
+REASONING_00236,Syllogisms,Syllogisms,Verbal & Logical Reasoning
+REASONING_00237,Syllogisms,Syllogisms,Verbal & Logical Reasoning
+REASONING_00238,Syllogisms,Syllogisms,Verbal & Logical Reasoning
+REASONING_00239,Syllogisms,Syllogisms,Verbal & Logical Reasoning
+REASONING_00241,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00242,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00243,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00244,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00245,Data Sufficiency,Data Sufficiency,Analytical & Critical Reasoning
+REASONING_00246,Statement & Assumption,Statement & Assumption,Analytical & Critical Reasoning
+REASONING_00247,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00248,Statement & Inference,Statement & Inference,Analytical & Critical Reasoning
+REASONING_00250,Input-Output,Input-Output,Analytical & Critical Reasoning
+REASONING_00251,Strengthening/Weakening Arguments,Strengthen/Weaken,Analytical & Critical Reasoning
+REASONING_00253,Strengthening/Weakening Arguments,Strengthen/Weaken,Analytical & Critical Reasoning
+REASONING_00255,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00256,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00257,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00258,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00259,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00260,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00261,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00262,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00263,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00264,Multi-Variable Puzzle,Complex Puzzle,Puzzles & Seating Arrangements
+REASONING_00265,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00266,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00267,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00268,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00269,Scheduling Puzzle,Day/Month Puzzle,Puzzles & Seating Arrangements
+REASONING_00270,Circular Seating Arrangement,Circular Seating,Puzzles & Seating Arrangements
+REASONING_00271,Circular Seating Arrangement,Circular Seating,Puzzles & Seating Arrangements
+REASONING_00272,Circular Seating Arrangement,Circular Seating,Puzzles & Seating Arrangements
+REASONING_00273,Circular Seating Arrangement,Circular Seating,Puzzles & Seating Arrangements
+REASONING_00274,Circular Seating Arrangement,Circular Seating,Puzzles & Seating Arrangements
+REASONING_00275,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00276,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00277,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00278,Linear Seating Arrangement,Linear Seating,Puzzles & Seating Arrangements
+REASONING_00279,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements
+REASONING_00280,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements
+REASONING_00281,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements
+REASONING_00282,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements
+REASONING_00283,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements
+REASONING_00284,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements
+REASONING_00285,Square/Rectangular/Triangular Seating,Special Seating,Puzzles & Seating Arrangements

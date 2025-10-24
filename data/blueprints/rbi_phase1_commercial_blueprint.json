@@ -1,0 +1,158 @@
+{
+    "test_id": "RBI_PHASE1_COMMERCIAL",
+    "test_name": "RBI Grade B Phase 1 - Mock Test",
+    "test_series": "RBI Grade B 2025 - Premium Series",
+    "total_questions": 200,
+    "total_marks": 200,
+    "duration_minutes": 120,
+    "negative_marking": 0.25,
+    "passing_marks": 0,
+    "num_tests": 10,
+    
+    "pricing": {
+      "individual_price": 99,
+      "bundle_price": 499,
+      "bundle_size": 10,
+      "currency": "INR"
+    },
+    
+    "difficulty_distribution": {
+      "Easy": 20,
+      "Medium": 50,
+      "Hard": 30
+    },
+    
+    "sections": [
+      {
+        "section_id": "SECTION_A",
+        "section_name": "General Awareness",
+        "total_questions": 80,
+        "marks_per_question": 1,
+        "negative_marks": 0.25,
+        
+        "difficulty_distribution": {
+          "Easy": 16,
+          "Medium": 40,
+          "Hard": 24
+        },
+        
+        "topic_distribution": {
+          "Current Affairs - National": 12,
+          "Current Affairs - International": 10,
+          "Banking & Financial Awareness": 15,
+          "Economic Affairs": 10,
+          "Government Schemes": 8,
+          "Important Days & Events": 5,
+          "Books & Authors": 3,
+          "Awards & Honors": 5,
+          "Sports": 4,
+          "Science & Technology": 8
+        }
+      },
+      
+      {
+        "section_id": "SECTION_B",
+        "section_name": "English Language",
+        "total_questions": 30,
+        "marks_per_question": 1,
+        "negative_marks": 0.25,
+        
+        "difficulty_distribution": {
+          "Easy": 6,
+          "Medium": 15,
+          "Hard": 9
+        },
+        
+        "topic_distribution": {
+          "Reading Comprehension": 10,
+          "Grammar": 8,
+          "Vocabulary": 6,
+          "Sentence Rearrangement": 3,
+          "Error Spotting": 3
+        }
+      },
+      
+      {
+        "section_id": "SECTION_C",
+        "section_name": "Quantitative Aptitude",
+        "total_questions": 30,
+        "marks_per_question": 1,
+        "negative_marks": 0.25,
+        
+        "subsections": [
+          {
+            "subsection_name": "Arithmetic",
+            "total_questions": 15,
+            
+            "difficulty_distribution": {
+              "Easy": 3,
+              "Medium": 7,
+              "Hard": 5
+            },
+            
+            "topic_distribution": {
+              "Percentage": 2,
+              "Profit & Loss": 2,
+              "Simple & Compound Interest": 2,
+              "Time & Work": 2,
+              "Time Speed & Distance": 2,
+              "Ratio & Proportion": 2,
+              "Averages": 2,
+              "Mixtures & Alligations": 1
+            }
+          },
+          {
+            "subsection_name": "Data Interpretation",
+            "total_questions": 15,
+            "di_sets_required": 3,
+            
+            "difficulty_distribution": {
+              "Easy": 3,
+              "Medium": 8,
+              "Hard": 4
+            },
+            
+            "footprint_preferences": [
+              "1-3-1",
+              "0-3-2",
+              "1-2-2",
+              "2-3-0"
+            ]
+          }
+        ],
+        
+        "difficulty_distribution": {
+          "Easy": 6,
+          "Medium": 15,
+          "Hard": 9
+        }
+      },
+      
+      {
+        "section_id": "SECTION_D",
+        "section_name": "Reasoning",
+        "total_questions": 60,
+        "marks_per_question": 1,
+        "negative_marks": 0.25,
+        
+        "difficulty_distribution": {
+          "Easy": 12,
+          "Medium": 30,
+          "Hard": 18
+        },
+        
+        "topic_distribution": {
+          "Puzzles & Seating Arrangement": 15,
+          "Syllogism": 8,
+          "Blood Relations": 5,
+          "Direction Sense": 4,
+          "Coding-Decoding": 6,
+          "Inequalities": 5,
+          "Input-Output": 5,
+          "Data Sufficiency": 5,
+          "Logical Reasoning": 7
+        }
+      }
+    ]
+  }
+  

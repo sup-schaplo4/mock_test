@@ -1,0 +1,130 @@
+{
+  "series_name": "RBI Grade B 2025 - Premium Series",
+  "total_tests_generated": 10,
+  "generated_at": "2025-10-10T04:54:38.303680",
+  "configuration": {
+    "overlap_percentage": 20,
+    "difficulty_distribution": {
+      "Easy": 20,
+      "Medium": 50,
+      "Hard": 30
+    },
+    "questions_per_test": 200,
+    "duration_minutes": 120
+  },
+  "pricing": {
+    "individual_price": 99,
+    "bundle_price": 499,
+    "bundle_size": 10,
+    "currency": "INR"
+  },
+  "tests": [
+    {
+      "test_number": 1,
+      "test_id": "RBI_PHASE1_MOCK_01",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #1",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_01.json",
+      "total_questions": 200,
+      "overlap_percentage": 0.0,
+      "unique_questions": 200
+    },
+    {
+      "test_number": 2,
+      "test_id": "RBI_PHASE1_MOCK_02",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #2",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_02.json",
+      "total_questions": 200,
+      "overlap_percentage": 0.0,
+      "unique_questions": 140
+    },
+    {
+      "test_number": 3,
+      "test_id": "RBI_PHASE1_MOCK_03",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #3",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_03.json",
+      "total_questions": 200,
+      "overlap_percentage": 0.0,
+      "unique_questions": 140
+    },
+    {
+      "test_number": 4,
+      "test_id": "RBI_PHASE1_MOCK_04",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #4",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_04.json",
+      "total_questions": 200,
+      "overlap_percentage": 0.0,
+      "unique_questions": 140
+    },
+    {
+      "test_number": 5,
+      "test_id": "RBI_PHASE1_MOCK_05",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #5",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_05.json",
+      "total_questions": 200,
+      "overlap_percentage": 0.0,
+      "unique_questions": 140
+    },
+    {
+      "test_number": 6,
+      "test_id": "RBI_PHASE1_MOCK_06",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #6",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_06.json",
+      "total_questions": 200,
+      "overlap_percentage": 0.0,
+      "unique_questions": 140
+    },
+    {
+      "test_number": 7,
+      "test_id": "RBI_PHASE1_MOCK_07",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #7",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_07.json",
+      "total_questions": 200,
+      "overlap_percentage": 0.0,
+      "unique_questions": 140
+    },
+    {
+      "test_number": 8,
+      "test_id": "RBI_PHASE1_MOCK_08",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #8",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_08.json",
+      "total_questions": 200,
+      "overlap_percentage": 0.0,
+      "unique_questions": 140
+    },
+    {
+      "test_number": 9,
+      "test_id": "RBI_PHASE1_MOCK_09",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #9",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_09.json",
+      "total_questions": 200,
+      "overlap_percentage": 20.714285714285715,
+      "unique_questions": 111
+    },
+    {
+      "test_number": 10,
+      "test_id": "RBI_PHASE1_MOCK_10",
+      "test_name": "RBI Grade B Phase 1 - Mock Test #10",
+      "file": "generated_tests/commercial_series/rbi_phase1_mock_10.json",
+      "total_questions": 200,
+      "overlap_percentage": 38.57142857142858,
+      "unique_questions": 86
+    }
+  ],
+  "statistics": {
+    "total_tests": 10,
+    "average_overlap": 6.59,
+    "total_unique_questions_used": 1317,
+    "questions_per_test": 200,
+    "questions_by_subject": {
+      "english": 1,
+      "general_awareness": 776,
+      "reasoning": 541,
+      "arithmetic": 110,
+      "di": 25
+    },
+    "overlap_range": {
+      "min": 0.0,
+      "max": 38.57
+    }
+  }
+}

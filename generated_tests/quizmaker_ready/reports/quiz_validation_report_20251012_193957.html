@@ -1,0 +1,885 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Validation Report - 2025-10-12 19:39:57</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        
+        .summary {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 40px;
+            background: #f8f9fa;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .stat-number {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .stat-card.success .stat-number { color: #28a745; }
+        .stat-card.error .stat-number { color: #dc3545; }
+        .stat-card.warning .stat-number { color: #ffc107; }
+        .stat-card.info .stat-number { color: #17a2b8; }
+        .stat-card.primary .stat-number { color: #667eea; }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .file-section {
+            margin-bottom: 40px;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        .file-header {
+            background: #f8f9fa;
+            padding: 20px;
+            border-bottom: 2px solid #dee2e6;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .file-header h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        
+        .status-badge {
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 14px;
+            text-transform: uppercase;
+        }
+        
+        .status-badge.passed {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .status-badge.failed {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .file-body {
+            padding: 20px;
+        }
+        
+        .issue-section {
+            margin-bottom: 30px;
+        }
+        
+        .issue-section h3 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #dee2e6;
+            color: #495057;
+        }
+        
+        .issue-list {
+            list-style: none;
+        }
+        
+        .issue-item {
+            padding: 12px;
+            margin-bottom: 8px;
+            border-radius: 6px;
+            border-left: 4px solid;
+            background: #f8f9fa;
+        }
+        
+        .issue-item.error {
+            border-left-color: #dc3545;
+            background: #fff5f5;
+        }
+        
+        .issue-item.warning {
+            border-left-color: #ffc107;
+            background: #fffbf0;
+        }
+        
+        .issue-item.ai-error {
+            border-left-color: #e83e8c;
+            background: #fff0f6;
+        }
+        
+        .issue-item.ai-warning {
+            border-left-color: #17a2b8;
+            background: #f0f9ff;
+        }
+        
+        .category-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .category-item {
+            background: white;
+            padding: 15px;
+            border-radius: 6px;
+            border: 1px solid #dee2e6;
+        }
+        
+        .category-name {
+            font-weight: bold;
+            color: #495057;
+            margin-bottom: 5px;
+        }
+        
+        .category-count {
+            color: #6c757d;
+            font-size: 14px;
+        }
+        
+        .ai-issue {
+            margin-bottom: 15px;
+            padding: 15px;
+            border-radius: 6px;
+            background: white;
+            border: 1px solid #dee2e6;
+        }
+        
+        .ai-issue-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        
+        .ai-issue-type {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            background: #e9ecef;
+            color: #495057;
+        }
+        
+        .ai-issue-description {
+            margin-bottom: 10px;
+            color: #495057;
+        }
+        
+        .ai-issue-suggestion {
+            padding: 10px;
+            background: #e7f3ff;
+            border-left: 3px solid #17a2b8;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        
+        .no-issues {
+            text-align: center;
+            padding: 40px;
+            color: #28a745;
+            font-size: 18px;
+        }
+        
+        .footer {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #6c757d;
+            font-size: 14px;
+        }
+        
+        @media print {
+            body {
+                background: white;
+            }
+            .stat-card:hover {
+                transform: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 Quiz Validation Report</h1>
+            <p>Generated on October 12, 2025 at 19:39:57</p>
+        </div>
+        
+        <div class="summary">
+            <div class="stat-card primary">
+                <div class="stat-number">7</div>
+                <div class="stat-label">Total Files</div>
+            </div>
+            <div class="stat-card success">
+                <div class="stat-number">7</div>
+                <div class="stat-label">Files Passed</div>
+            </div>
+            <div class="stat-card error">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Critical Errors</div>
+            </div>
+            <div class="stat-card warning">
+                <div class="stat-number">13</div>
+                <div class="stat-label">Warnings</div>
+            </div>
+            <div class="stat-card info">
+                <div class="stat-number">4</div>
+                <div class="stat-label">AI Issues</div>
+            </div>
+        </div>
+        
+        <div class="content">
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_01.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">263.6 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="no-issues">
+                        ✅ No issues found! This file is perfect.
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_02.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">276.0 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>⚠️ Warnings</h3>
+                        <ul class="issue-list">
+
+                            <li class="issue-item warning">⚠️ Q136 (ID:136) Option A: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q136 (ID:136) Option C: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q136 (ID:136) Option D: Duplicate answer text found</li>
+
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_03.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">282.6 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="no-issues">
+                        ✅ No issues found! This file is perfect.
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_04.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">277.0 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="no-issues">
+                        ✅ No issues found! This file is perfect.
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_05.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">275.9 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>⚠️ Warnings</h3>
+                        <ul class="issue-list">
+
+                            <li class="issue-item warning">⚠️ Q132 (ID:132) Option A: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q132 (ID:132) Option C: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q133 (ID:133) Option A: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q133 (ID:133) Option C: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q133 (ID:133) Option D: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q133 (ID:133) Option E: Duplicate answer text found</li>
+
+                        </ul>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>🤖 AI-Detected Issues</h3>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #26 (ID: 26)</span>
+                                <span class="ai-issue-type">duplicate</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> Question is very similar to question 41, both regarding SEBI's T+0 settlement cycle for top 500 stocks.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider merging or differentiating the questions to avoid redundancy.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #27 (ID: 27)</span>
+                                <span class="ai-issue-type">duplicate</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> Question is very similar to question 31, both regarding CPI headline inflation in June 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider merging or differentiating the questions to avoid redundancy.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #31 (ID: 31)</span>
+                                <span class="ai-issue-type">duplicate</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> Question is very similar to question 27, both regarding CPI headline inflation in June 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider merging or differentiating the questions to avoid redundancy.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #41 (ID: 41)</span>
+                                <span class="ai-issue-type">duplicate</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> Question is very similar to question 26, both regarding SEBI's T+0 settlement cycle for top 500 stocks.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider merging or differentiating the questions to avoid redundancy.
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_06.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">282.7 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>⚠️ Warnings</h3>
+                        <ul class="issue-list">
+
+                            <li class="issue-item warning">⚠️ Q117 (ID:117) Option B: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q117 (ID:117) Option E: Duplicate answer text found</li>
+
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_07.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">264.7 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>⚠️ Warnings</h3>
+                        <ul class="issue-list">
+
+                            <li class="issue-item warning">⚠️ Q150 (ID:150) Option A: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q150 (ID:150) Option B: Duplicate answer text found</li>
+
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+        
+        <div class="footer">
+            <p>RBI Quiz Validation System v2.0 | Powered by GPT-4o</p>
+            <p>Report generated: 2025-10-12 19:39:57</p>
+        </div>
+    </div>
+</body>
+</html>

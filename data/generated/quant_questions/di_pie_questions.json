@@ -1,0 +1,607 @@
+[
+  {
+    "di_set_id": "DI_PIE_CHART_001",
+    "topic": "Pie Chart - Sales & Revenue Analysis of Electronic Goods in 2023",
+    "difficulty": "Easy",
+    "data_source": {
+      "type": "pie_chart",
+      "title": "Market Share of Electronic Brands in 2023",
+      "data": {
+        "segments": [
+          {
+            "label": "Brand X",
+            "percentage": 30,
+            "value": 600
+          },
+          {
+            "label": "Brand Y",
+            "percentage": 25,
+            "value": 500
+          },
+          {
+            "label": "Brand Z",
+            "percentage": 20,
+            "value": 400
+          },
+          {
+            "label": "Brand W",
+            "percentage": 15,
+            "value": 300
+          },
+          {
+            "label": "Others",
+            "percentage": 10,
+            "value": 200
+          }
+        ]
+      },
+      "total": 2000,
+      "units": "Units Sold (in thousands)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_PIE_001_Q1",
+        "question": "What is the total number of units sold by Brand Y?",
+        "options": {
+          "A": "500,000",
+          "B": "600,000",
+          "C": "400,000",
+          "D": "300,000",
+          "E": "200,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Brand Y has a 25% share of total sales. Total units = 2000,000. So, 25% of 2000,000 = 500,000 units.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_PIE_001_Q2",
+        "question": "Which brand has the second highest market share?",
+        "options": {
+          "A": "Brand Z",
+          "B": "Brand W",
+          "C": "Brand X",
+          "D": "Brand Y",
+          "E": "Others"
+        },
+        "correct_answer": "D",
+        "explanation": "Brand Y has the second highest market share at 25%, just after Brand X, which has 30%.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_PIE_001_Q3",
+        "question": "What is the difference in the number of units sold between Brand X and Brand Z?",
+        "options": {
+          "A": "200,000",
+          "B": "300,000",
+          "C": "100,000",
+          "D": "400,000",
+          "E": "500,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Brand X sold 600,000 units and Brand Z sold 400,000 units. The difference is 600,000 - 400,000 = 200,000 units.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_PIE_001_Q4",
+        "question": "What percentage of total sales is contributed by Brand W?",
+        "options": {
+          "A": "20%",
+          "B": "15%",
+          "C": "10%",
+          "D": "25%",
+          "E": "5%"
+        },
+        "correct_answer": "B",
+        "explanation": "Brand W contributes 15% to the total sales as indicated in the pie chart.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_PIE_001_Q5",
+        "question": "If the total sales increase by 10% next year, how many units would Brand X sell, assuming its market share remains the same?",
+        "options": {
+          "A": "660,000",
+          "B": "600,000",
+          "C": "720,000",
+          "D": "700,000",
+          "E": "680,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Next year's total units = 2000,000 * 110% = 2200,000. Brand X's share = 30% of 2200,000 = 660,000 units.",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:54:29.709585",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0117075,
+      "tokens_used": 1950
+    }
+  },
+  {
+    "di_set_id": "DI_PIE_CHART_002",
+    "topic": "Pie Chart - Bank Loan Distribution 2023",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "pie_chart",
+      "title": "Distribution of Bank Loans by Sector in 2023",
+      "data": {
+        "segments": [
+          {
+            "label": "Agriculture",
+            "percentage": 25,
+            "value": 5000
+          },
+          {
+            "label": "Manufacturing",
+            "percentage": 30,
+            "value": 6000
+          },
+          {
+            "label": "Services",
+            "percentage": 20,
+            "value": 4000
+          },
+          {
+            "label": "Retail",
+            "percentage": 15,
+            "value": 3000
+          },
+          {
+            "label": "Others",
+            "percentage": 10,
+            "value": 2000
+          }
+        ]
+      },
+      "total": 20000,
+      "units": "Loans Distributed (in millions)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_PIE_002_Q1",
+        "question": "What is the amount of loans given to the Agriculture sector?",
+        "options": {
+          "A": "5,000 million",
+          "B": "6,000 million",
+          "C": "4,000 million",
+          "D": "3,000 million",
+          "E": "2,000 million"
+        },
+        "correct_answer": "A",
+        "explanation": "The Agriculture sector received 25% of the total loans. Total loans are 20,000 million, so 25% of 20,000 million is 5,000 million.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_PIE_002_Q2",
+        "question": "What is the percentage of loans given to the Services sector compared to the Manufacturing sector?",
+        "options": {
+          "A": "66.67%",
+          "B": "50%",
+          "C": "75%",
+          "D": "80%",
+          "E": "70%"
+        },
+        "correct_answer": "A",
+        "explanation": "Loans to Services are 4,000 million and to Manufacturing are 6,000 million. The percentage is (4,000 / 6,000) x 100% = 66.67%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_002_Q3",
+        "question": "If the total loans increase by 10% next year, what will be the new amount for the Retail sector assuming its percentage share remains the same?",
+        "options": {
+          "A": "3,300 million",
+          "B": "3,500 million",
+          "C": "3,450 million",
+          "D": "3,600 million",
+          "E": "3,200 million"
+        },
+        "correct_answer": "A",
+        "explanation": "New total loans = 20,000 million + 10% of 20,000 million = 22,000 million. Retail sector receives 15% of 22,000 million = 3,300 million.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_002_Q4",
+        "question": "Which sector received the least amount of loans, and by how much is it less than the Agriculture sector?",
+        "options": {
+          "A": "Others, 3,000 million",
+          "B": "Retail, 2,000 million",
+          "C": "Others, 5,000 million",
+          "D": "Retail, 3,000 million",
+          "E": "Others, 2,000 million"
+        },
+        "correct_answer": "A",
+        "explanation": "The Others sector received 2,000 million, which is the least. Agriculture received 5,000 million, so the difference is 5,000 - 2,000 = 3,000 million.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_002_Q5",
+        "question": "If the percentage of loans to Manufacturing increases by 5% next year while total loans remain the same, what will be the new amount allocated to Manufacturing?",
+        "options": {
+          "A": "7,000 million",
+          "B": "6,500 million",
+          "C": "6,300 million",
+          "D": "7,500 million",
+          "E": "7,200 million"
+        },
+        "correct_answer": "A",
+        "explanation": "New percentage for Manufacturing = 30% + 5% = 35%. The new amount = 35% of 20,000 million = 7,000 million.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:54:39.448672",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0129625,
+      "tokens_used": 2083
+    }
+  },
+  {
+    "di_set_id": "DI_PIE_CHART_003",
+    "topic": "Pie Chart - Population & Demographics in Metro City",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "pie_chart",
+      "title": "Population Distribution by Age Group in Metro City (in thousands)",
+      "data": {
+        "segments": [
+          {
+            "label": "Children (0-14)",
+            "percentage": 20,
+            "value": 200
+          },
+          {
+            "label": "Youth (15-24)",
+            "percentage": 18,
+            "value": 180
+          },
+          {
+            "label": "Adults (25-54)",
+            "percentage": 40,
+            "value": 400
+          },
+          {
+            "label": "Seniors (55-64)",
+            "percentage": 12,
+            "value": 120
+          },
+          {
+            "label": "Elderly (65+)",
+            "percentage": 10,
+            "value": 100
+          }
+        ]
+      },
+      "total": 1000,
+      "units": "Population (in thousands)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_PIE_003_Q1",
+        "question": "What is the exact population of Youth in Metro City?",
+        "options": {
+          "A": "180,000",
+          "B": "200,000",
+          "C": "150,000",
+          "D": "120,000",
+          "E": "220,000"
+        },
+        "correct_answer": "A",
+        "explanation": "The Youth segment represents 18% of the total population. Calculation: 18% of 1,000,000 = 180,000.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_PIE_003_Q2",
+        "question": "What is the ratio of Adults to Children?",
+        "options": {
+          "A": "2:1",
+          "B": "3:1",
+          "C": "4:1",
+          "D": "5:1",
+          "E": "1:1"
+        },
+        "correct_answer": "C",
+        "explanation": "Adults population is 400,000 and Children population is 200,000. Ratio = 400,000:200,000 = 4:1.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_003_Q3",
+        "question": "What percentage of the total population is either Seniors or Elderly?",
+        "options": {
+          "A": "25%",
+          "B": "20%",
+          "C": "22%",
+          "D": "18%",
+          "E": "15%"
+        },
+        "correct_answer": "C",
+        "explanation": "Seniors (12%) + Elderly (10%) = 22%. Thus, 22% of the population is either Seniors or Elderly.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_003_Q4",
+        "question": "By how much does the Adult population exceed the combined population of Seniors and Elderly?",
+        "options": {
+          "A": "180,000",
+          "B": "200,000",
+          "C": "220,000",
+          "D": "150,000",
+          "E": "100,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Adults: 400,000. Seniors + Elderly: 220,000. Difference = 400,000 - 220,000 = 180,000.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_003_Q5",
+        "question": "If the total population increases by 10%, what will be the new population of the Elderly?",
+        "options": {
+          "A": "110,000",
+          "B": "120,000",
+          "C": "130,000",
+          "D": "100,000",
+          "E": "115,000"
+        },
+        "correct_answer": "A",
+        "explanation": "New total population = 1,000,000 + 10% of 1,000,000 = 1,100,000. Elderly: 10% of 1,100,000 = 110,000.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:54:46.922232",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012055,
+      "tokens_used": 1993
+    }
+  },
+  {
+    "di_set_id": "DI_PIE_CHART_004",
+    "topic": "Pie Chart - Production & Manufacturing Market Share",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "pie_chart",
+      "title": "Market Share of Automobile Manufacturers in 2023",
+      "data": {
+        "segments": [
+          {
+            "label": "Manufacturer A",
+            "percentage": 30,
+            "value": 4500
+          },
+          {
+            "label": "Manufacturer B",
+            "percentage": 25,
+            "value": 3750
+          },
+          {
+            "label": "Manufacturer C",
+            "percentage": 20,
+            "value": 3000
+          },
+          {
+            "label": "Manufacturer D",
+            "percentage": 15,
+            "value": 2250
+          },
+          {
+            "label": "Manufacturer E",
+            "percentage": 10,
+            "value": 1500
+          }
+        ]
+      },
+      "total": 15000,
+      "units": "Units Produced (in thousands)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_PIE_004_Q1",
+        "question": "What is the absolute difference in units produced between Manufacturer A and Manufacturer C?",
+        "options": {
+          "A": "1500",
+          "B": "2000",
+          "C": "2500",
+          "D": "3000",
+          "E": "1000"
+        },
+        "correct_answer": "A",
+        "explanation": "Manufacturer A produced 4500 units, while Manufacturer C produced 3000 units. The absolute difference is 4500 - 3000 = 1500 units.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_PIE_004_Q2",
+        "question": "What percentage of the total production is accounted for by Manufacturer B and Manufacturer D together?",
+        "options": {
+          "A": "35%",
+          "B": "40%",
+          "C": "45%",
+          "D": "50%",
+          "E": "55%"
+        },
+        "correct_answer": "B",
+        "explanation": "Manufacturer B accounts for 25% and Manufacturer D for 15%. Together, they account for 25% + 15% = 40% of the total production.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_004_Q3",
+        "question": "If Manufacturer E increases its production by 20% next year while others remain constant, what will be its new market share percentage?",
+        "options": {
+          "A": "11.76%",
+          "B": "11.0%",
+          "C": "10.5%",
+          "D": "13.0%",
+          "E": "14.0%"
+        },
+        "correct_answer": "A",
+        "explanation": "Manufacturer E's current production is 1500. A 20% increase makes it 1500 * 1.2 = 1800. Total production becomes 15000 + 300 = 15300. New market share = (1800/15300) * 100 = 11.76%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_PIE_004_Q4",
+        "question": "Assuming a linear growth, what is the compound annual growth rate (CAGR) if Manufacturer C's production grows to 3900 units over two years?",
+        "options": {
+          "A": "10.0%",
+          "B": "12.5%",
+          "C": "15.0%",
+          "D": "20.0%",
+          "E": "17.5%"
+        },
+        "correct_answer": "C",
+        "explanation": "Initial production: 3000 units, Final production: 3900 units, Time: 2 years. CAGR = [(3900/3000)^(1/2) - 1] * 100 = [1.3^(0.5) - 1] * 100 = 15.0%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_PIE_004_Q5",
+        "question": "What is the ratio of units produced by Manufacturer A to the combined units of Manufacturer B and Manufacturer E?",
+        "options": {
+          "A": "3:2",
+          "B": "6:5",
+          "C": "9:5",
+          "D": "5:3",
+          "E": "7:4"
+        },
+        "correct_answer": "B",
+        "explanation": "Manufacturer A produced 4500 units. Manufacturer B and E combined produced 3750 + 1500 = 5250 units. The ratio is 4500:5250, which simplifies to 6:5.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:54:57.122869",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.013069999999999998,
+      "tokens_used": 2108
+    }
+  },
+  {
+    "di_set_id": "DI_PIE_CHART_005",
+    "topic": "Pie Chart - Import & Export Analysis of Country X in 2023",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "pie_chart",
+      "title": "Import & Export Distribution of Country X in 2023",
+      "data": {
+        "segments": [
+          {
+            "label": "Agricultural Products",
+            "percentage": 20,
+            "value": 400
+          },
+          {
+            "label": "Machinery",
+            "percentage": 25,
+            "value": 500
+          },
+          {
+            "label": "Minerals",
+            "percentage": 15,
+            "value": 300
+          },
+          {
+            "label": "Textiles",
+            "percentage": 10,
+            "value": 200
+          },
+          {
+            "label": "Chemicals",
+            "percentage": 30,
+            "value": 600
+          }
+        ]
+      },
+      "total": 2000,
+      "units": "Million USD"
+    },
+    "questions": [
+      {
+        "question_id": "DI_PIE_005_Q1",
+        "question": "What is the absolute difference in value between the Machinery and Minerals segments?",
+        "options": {
+          "A": "200 Million USD",
+          "B": "100 Million USD",
+          "C": "150 Million USD",
+          "D": "250 Million USD",
+          "E": "300 Million USD"
+        },
+        "correct_answer": "A",
+        "explanation": "Machinery value = 500 Million USD, Minerals value = 300 Million USD. Difference = 500 - 300 = 200 Million USD.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_005_Q2",
+        "question": "What percentage of the total imports and exports is represented by the Chemicals and Textiles segments combined?",
+        "options": {
+          "A": "35%",
+          "B": "40%",
+          "C": "45%",
+          "D": "50%",
+          "E": "55%"
+        },
+        "correct_answer": "B",
+        "explanation": "Chemicals percentage = 30%, Textiles percentage = 10%. Combined = 30% + 10% = 40%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_005_Q3",
+        "question": "If the value of Agricultural Products increases by 10% next year, what will be the new value?",
+        "options": {
+          "A": "420 Million USD",
+          "B": "440 Million USD",
+          "C": "460 Million USD",
+          "D": "480 Million USD",
+          "E": "500 Million USD"
+        },
+        "correct_answer": "B",
+        "explanation": "Original value of Agricultural Products = 400 Million USD. Increase = 10% of 400 = 40 Million USD. New value = 400 + 40 = 440 Million USD.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_PIE_005_Q4",
+        "question": "What is the ratio of the value of Machinery to Chemicals?",
+        "options": {
+          "A": "5:6",
+          "B": "1:2",
+          "C": "3:4",
+          "D": "1:1",
+          "E": "2:3"
+        },
+        "correct_answer": "A",
+        "explanation": "Value of Machinery = 500 Million USD, Value of Chemicals = 600 Million USD. Ratio = 500:600 = 5:6.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_PIE_005_Q5",
+        "question": "If the total imports and exports grow by 10% next year, but the percentage distribution remains the same, what will be the new value of the Minerals segment?",
+        "options": {
+          "A": "310 Million USD",
+          "B": "320 Million USD",
+          "C": "330 Million USD",
+          "D": "340 Million USD",
+          "E": "350 Million USD"
+        },
+        "correct_answer": "C",
+        "explanation": "Total grows by 10%, so new total = 2000 * 1.10 = 2200 Million USD. Minerals percentage = 15%, so new value = 15% of 2200 = 330 Million USD.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:55:05.059921",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012239999999999997,
+      "tokens_used": 2025
+    }
+  }
+]

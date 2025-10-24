@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "coding_decoding_001",
+    "question": "In a certain code language, 'DOG' is written as 'EHF'. How is 'CAT' written in that code?",
+    "options": {
+      "A": "DBU",
+      "B": "EBV",
+      "C": "DAU",
+      "D": "FAU",
+      "E": "EBT"
+    },
+    "correct_answer": "A",
+    "explanation": "The coding rule involves shifting each letter one position forward in the alphabet. D becomes E, O becomes H, and G becomes F. Applying the same rule to 'CAT': C becomes D, A becomes B, and T becomes U. Hence, 'CAT' is written as 'DBU'.",
+    "difficulty": "Easy",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_002",
+    "question": "In a code language, 'BIRD' is written as 'CJTF', and 'FISH' is written as 'GJTI'. How is 'DUCK' coded?",
+    "options": {
+      "A": "EVFL",
+      "B": "EVFM",
+      "C": "EVEL",
+      "D": "EWFN",
+      "E": "FWFL"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern involves shifting each vowel in the word by +1 and each consonant by +2. 'BIRD': B (2+2=4=D), I (9+1=10=J), R (18+2=20=T), D (4+2=6=F). Apply the same rule to 'DUCK': D (4+2=6=E), U (21+1=22=V), C (3+2=5=F), K (11+2=13=L). Thus, 'DUCK' is coded as 'EVFL'.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_003",
+    "question": "If 'GARDEN' is coded as 'IBSEQO' and 'FLOWER' is coded as 'HNUYGT', how will 'PLANTS' be coded?",
+    "options": {
+      "A": "RNCPVU",
+      "B": "RNCPWT",
+      "C": "RNCPXT",
+      "D": "RNCQVU",
+      "E": "RNCPVY"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern involves shifting the odd-positioned letters by +2 and even-positioned letters by +4. 'GARDEN': G(+2)=I, A(+4)=E, R(+2)=T, D(+4)=H, E(+2)=G, N(+4)=R. Applying the pattern to 'PLANTS': P(+2)=R, L(+4)=N, A(+2)=C, N(+4)=Q, T(+2)=V, S(+4)=U, resulting in 'RNCPVU'.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_004",
+    "question": "In a code language, 'TIGER' is encoded as 'VGJKT' and 'LION' is encoded as 'NJMR'. How would you encode 'BEAR'?",
+    "options": {
+      "A": "DGCT",
+      "B": "DFCT",
+      "C": "DFCV",
+      "D": "DGCV",
+      "E": "DFCU"
+    },
+    "correct_answer": "B",
+    "explanation": "The pattern involves shifting the first letter by +2, the second by +1, the third by +3, the fourth by -1, and the fifth by +1. 'TIGER': T(+2)=V, I(+1)=J, G(+3)=J, E(-1)=D, R(+1)=S. 'BEAR': B(+2)=D, E(+1)=F, A(+3)=D, R(-1)=Q. Therefore, 'BEAR' is coded as 'DFCT'.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_005",
+    "question": "If 'COMPUTER' is coded as 'DNQVRVGT', and 'PRINTER' is coded as 'QSJOUFS', then what does 'KEYBOARD' become?",
+    "options": {
+      "A": "LFXCSBSE",
+      "B": "LFZCSDRD",
+      "C": "LFZCSDRE",
+      "D": "LFXCTERE",
+      "E": "LGYCSBSE"
+    },
+    "correct_answer": "C",
+    "explanation": "The coding pattern involves shifting each letter forward by one in the alphabet. 'COMPUTER': C(+1)=D, O(+1)=P, M(+1)=N, etc. 'PRINTER': P(+1)=Q, R(+1)=S, etc. Applying this pattern to 'KEYBOARD': K(+1)=L, E(+1)=F, Y(+1)=Z, B(+1)=C, O(+1)=P, A(+1)=B, R(+1)=S, D(+1)=E. Therefore, 'KEYBOARD' is coded as 'LFZCSDRE'.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_006",
+    "question": "In a certain code, 'CAT' is written as 'DBU'. How is 'DOG' written in that code?",
+    "options": {
+      "A": "EPH",
+      "B": "DPH",
+      "C": "EOH",
+      "D": "ENH",
+      "E": "DNH"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern is to replace each letter with the next letter in the alphabet. C becomes D, A becomes B, and T becomes U. Hence, for DOG: D -> E, O -> P, G -> H. Therefore, DOG becomes EPH.",
+    "difficulty": "Easy",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_007",
+    "question": "In a certain code, 'HELLO' is coded as 'JGNNQ' and 'WORLD' is coded as 'YQTNF'. How is 'LOGIC' coded in that code?",
+    "options": {
+      "A": "NQIKF",
+      "B": "NRJKE",
+      "C": "NQJKE",
+      "D": "MPJKE",
+      "E": "NQJIF"
+    },
+    "correct_answer": "B",
+    "explanation": "The pattern involves shifting each letter by +2 in the alphabet. H -> J, E -> G, L -> N, etc. Applying the same logic to LOGIC: L -> N, O -> Q, G -> I, I -> K, C -> E. Thus, LOGIC becomes NRJKE.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_008",
+    "question": "If 'SKILL' is coded as 'TMJMN' and 'LOGIC' is coded as 'MPHJG', how is 'RULE' coded in that language?",
+    "options": {
+      "A": "SVNF",
+      "B": "TVMF",
+      "C": "SVNG",
+      "D": "SVJF",
+      "E": "TVNG"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern involves shifting consonants by +1 and vowels by -1. For SKILL: S(+1)=T, K(+1)=L, I(-1)=H, L(+1)=M. Similarly, for RULE: R(+1)=S, U(-1)=T, L(+1)=M, E(-1)=D. Thus, RULE becomes SVNF.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_009",
+    "question": "In a certain code, 'MARKET' is written as 'NZXLZG' and 'GOOGLE' is written as 'HPHPMG'. How is 'INDIGO' coded in that code?",
+    "options": {
+      "A": "JOEJHP",
+      "B": "JOEJHP",
+      "C": "JPDIHP",
+      "D": "JPEJHQ",
+      "E": "KPEJHP"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern involves alternating +1 and -1 shifts: M+1=N, A-1=Z, R+1=S, K-1=J, E+1=F, T-1=S for MARKET. Applying the same to INDIGO: I+1=J, N-1=M, D+1=E, I-1=H, G+1=H, O-1=N. Thus, INDIGO becomes JOEJHP.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_010",
+    "question": "In a certain code, 'PROGRAMMING' is written as 'SQSHQAVODNR' and 'SOFTWARE' is written as 'TQFUXFSD'. How is 'DEVELOPER' coded in that language?",
+    "options": {
+      "A": "EFAWKPFSF",
+      "B": "EGAWMPFSF",
+      "C": "EFAXKOGSF",
+      "D": "EFBXKPFSF",
+      "E": "EFAWMPFSF"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern is to shift odd-positioned letters by +1 and even-positioned letters by -1. For 'PROGRAMMING': P(+1)=Q, R(-1)=Q, O(+1)=P, G(-1)=F, etc. For 'DEVELOPER': D(+1)=E, E(-1)=D, V(+1)=W, E(-1)=D, L(+1)=M, O(-1)=N, P(+1)=Q, E(-1)=D, R(+1)=S. Thus, DEVELOPER becomes EFAWKPFSF.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_011",
+    "question": "In a certain code language, 'CAT' is written as 'DBU', and 'DOG' is written as 'EPH'. How is 'FOX' written in that code?",
+    "options": {
+      "A": "GPY",
+      "B": "EQZ",
+      "C": "HPW",
+      "D": "FPY",
+      "E": "GPZ"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern involves shifting each letter in the word forward by 1 position in the alphabet. For 'CAT' to 'DBU': C+1=D, A+1=B, T+1=U. Similarly, for 'DOG' to 'EPH': D+1=E, O+1=P, G+1=H. Thus, 'FOX' will be: F+1=G, O+1=P, X+1=Y, resulting in 'GPY'.",
+    "difficulty": "Easy",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_012",
+    "question": "In a certain code, 'BRIGHT' is written as 'CSJHIU' and 'CLEVER' is written as 'DMFWFS'. How will 'SMART' be written in that code?",
+    "options": {
+      "A": "TNBUS",
+      "B": "TNBVS",
+      "C": "TNBVT",
+      "D": "TOBUS",
+      "E": "UNBVS"
+    },
+    "correct_answer": "B",
+    "explanation": "The pattern involves shifting each letter forward by 1 in the alphabet. For 'BRIGHT' to 'CSJHIU': B+1=C, R+1=S, I+1=J, G+1=H, H+1=I, T+1=U. For 'CLEVER' to 'DMFWFS': C+1=D, L+1=M, E+1=F, V+1=W, E+1=F, R+1=S. Therefore, 'SMART' becomes S+1=T, M+1=N, A+1=B, R+1=S, T+1=U resulting in 'TNBVS'.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_013",
+    "question": "In a code language, 'BLANKET' is coded as 'CMBOUFS', and 'PILLOW' is coded as 'QJMMOX'. How will 'QUILTS' be coded in that code?",
+    "options": {
+      "A": "RVMJUT",
+      "B": "RVJMTU",
+      "C": "RVJKUT",
+      "D": "RVJMTT",
+      "E": "RVKLUT"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern here is shifting each letter forward by 1 position: 'BLANKET' to 'CMBOUFS': B+1=C, L+1=M, A+1=B, N+1=O, K+1=U, E+1=F, T+1=S. Similarly, 'PILLOW' to 'QJMMOX': P+1=Q, I+1=J, L+1=M, L+1=M, O+1=P, W+1=X. Therefore, 'QUILTS' will be Q+1=R, U+1=V, I+1=J, L+1=M, T+1=U, S+1=T, resulting in 'RVMJUT'.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_014",
+    "question": "In a certain code language, 'EXAMPLE' is written as 'FYBNQMF' and 'RANDOM' is written as 'SBOEPN'. How is 'PROCESS' written in that code?",
+    "options": {
+      "A": "QSPDFTT",
+      "B": "QSPDFTU",
+      "C": "QSPCEST",
+      "D": "QSPCFST",
+      "E": "QSPDFTS"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern is shifting each letter forward by 1 position in the alphabet: 'EXAMPLE' to 'FYBNQMF': E+1=F, X+1=Y, A+1=B, M+1=N, P+1=Q, L+1=M, E+1=F. 'RANDOM' to 'SBOEPN': R+1=S, A+1=B, N+1=O, D+1=E, O+1=P, M+1=N. Thus 'PROCESS' becomes: P+1=Q, R+1=S, O+1=P, C+1=D, E+1=F, S+1=T, S+1=T, giving us 'QSPDFTT'.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_015",
+    "question": "In a certain code language, 'BUTTERFLY' is written as 'CVUUFSFMAZ' and 'BEAUTIFUL' is written as 'CFBVUJGMVM'. How is 'GRACEFUL' written in that code?",
+    "options": {
+      "A": "HSDDFGVM",
+      "B": "HSBDFGVM",
+      "C": "HSDDGUVL",
+      "D": "HSDDFUVM",
+      "E": "HSBDFUVL"
+    },
+    "correct_answer": "D",
+    "explanation": "The pattern involves adding 1 to every consonant and subtracting 1 from every vowel: 'BUTTERFLY' to 'CVUUFSFMAZ': B+1=C, U-1=V, T+1=U, T+1=U, E-1=F, R+1=S, F+1=G, L+1=M, Y+1=Z. 'BEAUTIFUL' to 'CFBVUJGMVM': B+1=C, E-1=F, A-1=B, U-1=V, T+1=U, I-1=H, F+1=G, U-1=V, L+1=M. Thus, 'GRACEFUL' will be: G+1=H, R+1=S, A-1=Z, C+1=D, E-1=F, F+1=G, U-1=V, L+1=M, resulting in 'HSDDFUVM'.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_016",
+    "question": "In a certain code language, 'CAT' is written as 'DBU', and 'DOG' is written as 'EPH'. How will 'BAT' be written in that code?",
+    "options": {
+      "A": "CBU",
+      "B": "EBV",
+      "C": "CBV",
+      "D": "EBU",
+      "E": "DBV"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern involves shifting each letter in the word by +1. For 'CAT', C->D, A->B, T->U to become 'DBU'. Applying the same pattern to 'BAT', B->C, A->B, T->U, we get 'CBU'.",
+    "difficulty": "Easy",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_017",
+    "question": "In a coded language, 'BOOK' is represented as 'DQQM', and 'PEN' is represented as 'RGP'. How is 'NOTE' coded in that language?",
+    "options": {
+      "A": "PQUF",
+      "B": "PQWF",
+      "C": "NRUF",
+      "D": "PSVF",
+      "E": "NRVF"
+    },
+    "correct_answer": "A",
+    "explanation": "In the code, each letter is shifted by +2 positions forward. For 'BOOK', B->D, O->Q, O->Q, K->M, resulting in 'DQQM'. For 'NOTE', N->P, O->Q, T->U, E->F, resulting in 'PQUF'.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_018",
+    "question": "If in a certain language, 'LION' is written as 'KIOM' and 'TIGER' as 'SJFDS', how will 'BEAR' be written?",
+    "options": {
+      "A": "ADZS",
+      "B": "ADFS",
+      "C": "CFBS",
+      "D": "CFAR",
+      "E": "ADFR"
+    },
+    "correct_answer": "B",
+    "explanation": "The pattern shifts vowels -1 and consonants +1. 'LION': L+1=K, I-1=H (but becomes I for vowel adjustment), O-1=N (but becomes O for vowel adjustment), N+1=O. 'BEAR': B+1=C, E-1=D (becomes E for vowel adjustment), A-1=Z (becomes A), R+1=S, resulting in 'ADFS'.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_019",
+    "question": "In a code language, 'PROGRAM' is written as 'OQPFSLB' and 'ENCODE' is written as 'DMBNDC'. How is 'LANGUAGE' coded in that language?",
+    "options": {
+      "A": "KZMFZTFD",
+      "B": "KZMFTZFD",
+      "C": "KBMFTZFD",
+      "D": "KBMFTTFD",
+      "E": "KZMBZTFD"
+    },
+    "correct_answer": "A",
+    "explanation": "Each letter is alternately shifted: vowels -1, consonants +1. For 'PROGRAM': P+1=Q, R-1=O, O+1=P, G-1=F, R+1=S, A-1=L, M+1=N. Applying to 'LANGUAGE': L+1=M, A-1=Z, N+1=O, G-1=F, U+1=V, A-1=Z, G+1=H, E-1=D, resulting in 'KZMFZTFD'.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_020",
+    "question": "In a code, 'ALGORITHM' is written as 'ZKNVRJSGN'. Similarly, 'DEVELOPER' is written as 'WVPFYLOVU'. How will 'DATABASE' be coded?",
+    "options": {
+      "A": "WZSGYVXY",
+      "B": "WZSGYVXZ",
+      "C": "WZSGXVXZ",
+      "D": "WZSGYVXU",
+      "E": "WZSGYVZY"
+    },
+    "correct_answer": "A",
+    "explanation": "Consonants are shifted -1, vowels +1. 'ALGORITHM': A+1=B, L-1=K, G-1=F, O+1=P, R-1=Q, I+1=J, T-1=S, H-1=G, M-1=L. For 'DATABASE': D-1=C, A+1=B, T-1=S, A+1=B, B-1=A, A+1=B, S-1=R, E+1=F, resulting in 'WZSGYVXY'.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_021",
+    "question": "If 'CAT' is coded as 'DBU', 'DOG' is coded as 'EPH', then how is 'BAT' coded?",
+    "options": {
+      "A": "CBU",
+      "B": "CAV",
+      "C": "BBU",
+      "D": "CAU",
+      "E": "DBT"
+    },
+    "correct_answer": "A",
+    "explanation": "Each letter in the word is shifted forward by 1 position in the alphabet. C becomes D, A becomes B, T becomes U. Thus, 'BAT' becomes 'CBU'.",
+    "difficulty": "Easy",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_022",
+    "question": "If 'HELLO' is coded as 'JGNNQ' and 'WORLD' is coded as 'YQTNF', how would 'BEACH' be coded?",
+    "options": {
+      "A": "DGCEJ",
+      "B": "CDBFI",
+      "C": "CFBDI",
+      "D": "DGCEI",
+      "E": "DFCEJ"
+    },
+    "correct_answer": "A",
+    "explanation": "Each letter is shifted forward by 2 positions in the alphabet. B becomes D, E becomes G, A becomes C, C becomes E, and H becomes J. Thus, 'BEACH' is coded as 'DGCEJ'.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_023",
+    "question": "If 'FLOWER' is coded as 'GMRXGT', and 'GARDEN' is coded as 'HCVFGP', how would 'BOTTLE' be coded?",
+    "options": {
+      "A": "CPUPMF",
+      "B": "CNVMNF",
+      "C": "CPVMFF",
+      "D": "DPUOFG",
+      "E": "CPUMFG"
+    },
+    "correct_answer": "A",
+    "explanation": "Each letter is increased by 1, then decreased by 1 for the alternate letters. B becomes C, O becomes P, T stays T, T stays T, L becomes M, and E becomes F. Thus, 'BOTTLE' is coded as 'CPUPMF'.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_024",
+    "question": "If 'SUNLIGHT' is coded as 'RWOMFHSZ', and 'MOONLIGHT' is coded as 'LNNMFHSZ', how would 'STARDUST' be coded?",
+    "options": {
+      "A": "RSZQCUSU",
+      "B": "RTAQCUSR",
+      "C": "RTZQCUSR",
+      "D": "RSSQCUSR",
+      "E": "RSSQCUSU"
+    },
+    "correct_answer": "C",
+    "explanation": "Each letter is decreased by 1 if it's in the first half of the word and increased by 1 if in the second half, except the last letter which remains the same. S becomes R, T becomes S, A becomes Z, R becomes Q, D becomes C, U stays U, S becomes R, T stays T. Thus, 'STARDUST' becomes 'RTZQCUSR'.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_025",
+    "question": "If 'ECONOMICS' is coded as 'FBPOPNJDR', and 'ANALYTICS' is coded as 'BMBMXUJDR', how would 'STATISTICS' be coded?",
+    "options": {
+      "A": "TUBUJXJDR",
+      "B": "TTBUXUJDR",
+      "C": "SUBUJXJDR",
+      "D": "SUBUXUJDR",
+      "E": "TUBUXUJDR"
+    },
+    "correct_answer": "A",
+    "explanation": "Each letter is increased by 1 in the first half of the word, and decreased by 1 in the second half, the last three letters are kept as 'JDR' regardless. S becomes T, T becomes U, A becomes B, T becomes U, I stays I, S becomes T, T becomes S, I stays I, C becomes D, S becomes R. However, following the JDR rule for last three gives us 'JDR'. Hence, 'STATISTICS' becomes 'TUBUJXJDR'.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_026",
+    "question": "In a certain code language, 'DOG' is coded as 'EHP', and 'CAT' is coded as 'DBU'. How is 'BAT' coded in that language?",
+    "options": {
+      "A": "CBU",
+      "B": "DBV",
+      "C": "CBT",
+      "D": "BBU",
+      "E": "CBV"
+    },
+    "correct_answer": "A",
+    "explanation": "In the given code, each letter is shifted forward by 1 in the alphabet. Thus, DOG becomes EHP (D+1=E, O+1=H, G+1=P) and CAT becomes DBU (C+1=D, A+1=B, T+1=U). Therefore, BAT is coded as CBU (B+1=C, A+1=B, T+1=U).",
+    "difficulty": "Easy",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_027",
+    "question": "In a certain code language, 'GARDEN' is coded as 'TZIWVG' and 'HOUSE' is coded as 'SLFIH'. How is 'PLANT' coded in that language?",
+    "options": {
+      "A": "KOFMG",
+      "B": "KOFMV",
+      "C": "KOFNR",
+      "D": "KOGMV",
+      "E": "KPFMV"
+    },
+    "correct_answer": "B",
+    "explanation": "The pattern involves reversing the order of the word and then applying a positional letter shift of -1 (e.g., GARDEN → NEDRAG, then each letter shifts backwards: N-1=M, E-1=D, D-1=C, R-1=Q, A-1=Z, G-1=F becomes TZIWVG). Applying this to PLANT: TNALP reversed, then shifting each by -1 gives KOFMV.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_028",
+    "question": "In a certain code, 'RAINBOW' is encoded as 'S5JMMBY'. If 'SUNSHINE' is encoded as 'T8VOIFMF', how is 'MOONLIGHT' encoded?",
+    "options": {
+      "A": "N9POMLHS",
+      "B": "N9QLMHSI",
+      "C": "N9PLMHSI",
+      "D": "N8PLMHTS",
+      "E": "N9OLMHTI"
+    },
+    "correct_answer": "C",
+    "explanation": "The pattern involves shifting each letter forward by 1 and replacing the vowels with their position number in the word. For example, RAINBOW becomes S5JMMBY: R+1=S, A is 5th in the alphabet and a vowel so 5, I+1=J, N+1=M, B+1=C but encoded as M for consistency, O+1=P but encoded as B for consistency, W+1=X but encoded as Y for consistency. For SUNSHINE: T8VOIFMF follows similar rules. MOONLIGHT: N9PLMHSI where M+1=N, O is 9th vowel, etc.",
+    "difficulty": "Medium",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_029",
+    "question": "In a certain language, 'SUCCESS' is coded as 'RFBFDVT' and 'ACHIEVE' as 'ZBGHDWC'. What is the code for 'PROGRESS'?",
+    "options": {
+      "A": "QSFQFRTT",
+      "B": "QSNFQYTT",
+      "C": "QROFHRTS",
+      "D": "QRFNFQTT",
+      "E": "QSNFQFTT"
+    },
+    "correct_answer": "A",
+    "explanation": "The pattern involves shifting consonants backward by 1 and vowels forward by 1. SUCCESS: S-1=R, U+1=V, C-1=B, C-1=B, E+1=F, S-1=R, S-1=T. Apply same pattern to PROGRESS: P-1=Q, R-1=Q, O+1=P, G-1=F, R-1=Q, E+1=F, S-1=R, S-1=T.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "coding_decoding_030",
+    "question": "In a certain code, 'DEVELOPMENT' is written as 'CZEKWOLBMFS', and 'INNOVATION' as 'HMMPYUSJPO'. How is 'TECHNOLOGY' encoded in this code?",
+    "options": {
+      "A": "SDWFLNMFWZ",
+      "B": "SDMGLONFWZ",
+      "C": "SDMFLNMFZ",
+      "D": "SDMFLNMFWA",
+      "E": "SEMGFNHFZ"
+    },
+    "correct_answer": "C",
+    "explanation": "The pattern requires alternating shifts: consonants are shifted forward by 1, vowels are shifted backward by 1. For DEVELOPMENT: D-1=C, E+1=Z, V-1=E, E+1=K, L-1=K, O+1=W, P-1=O, M+1=L, E+1=B, N-1=M, T+1=S. For TECHNOLOGY: T-1=S, E+1=D, C-1=M, H-1=G, N-1=O, O+1=N, L-1=K, O+1=P, G-1=F, Y+1=Z.",
+    "difficulty": "Hard",
+    "topic": "Coding-Decoding",
+    "reasoning_topic": "Coding-Decoding",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

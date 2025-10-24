@@ -1,0 +1,475 @@
+{
+  "topic": "Multi-Variable Puzzle",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "2017_Q161",
+      "question_number": 161,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people – A, B, C, D, E, F, G and H live in eight different cities – Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna, but not necessarily in the same order. Each one of them also studies in one of the four classes – II, V, VIII and XI. Two people study in each of the given classes. 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. 2. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. 3. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. 4. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. E lives in Siliguri. 5. C is junior to F. The one who lives in Patna studies in an odd numbered class. 6. Neither H nor D lives in Bhopal. The one who lives in Chennai is senior to the one who lives in Bhopal. In which of the following cities does C live?",
+      "options": {
+        "A": "Bhopal",
+        "B": "Chennai",
+        "C": "Jaipur",
+        "D": "Nashik",
+        "E": "Varanasi"
+      },
+      "correct_answer": "C",
+      "explanation": "Person- A, B, C, D, E, F, G and H City- Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna Class- II, V, VIII and XI 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II || | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | ||| | ||| | ||| | ||| Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII || | |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | ---|---|---| | D |II || | ||| | ||| | ||| 2. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. E lives in Siliguri. The one who lives in Patna studies in an odd numbered class. Neither H nor D lives in Bhopal. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | |IX |Patna | Case 2: A studies in class VIII. | Person |Class |City || | ---|---|---|---| | Person |Class |City || | A |VIII |Nashik || | H |VIII |Ujjain || | |V |Varanasi || | |V |Jaipur || | D |II ||| | |II ||| | |IX |Patna || | |IX ||| 3. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. C is junior to F. This is not possible in case 2. So, case 1 is correct. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | B |V |Varanasi | | C |V |Jaipur | | F |VIII |Nashik | | H |VIII |Chennai | | ---|---|---| | E |IX |Siliguri | | G |IX |Patna | Hence, C lives in Jaipur.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00049",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254029",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q162",
+      "question_number": 162,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people – A, B, C, D, E, F, G and H live in eight different cities – Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna, but not necessarily in the same order. Each one of them also studies in one of the four classes – II, V, VIII and XI. Two people study in each of the given classes. 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. 2. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. 3. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. 4. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. E lives in Siliguri. 5. C is junior to F. The one who lives in Patna studies in an odd numbered class. 6. Neither H nor D lives in Bhopal. The one who lives in Chennai is senior to the one who lives in Bhopal. Four of the following five are alike in a certain way based on the given arrangement and hence form a group. Which one of the following cities does not belong to the group?",
+      "options": {
+        "A": "G-Siliguri",
+        "B": "D- Bhopal",
+        "C": "C-Varanasi",
+        "D": "F-Chennai",
+        "E": "A-Patna"
+      },
+      "correct_answer": "E",
+      "explanation": "Person- A, B, C, D, E, F, G and H City- Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna Class- II, V, VIII and XI 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II || | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | ||| | ||| | ||| | ||| Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII || | |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | D |II || | ||| | ||| | ||| 2. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. E lives in Siliguri. The one who lives in Patna studies in an odd numbered class. Neither H nor D lives in Bhopal. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II || Bhopal | D |II |Ujjain | | ---|---|---| | |V |Varanasi | | |V |Jaipur | | |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | |IX |Patna | Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII |Nashik | | H |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | D |II || | |II || | |IX |Patna | | |IX || 3. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. C is junior to F. This is not possible in case 2. So, case 1 is correct. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | B |V |Varanasi | | C |V |Jaipur | | F |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | G |IX |Patna | Hence, except A – Patna all other are belong to same class.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00050",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254032",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q163",
+      "question_number": 163,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people – A, B, C, D, E, F, G and H live in eight different cities – Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna, but not necessarily in the same order. Each one of them also studies in one of the four classes – II, V, VIII and XI. Two people study in each of the given classes. 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. 2. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. 3. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. 4. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. E lives in Siliguri. 5. C is junior to F. The one who lives in Patna studies in an odd numbered class. 6. Neither H nor D lives in Bhopal. The one who lives in Chennai is senior to the one who lives in Bhopal. In which class does H study?",
+      "options": {
+        "A": "The one in which a studies",
+        "B": "VIII",
+        "C": "The one in which E studies",
+        "D": "V",
+        "E": "II"
+      },
+      "correct_answer": "B",
+      "explanation": "Person- A, B, C, D, E, F, G and H City- Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna Class- II, V, VIII and XI 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II || | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | ||| | ||| | ||| | ||| Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII || | |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | D |II || | ||| | ||| | ||| 2. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. E lives in Siliguri. The one who lives in Patna studies in an odd numbered class. Neither H nor D lives in Bhopal. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | |IX |Patna | Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII |Nashik | | H |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | ---|---|---| | D |II || | |II || | |IX |Patna | | |IX || 3. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. C is junior to F. This is not possible in case 2. So, case 1 is correct. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | B |V |Varanasi | | C |V |Jaipur | | F |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | G |IX |Patna | Hence, H studies in class VIII.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00051",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254033",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q164",
+      "question_number": 164,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people – A, B, C, D, E, F, G and H live in eight different cities – Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna, but not necessarily in the same order. Each one of them also studies in one of the four classes – II, V, VIII and XI. Two people study in each of the given classes. 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. 2. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. 3. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. 4. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. E lives in Siliguri. 5. C is junior to F. The one who lives in Patna studies in an odd numbered class. 6. Neither H nor D lives in Bhopal. The one who lives in Chennai is senior to the one who lives in Bhopal. Who amongst the following lives in Bhopal?",
+      "options": {
+        "A": "A",
+        "B": "G",
+        "C": "C",
+        "D": "H",
+        "E": "Other than those given as options"
+      },
+      "correct_answer": "A",
+      "explanation": "Person- A, B, C, D, E, F, G and H City- Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna Class- II, V, VIII and XI 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II || | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | ||| | ||| | ||| | ||| Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII || | |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | D |II || | ||| | ||| | ||| 2. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. E lives in Siliguri. The one who lives in Patna studies in an odd numbered class. Neither H nor D lives in Bhopal. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | |IX |Patna | Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII |Nashik | | H |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | D |II || | |II || | |IX |Patna | | |IX || 3. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. C is junior to F. This is not possible in case 2. So, case 1 is correct. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | B |V |Varanasi | | C |V |Jaipur | | F |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | G |IX |Patna | Hence, A lives in Bhopal.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00052",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254034",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q165",
+      "question_number": 165,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people – A, B, C, D, E, F, G and H live in eight different cities – Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna, but not necessarily in the same order. Each one of them also studies in one of the four classes – II, V, VIII and XI. Two people study in each of the given classes. 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. 2. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. 3. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. 4. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. E lives in Siliguri. 5. C is junior to F. The one who lives in Patna studies in an odd numbered class. 6. Neither H nor D lives in Bhopal. The one who lives in Chennai is senior to the one who lives in Bhopal. Which one of the following statements is TRUE with respect to the given information?",
+      "options": {
+        "A": "B lives in Nashik",
+        "B": "G is senior to E",
+        "C": "B and F study in the same class.",
+        "D": "The one who lives in Jaipur studies in Class V.",
+        "E": "None of the given statements"
+      },
+      "correct_answer": "D",
+      "explanation": "Person- A, B, C, D, E, F, G and H City- Varanasi, Nashik, Chennai, Siliguri, Ujjain, Bhopal, Jaipur and Patna Class- II, V, VIII and XI 1. A studies in an even numbered class. The one who lives in Ujjain studies with A. The one who lives in Varanasi and Jaipur study in the same class, but in a class lower than VIII. D studies in a class lower than that of the one who lives in Varansai. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II || | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | ||| | ||| | ||| | ||| Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII || | |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | D |II || | ||| | ||| | ||| 2. The one who lives in Nashik studies with H in the same class, but not in Class XI. D does not live in Nashik. E lives in Siliguri. The one who lives in Patna studies in an odd numbered class. Neither H nor D lives in Bhopal. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | |V |Varanasi | | |V |Jaipur | | |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | |IX |Patna | Case 2: A studies in class VIII. | Person |Class |City | | ---|---|---| | A |VIII |Nashik | | H |VIII |Ujjain | | |V |Varanasi | | |V |Jaipur | | D |II || | |II || | |IX |Patna | | |IX || 3. B and G study in different classes. B lives neither in Jaipur nor in Nashik. G is senior to both B and H. Neither B nor the one who lives in Siliguri study in the same class as D. C is junior to F. This is not possible in case 2. So, case 1 is correct. Case 1: A studies in class II. | Person |Class |City | | ---|---|---| | A |II |Bhopal | | D |II |Ujjain | | B |V |Varanasi | | C |V |Jaipur | | F |VIII |Nashik | | H |VIII |Chennai | | E |IX |Siliguri | | G |IX |Patna | Hence, the one who lives in Jaipur studies in class V is the correct statement.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00053",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254035",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q145",
+      "question_number": 145,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven people P, Q, R, S, T, U, and V are from seven different countries India, Brazil, China, USA, UAE, UK, and Russia not necessarily in the same order. Each one of them works in the same company but on different designation i.e., Chief Executive Officer (CEO), Chairman, Manager, Deputy Manager (DM), Assistant Manager (AM), Assistant and Clerk. These ranks are given in descending order (ex. CEO is the senior and Clerk is the junior). P is senior to V but he is neither CEO nor Manager. U is senior to R who is not from UAE. Two designations are between Q and the one who is from Brazil. P is from China and immediate senior to the one who is from UAE. Q is a junior to the AM and he is from Russia. More than four people are senior to S. The number of people who are senior to the one who is from Brazil is the same as the number of people junior to V. T is from the USA and is junior to one who is from India. What is the designation of V?",
+      "options": {
+        "A": "COO",
+        "B": "Manager",
+        "C": "DM",
+        "D": "Assistant",
+        "E": "AM"
+      },
+      "correct_answer": "E",
+      "explanation": "| People | Country | Designation | | --- | --- | --- | | U | India | CEO | | T | USA | Chairman | | R | Brazil | Manager | | P | China | DM | | V | UAE | AM | | Q | Russia | Assistant | | S | UK | Clerk |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00180",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254182",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q146",
+      "question_number": 146,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven people P, Q, R, S, T, U, and V are from seven different countries India, Brazil, China, USA, UAE, UK, and Russia not necessarily in the same order. Each one of them works in the same company but on different designation i.e., Chief Executive Officer (CEO), Chairman, Manager, Deputy Manager (DM), Assistant Manager (AM), Assistant and Clerk. These ranks are given in descending order (ex. CEO is the senior and Clerk is the junior). P is senior to V but he is neither CEO nor Manager. U is senior to R who is not from UAE. Two designations are between Q and the one who is from Brazil. P is from China and immediate senior to the one who is from UAE. Q is a junior to the AM and he is from Russia. More than four people are senior to S. The number of people who are senior to the one who is from Brazil is the same as the number of people junior to V. T is from the USA and is junior to one who is from India. How many persons are senior to T?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "None"
+      },
+      "correct_answer": "A",
+      "explanation": "| People | Country | Designation | | --- | --- | --- | | U | India | CEO | | T | USA | Chairman | | R | Brazil | Manager | | P | China | DM | | V | UAE | AM | | Q | Russia | Assistant | | S | UK | Clerk |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00181",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254183",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q147",
+      "question_number": 147,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven people P, Q, R, S, T, U, and V are from seven different countries India, Brazil, China, USA, UAE, UK, and Russia not necessarily in the same order. Each one of them works in the same company but on different designation i.e., Chief Executive Officer (CEO), Chairman, Manager, Deputy Manager (DM), Assistant Manager (AM), Assistant and Clerk. These ranks are given in descending order (ex. CEO is the senior and Clerk is the junior). P is senior to V but he is neither CEO nor Manager. U is senior to R who is not from UAE. Two designations are between Q and the one who is from Brazil. P is from China and immediate senior to the one who is from UAE. Q is a junior to the AM and he is from Russia. More than four people are senior to S. The number of people who are senior to the one who is from Brazil is the same as the number of people junior to V. T is from the USA and is junior to one who is from India. Who among the following is from UAE?",
+      "options": {
+        "A": "P",
+        "B": "R",
+        "C": "S",
+        "D": "V",
+        "E": "U"
+      },
+      "correct_answer": "D",
+      "explanation": "| People | Country | Designation | | --- | --- | --- | | U | India | CEO | | T | USA | Chairman | | R | Brazil | Manager | | P | China | DM | | V | UAE | AM | | Q | Russia | Assistant | | S | UK | Clerk |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00182",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254185",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q148",
+      "question_number": 148,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven people P, Q, R, S, T, U, and V are from seven different countries India, Brazil, China, USA, UAE, UK, and Russia not necessarily in the same order. Each one of them works in the same company but on different designation i.e., Chief Executive Officer (CEO), Chairman, Manager, Deputy Manager (DM), Assistant Manager (AM), Assistant and Clerk. These ranks are given in descending order (ex. CEO is the senior and Clerk is the junior). P is senior to V but he is neither CEO nor Manager. U is senior to R who is not from UAE. Two designations are between Q and the one who is from Brazil. P is from China and immediate senior to the one who is from UAE. Q is a junior to the AM and he is from Russia. More than four people are senior to S. The number of people who are senior to the one who is from Brazil is the same as the number of people junior to V. T is from the USA and is junior to one who is from India. of the following is the incorrect pair?",
+      "options": {
+        "A": "P- China",
+        "B": "Assistant- S",
+        "C": "T- Chairman",
+        "D": "R- Brazil",
+        "E": "CEO- India"
+      },
+      "correct_answer": "B",
+      "explanation": "| People | Country | Designation | | --- | --- | --- | | U | India | CEO | | T | USA | Chairman | | R | Brazil | Manager | | P | China | DM | | V | UAE | AM | | Q | Russia | Assistant | | S | UK | Clerk |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00183",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254186",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q149",
+      "question_number": 149,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven people P, Q, R, S, T, U, and V are from seven different countries India, Brazil, China, USA, UAE, UK, and Russia not necessarily in the same order. Each one of them works in the same company but on different designation i.e., Chief Executive Officer (CEO), Chairman, Manager, Deputy Manager (DM), Assistant Manager (AM), Assistant and Clerk. These ranks are given in descending order (ex. CEO is the senior and Clerk is the junior). P is senior to V but he is neither CEO nor Manager. U is senior to R who is not from UAE. Two designations are between Q and the one who is from Brazil. P is from China and immediate senior to the one who is from UAE. Q is a junior to the AM and he is from Russia. More than four people are senior to S. The number of people who are senior to the one who is from Brazil is the same as the number of people junior to V. T is from the USA and is junior to one who is from India.How many designations are there between U and S?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "correct_answer": "E",
+      "explanation": "| People | Country | Designation | | --- | --- | --- | | U | India | CEO | | T | USA | Chairman | | R | Brazil | Manager | | P | China | DM | | V | UAE | AM | | Q | Russia | Assistant | | S | UK | Clerk |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00184",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254187",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q173",
+      "question_number": 173,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. Four of the following five are alike in a certain way and thus form a group. Which among the following one doesn’t belong to that group?",
+      "options": {
+        "A": "A",
+        "B": "G",
+        "C": "B",
+        "D": "E",
+        "E": "F"
+      },
+      "correct_answer": "C",
+      "explanation": "The final arrangement is as follows: |  | Production | Management | Finance | | --- | --- | --- | --- | | General manager | A(29), G(53) | B(31) | ---- | | Manager | E(48), F(36) | D(84) | C(24), H(60) | All the four, except B, work in the production department.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00260",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254271",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q174",
+      "question_number": 174,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. Which of the following statement is/are true with respect to the final arrangement?",
+      "options": {
+        "A": "The one who is 24 years old works in the Finance department",
+        "B": "A works in the Management department",
+        "C": "G is a manager",
+        "D": "Both (a) and (e)",
+        "E": "The sum of the ages of A and C is less than 52"
+      },
+      "correct_answer": "A",
+      "explanation": "The final arrangement is as follows: |  | Production | Management | Finance | | --- | --- | --- | --- | | General manager | A(29), G(53) | B(31) | ---- | | Manager | E(48), F(36) | D(84) | C(24), H(60) |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00261",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254272",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q175",
+      "question_number": 175,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. What is the sum of the ages of the persons who work in the Management department?",
+      "options": {
+        "A": "120",
+        "B": "221",
+        "C": "117",
+        "D": "115",
+        "E": "None of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "The final arrangement is as follows: |  | Production | Management | Finance | | --- | --- | --- | --- | | General manager | A(29), G(53) | B(31) | ---- | | Manager | E(48), F(36) | D(84) | C(24), H(60) |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00262",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254273",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q176",
+      "question_number": 176,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. How many persons’ age is more than H?",
+      "options": {
+        "A": "Four",
+        "B": "One",
+        "C": "Six",
+        "D": "Two",
+        "E": "Three"
+      },
+      "correct_answer": "B",
+      "explanation": "The final arrangement is as follows: |  | Production | Management | Finance | | --- | --- | --- | --- | | General manager | A(29), G(53) | B(31) | ---- | | Manager | E(48), F(36) | D(84) | C(24), H(60) |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00263",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254274",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q177",
+      "question_number": 177,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. Which of the following statements is incorrect?",
+      "options": {
+        "A": "Three persons are working as General Managers whereas five persons are working as Managers.",
+        "B": "F is elder to C but younger to E.",
+        "C": "There is no General Manager in the Finance department.",
+        "D": "The age of D is more than twice the age of E.",
+        "E": "C is the youngest person whereas D is the eldest person."
+      },
+      "correct_answer": "D",
+      "explanation": "The final arrangement is as follows: |  | Production | Management | Finance | | --- | --- | --- | --- | | General manager | A(29), G(53) | B(31) | ---- | | Manager | E(48), F(36) | D(84) | C(24), H(60) |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Multi-Variable Puzzle",
+      "topic": "Complex Puzzle",
+      "question_id": "REASONING_00264",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254275",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

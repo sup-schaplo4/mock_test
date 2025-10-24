@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": "syllogism_001",
+    "question": "Premises:\n1. All cats are animals.\n2. All animals are mammals.\nConclusion: All cats are mammals.\nWhich conclusion logically follows?",
+    "options": {
+      "A": "Only conclusion follows",
+      "B": "Conclusion does not follow",
+      "C": "Both premises and conclusion are invalid",
+      "D": "Conclusion follows only if some animals are not mammals",
+      "E": "Cannot determine"
+    },
+    "correct_answer": "A",
+    "explanation": "Using Venn diagrams or direct distribution: Since all cats are animals and all animals are mammals, by transitive reasoning, all cats must be mammals. The conclusion directly follows as per the rule of universal affirmatives.",
+    "difficulty": "Easy",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_002",
+    "question": "Premises:\n1. No birds are mammals.\n2. Some birds are penguins.\nConclusions:\nI. Some penguins are not mammals.\nII. Some penguins are birds.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both I and II follow",
+      "D": "Neither I nor II follow",
+      "E": "Only I follows but not II"
+    },
+    "correct_answer": "C",
+    "explanation": "Conclusion I follows because if no birds are mammals and some birds are penguins, then some penguins cannot be mammals. Conclusion II is true because some birds are penguins. Thus, both conclusions follow.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_003",
+    "question": "Premises:\n1. Some cars are not electric.\n2. All electric vehicles are eco-friendly.\nConclusions:\nI. Some cars are eco-friendly.\nII. No car is electric.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both I and II follow",
+      "D": "Neither I nor II follow",
+      "E": "Either I or II follows"
+    },
+    "correct_answer": "D",
+    "explanation": "Conclusion I does not follow because while some cars not being electric does not imply some are eco-friendly. Conclusion II does not follow because the premises do not imply that no car is electric. Thus, neither conclusion follows.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_004",
+    "question": "Premises:\n1. All scientists are curious.\n2. No curious person is uncreative.\n3. Some uncreative people are lazy.\nConclusions:\nI. Some lazy people are not scientists.\nII. Some scientists are not lazy.\nIII. All scientists are uncreative.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I and II follow",
+      "B": "Only II follows",
+      "C": "Only III follows",
+      "D": "I and III follow but not II",
+      "E": "None follows"
+    },
+    "correct_answer": "A",
+    "explanation": "Conclusion I follows since some uncreative people are lazy, they cannot be scientists as no scientist is uncreative. Conclusion II follows as some scientists being non-lazy is possible given that not all scientists are mentioned as lazy. Conclusion III is incorrect as all scientists being uncreative contradicts the premises.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_005",
+    "question": "Premises:\n1. All dancers are artists.\n2. Some artists are not painters.\n3. All painters are illustrators.\n4. Some illustrators are not creative.\nConclusions:\nI. Some dancers are not creative.\nII. Some illustrators are not dancers.\nIII. No painter is a dancer.\nIV. All dancers are illustrators.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only II and III follow",
+      "B": "Only I and IV follow",
+      "C": "Only II follows",
+      "D": "Only IV follows",
+      "E": "None follows"
+    },
+    "correct_answer": "C",
+    "explanation": "Conclusion II follows, as some illustrators are not creative and no direct linkage exists between illustrators and all dancers. Conclusion I doesn't follow due to lack of direct link between dancers and creative. Conclusion III doesn't follow as no connection is established between painters and dancers directly. Conclusion IV doesn't follow as not all artists (dancers) are illustrators.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_006",
+    "question": "Premises:\n1. All cats are mammals.\n2. All mammals are animals.\nConclusion:\nI. All cats are animals.\nWhich conclusion logically follows?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Conclusion I does not follow.",
+      "C": "None follows.",
+      "D": "Both follow.",
+      "E": "Either follows."
+    },
+    "correct_answer": "A",
+    "explanation": "Using the rule of syllogism, if all cats are mammals and all mammals are animals, then all cats must be animals. The premises follow the pattern: All A are B, All B are C, so All A are C.",
+    "difficulty": "Easy",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_007",
+    "question": "Premises:\n1. Some birds are sparrows.\n2. All sparrows are animals.\nConclusions:\nI. Some birds are animals.\nII. All birds are animals.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusion II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follows.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "A",
+    "explanation": "From 'Some birds are sparrows' and 'All sparrows are animals', we can conclude 'Some birds are animals' as the sparrows that are birds are also animals. Conclusion II does not logically follow as not all birds are accounted for as sparrows.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_008",
+    "question": "Premises:\n1. Some doctors are artists.\n2. No artist is a businessman.\nConclusions:\nI. Some doctors are not businessmen.\nII. Some businessmen are doctors.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusion II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follows.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "A",
+    "explanation": "Conclusion I follows because, based on the premises, the doctors who are artists cannot be businessmen. Conclusion II does not follow because there is no evidence to suggest any businessmen are doctors.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_009",
+    "question": "Premises:\n1. All lions are mammals.\n2. Some mammals are carnivores.\n3. All carnivores are predators.\nConclusions:\nI. Some lions are predators.\nII. All mammals are predators.\nIII. Some predators are mammals.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusion II follows.",
+      "C": "Only conclusions I and III follow.",
+      "D": "Only conclusion III follows.",
+      "E": "None follow."
+    },
+    "correct_answer": "C",
+    "explanation": "Conclusion I does not follow because 'Some mammals are carnivores' does not specify whether the lions specifically are among them. Conclusion II does not follow because not all mammals are carnivores. Conclusion III follows because if some mammals are carnivores and all carnivores are predators, then some predators must indeed be mammals.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_010",
+    "question": "Premises:\n1. All philosophers are thinkers.\n2. Some thinkers are poets.\n3. No poet is a painter.\nConclusions:\nI. Some philosophers are poets.\nII. Some thinkers are painters.\nIII. Some philosophers are not painters.\nIV. No thinker is a painter.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion III follows.",
+      "B": "Only conclusions I and IV follow.",
+      "C": "Only conclusions III and IV follow.",
+      "D": "Only conclusion IV follows.",
+      "E": "None follow."
+    },
+    "correct_answer": "A",
+    "explanation": "Conclusion I does not follow as no connection between philosophers directly to poets is established. Conclusion II does not follow as there is no premise allowing a thinker to be a painter. Conclusion III follows because philosophers who are thinkers cannot be poets and thus not painters. Conclusion IV does not follow as some thinkers could be painters, there is no direct exclusion stated.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

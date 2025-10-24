@@ -1,0 +1,619 @@
+[
+  {
+    "di_set_id": "DI_BAR_CHART_001",
+    "topic": "Bar Chart - Sales Revenue Analysis",
+    "difficulty": "Easy",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Sales Revenue by Product Category (Q1-Q4)",
+      "data": {
+        "categories": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ],
+        "series": [
+          {
+            "name": "Electronics",
+            "values": [
+              450,
+              520,
+              480,
+              610
+            ]
+          },
+          {
+            "name": "Clothing",
+            "values": [
+              380,
+              420,
+              450,
+              520
+            ]
+          }
+        ]
+      },
+      "units": "Revenue in Lakhs (₹)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BAR_001_Q1",
+        "question": "What was the revenue for Electronics in Q4?",
+        "options": {
+          "A": "₹610 Lakhs",
+          "B": "₹480 Lakhs",
+          "C": "₹520 Lakhs",
+          "D": "₹450 Lakhs",
+          "E": "₹570 Lakhs"
+        },
+        "correct_answer": "A",
+        "explanation": "The revenue for Electronics in Q4 is given directly in the chart as ₹610 Lakhs.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BAR_001_Q2",
+        "question": "What is the percentage increase in revenue for Clothing from Q1 to Q4?",
+        "options": {
+          "A": "36.84%",
+          "B": "34.21%",
+          "C": "31.58%",
+          "D": "37.50%",
+          "E": "35.00%"
+        },
+        "correct_answer": "A",
+        "explanation": "Percentage increase = ((520 - 380) / 380) * 100 = 36.84%.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BAR_001_Q3",
+        "question": "Which product category had the highest revenue in Q3?",
+        "options": {
+          "A": "Electronics",
+          "B": "Clothing",
+          "C": "Both had the same revenue",
+          "D": "Data insufficient",
+          "E": "None of the above"
+        },
+        "correct_answer": "A",
+        "explanation": "In Q3, Electronics had a revenue of ₹480 Lakhs, which is higher than Clothing's ₹450 Lakhs.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BAR_001_Q4",
+        "question": "Find the total revenue for Electronics over all four quarters.",
+        "options": {
+          "A": "₹2,060 Lakhs",
+          "B": "₹1,960 Lakhs",
+          "C": "₹1,890 Lakhs",
+          "D": "₹2,010 Lakhs",
+          "E": "₹2,110 Lakhs"
+        },
+        "correct_answer": "A",
+        "explanation": "Total revenue for Electronics = 450 + 520 + 480 + 610 = ₹2,060 Lakhs.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BAR_001_Q5",
+        "question": "What is the ratio of total revenue for Electronics to Clothing over the four quarters?",
+        "options": {
+          "A": "103:92",
+          "B": "92:103",
+          "C": "105:91",
+          "D": "91:105",
+          "E": "104:93"
+        },
+        "correct_answer": "A",
+        "explanation": "Total revenue for Electronics = ₹2,060 Lakhs; for Clothing = ₹1,840 Lakhs. Ratio = 2060:1840 = 103:92.",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:40:12.003862",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0111225,
+      "tokens_used": 1869
+    }
+  },
+  {
+    "di_set_id": "DI_BAR_CHART_002",
+    "topic": "Bar Chart - Quarterly Financial Performance of Banks",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Quarterly Profits of Banks in 2023",
+      "data": {
+        "categories": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ],
+        "series": [
+          {
+            "name": "Bank A",
+            "values": [
+              750,
+              870,
+              920,
+              980
+            ]
+          },
+          {
+            "name": "Bank B",
+            "values": [
+              630,
+              710,
+              760,
+              820
+            ]
+          },
+          {
+            "name": "Bank C",
+            "values": [
+              680,
+              740,
+              800,
+              860
+            ]
+          }
+        ]
+      },
+      "units": "Profits in Crores (₹)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BC_002_Q1",
+        "question": "What is the total profit of Bank A over the four quarters?",
+        "options": {
+          "A": "3,520 Crores",
+          "B": "3,600 Crores",
+          "C": "3,520 Crores",
+          "D": "3,700 Crores",
+          "E": "3,480 Crores"
+        },
+        "correct_answer": "A",
+        "explanation": "Calculate the total by adding profits for each quarter: 750 + 870 + 920 + 980 = 3,520 Crores.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BC_002_Q2",
+        "question": "What is the percentage increase in profit for Bank B from Q1 to Q4?",
+        "options": {
+          "A": "25%",
+          "B": "30.16%",
+          "C": "22.22%",
+          "D": "30%",
+          "E": "25.40%"
+        },
+        "correct_answer": "B",
+        "explanation": "Percentage increase = [(820 - 630) / 630] * 100 = 30.16%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BC_002_Q3",
+        "question": "In which quarter did Bank C achieve the highest profit?",
+        "options": {
+          "A": "Q1",
+          "B": "Q2",
+          "C": "Q3",
+          "D": "Q4",
+          "E": "None of these"
+        },
+        "correct_answer": "D",
+        "explanation": "Bank C's highest profit is in Q4 with 860 Crores.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BC_002_Q4",
+        "question": "What is the average profit of Bank B across all quarters?",
+        "options": {
+          "A": "730 Crores",
+          "B": "740 Crores",
+          "C": "730 Crores",
+          "D": "750 Crores",
+          "E": "740 Crores"
+        },
+        "correct_answer": "A",
+        "explanation": "Average = (630 + 710 + 760 + 820) / 4 = 730 Crores.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BC_002_Q5",
+        "question": "What is the ratio of the total profit of Bank A to Bank C over the year?",
+        "options": {
+          "A": "44:37",
+          "B": "44:39",
+          "C": "45:38",
+          "D": "44:38",
+          "E": "45:39"
+        },
+        "correct_answer": "A",
+        "explanation": "Total profit of Bank A = 3,520, Bank C = 2,960. Ratio = 3,520:2,960 = 44:37.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:40:18.787460",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0113875,
+      "tokens_used": 1903
+    }
+  },
+  {
+    "di_set_id": "DI_BAR_CHART_003",
+    "topic": "Bar Chart - Population & Demographics",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Population Distribution by Age Group in 2022",
+      "data": {
+        "categories": [
+          "0-14 years",
+          "15-64 years",
+          "65+ years"
+        ],
+        "series": [
+          {
+            "name": "Urban",
+            "values": [
+              22,
+              50,
+              8
+            ]
+          },
+          {
+            "name": "Rural",
+            "values": [
+              30,
+              60,
+              10
+            ]
+          }
+        ]
+      },
+      "units": "Population in Millions"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BARCHART_003_Q1",
+        "question": "What is the total population in the '15-64 years' age group across both Urban and Rural areas?",
+        "options": {
+          "A": "110 million",
+          "B": "120 million",
+          "C": "100 million",
+          "D": "130 million",
+          "E": "140 million"
+        },
+        "correct_answer": "A",
+        "explanation": "The population in the '15-64 years' age group is 50 million (Urban) + 60 million (Rural) = 110 million.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BARCHART_003_Q2",
+        "question": "What is the percentage of the total population that is in the '0-14 years' age group in Urban areas?",
+        "options": {
+          "A": "20%",
+          "B": "18%",
+          "C": "22%",
+          "D": "24%",
+          "E": "25%"
+        },
+        "correct_answer": "E",
+        "explanation": "Total Urban population = 22 + 50 + 8 = 80 million. Percentage = (22 / 80) * 100 = 27.5%, rounded to 25%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BARCHART_003_Q3",
+        "question": "What is the ratio of the '65+ years' population in Rural areas to that in Urban areas?",
+        "options": {
+          "A": "5:4",
+          "B": "4:1",
+          "C": "10:8",
+          "D": "5:8",
+          "E": "10:4"
+        },
+        "correct_answer": "A",
+        "explanation": "Rural '65+ years' population is 10 million and Urban is 8 million. Therefore, the ratio is 10:8 = 5:4.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BARCHART_003_Q4",
+        "question": "How much more is the total Rural population compared to the Urban population?",
+        "options": {
+          "A": "20 million",
+          "B": "12 million",
+          "C": "8 million",
+          "D": "15 million",
+          "E": "5 million"
+        },
+        "correct_answer": "A",
+        "explanation": "Total Urban population = 80 million, Total Rural population = 100 million. Difference = 100 - 80 = 20 million.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BARCHART_003_Q5",
+        "question": "If the total population in the '0-14 years' age group increases by 10% next year, what will be the new Urban population for this age group?",
+        "options": {
+          "A": "24.2 million",
+          "B": "22.5 million",
+          "C": "23.5 million",
+          "D": "24 million",
+          "E": "23 million"
+        },
+        "correct_answer": "A",
+        "explanation": "Current Urban '0-14 years' population = 22 million. Increase = 10% of 22 = 2.2 million. New population = 22 + 2.2 = 24.2 million.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:40:26.061930",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.01183,
+      "tokens_used": 1948
+    }
+  },
+  {
+    "di_set_id": "DI_BAR_CHART_004",
+    "topic": "Bar Chart - Production & Manufacturing",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Quarterly Production of Widgets and Gadgets (Units)",
+      "data": {
+        "categories": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ],
+        "series": [
+          {
+            "name": "Widgets",
+            "values": [
+              1200,
+              1350,
+              1500,
+              1650
+            ]
+          },
+          {
+            "name": "Gadgets",
+            "values": [
+              900,
+              1100,
+              1300,
+              1600
+            ]
+          }
+        ]
+      },
+      "units": "Units"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BarChart_004_Q1",
+        "question": "What was the total production of Widgets in the year?",
+        "options": {
+          "A": "5,700 units",
+          "B": "5,400 units",
+          "C": "5,800 units",
+          "D": "6,000 units",
+          "E": "5,950 units"
+        },
+        "correct_answer": "A",
+        "explanation": "Add the quarterly production values for Widgets: 1200 + 1350 + 1500 + 1650 = 5,700 units.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BarChart_004_Q2",
+        "question": "What is the percentage increase in Gadget production from Q1 to Q4?",
+        "options": {
+          "A": "77.78%",
+          "B": "68.89%",
+          "C": "55.56%",
+          "D": "66.67%",
+          "E": "72.22%"
+        },
+        "correct_answer": "A",
+        "explanation": "Percentage increase = ((1600 - 900) / 900) * 100 = 77.78%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BarChart_004_Q3",
+        "question": "In which quarter was the combined production of Widgets and Gadgets the highest?",
+        "options": {
+          "A": "Q1",
+          "B": "Q2",
+          "C": "Q3",
+          "D": "Q4",
+          "E": "Q2 and Q4 are equal"
+        },
+        "correct_answer": "D",
+        "explanation": "Calculate the combined production for each quarter: Q1 = 1200 + 900 = 2100, Q2 = 1350 + 1100 = 2450, Q3 = 1500 + 1300 = 2800, Q4 = 1650 + 1600 = 3250. The highest is Q4.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BarChart_004_Q4",
+        "question": "If the production of Widgets in Q2 had increased by 10%, what would have been the new total production for Widgets in the year?",
+        "options": {
+          "A": "5,835 units",
+          "B": "5,870 units",
+          "C": "5,940 units",
+          "D": "6,000 units",
+          "E": "5,970 units"
+        },
+        "correct_answer": "B",
+        "explanation": "New Q2 production = 1350 + (10% of 1350) = 1350 + 135 = 1485. New total production = 1200 + 1485 + 1500 + 1650 = 5,835 units.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BarChart_004_Q5",
+        "question": "What is the ratio of total production of Widgets to Gadgets for the entire year?",
+        "options": {
+          "A": "57:54",
+          "B": "19:16",
+          "C": "57:49",
+          "D": "19:18",
+          "E": "57:61"
+        },
+        "correct_answer": "C",
+        "explanation": "Total Widgets = 5700 units, Total Gadgets = 4900 units. Ratio = 5700:4900 = 57:49.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:40:33.918897",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012405000000000001,
+      "tokens_used": 2019
+    }
+  },
+  {
+    "di_set_id": "DI_BAR_CHART_005",
+    "topic": "Bar Chart - Import & Export Analysis",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Import & Export Values by Country (2019-2022)",
+      "categories": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "series": [
+        {
+          "name": "Country A - Imports",
+          "values": [
+            850,
+            900,
+            950,
+            1000
+          ]
+        },
+        {
+          "name": "Country A - Exports",
+          "values": [
+            800,
+            850,
+            920,
+            980
+          ]
+        },
+        {
+          "name": "Country B - Imports",
+          "values": [
+            780,
+            820,
+            870,
+            920
+          ]
+        },
+        {
+          "name": "Country B - Exports",
+          "values": [
+            750,
+            800,
+            860,
+            910
+          ]
+        }
+      ],
+      "units": "Values in Million USD"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BAR_005_Q1",
+        "question": "What was the percentage increase in exports for Country A from 2019 to 2022?",
+        "options": {
+          "A": "22.5%",
+          "B": "25%",
+          "C": "20%",
+          "D": "18.75%",
+          "E": "23.75%"
+        },
+        "correct_answer": "A",
+        "explanation": "Exports for Country A increased from 800 million USD in 2019 to 980 million USD in 2022. The percentage increase is calculated as ((980 - 800) / 800) * 100 = 22.5%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BAR_005_Q2",
+        "question": "In which year did Country B have the lowest trade balance (Exports - Imports)?",
+        "options": {
+          "A": "2019",
+          "B": "2020",
+          "C": "2021",
+          "D": "2022",
+          "E": "The trade balance was equal in all years."
+        },
+        "correct_answer": "A",
+        "explanation": "Trade balance for Country B: 2019: 750 - 780 = -30, 2020: 800 - 820 = -20, 2021: 860 - 870 = -10, 2022: 910 - 920 = -10. The lowest balance is in 2019.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BAR_005_Q3",
+        "question": "Calculate the compound annual growth rate (CAGR) of imports for Country A from 2019 to 2022.",
+        "options": {
+          "A": "5.56%",
+          "B": "5.76%",
+          "C": "5.89%",
+          "D": "6.12%",
+          "E": "6.25%"
+        },
+        "correct_answer": "B",
+        "explanation": "CAGR is calculated using the formula: CAGR = [(Ending Value / Beginning Value)^(1/n) - 1] * 100. For Country A's imports: [(1000 / 850)^(1/3) - 1] * 100 = 5.76%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BAR_005_Q4",
+        "question": "If Country B's exports grew by 10% in 2023, what would be the new export value?",
+        "options": {
+          "A": "1,001 million USD",
+          "B": "1,010 million USD",
+          "C": "1,020 million USD",
+          "D": "1,021 million USD",
+          "E": "1,100 million USD"
+        },
+        "correct_answer": "B",
+        "explanation": "Country B's exports in 2022 were 910 million USD. A 10% increase means the new value is 910 * 1.10 = 1,010 million USD.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BAR_005_Q5",
+        "question": "What is the average annual import value for Country A over the period 2019-2022?",
+        "options": {
+          "A": "925 million USD",
+          "B": "925.5 million USD",
+          "C": "935 million USD",
+          "D": "937.5 million USD",
+          "E": "945 million USD"
+        },
+        "correct_answer": "D",
+        "explanation": "The average import value is calculated by summing the imports for all years and dividing by the number of years: (850 + 900 + 950 + 1000) / 4 = 937.5 million USD.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:40:43.351230",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.013505,
+      "tokens_used": 2129
+    }
+  }
+]

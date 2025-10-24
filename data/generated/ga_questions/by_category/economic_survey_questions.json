@@ -1,0 +1,1006 @@
+{
+  "category": "economic_survey",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question": "What was India's estimated real GDP growth rate in FY24?",
+      "options": {
+        "A": "7.0%",
+        "B": "7.6%",
+        "C": "8.2%",
+        "D": "8.5%",
+        "E": "9.1%"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the Economic Survey, India's real GDP grew by 8.2 per cent in FY24, marking the third consecutive year of growth over 7 per cent. This information is stated in the Preface and Chapter 1. (page 8, 56)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433485",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the fiscal deficit of the Union Government as a percentage of GDP in FY24, according to provisional actuals?",
+      "options": {
+        "A": "5.4%",
+        "B": "5.6%",
+        "C": "5.9%",
+        "D": "6.4%",
+        "E": "6.7%"
+      },
+      "correct_answer": "B",
+      "explanation": "The fiscal deficit of the Union Government was brought down from 6.4 per cent of GDP in FY23 to 5.6 per cent of GDP in FY24, as per provisional actuals data. (page 64)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433612",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Gross Non-Performing Assets (GNPA) ratio of Scheduled Commercial Banks (SCBs) reached a 12-year low in March 2024. What was this ratio?",
+      "options": {
+        "A": "2.5%",
+        "B": "2.8%",
+        "C": "3.1%",
+        "D": "3.5%",
+        "E": "3.9%"
+      },
+      "correct_answer": "B",
+      "explanation": "Data from the RBI's Financial Stability Report shows that the asset quality of SCBs improved, with the Gross Non-Performing Assets (GNPA) ratio declining to a 12-year low of 2.8 per cent in March 2024. (page 74, 93)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433617",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the total number of Initial Public Offers (IPOs) in FY24, marking a 66 per cent increase from FY23?",
+      "options": {
+        "A": "164",
+        "B": "196",
+        "C": "252",
+        "D": "272",
+        "E": "301"
+      },
+      "correct_answer": "D",
+      "explanation": "The number of initial public offers (IPOs) increased by 66 per cent in FY24 from 164 in FY23 to 272 in FY24, reflecting robust primary market activity. (page 110)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433621",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Which scheme was launched in September 2023 to provide recognition, skill upgradation, and credit support to traditional artisans and craftspeople across 18 trades?",
+      "options": {
+        "A": "PM SVANidhi",
+        "B": "PM Vishwakarma Scheme",
+        "C": "Stand-Up India",
+        "D": "PM-KUSUM",
+        "E": "SAMARTH Mission"
+      },
+      "correct_answer": "B",
+      "explanation": "The PM Vishwakarma programme was launched in September 2023 to provide end-to-end support for traditional artisans and craftspeople working with traditional tools across 18 trades. (page 314)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433623",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the average retail inflation rate (CPI inflation) in India during FY24?",
+      "options": {
+        "A": "4.9%",
+        "B": "5.1%",
+        "C": "5.4%",
+        "D": "6.2%",
+        "E": "6.7%"
+      },
+      "correct_answer": "C",
+      "explanation": "Domestic inflationary pressures moderated in FY24. After averaging 6.7 per cent in FY23, retail inflation declined to 5.4 per cent in FY24. (page 26, 132)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433626",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was India's Current Account Deficit (CAD) as a percentage of GDP for the fiscal year FY24?",
+      "options": {
+        "A": "0.5%",
+        "B": "0.7%",
+        "C": "1.2%",
+        "D": "1.5%",
+        "E": "2.0%"
+      },
+      "correct_answer": "B",
+      "explanation": "The Current Account Deficit (CAD) narrowed significantly to 0.7 per cent of GDP in FY24, an improvement from the 2.0 per cent deficit in FY23, supported by a lower trade deficit and robust services exports. (page 8, 28, 75)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433628",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The manufacturing sector's Gross Value Added (GVA) showed a strong recovery in FY24. What was the growth rate of manufacturing GVA in FY24?",
+      "options": {
+        "A": "7.6%",
+        "B": "8.5%",
+        "C": "9.1%",
+        "D": "9.9%",
+        "E": "10.2%"
+      },
+      "correct_answer": "D",
+      "explanation": "Within the industrial sector, manufacturing GVA grew by 9.9 per cent in FY24, benefiting from reduced input prices and stable domestic demand. (page 57)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433630",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the Household Consumption Expenditure Survey (HCES) 2022-23, by what percentage did the Monthly Per Capita Consumption Expenditure (MPCE) in rural areas increase in real terms over 2011-12?",
+      "options": {
+        "A": "25.5%",
+        "B": "30.0%",
+        "C": "33.5%",
+        "D": "37.0%",
+        "E": "40.0%"
+      },
+      "correct_answer": "E",
+      "explanation": "The HCES 2022-23 results showed that the Monthly Per Capita Consumption Expenditure (MPCE) in rural areas increased in real terms by 40 per cent over 2011-12. (page 220)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433633",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The PM-KISAN scheme is a central sector scheme to supplement the financial needs of land-holding farmers. What is the annual economic benefit transferred to each eligible farmer's family under this scheme?",
+      "options": {
+        "A": "₹4,000",
+        "B": "₹5,000",
+        "C": "₹6,000",
+        "D": "₹8,000",
+        "E": "₹12,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Under the PM-KISAN scheme, an economic benefit of ₹6,000 per year is transferred in three equal four-monthly instalments into the bank accounts of farmers’ families. (page 331)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433635",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The female labour force participation rate (FLFPR) has shown a consistent rise over the past six years. What was the FLFPR in 2022-23 according to the annual PLFS?",
+      "options": {
+        "A": "23.3%",
+        "B": "28.5%",
+        "C": "32.8%",
+        "D": "37.0%",
+        "E": "41.5%"
+      },
+      "correct_answer": "D",
+      "explanation": "The female labour force participation rate has been rising for six years, increasing from 23.3 per cent in 2017-18 to 37 per cent in 2022-23, mainly driven by the rising participation of rural women. (page 79, 277)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433638",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Bank credit growth sustained momentum during FY24. What was the YoY growth in credit disbursal by Scheduled Commercial Banks (SCBs) at the end of March 2024?",
+      "options": {
+        "A": "15.0%",
+        "B": "18.5%",
+        "C": "20.2%",
+        "D": "22.5%",
+        "E": "25.1%"
+      },
+      "correct_answer": "C",
+      "explanation": "Credit disbursal by SCBs stood at ₹164.3 lakh crore, growing by 20.2 per cent at the end of March 2024, compared to a 15 per cent growth at the end of March 2023. (page 91)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433640",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As part of India's climate action commitments, what was the share of non-fossil fuel-based energy sources in the total installed electricity generation capacity as of May 2024?",
+      "options": {
+        "A": "32.5%",
+        "B": "38.9%",
+        "C": "41.2%",
+        "D": "45.4%",
+        "E": "50.1%"
+      },
+      "correct_answer": "D",
+      "explanation": "The composition of the electricity sector has changed significantly, with the share of non-fossil power capacity being 45.4 per cent as of May 2024, up from around 32 per cent in April 2014. (page 187, 230)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433642",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Union Budget for FY23 announced a revamp of the Credit Guarantee Scheme (CGS) for Micro and Small Enterprises (MSEs). What was the amount infused into the corpus of the Credit Guarantee Fund Trust for MSEs?",
+      "options": {
+        "A": "₹5,000 crore",
+        "B": "₹7,500 crore",
+        "C": "₹9,000 crore",
+        "D": "₹10,000 crore",
+        "E": "₹12,000 crore"
+      },
+      "correct_answer": "C",
+      "explanation": "To facilitate an additional credit of ₹2 lakh crore for MSEs, the CGS was revamped with an infusion of ₹9,000 crore in the corpus of Credit Guarantee Fund Trust for MSEs. (page 92)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433644",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Net Interest Margin (NIM) of Scheduled Commercial Banks (SCBs) as of March 2024?",
+      "options": {
+        "A": "2.9%",
+        "B": "3.2%",
+        "C": "3.6%",
+        "D": "3.9%",
+        "E": "4.1%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Net Interest Margin (NIM) of SCBs remained robust at 3.6 per cent in March 2024, having moderated from its peak of 3.9 per cent in Q1 of FY24. (page 94-95)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433646",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Amid a healthy economic performance, what was the total value of capital formation facilitated by primary markets in FY24?",
+      "options": {
+        "A": "₹8.5 lakh crore",
+        "B": "₹9.3 lakh crore",
+        "C": "₹10.1 lakh crore",
+        "D": "₹10.9 lakh crore",
+        "E": "₹11.5 lakh crore"
+      },
+      "correct_answer": "D",
+      "explanation": "Primary markets remained robust during FY24, facilitating capital formation of ₹10.9 lakh crore, compared to ₹9.3 lakh crore in FY23. (page 110)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433649",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the total outlay of the PM Formalization of Micro Food Processing Enterprises (PMFME) scheme, which provides credit-linked subsidy and capacity building?",
+      "options": {
+        "A": "₹5,000 Crore",
+        "B": "₹7,500 Crore",
+        "C": "₹10,000 Crore",
+        "D": "₹15,000 Crore",
+        "E": "₹20,000 Crore"
+      },
+      "correct_answer": "C",
+      "explanation": "The PMFME scheme was launched with a total outlay of ₹10 Thousand Crore to provide credit-linked subsidy, capacity building, marketing, and branding support to micro food processing enterprises. (page 342)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433651",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Yearly net payroll additions to the EPFO more than doubled between FY19 and FY24. What were the approximate figures for net payroll additions in these two years?",
+      "options": {
+        "A": "From 50 lakh in FY19 to 110 lakh in FY24",
+        "B": "From 61.1 lakh in FY19 to 131.5 lakh in FY24",
+        "C": "From 78.6 lakh in FY19 to 150 lakh in FY24",
+        "D": "From 65 lakh in FY19 to 140 lakh in FY24",
+        "E": "From 55.5 lakh in FY19 to 125.5 lakh in FY24"
+      },
+      "correct_answer": "B",
+      "explanation": "The yearly net payroll additions to the EPFO more than doubled from 61.1 lakh in FY19 to 131.5 lakh in FY24, showing a swift recovery from the pandemic. (page 282)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433653",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The compounded quarterly growth rate (CQGR) of India's deseasonalised quarterly GDP was higher in the post-pandemic period (Q3FY21 - Q4FY24) compared to the pre-pandemic period (Q1FY12 - Q4FY20). What were these respective growth rates?",
+      "options": {
+        "A": "1.7% post-pandemic vs 1.4% pre-pandemic",
+        "B": "1.8% post-pandemic vs 1.5% pre-pandemic",
+        "C": "1.9% post-pandemic vs 1.5% pre-pandemic",
+        "D": "2.0% post-pandemic vs 1.6% pre-pandemic",
+        "E": "2.1% post-pandemic vs 1.7% pre-pandemic"
+      },
+      "correct_answer": "C",
+      "explanation": "Analysis reveals that the compounded quarterly growth rate (CQGR) of deseasonalised quarterly GDP was greater in the period Q3 FY21 – Q4 FY24 at 1.9% than the CQGR of 1.5% in the pre-pandemic period of Q1 FY12 – Q4 FY20. (Table I.1, page 63)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433655",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Between FY19 and FY23, private sector Gross Fixed Capital Formation (GFCF) showed varied growth across its components. What was the cumulative growth in GFCF for 'Dwellings, other buildings and structures' compared to 'machinery and equipment and intellectual property products'?",
+      "options": {
+        "A": "55% vs 25%",
+        "B": "75% vs 45%",
+        "C": "90% vs 50%",
+        "D": "105% vs 35%",
+        "E": "120% vs 60%"
+      },
+      "correct_answer": "D",
+      "explanation": "A breakdown of private sector GFCF shows a significant divergence. Between FY19 and FY23, GFCF in 'Dwellings, other buildings and structures' increased by 105%, while GFCF in 'machinery and equipment and intellectual property products' grew cumulatively by only 35%. (page 10)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433658",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The National Monetisation Pipeline (NMP) has a potential of ₹6 lakh crore over FY22-FY25. What were the total monetisation receipts recorded from FY22 to FY24 against the target of ₹4.3 lakh crore for that period?",
+      "options": {
+        "A": "₹2.9 lakh crore",
+        "B": "₹3.3 lakh crore",
+        "C": "₹3.5 lakh crore",
+        "D": "₹3.9 lakh crore",
+        "E": "₹4.1 lakh crore"
+      },
+      "correct_answer": "D",
+      "explanation": "The National Monetisation Pipeline (NMP) listed assets with a potential of ₹6 lakh crore for monetisation over FY22–FY25. During the period FY22-FY24, receipts worth ₹3.9 lakh crore have been recorded against a target of ₹4.3 lakh crore. (page 66)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433660",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The composition of merchandise exports shifted in FY24, with the share of capital goods rising substantially. What was the share of capital goods in merchandise exports in FY24 compared to FY23?",
+      "options": {
+        "A": "From 15.1% in FY23 to 17.5% in FY24",
+        "B": "From 16.3% in FY23 to 18.9% in FY24",
+        "C": "From 17.0% in FY23 to 19.5% in FY24",
+        "D": "From 14.8% in FY23 to 18.2% in FY24",
+        "E": "From 16.9% in FY23 to 19.1% in FY24"
+      },
+      "correct_answer": "B",
+      "explanation": "There was a notable shift in the composition of exports. The share of capital goods in merchandise exports rose substantially from 16.3 per cent in FY23 to 18.9 per cent in FY24, indicating improved supplies of machinery and equipment. (page 111)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433662",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The total number of subscribers under the National Pension Scheme (NPS) and Atal Pension Yojana (APY) registered a YoY growth of 18 per cent as of March 2024. The total number of subscribers increased from what level in March 2023 to what level in March 2024?",
+      "options": {
+        "A": "From 583.6 lakh to 695.6 lakh",
+        "B": "From 601.2 lakh to 715.4 lakh",
+        "C": "From 623.6 lakh to 735.6 lakh",
+        "D": "From 501.2 lakh to 588.4 lakh",
+        "E": "From 650.1 lakh to 767.8 lakh"
+      },
+      "correct_answer": "C",
+      "explanation": "India's pension sector expanded significantly, with the total number of subscribers under NPS and APY standing at 735.6 lakh as of March 2024, registering a YoY growth of 18 per cent from 623.6 lakh as of March 2023. (page 125)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433664",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the revamped Credit Guarantee Scheme (CGS) for MSEs, guarantees worth ₹2.02 lakh crore were extended in FY24. Of this amount, what were the respective guarantee amounts extended to women-owned and SC/ST-owned enterprises?",
+      "options": {
+        "A": "₹25,123 crore to women & ₹4,393 crore to SC/ST",
+        "B": "₹30,523 crore to women & ₹5,093 crore to SC/ST",
+        "C": "₹32,223 crore to women & ₹5,393 crore to SC/ST",
+        "D": "₹35,823 crore to women & ₹6,193 crore to SC/ST",
+        "E": "₹28,423 crore to women & ₹4,893 crore to SC/ST"
+      },
+      "correct_answer": "C",
+      "explanation": "Under the revamped CGS for MSEs, guarantees worth ₹2.02 lakh crore were extended in FY24, out of which ₹32,223 crore were extended to women-owned enterprises and ₹5,393 crore were extended to SC/ST-owned enterprises. (page 92)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433666",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the analysis of India's post-pandemic recovery using deseasonalised macroeconomic variables, which major variable was identified as still lagging behind its pre-pandemic trend projection as of March 2024?",
+      "options": {
+        "A": "GDP",
+        "B": "Private Final Consumption Expenditure (PFCE)",
+        "C": "Gross Fixed Capital Formation (GFCF)",
+        "D": "Industrial GVA",
+        "E": "Services GVA"
+      },
+      "correct_answer": "E",
+      "explanation": "The visualisation of key macroeconomic variables reveals that while GDP, GVA, private consumption, GFCF, and industrial GVA have recovered quickly to their pre-pandemic trends, the GVA of the services sector is yet to reach the level projected by its pre-pandemic trend. (Chart I.32, page 62)",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:17:50.433671",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the first advance estimates, what is India's real GDP growth estimated to be for FY25?",
+      "options": {
+        "A": "6.2 per cent",
+        "B": "6.4 per cent",
+        "C": "6.8 per cent",
+        "D": "7.0 per cent",
+        "E": "7.3 per cent"
+      },
+      "correct_answer": "B",
+      "explanation": "As per the first advance estimates released by the National Statistical Office (MoSPI), the real gross domestic product (GDP) growth for FY25 is estimated to be 6.4 per cent. (Page 56, Para 1.22)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570782",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected range for India's real GDP growth in FY26?",
+      "options": {
+        "A": "6.0 to 6.5 per cent",
+        "B": "6.1 to 6.6 per cent",
+        "C": "6.3 to 6.8 per cent",
+        "D": "6.5 to 7.0 per cent",
+        "E": "6.8 to 7.2 per cent"
+      },
+      "correct_answer": "C",
+      "explanation": "On balance of considerations regarding robust domestic fundamentals and global headwinds, the survey expects that the growth in FY26 would be between 6.3 and 6.8 per cent. (Page 78, Para 1.73)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570859",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the PM - Surya Ghar: Muft Bijli Yojana, what is the target for residential rooftop solar capacity to be installed in one crore households?",
+      "options": {
+        "A": "20 gigawatts",
+        "B": "25 gigawatts",
+        "C": "30 gigawatts",
+        "D": "35 gigawatts",
+        "E": "40 gigawatts"
+      },
+      "correct_answer": "C",
+      "explanation": "The PM - Surya Ghar: Muft Bijli Yojana aims to install rooftop solar plants in one crore households, which is expected to enable approximately 30 gigawatts of residential rooftop solar capacity. (Page 289, Para 10.35)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570863",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the unemployment rate for individuals aged 15 years and above in 2023-24, as per the annual Periodic Labour Force Survey (PLFS) report?",
+      "options": {
+        "A": "6.0 per cent",
+        "B": "5.2 per cent",
+        "C": "4.1 per cent",
+        "D": "3.2 per cent",
+        "E": "2.8 per cent"
+      },
+      "correct_answer": "D",
+      "explanation": "As per the 2023-24 annual PLFS report, the unemployment rate for individuals aged 15 years and above has steadily declined from 6 per cent in 2017-18 to 3.2 per cent in 2023-24. (Page 76, Para 1.65)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570866",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Monetary Policy Committee (MPC) of the RBI kept the policy repo rate unchanged during the first nine months of FY25. What was this rate?",
+      "options": {
+        "A": "6.0 per cent",
+        "B": "6.25 per cent",
+        "C": "6.5 per cent",
+        "D": "6.75 per cent",
+        "E": "7.0 per cent"
+      },
+      "correct_answer": "C",
+      "explanation": "During the first nine months of FY25 (April 2024-December 2024), the Monetary Policy Committee (MPC) of the RBI decided to keep the policy repo rate unchanged at 6.5 per cent. (Page 81, Para 2.4)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570870",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the Amrit Bharat Station Scheme, how many railway stations have been identified for redevelopment to enhance passenger amenities?",
+      "options": {
+        "A": "1197",
+        "B": "1337",
+        "C": "557",
+        "D": "1900",
+        "E": "866"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the Amrit Bharat Station Scheme, which is aimed at enhancing railway station amenities, 1337 stations have been identified for redevelopment, with work having started in 1197 of them. (Page 212, Box VI.2)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570873",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Gross Non-Performing Assets (GNPA) ratio of Scheduled Commercial Banks declined to a 12-year low at the end of September 2024. What was this ratio?",
+      "options": {
+        "A": "3.9 per cent",
+        "B": "3.2 per cent",
+        "C": "2.8 per cent",
+        "D": "2.6 per cent",
+        "E": "2.1 per cent"
+      },
+      "correct_answer": "D",
+      "explanation": "The GNPA ratio of SCBs has declined consistently to a 12-year low of 2.6 per cent at the end of September 2024. (Page 84, Para 2.9)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570876",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was India's Current Account Deficit (CAD) as a percentage of GDP in Q2 of FY25?",
+      "options": {
+        "A": "0.9 per cent",
+        "B": "1.2 per cent",
+        "C": "1.5 per cent",
+        "D": "1.8 per cent",
+        "E": "2.1 per cent"
+      },
+      "correct_answer": "B",
+      "explanation": "India's current account deficit (CAD) moderated slightly to 1.2 per cent of GDP in Q2 of FY25, against 1.3 per cent of the GDP recorded in Q2 of FY24. (Page 149, Para 3.44)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570879",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The first advanced estimates of agricultural production for 2024-25 project a record total Kharif food grain production. What is the estimated figure?",
+      "options": {
+        "A": "1547.05 lakh metric tonnes (LMT)",
+        "B": "1600.00 lakh metric tonnes (LMT)",
+        "C": "1647.05 lakh metric tonnes (LMT)",
+        "D": "1705.50 lakh metric tonnes (LMT)",
+        "E": "1747.00 lakh metric tonnes (LMT)"
+      },
+      "correct_answer": "C",
+      "explanation": "As per the first advanced estimates of agricultural production for 2024-25, total Kharif food grain production is estimated at a record 1647.05 lakh metric tonnes (LMT). (Page 59, Para 1.29)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570881",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the growth rate of Private Final Consumption Expenditure (PFCE) in H1 FY25?",
+      "options": {
+        "A": "5.4 per cent",
+        "B": "6.0 per cent",
+        "C": "6.7 per cent",
+        "D": "7.3 per cent",
+        "E": "8.1 per cent"
+      },
+      "correct_answer": "C",
+      "explanation": "Private Final Consumption Expenditure (PFCE) firmed up in H1 FY25, growing by 6.7 per cent YoY, with indicators suggesting that rural demand contributed to this growth. (Page 62, Para 1.36)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570884",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the RBI's OBICUS survey, what was the seasonally adjusted capacity utilisation (CU) in manufacturing firms in Q2 FY25?",
+      "options": {
+        "A": "71.8 per cent",
+        "B": "72.5 per cent",
+        "C": "73.8 per cent",
+        "D": "74.7 per cent",
+        "E": "75.1 per cent"
+      },
+      "correct_answer": "D",
+      "explanation": "The RBI’s Order Books, Inventory, and Capacity Utilisation Survey (OBICUS) showed that the seasonally adjusted capacity utilisation (CU) in manufacturing firms was 74.7 per cent in Q2 FY25, which is above the long-term average of 73.8 per cent. (Page 64, Para 1.40)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570887",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Retail headline inflation (CPI) softened during April – December 2024 compared to FY24. What was the average CPI inflation during this period?",
+      "options": {
+        "A": "5.4 per cent",
+        "B": "5.1 per cent",
+        "C": "4.9 per cent",
+        "D": "4.5 per cent",
+        "E": "4.2 per cent"
+      },
+      "correct_answer": "C",
+      "explanation": "Retail headline inflation, as measured by the CPI, softened from 5.4 per cent in FY24 to 4.9 per cent in April – December 2024. (Page 70, Para 1.52)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570890",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As of December 31, 2024, how many Ayushman Arogya Mandirs (AAMs) have been operationalised under the Ayushman Bharat initiative?",
+      "options": {
+        "A": "1,50,250 +",
+        "B": "1,65,890 +",
+        "C": "1,75,560 +",
+        "D": "1,85,120 +",
+        "E": "1,95,430 +"
+      },
+      "correct_answer": "C",
+      "explanation": "Under Ayushman Bharat, 1,75,560+ Ayushman Arogya Mandirs (formerly Health & Wellness Centres) have been operationalised as of 31 December 2024. (Page 377, Table XI.2)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570893",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the targeted production capacity of Green Hydrogen per annum under the National Green Hydrogen Mission?",
+      "options": {
+        "A": "2 million metric tonnes",
+        "B": "3 million metric tonnes",
+        "C": "5 million metric tonnes",
+        "D": "8 million metric tonnes",
+        "E": "10 million metric tonnes"
+      },
+      "correct_answer": "C",
+      "explanation": "The National Green Hydrogen Mission aims to achieve a production capacity of about five million metric tonnes per annum of Green Hydrogen. (Page 290, Para 10.42)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570896",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The textile and apparel industry contributes approximately what percentage to India's GDP?",
+      "options": {
+        "A": "2.3 per cent",
+        "B": "3.5 per cent",
+        "C": "5.1 per cent",
+        "D": "7.0 per cent",
+        "E": "12.0 per cent"
+      },
+      "correct_answer": "A",
+      "explanation": "The textile and apparel industry contributes 2.3 per cent of GDP, 13 per cent to industrial production, and 12 per cent to exports. (Page 139, Para 3.26)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570899",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the 2024 Global Innovation Index, what was India's rank among 133 economies?",
+      "options": {
+        "A": "51st",
+        "B": "45th",
+        "C": "40th",
+        "D": "39th",
+        "E": "35th"
+      },
+      "correct_answer": "D",
+      "explanation": "India’s rank in the Global Innovation Index has improved to 39th in 2024 among 133 economies from its 81st position in 2015. (Page 249, Box VII.2)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570902",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Female Labour Force Participation Rate (FLFPR) in India in 2023-24, primarily driven by the rising participation of rural women?",
+      "options": {
+        "A": "23.3 per cent",
+        "B": "31.2 per cent",
+        "C": "38.7 per cent",
+        "D": "41.7 per cent",
+        "E": "47.6 per cent"
+      },
+      "correct_answer": "D",
+      "explanation": "The female labour force participation rate (FLFPR) has been rising for seven years, from 23.3 per cent in 2017-18 to 41.7 per cent in 2023-24. (Page 415, Para 12.16)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570904",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Capital to Risk-Weighted Assets Ratio (CRAR) for Scheduled Commercial Banks as of September 2024?",
+      "options": {
+        "A": "15.8 per cent",
+        "B": "16.3 per cent",
+        "C": "16.7 per cent",
+        "D": "17.2 per cent",
+        "E": "18.1 per cent"
+      },
+      "correct_answer": "C",
+      "explanation": "At the end of September 2024, the Capital to Risk-Weighted Assets Ratio (CRAR) of Scheduled Commercial Banks stood at 16.7 per cent, well above the regulatory norm. (Page 84, Para 2.10 & Chart II.3b)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570907",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Which of the following service sub-sectors, being contact-intensive, had not yet surpassed its pre-pandemic trend level by the first half of FY25?",
+      "options": {
+        "A": "Financial, real estate and professional services",
+        "B": "Public administration, defence, and other services",
+        "C": "Trade, hotels, transport, and communication services",
+        "D": "Utilities, including electricity and gas",
+        "E": "Construction services"
+      },
+      "correct_answer": "C",
+      "explanation": "The recovery within the services sector has been uneven. While financial services and public administration surpassed pre-pandemic trend levels, 'trade, hotels, transport, and communication services' are still gradually catching up with the pre-pandemic trend. (Page 57, Para 1.27 & Chart I.26)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570910",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Arrange the following sectors in descending order of their share in total FDI equity inflows during H1 of FY25: 1. Computer software and hardware 2. Services Sector 3. Trading 4. Non-conventional energy",
+      "options": {
+        "A": "1, 2, 3, 4",
+        "B": "2, 1, 3, 4",
+        "C": "2, 3, 1, 4",
+        "D": "1, 3, 4, 2",
+        "E": "2, 1, 4, 3"
+      },
+      "correct_answer": "B",
+      "explanation": "In H1 of FY25, the Services sector was the largest recipient of FDI (19.1%), followed by computer software and hardware (14.1%), trading (9.1%), and non-conventional energy (7.0%). (Page 152, Para 3.51 & Chart III.15)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570913",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the analysis of the PDS/PMGKAY subsidy in 2022-23, what was the approximate value of the subsidy as a percentage of household consumption for the rural bottom 20 per cent?",
+      "options": {
+        "A": "2 per cent",
+        "B": "4 per cent",
+        "C": "7 per cent",
+        "D": "10 per cent",
+        "E": "15 per cent"
+      },
+      "correct_answer": "C",
+      "explanation": "The imputation exercise suggests that in 2022-23, the value of the PDS/PMGKAY subsidy accounted, on average, for seven per cent of household consumption among the rural bottom 20 per cent, compared to only two per cent among the top 20 per cent. (Page 351, Box XI.1)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570920",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Considering the data on vocational training for the 15-59 age group in 2023-24, which statement is correct regarding the sources of training?",
+      "options": {
+        "A": "Formal vocational training is the largest source of skilling.",
+        "B": "Self-learning accounts for a larger share of the workforce than learning on the job.",
+        "C": "The majority of the workforce, over 65%, received no vocational training.",
+        "D": "Hereditary training is more common than learning on the job.",
+        "E": "More than 25% of the workforce has received some form of vocational training."
+      },
+      "correct_answer": "C",
+      "explanation": "The PLFS 2023-24 data shows that 65.3% of the workforce in the 15-59 age group received no form of vocational training. Hereditary training (11.6%) was the most common source, followed by Learning on the Job (9.3%) and Self Learning (7.1%). (Page 399, Chart XII.22)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570923",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the NITI Aayog working paper's strategic classification of service sub-sectors, which of the following falls under the 'Sectors to accelerate' category, characterized by low-moderate export and moderate-high GVA & employment share?",
+      "options": {
+        "A": "Computer & information services",
+        "B": "Professional, scientific & other business services",
+        "C": "Travel, health, and recreational services",
+        "D": "Transport, education, and financial services",
+        "E": "Telecommunications and insurance services"
+      },
+      "correct_answer": "D",
+      "explanation": "The NITI Aayog framework classifies sectors with low-moderate export and moderate-high GVA & employment share under 'Sectors to accelerate'. This category includes trade & repair, transport, education, and financial services. (Page 270, Chart VIII.9 Summary)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570926",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Between FY14 and FY24, what was the approximate increase in the share of consumer credit in total bank credit?",
+      "options": {
+        "A": "It increased from 18.3% to 25.5%",
+        "B": "It decreased from 32.4% to 22.3%",
+        "C": "It increased from 14.1% to 28.9%",
+        "D": "It increased from 18.3% to 32.4%",
+        "E": "It remained stable at around 20%"
+      },
+      "correct_answer": "D",
+      "explanation": "Between FY14 and FY24, the share of consumer credit in total bank credit increased significantly from 18.3 per cent to 32.4 per cent, indicating a major shift in the financial sector. (Page 122, Para 2.89)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570928",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Which of the following statements best describes the performance of India's construction and manufacturing sub-sectors in the post-pandemic recovery up to H1 FY25?",
+      "options": {
+        "A": "Both manufacturing and construction GVA have surpassed their pre-pandemic trends significantly.",
+        "B": "Manufacturing GVA is well above its pre-pandemic trend, while construction GVA is lagging behind.",
+        "C": "Construction GVA is approximately 15% above its pre-pandemic trend, whereas manufacturing is still slightly below its trend.",
+        "D": "Both sectors are recovering but remain significantly below their respective pre-pandemic trend levels.",
+        "E": "Manufacturing and construction have recovered at an identical pace, both hovering just at their pre-pandemic trend lines."
+      },
+      "correct_answer": "C",
+      "explanation": "A closer look at industrial sub-sectors shows that construction has been a standout, soaring approximately 15 per cent above its pre-pandemic trend. In contrast, manufacturing, while steadily recovering, remains slightly below its pre-pandemic trajectory. (Page 57, Para 1.26 & Chart I.25)",
+      "source_document": "Economic_Survey_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Sectoral_Performance",
+      "subject": "General_Awareness",
+      "report_category": "economic_survey",
+      "generated_date": "2025-10-02T22:20:03.570931",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    }
+  ]
+}

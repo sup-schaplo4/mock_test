@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "statement_course_of_action_001",
+    "question": "Statement: The local government has noticed a significant increase in traffic congestion in the city center during peak hours, causing inconvenience to commuters and impacting businesses.\n\nCourses of Action:\nI. Implement a congestion charge for vehicles entering the city center during peak hours.\nII. Increase public transportation frequency and capacity to reduce the number of private vehicles on the road.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem is peak hour traffic congestion in the city center, which affects both commuters and businesses. (2) Course of Action I is relevant and practical as a congestion charge can discourage vehicle entry during peak times, directly addressing the congestion issue. (3) Course of Action II is also relevant as improving public transport can provide an alternative to private vehicles, reducing road congestion. (4) Both actions are feasible and likely to be effective, hence both follow.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_002",
+    "question": "Statement: A recent survey indicated that students in public schools are not meeting national reading standards.\n\nCourses of Action:\nI. Introduce a new reading program that uses modern interactive learning technologies.\nII. Increase the number of reading tests to assess students' progress more frequently.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) The problem is the inability of students to meet national reading standards, indicating a need for improvement in teaching methods. (2) Course of Action I is relevant as it focuses on improving teaching methods through interactive technologies, which can directly enhance learning and reading skills. (3) Course of Action II focuses on testing rather than teaching, which doesn't address the root cause. Frequent testing without improved learning strategies won't enhance reading abilities. Hence, only the first action follows.",
+    "difficulty": "Easy",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_003",
+    "question": "Statement: A manufacturing company is experiencing a high rate of employee turnover, which is affecting its production schedules.\n\nCourses of Action:\nI. Conduct exit interviews to understand the reasons for employees leaving and implement necessary changes.\nII. Offer higher salaries to employees to retain them.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) The issue is high employee turnover affecting production. (2) Course of Action I is appropriate as understanding why employees are leaving can help address root causes and implement targeted solutions, making it relevant and practical. (3) Course of Action II focuses solely on salary, which may not be the primary issue for turnover. Without understanding the reasons, simply offering higher salaries might not effectively solve the problem. Thus, only the first action follows.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_004",
+    "question": "Statement: Due to budget cuts, a public library is unable to purchase new books and resources, leading to a decrease in visitors.\n\nCourses of Action:\nI. Seek donations from the community and local businesses to fund new acquisitions.\nII. Organize fundraising events to generate additional revenue for purchasing new materials.\nIII. Reduce library hours to minimize operational costs.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) The problem involves budget constraints limiting resource acquisition, affecting library visitor numbers. (2) Course of Action I is relevant and practical, as seeking community support can help acquire new resources without budget strain. (3) Course of Action II is another effective strategy, as fundraising can directly generate funds for new materials. (4) Course of Action III, reducing hours, might save costs but doesn't address the lack of resources, potentially further decreasing visitors. Thus, only actions I and II follow.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_005",
+    "question": "Statement: The local water supply system is frequently disrupted due to aging infrastructure, leading to water shortages and public dissatisfaction.\n\nCourses of Action:\nI. Replace the old infrastructure in phases to minimize water supply disruptions.\nII. Implement temporary measures like water tankers to provide immediate relief to affected areas.\nIII. Increase water tariffs to raise funds for infrastructure improvements.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The issue is frequent water supply disruptions due to aging infrastructure. (2) Course of Action I addresses the root cause by replacing old infrastructure, making it relevant and necessary. (3) Course of Action II provides immediate relief, making it a practical short-term measure. (4) Course of Action III helps secure necessary funding for long-term improvements, supporting the feasibility of Course of Action I. All actions are relevant and practical, addressing both immediate and root causes. Thus, all actions follow.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_006",
+    "question": "Statement: A local government has noticed an increasing number of accidents at a busy intersection where traffic signals frequently malfunction.\n\nCourses of Action:\nI. The government should immediately repair and regularly maintain the traffic signals to ensure they function properly.\nII. The government should deploy traffic police at the intersection until the signals are fully repaired.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem is the malfunctioning traffic signals causing accidents. (2) Course of Action I directly addresses the root cause by repairing and maintaining the signals, which is relevant, practical, and effective. (3) Course of Action II provides a temporary but practical solution to manage traffic safely until repairs are done. (4) Both actions together ensure immediate safety and long-term functionality.",
+    "difficulty": "Easy",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_007",
+    "question": "Statement: A city has been facing severe water shortages due to prolonged drought, affecting both residents and local businesses.\n\nCourses of Action:\nI. The city should impose strict water usage restrictions for households and businesses.\nII. The city should invest in a new desalination plant to provide an alternative water source.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem involves water shortages due to drought. (2) Course of Action I is immediately practical and can mitigate shortages by reducing water usage, addressing the problem's urgency. (3) Course of Action II offers a long-term solution by providing a sustainable water source, although it requires significant investment and time. (4) Both actions complement each other by addressing both the immediate and future needs.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_008",
+    "question": "Statement: A significant increase in air pollution levels in a major city has led to health concerns among its residents, particularly affecting the elderly and children.\n\nCourses of Action:\nI. The government should implement stricter emission standards for vehicles and industrial units immediately.\nII. Public health advisories should be issued to minimize outdoor activities, especially for vulnerable groups.\nIII. The city should increase green spaces by planting more trees to improve air quality long-term.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem is high air pollution affecting health. (2) Course of Action I addresses the root cause by targeting emissions, which is relevant and essential for long-term improvement. (3) Course of Action II is a practical immediate response to protect vulnerable populations. (4) Course of Action III offers a sustainable method to improve air quality over time, complementing the other actions. (5) All actions together provide a comprehensive response to both immediate and future concerns.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_009",
+    "question": "Statement: A university has reported a sharp decline in student enrollment for science courses despite having state-of-the-art facilities.\n\nCourses of Action:\nI. The university should launch a marketing campaign highlighting its facilities and the potential career opportunities in science.\nII. The university should consult current students and faculty to identify the reasons for declining interest in science courses.\nIII. The university should offer scholarships to attract more students to enroll in science courses.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem is declining enrollment in science despite good facilities. (2) Course of Action I can improve perceptions and interest through effective marketing, directly addressing the issue. (3) Course of Action II is essential for understanding underlying causes and ensuring targeted interventions. (4) Course of Action III provides a tangible incentive for students, making science courses financially attractive. (5) Together, all actions provide a comprehensive approach to addressing both perception and enrollment challenges.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_010",
+    "question": "Statement: A large manufacturing company is experiencing decreased productivity due to outdated machinery, leading to missed deadlines and customer dissatisfaction.\n\nCourses of Action:\nI. The company should invest in upgrading its machinery and equipment to improve efficiency.\nII. The company should hire additional workers to compensate for the reduced output from the old machines.\nIII. The company should conduct a comprehensive review of its production processes to identify and rectify inefficiencies.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and III follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) The problem centers on decreased productivity due to outdated machinery. (2) Course of Action I directly addresses this by improving machinery, which is a long-term solution to increase efficiency. (3) Course of Action II does not address the root cause and may lead to increased costs without solving the machinery issue. (4) Course of Action III is relevant as it can identify other inefficiencies in the production process that may be contributing to the problem. (5) Courses of Action I and III are comprehensive approaches that effectively target both the immediate and root causes of productivity issues.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_011",
+    "question": "Statement: The local library has been experiencing a significant decrease in the number of visitors, attributed mainly to the lack of modern facilities and the availability of digital resources elsewhere.\n\nCourses of Action:\nI. The library should invest in digital resources and upgrade its facilities to attract more visitors.\nII. The library should reduce its operating hours to cut costs in response to the decreased number of visitors.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "A",
+    "explanation": "(1) The problem is the declining number of visitors due to outdated facilities and lack of digital resources. (2) Course of Action I addresses this directly by proposing investments to upgrade facilities and resources, which is logical and practical. (3) Course of Action II does not address the root cause and is counterproductive to the goal of attracting more visitors. (4) Therefore, only Course of Action I follows.",
+    "difficulty": "Easy",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_012",
+    "question": "Statement: A significant number of students in a school are consistently failing mathematics, and this trend is affecting the overall performance of the school.\n\nCourses of Action:\nI. The school should hire additional mathematics tutors to provide extra support to struggling students.\nII. The school should conduct a review of the mathematics curriculum to identify areas where students are facing difficulties.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "(1) The issue is poor student performance in mathematics. (2) Course of Action I is relevant as it addresses the need for additional support, likely improving individual student outcomes. (3) Course of Action II aims to identify systemic issues in the curriculum, potentially improving the educational approach. Both actions are relevant and practical, addressing different aspects of the problem.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_013",
+    "question": "Statement: A company has been losing market share due to poor customer service, which has resulted in negative reviews and declining sales.\n\nCourses of Action:\nI. The company should implement a comprehensive customer service training program for all customer-facing employees.\nII. The company should launch a marketing campaign emphasizing new products to attract customers.\nIII. The company should seek feedback from existing customers to identify specific areas for improvement in service.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "D",
+    "explanation": "(1) The core issue is declining sales due to poor customer service. (2) Course of Action I is relevant as it directly addresses improving service quality through training. (3) Course of Action II, while potentially helpful, does not address the root cause related to service issues. (4) Course of Action III is crucial for understanding customer needs and improving service based on feedback. Therefore, Courses II and III are relevant, with Course II addressing symptoms, but only Courses I and III directly tackle the root cause effectively.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_014",
+    "question": "Statement: A city is facing severe traffic congestion during peak hours, causing delays and increasing pollution levels.\n\nCourses of Action:\nI. The city should invest in expanding public transportation services to reduce the number of private vehicles on the road.\nII. Implement a carpooling incentive program to encourage citizens to share rides during peak hours.\nIII. Increase road taxes on private vehicles to discourage their use during peak hours.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "E",
+    "explanation": "(1) The issue involves traffic congestion and pollution. (2) Course of Action I addresses congestion by promoting public transport, a long-term and direct solution. (3) Course of Action II uses behavioral incentives to reduce vehicle numbers, offering a short-term, practical solution. (4) Course of Action III adds economic disincentives to further discourage private vehicle use. All actions are complementary, each addressing different facets of the problem effectively.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_015",
+    "question": "Statement: A rural village is facing a severe water shortage due to inadequate rainfall and depleted groundwater levels.\n\nCourses of Action:\nI. The government should provide financial aid to install rainwater harvesting systems in the village.\nII. Implement water rationing to ensure equitable distribution of available water resources.\nIII. Encourage the cultivation of drought-resistant crops among the villagers.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "E",
+    "explanation": "(1) The problem is a critical water shortage due to lack of rainfall and groundwater depletion. (2) Course of Action I provides a sustainable solution by enhancing rainwater collection, addressing long-term water availability. (3) Course of Action II ensures current water distribution remains fair, a necessary short-term measure. (4) Course of Action III helps the village adapt to water scarcity, reducing dependence on water-intensive crops. Each action complements the others, targeting both immediate and future needs.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_016",
+    "question": "Statement: The local park has been increasingly littered with trash, which is causing environmental damage and discouraging community use.\n\nCourses of Action:\nI. The local government should organize a community clean-up event and provide more trash bins throughout the park.\nII. Impose fines on individuals caught littering to deter this behavior.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem is litter in the park causing environmental harm. (2) Course of Action I is relevant and practical as it directly addresses the issue by cleaning up existing litter and preventing future littering with more bins. (3) Course of Action II follows as it acts as a deterrent against future littering through fines. (4) Both actions are necessary for long-term improvement, hence both follow.",
+    "difficulty": "Easy",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_017",
+    "question": "Statement: A recent survey shows that a significant number of employees in a company are dissatisfied with their current roles, leading to a high turnover rate.\n\nCourses of Action:\nI. The company should implement regular feedback sessions to understand employee concerns and make necessary adjustments.\nII. Increase salaries across the board to improve employee satisfaction.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) The issue is high turnover due to dissatisfaction. (2) Course of Action I is directly relevant and practical; it addresses the root cause by seeking employee input, which can lead to informed changes. (3) Course of Action II is less logical as dissatisfaction may not solely be due to salaries; thus, increasing salaries may not effectively resolve the problem. (4) Therefore, only Course of Action I follows.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_018",
+    "question": "Statement: The city has experienced a series of flash floods due to inadequate drainage systems, causing damage to property and disruptions in daily life.\n\nCourses of Action:\nI. Upgrade the city's drainage infrastructure to better handle heavy rainfall.\nII. Implement an early warning system to alert residents of incoming floods.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem is damage from flash floods due to poor drainage. (2) Course of Action I is logical and practical as it directly addresses the root cause by improving drainage systems. (3) Course of Action II complements the first by providing timely alerts, reducing the impact of unavoidable floods. (4) Both actions together improve the city's resilience to flooding, thus both follow.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_019",
+    "question": "Statement: In response to rising air pollution levels, a city is considering ways to improve air quality.\n\nCourses of Action:\nI. Increase the frequency of public transportation services to reduce the number of vehicles on the road.\nII. Implement stricter emission standards for all vehicles operating within the city.\nIII. Encourage the use of electric vehicles by providing subsidies and incentives.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem is high air pollution levels. (2) Course of Action I is relevant as it reduces vehicle emissions by promoting public transport. (3) Course of Action II is practical and effective as it directly limits emissions from vehicles, addressing a primary pollution source. (4) Course of Action III encourages a shift towards cleaner technology, providing a long-term solution. (5) All actions combined comprehensively address the pollution issue, thus all follow.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_020",
+    "question": "Statement: A significant number of students in a university are failing their final exams, causing concerns about the quality of education.\n\nCourses of Action:\nI. Revise the curriculum to align better with current industry standards and student needs.\nII. Increase the frequency of assessments to monitor student progress continuously.\nIII. Implement mandatory study groups for all courses.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) The issue is high failure rates, possibly due to inadequate curriculum and lack of assessment. (2) Course of Action I follows as updating the curriculum could directly improve learning relevance and outcomes. (3) Course of Action II follows by providing regular feedback on student progress, which could identify and address issues early. (4) Course of Action III is less practical as it may be overly prescriptive and does not directly address the identified root causes, thus only I and II follow.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_021",
+    "question": "Statement: The city of Greenvale has been facing water shortages due to a prolonged drought. Reservoirs are at critically low levels, and local agriculture is severely affected.\n\nCourses of Action:\nI. The city should implement water rationing for households and industries to manage the remaining water resources.\nII. The government should provide subsidies to farmers to implement water-efficient irrigation systems.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem involves water shortages and impacts on agriculture. (2) Course of Action I addresses immediate water management through rationing, which is relevant and practical. (3) Course of Action II targets long-term water use efficiency in agriculture, which is effective and feasible given government support. (4) Both actions are logical and appropriate in addressing the issue.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_022",
+    "question": "Statement: The public library in the town of Brookfield has seen a significant decrease in visitors over the past year, attributed to outdated resources and limited digital access.\n\nCourses of Action:\nI. The library should update its collection by purchasing new books and subscribing to digital resources.\nII. The town council should increase funding for library renovations and technological upgrades.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem of decreased library visitors is due to outdated resources and lack of digital access. (2) Course of Action I directly addresses the resource issue by updating collections, which is logical and effective. (3) Course of Action II addresses infrastructure and technology, which is necessary for improving accessibility and appeal. (4) Both actions are relevant and complement each other.",
+    "difficulty": "Easy",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_023",
+    "question": "Statement: There is an alarming rise in road accidents in Metro City, attributed to poor traffic management and insufficient road safety measures.\n\nCourses of Action:\nI. The city should increase the number of traffic signals and hire more traffic police officers.\nII. An awareness campaign should be launched to educate the public on road safety.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The problem is the rise in road accidents due to poor management and safety measures. (2) Course of Action I directly addresses management and control through signals and personnel, making it effective. (3) Course of Action II supports long-term behavioral change through education, addressing underlying safety issues. (4) Both actions together create a comprehensive response to the issue.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_024",
+    "question": "Statement: A major steel manufacturing company is facing a decline in productivity due to frequent machinery breakdowns and unskilled labor force.\n\nCourses of Action:\nI. The company should invest in regular maintenance of its machinery to prevent breakdowns.\nII. The company should organize regular training programs for its workers to enhance their skills.\nIII. The company should hire more experienced workers to replace the current workforce.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) The problem involves declining productivity due to machinery issues and unskilled labor. (2) Course of Action I addresses machinery reliability, making it practical and effective. (3) Course of Action II enhances workforce skills, directly tackling the labor issue. (4) Course of Action III is impractical as retraining is more feasible than full replacement, hence doesn't follow.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_025",
+    "question": "Statement: The education department has observed that students in rural areas are underperforming compared to urban students due to lack of access to quality teachers and educational resources.\n\nCourses of Action:\nI. The government should incentivize skilled teachers to work in rural areas.\nII. Digital education platforms should be developed to provide rural students with access to quality resources.\nIII. More urban students should be encouraged to tutor their rural counterparts through online sessions.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) The issue is the performance gap between rural and urban students due to teacher/resource access. (2) Course of Action I is relevant as incentivizing teachers directly addresses the teacher shortage. (3) Course of Action II expands resource access through digital platforms, making it highly effective. (4) Course of Action III, while potentially helpful, is not as direct or practical for systemic improvement, so it doesn't follow.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_026",
+    "question": "Statement: The local city council has observed an increase in traffic congestion in the downtown area, especially during peak hours, causing delays and frustration among commuters.\n\nCourses of Action:\nI. The city council should implement a carpooling incentive program to encourage fewer vehicles on the road.\nII. Increase the frequency and capacity of public transportation services during peak hours.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "(1) The problem is traffic congestion during peak hours. (2) Course of Action I is logical as encouraging carpooling directly reduces the number of vehicles, which can alleviate congestion. It is practical and relevant. (3) Course of Action II is also practical and effective as improving public transport options can provide an alternative to driving, further reducing congestion. (4) Both actions are relevant, feasible, and likely to improve the situation, hence both follow.",
+    "difficulty": "Easy",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_027",
+    "question": "Statement: A recent survey indicates that a significant number of students are dropping out of high school due to financial hardships.\n\nCourses of Action:\nI. The government should provide financial aid to economically disadvantaged students to help them continue their education.\nII. Schools should introduce part-time job programs to enable students to earn while they learn.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "(1) The issue is student dropout due to financial constraints. (2) Course of Action I is relevant and practical as financial aid directly addresses the economic barriers to education, making it likely to be effective. (3) Course of Action II provides a long-term solution by enabling students to earn, thereby supporting their education financially. Both actions are relevant and feasible, making both follow.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_028",
+    "question": "Statement: A company has been receiving numerous customer complaints about delays in product delivery, which is affecting its reputation and customer satisfaction.\n\nCourses of Action:\nI. The company should hire additional staff in the logistics department to handle increased demand.\nII. Implement a comprehensive software system to better track and manage delivery schedules.",
+    "options": {
+      "A": "Only Course of Action I follows",
+      "B": "Only Course of Action II follows",
+      "C": "Either Course of Action I or II follows",
+      "D": "Neither Course of Action I nor II follows",
+      "E": "Both Courses of Action I and II follow"
+    },
+    "correct_answer": "E",
+    "explanation": "(1) The primary issue is delays in delivery affecting customer satisfaction. (2) Course of Action I is practical and relevant; hiring more staff can alleviate workload and improve efficiency in deliveries. (3) Course of Action II addresses the systemic issue of managing deliveries effectively, ensuring schedules are met and tracked accurately. Both actions directly address the problem, are feasible, and likely to improve the situation.",
+    "difficulty": "Medium",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_029",
+    "question": "Statement: The city has been experiencing frequent power outages due to overloading of the electric grid, impacting both residential and industrial sectors.\n\nCourses of Action:\nI. The city should invest in upgrading the existing infrastructure to handle increased demand.\nII. Introduce staggered work hours for industries to reduce peak demand on the grid.\nIII. Encourage households and businesses to adopt renewable energy solutions to reduce reliance on the grid.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "E",
+    "explanation": "(1) The issue is power outages due to grid overload. (2) Course of Action I directly addresses the root cause by proposing infrastructure upgrades, which is relevant and practical. (3) Course of Action II aims to manage demand, which is a feasible strategy to mitigate peak load issues. (4) Course of Action III promotes long-term sustainability and reduces grid dependency. All actions are relevant, address different aspects of the problem, and are practical, making them all follow.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_course_of_action_030",
+    "question": "Statement: An island nation heavily reliant on tourism has seen a significant decrease in tourist arrivals due to environmental degradation and polluted beaches.\n\nCourses of Action:\nI. Launch a cleanup drive to restore the beaches and promote environmental conservation efforts to attract tourists.\nII. Develop other sectors such as technology and agriculture to reduce dependency on tourism.\nIII. Increase marketing campaigns internationally to attract tourists to other less affected parts of the island.",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "All follow"
+    },
+    "correct_answer": "E",
+    "explanation": "(1) The problem is decreased tourist arrivals due to environmental issues. (2) Course of Action I is directly relevant as restoring beaches can directly attract tourists and improve the environment. (3) Course of Action II addresses the systemic risk of over-reliance on tourism by diversifying economic activities, which is a practical long-term strategy. (4) Course of Action III seeks to mitigate the immediate impact by promoting other areas, a feasible and relevant strategy. All actions address different dimensions of the problem and are logical and appropriate, thus all follow.",
+    "difficulty": "Hard",
+    "topic": "Statement & Course of Action",
+    "reasoning_topic": "Statement & Course of Action",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

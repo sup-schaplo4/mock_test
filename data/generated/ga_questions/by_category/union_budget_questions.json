@@ -1,0 +1,1006 @@
+{
+  "category": "union_budget",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question": "For the assessment year beginning on April 1, 2025, what is the income tax rate for an individual under the new tax regime for total income up to Rs. 3,00,000?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "2.5%",
+        "D": "Nil",
+        "E": "3%"
+      },
+      "correct_answer": "D",
+      "explanation": "As per the revised tax slab table for the assessment year beginning on or after April 1, 2025, under section 115BAC, the rate of tax for total income up to Rs. 3,00,000 is Nil. (Page 52)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999111",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the name of the new direct tax dispute resolution scheme introduced in the Finance Bill, 2024?",
+      "options": {
+        "A": "Direct Tax Samadhan Scheme, 2024",
+        "B": "Direct Tax Vivad se Vishwas Scheme, 2024",
+        "C": "Kar Vivad Samadhan Scheme, 2024",
+        "D": "Direct Tax Settlement Scheme, 2024",
+        "E": "Aaykar Vishwas Scheme, 2024"
+      },
+      "correct_answer": "B",
+      "explanation": "Chapter IV of the Finance (No. 2) Bill, 2024 introduces 'THE DIRECT TAX VIVAD SE VISHWAS SCHEME, 2024'. (Page 80)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999305",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The rate of tax deduction at source (TDS) for e-commerce operators under section 194-O has been revised. What is the new rate?",
+      "options": {
+        "A": "1%",
+        "B": "0.5%",
+        "C": "0.1%",
+        "D": "2%",
+        "E": "0.75%"
+      },
+      "correct_answer": "C",
+      "explanation": "Section 61 of the Bill amends section 194-O of the Income-tax Act to substitute the words 'one per cent.' with '0.1 per cent.', effective from the 1st day of October, 2024. (Page 73)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999310",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Effective from April 1, 2025, the standard deduction for salaried individuals under the new tax regime (Section 115BAC) has been revised. What is the new deduction amount?",
+      "options": {
+        "A": "Rs. 50,000",
+        "B": "Rs. 60,000",
+        "C": "Rs. 75,000",
+        "D": "Rs. 1,00,000",
+        "E": "No standard deduction is allowed"
+      },
+      "correct_answer": "C",
+      "explanation": "A proviso has been inserted in section 16(ia) stating that for income-tax computed under section 115BAC, the deduction shall be 'seventy-five thousand rupees' instead of 'fifty thousand rupees'. (Page 39)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999313",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Finance Bill 2024 proposes a new section 194T for deduction of tax at source (TDS) on payments like salary, remuneration, or interest by a firm to its partners. What is the specified TDS rate?",
+      "options": {
+        "A": "5%",
+        "B": "7.5%",
+        "C": "10%",
+        "D": "15%",
+        "E": "20%"
+      },
+      "correct_answer": "C",
+      "explanation": "The newly inserted section 194T mandates that a firm responsible for paying any sum like salary, remuneration, commission, bonus, or interest to a partner shall deduct income-tax at the rate of ten per cent. (Page 73)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999321",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The rate of tax deduction at source (TDS) on income by way of commission or brokerage under Section 194H has been reduced. What is the new effective rate from October 1, 2024?",
+      "options": {
+        "A": "10%",
+        "B": "5%",
+        "C": "3%",
+        "D": "2%",
+        "E": "1%"
+      },
+      "correct_answer": "D",
+      "explanation": "As per the amendment to section 194H, the words 'five per cent.' have been substituted with 'two per cent.', reducing the TDS rate on commission or brokerage. (Page 72)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999323",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the surcharge rate applicable to a co-operative society having a total income exceeding one crore rupees but not exceeding ten crore rupees?",
+      "options": {
+        "A": "5%",
+        "B": "7%",
+        "C": "10%",
+        "D": "12%",
+        "E": "15%"
+      },
+      "correct_answer": "B",
+      "explanation": "For a co-operative society, the surcharge on income-tax is calculated at the rate of seven per cent where the total income exceeds one crore rupees but does not exceed ten crore rupees. (Pages 13, 120)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999326",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Finance Bill 2024 amends the tax rate on short-term capital gains under Section 111A. What is the new tax rate for transfers taking place on or after July 23, 2024?",
+      "options": {
+        "A": "10%",
+        "B": "12.5%",
+        "C": "15%",
+        "D": "20%",
+        "E": "25%"
+      },
+      "correct_answer": "D",
+      "explanation": "Section 111A(1)(i) is amended to state that the tax on such short-term capital gains will be calculated at twenty per cent for any transfer which takes place on or after the 23rd day of July, 2024. (Page 47)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999328",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the new tax rate on long-term capital gains under Section 112 for an individual for any transfer that takes place on or after July 23, 2024?",
+      "options": {
+        "A": "10%",
+        "B": "12.5%",
+        "C": "15%",
+        "D": "20%",
+        "E": "25%"
+      },
+      "correct_answer": "B",
+      "explanation": "The amendment to section 112 substitutes the old clauses, specifying a new rate of twelve and one-half per cent for any transfer which takes place on or after the 23rd day of July, 2024. (Page 47)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999330",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the newly inserted Section 194T, no TDS is required on payments to a partner if the aggregate sum in a financial year does not exceed a certain limit. What is this threshold?",
+      "options": {
+        "A": "Rs. 10,000",
+        "B": "Rs. 15,000",
+        "C": "Rs. 20,000",
+        "D": "Rs. 30,000",
+        "E": "Rs. 50,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Section 194T(2) states that no deduction shall be made if the aggregate of sums credited or paid to the partner does not exceed twenty thousand rupees during the financial year. (Page 73)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999333",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "A new presumptive taxation scheme under section 44BBC has been introduced for non-residents operating cruise ships. What percentage of aggregate receipts is deemed as profits and gains?",
+      "options": {
+        "A": "7.5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%",
+        "E": "25%"
+      },
+      "correct_answer": "D",
+      "explanation": "The newly inserted section 44BBC(1) specifies that a sum equal to twenty per cent of the aggregate of specified amounts shall be deemed to be the profits and gains of such business. (Page 41)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999336",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For a domestic company with a total income of Rs. 15 crore, what is the applicable rate of surcharge on income tax?",
+      "options": {
+        "A": "2%",
+        "B": "5%",
+        "C": "7%",
+        "D": "10%",
+        "E": "12%"
+      },
+      "correct_answer": "E",
+      "explanation": "In the case of every domestic company, a surcharge is calculated at the rate of twelve per cent of such income-tax if the total income exceeds ten crore rupees. (Page 122)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999338",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For an individual with a total income of Rs. 3 crore, what is the applicable surcharge rate on income tax?",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "20%",
+        "D": "25%",
+        "E": "37%"
+      },
+      "correct_answer": "D",
+      "explanation": "For an individual, the surcharge is calculated at the rate of twenty-five per cent of income-tax if the total income exceeds two crore rupees but does not exceed five crore rupees. (Page 12)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999342",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the Direct Tax Vivad se Vishwas Scheme, 2024, within how many days of receiving the certificate must a declarant pay the determined amount?",
+      "options": {
+        "A": "7 days",
+        "B": "15 days",
+        "C": "30 days",
+        "D": "45 days",
+        "E": "60 days"
+      },
+      "correct_answer": "B",
+      "explanation": "Section 92(2) of the scheme states that the declarant shall pay the amount determined within a period of fifteen days of the date of receipt of the certificate. (Page 87)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999345",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For the purposes of the Direct Tax Vivad se Vishwas Scheme, 2024, what is the 'specified date' on which appeals or applications must be pending?",
+      "options": {
+        "A": "March 31, 2024",
+        "B": "July 1, 2024",
+        "C": "July 22, 2024",
+        "D": "August 1, 2024",
+        "E": "October 1, 2024"
+      },
+      "correct_answer": "C",
+      "explanation": "Section 89(n) of the scheme defines 'specified date' as the 22nd day of July, 2024. (Page 83)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999348",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The rate of tax deduction under section 194DA on sums paid under a life insurance policy has been revised. What is the new TDS rate effective from October 1, 2024?",
+      "options": {
+        "A": "1%",
+        "B": "2%",
+        "C": "3%",
+        "D": "5%",
+        "E": "10%"
+      },
+      "correct_answer": "B",
+      "explanation": "The amendment to section 194DA of the Income-tax Act substitutes the words 'five per cent.' with 'two per cent.', reducing the rate of tax deduction. (Page 72)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999351",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For the assessment year beginning on April 1, 2025, under the revised new tax regime, which income tax rate is applicable for the income slab from Rs. 7,00,001 to Rs. 10,00,000?",
+      "options": {
+        "A": "5%",
+        "B": "7.5%",
+        "C": "10%",
+        "D": "12.5%",
+        "E": "15%"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the new table under section 115BAC for the assessment year 2025-26, the tax rate for the income slab from Rs. 7,00,001 to Rs. 10,00,000 is 10 per cent. (Page 52)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999353",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the amended Section 206C(1F), what is the rate of Tax Collected at Source (TCS) for a seller receiving consideration for the sale of a motor vehicle of value exceeding ten lakh rupees?",
+      "options": {
+        "A": "0.1%",
+        "B": "0.5%",
+        "C": "1%",
+        "D": "2%",
+        "E": "5%"
+      },
+      "correct_answer": "C",
+      "explanation": "The substituted sub-section (1F) of Section 206C specifies that the seller shall collect from the buyer a sum equal to one per cent of the sale consideration as income-tax for the sale of a motor vehicle exceeding ten lakh rupees. (Page 75)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999363",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The definition of a 'short-term capital asset' in Section 2(42A) has been amended. With retrospective effect from July 23, 2024, what is the maximum holding period for an asset to be classified as short-term?",
+      "options": {
+        "A": "Twelve months",
+        "B": "Eighteen months",
+        "C": "Twenty-four months",
+        "D": "Thirty-six months",
+        "E": "Forty-eight months"
+      },
+      "correct_answer": "C",
+      "explanation": "Clause 3 of the Bill amends clause (42A) of section 2 to provide that a 'short-term capital asset' would mean a capital asset held for not more than twenty-four months immediately preceding the date of its transfer, down from thirty-six months. (Pages 33, 162)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999365",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For an individual whose income is chargeable under the new tax regime (Section 115BAC), and whose total income includes dividends, what is the maximum rate of surcharge on the income-tax computed on that dividend income?",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "25%",
+        "D": "37%",
+        "E": "The normal applicable surcharge rate without any cap"
+      },
+      "correct_answer": "B",
+      "explanation": "A proviso to the surcharge rules for Section 115BAC states that if the total income includes any income by way of dividend or income chargeable under sections 111A, 112, and 112A, the rate of surcharge on the income-tax in respect of that part of income shall not exceed fifteen per cent. (Page 17)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999368",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the Direct Tax Vivad se Vishwas Scheme, 2024, if a tax arrear relates to disputed interest or penalty for an appellant who filed an appeal on or before January 31, 2020, what percentage of the disputed amount must be paid if the payment is made on or after January 1, 2025?",
+      "options": {
+        "A": "25%",
+        "B": "30%",
+        "C": "35%",
+        "D": "40%",
+        "E": "50%"
+      },
+      "correct_answer": "C",
+      "explanation": "The table in Section 90 specifies that for tax arrears related to disputed interest, penalty, or fee where the declarant is an appellant on or before 31st Jan 2020, the amount payable is 35% if paid on or after Jan 1, 2025, but before the last date. (Page 85)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999370",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the Direct Tax Vivad se Vishwas Scheme, 2024, for an appellant who filed after January 31, 2020, where the tax arrear includes disputed tax, interest, and penalty, what is the amount payable if the payment is made on or before December 31, 2024?",
+      "options": {
+        "A": "The amount of the disputed tax",
+        "B": "110% of the disputed tax",
+        "C": "125% of the disputed tax",
+        "D": "50% of the tax arrear",
+        "E": "The aggregate of disputed tax and 10% of disputed tax"
+      },
+      "correct_answer": "A",
+      "explanation": "As per the Table under section 90, for a case where the tax arrear is the aggregate amount of disputed tax, interest, and penalty, and the declarant is an appellant after 31st Jan 2020, the amount payable on or before Dec 31, 2024, is simply the 'Amount of the disputed tax'. (Page 84)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999372",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For an assessee whose income is taxable under the new tax regime (Section 115BAC), what is the maximum deduction allowed for an employer's contribution to a pension scheme under Section 80CCD(2), effective from April 1, 2025?",
+      "options": {
+        "A": "Ten per cent. of salary",
+        "B": "Twelve per cent. of salary",
+        "C": "Fourteen per cent. of salary",
+        "D": "Fifteen per cent. of salary",
+        "E": "No deduction is allowed"
+      },
+      "correct_answer": "C",
+      "explanation": "A new proviso in section 80CCD(2) states that for an assessee under section 115BAC, the provision shall have effect as if for 'ten per cent.' referred to in clause (b), the words 'fourteen per cent.' had been substituted, thereby increasing the limit. (Page 44)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999374",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the amended section 112A, what is the tax rate on long-term capital gains exceeding Rs. 1,25,000 for a transfer taking place on September 15, 2024?",
+      "options": {
+        "A": "10%",
+        "B": "12.5%",
+        "C": "15%",
+        "D": "20%",
+        "E": "7.5%"
+      },
+      "correct_answer": "B",
+      "explanation": "Section 112A is amended to state that for long-term capital gains exceeding Rs. 1,25,000, the tax rate is twelve and one-half per cent for any transfer which takes place on or after the 23rd day of July, 2024. (Page 49)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999377",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Following the substitution of Section 148, what is the maximum period within which an assessee is required to furnish a return of income after a notice for escaped assessment is issued?",
+      "options": {
+        "A": "30 days from the end of the month of notice",
+        "B": "60 days from the end of the month of notice",
+        "C": "90 days from the end of the month of notice",
+        "D": "Three months from the end of the month of notice",
+        "E": "Six months from the end of the month of notice"
+      },
+      "correct_answer": "D",
+      "explanation": "The substituted section 148(1) requires the assessee to furnish a return within such period as specified in the notice, which shall not exceed three months from the end of the month in which the notice is issued. (Page 54)",
+      "source_document": "Union_Budget_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:46:51.999379",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the rate of the \"Health and Education Cess on income-tax\" to be levied on the amount of income-tax and surcharge?",
+      "options": {
+        "A": "2%",
+        "B": "3%",
+        "C": "4%",
+        "D": "5%",
+        "E": "1%"
+      },
+      "correct_answer": "C",
+      "explanation": "As per sub-section (11) of Section 2 of the Finance Bill, the amount of income-tax and surcharge shall be further increased by an additional surcharge called the 'Health and Education Cess on income-tax', calculated at the rate of four per cent. (Page 31)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.851462",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For the assessment year 2025-26, what is the applicable surcharge on income tax for a firm whose total income exceeds one crore rupees?",
+      "options": {
+        "A": "7%",
+        "B": "10%",
+        "C": "12%",
+        "D": "15%",
+        "E": "25%"
+      },
+      "correct_answer": "C",
+      "explanation": "In the case of every firm with a total income exceeding one crore rupees, the income tax is increased by a surcharge calculated at the rate of twelve per cent. (Page 13, Page 85)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852258",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The TDS threshold for rent under section 194-I has been revised. What is the new monthly rent threshold above which tax deduction at source is not required?",
+      "options": {
+        "A": "Rs. 30,000",
+        "B": "Rs. 40,000",
+        "C": "Rs. 50,000",
+        "D": "Rs. 60,000",
+        "E": "Rs. 1,00,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Clause 59 of the Bill amends section 194-I to state that no deduction shall be made if the income by way of rent for a month or part of a month does not exceed fifty thousand rupees. (Page 56)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852261",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For resident individuals aged eighty years or more, what is the basic exemption limit for income tax for the assessment year 2025-26?",
+      "options": {
+        "A": "Rs. 2,50,000",
+        "B": "Rs. 3,00,000",
+        "C": "Rs. 4,00,000",
+        "D": "Rs. 5,00,000",
+        "E": "Rs. 7,00,000"
+      },
+      "correct_answer": "D",
+      "explanation": "For resident individuals aged eighty years or more (super senior citizens), the basic exemption limit where no income tax is charged is up to Rs. 5,00,000. (Page 82)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852263",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the applicable income tax rate for a domestic company whose total turnover in the previous year 2022-23 did not exceed four hundred crore rupees?",
+      "options": {
+        "A": "15%",
+        "B": "20%",
+        "C": "25%",
+        "D": "30%",
+        "E": "35%"
+      },
+      "correct_answer": "C",
+      "explanation": "For a domestic company where its total turnover or gross receipt in the previous year 2022-23 does not exceed four hundred crore rupees, the rate of income-tax is 25 per cent. of the total income. (Page 86)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852264",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the amendment to section 194D, what is the revised annual threshold for TDS on income from insurance commission?",
+      "options": {
+        "A": "Rs. 10,000",
+        "B": "Rs. 15,000",
+        "C": "Rs. 20,000",
+        "D": "Rs. 25,000",
+        "E": "Rs. 50,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Clause 56 of the Bill amends the second proviso of section 194D, increasing the TDS threshold for insurance commission from fifteen thousand rupees to twenty thousand rupees. (Page 56)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852266",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Effective from the assessment year beginning 1st April 2026, what will be the income tax rate for individuals under the new tax regime (Section 115BAC) for the income slab of Rs. 8,00,001 to Rs. 12,00,000?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%",
+        "E": "25%"
+      },
+      "correct_answer": "B",
+      "explanation": "Clause 24 amends Section 115BAC, introducing a new tax table. For the income slab from Rs. 8,00,001 to Rs. 12,00,000, the applicable rate of tax is 10 per cent. (Page 46)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852268",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the applicable rate of surcharge on income tax for a domestic company with a total income exceeding one crore rupees but not exceeding ten crore rupees?",
+      "options": {
+        "A": "2%",
+        "B": "5%",
+        "C": "7%",
+        "D": "10%",
+        "E": "12%"
+      },
+      "correct_answer": "C",
+      "explanation": "For a domestic company having a total income exceeding one crore rupees but not exceeding ten crore rupees, the surcharge is calculated at the rate of seven per cent. of such income-tax. (Page 87)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852269",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the amendment to section 80CCD, what is the maximum annual deduction allowed to a parent or guardian for contributions made to the National Pension Scheme account of a minor?",
+      "options": {
+        "A": "Rs. 1,50,000",
+        "B": "Rs. 1,00,000",
+        "C": "Rs. 75,000",
+        "D": "Rs. 50,000",
+        "E": "Rs. 25,000"
+      },
+      "correct_answer": "D",
+      "explanation": "Clause 17 inserts a new proviso in section 80CCD(1B) to allow a deduction for payment or deposit made to the account of a minor under the pension scheme, subject to a maximum aggregate amount of fifty thousand rupees. (Page 42, Page 148)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852270",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The tax benefit for eligible start-ups under Section 80-IAC has been extended. The benefit will now be available to eligible start-ups incorporated before which date?",
+      "options": {
+        "A": "1st April, 2026",
+        "B": "1st April, 2027",
+        "C": "1st April, 2028",
+        "D": "1st April, 2029",
+        "E": "1st April, 2030"
+      },
+      "correct_answer": "E",
+      "explanation": "Clause 18 amends the Explanation in Section 80-IAC, extending the date of incorporation for eligible start-ups from '2025' to '2030', meaning the benefit is available to start-ups incorporated before 1st April, 2030. (Page 43, Page 148)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852272",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The time limit for furnishing an updated return under Section 139(8A) has been extended. What is the new maximum period from the end of the relevant assessment year within which an updated return can be filed?",
+      "options": {
+        "A": "Twenty-four months",
+        "B": "Thirty months",
+        "C": "Thirty-six months",
+        "D": "Forty-eight months",
+        "E": "Sixty months"
+      },
+      "correct_answer": "D",
+      "explanation": "Clause 39 of the Bill amends sub-section (8A) of section 139 to substitute the words 'twenty-four months' with 'forty-eight months', extending the time limit to file an updated return. (Page 50)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852273",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Finance Bill proposes a change in the TDS rate for income in respect of investment in a securitisation trust under Section 194LBC. What is the new uniform TDS rate?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%",
+        "E": "25%"
+      },
+      "correct_answer": "B",
+      "explanation": "Clause 63 amends section 194LBC to substitute the varying rates of 25% or 30% with a uniform TDS rate of ten per cent. (Page 57, Page 168)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852274",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the surcharge rate on income tax for a co-operative society whose total income exceeds ten crore rupees?",
+      "options": {
+        "A": "7%",
+        "B": "10%",
+        "C": "12%",
+        "D": "15%",
+        "E": "20%"
+      },
+      "correct_answer": "C",
+      "explanation": "In the case of a co-operative society having a total income exceeding ten crore rupees, the surcharge is calculated at the rate of twelve per cent. of such income-tax. (Page 13, Page 85)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852275",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the amended Section 194LA, tax is required to be deducted at source on compensation for compulsory acquisition of immovable property if the aggregate amount of such payments to a resident during the financial year exceeds what revised threshold?",
+      "options": {
+        "A": "Rs. 2,50,000",
+        "B": "Rs. 3,00,000",
+        "C": "Rs. 4,00,000",
+        "D": "Rs. 5,00,000",
+        "E": "Rs. 7,50,000"
+      },
+      "correct_answer": "D",
+      "explanation": "Clause 62 amends the first proviso to section 194LA, increasing the threshold for no TDS on such compensation from 'two lakh and fifty thousand rupees' to 'five lakh rupees'. (Page 57)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852277",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The eligibility period for claiming tax deductions on certain incomes for units in an International Financial Services Centre (IFSC) involved in leasing aircraft or ships under Section 80LA has been extended. What is the new deadline for commencement of operations for such units?",
+      "options": {
+        "A": "31st March, 2026",
+        "B": "31st March, 2027",
+        "C": "31st March, 2028",
+        "D": "31st March, 2029",
+        "E": "31st March, 2030"
+      },
+      "correct_answer": "E",
+      "explanation": "Clause 19 amends Section 80LA(2)(d) by extending the deadline for commencement of operation for a unit in an IFSC leasing aircraft or ships from 31st March 2025 to 31st March 2030. (Page 43, Page 149)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852278",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Where an individual's income is chargeable to tax under the new tax regime (Section 115BAC), what is the maximum rate of surcharge that can be levied on the income tax?",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "25%",
+        "D": "37%",
+        "E": "No surcharge is applicable"
+      },
+      "correct_answer": "C",
+      "explanation": "A proviso to sub-section (6) and sub-section (8) of section 2 states that where the income of a person is chargeable to tax under sub-section (1A) of section 115BAC, the rate of surcharge shall not exceed twenty-five per cent. (Page 19, Page 21)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852279",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For a non-resident company, what is the rate of tax to be deducted at source (TDS) on income by way of royalty payable by an Indian concern, where the agreement was made after 31st March, 1976?",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "20%",
+        "D": "30%",
+        "E": "50%"
+      },
+      "correct_answer": "C",
+      "explanation": "As per Part II of the First Schedule, for a non-resident company, the TDS rate on royalty income from an agreement made after 31st March 1976 is specified as 20 per cent. (Page 95)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852285",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Finance Bill 2025 provides for retrospective exemption from service tax for reinsurance services provided by insurance companies under which specific schemes?",
+      "options": {
+        "A": "Pradhan Mantri Fasal Bima Yojana and Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "B": "Weather Based Crop Insurance Scheme and Modified National Agricultural Insurance Scheme",
+        "C": "Atal Pension Yojana and National Pension System",
+        "D": "Restructured Weather Based Crop Insurance Scheme and Jan Arogya Bima",
+        "E": "Pradhan Mantri Suraksha Bima Yojana and Varishtha Pension Bima Yojana"
+      },
+      "correct_answer": "B",
+      "explanation": "Clause 130 of the Bill provides for a special provision for retrospective exemption from service tax for reinsurance services under the Weather Based Crop Insurance Scheme and the Modified National Agricultural Insurance Scheme for the period from 1st April, 2011 to 30th June, 2017. (Page 77)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852287",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As per the amendments in Section 140B, what is the additional income tax payable as a percentage of aggregate tax and interest, if an updated return is filed after thirty-six months but before completion of forty-eight months from the end of the relevant assessment year?",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "60%",
+        "D": "70%",
+        "E": "100%"
+      },
+      "correct_answer": "D",
+      "explanation": "Clause 40 amends Section 140B by inserting a new clause (iv), which specifies that if an updated return is furnished after the expiry of thirty-six months but before completion of forty-eight months, the additional tax will be seventy per cent of the aggregate tax and interest payable. (Page 50, Page 158)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852294",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the proposed amendment to Section 87A of the Income-tax Act, what is the new maximum rebate amount available for a resident individual whose total income, chargeable under the new tax regime (Section 115BAC), is up to Rs. 12,00,000?",
+      "options": {
+        "A": "Rs. 12,500",
+        "B": "Rs. 25,000",
+        "C": "Rs. 50,000",
+        "D": "Rs. 60,000",
+        "E": "Rs. 1,00,000"
+      },
+      "correct_answer": "D",
+      "explanation": "Clause 20 amends Section 87A. It substitutes 'seven hundred thousand rupees' with 'twelve hundred thousand rupees' as the income limit and 'twenty-five thousand rupees' with 'sixty thousand rupees' as the rebate amount for individuals under the new tax regime. (Page 43, Page 149)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852295",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "A new presumptive taxation scheme is proposed under Section 44BBD for non-residents providing technology or services for setting up an electronics manufacturing facility in India. What percentage of the aggregate amount paid or received for such services will be deemed as profits and gains?",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "20%",
+        "D": "25%",
+        "E": "30%"
+      },
+      "correct_answer": "D",
+      "explanation": "The newly inserted section 44BBD(1) specifies that a sum equal to twenty-five per cent of the aggregate amounts (paid, payable, received, or deemed to be received) shall be deemed to be the profits and gains of the non-resident's business. (Page 39)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852296",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For contravention of the 'track and trace mechanism' for certain goods under the newly inserted Section 148A of the CGST Act, what is the penalty prescribed under the new Section 122B?",
+      "options": {
+        "A": "Rs. 50,000 or 5% of the tax payable, whichever is higher",
+        "B": "Rs. 1,00,000 or 10% of the tax payable, whichever is higher",
+        "C": "Rs. 2,00,000 or 25% of the tax payable, whichever is higher",
+        "D": "Rs. 10,000 flat",
+        "E": "Rs. 25,000 flat"
+      },
+      "correct_answer": "B",
+      "explanation": "The newly inserted section 122B of the CGST Act states that a person who contravenes the provisions of section 148A shall be liable to pay a penalty equal to an amount of one lakh rupees or ten per cent of the tax payable on such goods, whichever is higher. (Page 76)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852302",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the case of certain amalgamations of companies or business reorganisations effective on or after April 1, 2025, for how many assessment years can the accumulated loss of the predecessor entity be carried forward in the hands of the successor entity?",
+      "options": {
+        "A": "Four assessment years",
+        "B": "Six assessment years",
+        "C": "Eight assessment years",
+        "D": "Ten assessment years",
+        "E": "Indefinitely"
+      },
+      "correct_answer": "C",
+      "explanation": "The newly inserted sub-section (6B) in Section 72A and the proviso in Section 72AA state that the accumulated loss shall be carried forward in the hands of the successor entity for not more than eight assessment years immediately succeeding the assessment year for which the loss was first computed for the original predecessor entity. (Pages 41, 147)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852304",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the highest surcharge rate applicable on the income-tax calculated on the non-dividend, non-capital gains portion of an individual's income, if their total income exceeds five crore rupees and they have not opted for the Section 115BAC regime?",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "25%",
+        "D": "37%",
+        "E": "42%"
+      },
+      "correct_answer": "D",
+      "explanation": "For an individual with total income exceeding five crore rupees, the surcharge on income-tax is levied at the rate of thirty-seven per cent. While a proviso caps the surcharge on dividend and certain capital gains income at 15%, the highest rate of 37% applies to the rest of the income. (Page 12, Page 83)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852305",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Finance Bill extends the date of investment for specified persons like sovereign wealth funds and pension funds to claim exemption on certain incomes under section 10(23FE). What is the new deadline by which such investments must be made?",
+      "options": {
+        "A": "31st March, 2026",
+        "B": "31st March, 2027",
+        "C": "31st March, 2028",
+        "D": "31st March, 2030",
+        "E": "31st March, 2035"
+      },
+      "correct_answer": "D",
+      "explanation": "Clause 6(g) of the Bill amends sub-clause (i) of clause (23FE) of section 10, extending the date of investment for specified persons from '2025' to '2030'. Therefore, the investment must be made on or before 31st March, 2030. (Page 37, Page 142)",
+      "source_document": "Union_Budget_2025_2026.pdf",
+      "difficulty": "Hard",
+      "topic": "Government_Schemes",
+      "subject": "General_Awareness",
+      "report_category": "union_budget",
+      "generated_date": "2025-10-02T22:48:39.852306",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    }
+  ]
+}

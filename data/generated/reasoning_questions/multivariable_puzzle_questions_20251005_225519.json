@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "multivariable_puzzle_001",
+    "question": "Five friends are standing in a row. Each of them is wearing a different colored shirt (Red, Blue, Green, Yellow, Black) and lives on a different floor of a five-story building (1 to 5). The following conditions are given: 1. The person in the Red shirt lives on an odd-numbered floor. 2. The person in the Blue shirt stands to the immediate left of the person in the Green shirt. 3. The person on the top floor is wearing a Yellow shirt. 4. The person in the Black shirt lives below the person in the Green shirt. 5. The person in the Green shirt does not live on the 3rd floor. Who lives on the 2nd floor?",
+    "options": {
+      "A": "Person in the Red shirt",
+      "B": "Person in the Blue shirt",
+      "C": "Person in the Green shirt",
+      "D": "Person in the Yellow shirt",
+      "E": "Person in the Black shirt"
+    },
+    "correct_answer": "B",
+    "explanation": "From the conditions: The person in the Yellow shirt lives on the top floor (5th floor). The person in the Green shirt must be on the 4th floor because they cannot be on the 3rd floor and the Black shirt must be below Green, leaving 2nd floor for Blue. Thus, Blue is on the 2nd floor.",
+    "difficulty": "Easy",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_002",
+    "question": "Six colleagues are sitting around a round table discussing a project. Each of them comes from a different department (HR, Sales, IT, Finance, Marketing, R&D) and prefers a different snack (Cookies, Sandwich, Pizza, Salad, Fruit, Chips). The following clues are given: 1. The person from HR is sitting to the immediate left of the person who likes Pizza. 2. The person who likes Chips is from Finance and sits directly opposite to the one who prefers Sandwich. 3. The IT professional sits to the right of the person who likes Salad. 4. The Marketing person is not sitting next to the one who prefers Fruit. 5. The R&D person is sitting between the IT and HR persons. Who sits to the right of the person from Sales?",
+    "options": {
+      "A": "Person from HR",
+      "B": "Person from IT",
+      "C": "Person from R&D",
+      "D": "Person from Finance",
+      "E": "Person from Marketing"
+    },
+    "correct_answer": "E",
+    "explanation": "Using the given clues: The person from HR sits left of Pizza, Chips is with Finance and opposite Sandwich, IT is right of Salad, and R&D is between IT and HR. After placing all accordingly, the person from Marketing sits to the right of the person from Sales.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_003",
+    "question": "Seven players participate in a chess tournament. Each player plays one game a day for a week (Monday to Sunday) with no repetition of opponents. Each player has a different starting rank (1 to 7) and uses a unique chess piece as a lucky charm (King, Queen, Rook, Bishop, Knight, Pawn, Wizard). The following clues are given: 1. The player who started with rank 1 played against the player using the Wizard on Tuesday. 2. The Rook player played his last game on Friday. 3. The Bishop player played against the player with rank 3 on Wednesday. 4. The player with rank 7 played against the Pawn player on Thursday. 5. The Queen player did not play on Monday. 6. The player using the Knight as a lucky charm had his game against the King player on Saturday. On which day did the player with rank 5 play against the player using the Rook?",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "Friday"
+    },
+    "correct_answer": "C",
+    "explanation": "Using the conditions: Rank 1 vs Wizard on Tuesday, Rank 3 vs Bishop on Wednesday, Rook on Friday, Knight vs King on Saturday. The only day left for the rank 5 vs Rook game is Wednesday.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_004",
+    "question": "Eight family members are attending a family dinner. Each person is from a different generation and has a different favorite dish (Pasta, Sushi, Steak, Tacos, Curry, Burger, Pizza, Salad). Additionally, each family member arrived at a different time (3 PM, 3:30 PM, 4 PM, 4:30 PM, 5 PM, 5:30 PM, 6 PM, 6:30 PM). The following facts are known: 1. The person who loves Sushi arrived immediately before the person who loves Tacos. 2. The youngest member who arrived at 5:30 PM loves Pizza. 3. The oldest member arrived at 3 PM and loves Pasta. 4. The person who arrived at 4 PM loves Burger. 5. The person who arrived at 6 PM is not the one who loves Salad. 6. The person who loves Steak arrived directly after the Curry lover. 7. The person who loves Salad arrived before 6 PM. Who loves the Salad?",
+    "options": {
+      "A": "Person arriving at 3 PM",
+      "B": "Person arriving at 3:30 PM",
+      "C": "Person arriving at 4 PM",
+      "D": "Person arriving at 4:30 PM",
+      "E": "Person arriving at 5 PM"
+    },
+    "correct_answer": "E",
+    "explanation": "Based on the conditions: Pasta at 3 PM, Burger at 4 PM, Sushi followed by Tacos, Curry followed by Steak. Since Salad is before 6 PM and not 3, 3:30, 4, or 4:30 PM, it must be at 5 PM.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_005",
+    "question": "Ten executives from different departments (Legal, IT, HR, Marketing, Finance, Operations, Sales, R&D, Admin, Customer Service) are attending a conference. Each has a different keynote topic (AI, Blockchain, Cybersecurity, Marketing Trends, Financial Strategies, Operations Excellence, Sales Techniques, Innovation, Administration Insights, Customer Engagement), arrives on a different day (Monday through Friday, two per day), and drives a different colored car (Red, Blue, Green, Yellow, Black, White, Silver, Grey, Orange, Pink). The following information is available: 1. The IT executive who talks about Cybersecurity arrives on Tuesday in a Blue car. 2. The Sales executive who discusses Sales Techniques arrives on Friday in a Black car. 3. The Marketing executive speaks about Marketing Trends on Wednesday and drives a Red car. 4. The person with the topic of Innovation arrives on Thursday in a Silver car. 5. The HR executive arrives on the same day as the person with a Yellow car but not on Wednesday. 6. The Finance executive arrives on Monday with a White car. 7. The R&D executive who has a presentation on AI arrives on the same day as the Operations executive. 8. The Admin executive arrives in an Orange car. 9. The Legal executive talks about Blockchain but does not arrive on Monday. 10. The person with Customer Engagement arrives in a Grey car on Tuesday. 11. The person who drives a Pink car arrives on Friday. Who is the last person to arrive on Monday?",
+    "options": {
+      "A": "Operations executive",
+      "B": "Finance executive",
+      "C": "Legal executive",
+      "D": "R&D executive",
+      "E": "Admin executive"
+    },
+    "correct_answer": "A",
+    "explanation": "Based on provided information: Finance on Monday with White, Operations shares day with R&D. Legal is not Monday. Thus, after pairing Finance and R&D, Operations is the last on Monday.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_006",
+    "question": "Five friends named Alex, Bob, Charlie, David, and Ethan each live on a different floor of a five-story building. The floors are numbered 1 to 5, with 5 being the top floor. Each friend owns a car of a different color: Red, Blue, Green, Yellow, and Black. Using the clues given, determine who lives on which floor and the color of their car. 1) Alex lives on an odd-numbered floor. 2) The person with the Yellow car lives directly above Alex. 3) Bob's car is Blue and he lives on the top floor. 4) Charlie lives on a higher floor than the owner of the Black car. 5) David lives on the 3rd floor. Who owns the Red car?",
+    "options": {
+      "A": "Alex",
+      "B": "Bob",
+      "C": "Charlie",
+      "D": "David",
+      "E": "Ethan"
+    },
+    "correct_answer": "E",
+    "explanation": "Based on the clues: Bob is on the 5th floor with the Blue car. David is on the 3rd floor. Alex must be on either 1st or 3rd floor, but since David is on 3rd, Alex is on the 1st floor. Therefore, the Yellow car is on the 2nd floor. Since Charlie lives above the Black car owner and Ethan is the only one left to live on the 4th floor, the Black car must be on the 3rd floor with David. Thus, Ethan, on the 2nd floor with Yellow car, leaves Charlie with the Green car on the 4th floor, and Alex must have the Red car.",
+    "difficulty": "Easy",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_007",
+    "question": "Seven people - Alice, Brian, Chloe, Dan, Eve, Frank, and Grace - work in different departments (HR, IT, Marketing, Finance, Operations, Sales, Support) and have different favorite fruits (Apple, Banana, Cherry, Date, Fig, Grapes, Kiwi). Using the clues given, determine the department and favorite fruit of each person. 1) Alice is in IT and loves Dates. 2) Brian works in Marketing but does not like Apples or Bananas. 3) Chloe is in Sales and her favorite fruit is Grapes. 4) Dan is in Finance. 5) Eve works in Support and prefers Cherry. 6) Frank dislikes Fig and works in HR. 7) Grace is in Operations and her favorite fruit is Kiwi.",
+    "options": {
+      "A": "Dan - Finance, Banana",
+      "B": "Frank - HR, Cherry",
+      "C": "Brian - Marketing, Fig",
+      "D": "Chloe - Sales, Grapes",
+      "E": "Eve - Support, Apple"
+    },
+    "correct_answer": "A",
+    "explanation": "Based on the information: Alice (IT, Dates), Brian (Marketing, Kiwi), Chloe (Sales, Grapes), Dan (Finance, Banana), Eve (Support, Cherry), Frank (HR, Banana), Grace (Operations, Kiwi). Frank dislikes Fig, so his fruit must be Banana. Since Grace likes Kiwi, Brian cannot like it. Therefore, Brian's fruit can only be Fig, leaving Banana for Dan. This verifies all positions.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_008",
+    "question": "Six friends - Jack, Kevin, Liam, Mia, Nora, and Olivia - each own a different pet (Dog, Cat, Rabbit, Parrot, Fish, Hamster) and live in different colored houses (Red, Blue, Green, Yellow, White, Pink). Using the clues given, determine the pet owned and the color of the house of each friend. 1) Jack lives in the Blue house and does not own a Cat. 2) Kevin owns a Dog and does not live in the Green or Yellow house. 3) Liam's house is White and he owns a Rabbit. 4) Mia lives in the Pink house and owns a Fish. 5) Nora owns a Parrot and does not live in the Yellow house. 6) Olivia lives in the Green house. What pet does Olivia own?",
+    "options": {
+      "A": "Cat",
+      "B": "Dog",
+      "C": "Hamster",
+      "D": "Rabbit",
+      "E": "Fish"
+    },
+    "correct_answer": "C",
+    "explanation": "From the clues: Jack (Blue, not Cat), Kevin (Dog, not Green/Yellow), Liam (White, Rabbit), Mia (Pink, Fish), Nora (Parrot, not Yellow), Olivia (Green). Jack must have a Hamster as it can't be Cat, Dog, Rabbit, or Fish. Therefore, Olivia can only have a Hamster. Nora, owning a Parrot and not in Yellow, is in the Red house. This places Kevin in the Yellow house with his Dog.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_009",
+    "question": "Eight colleagues are seated around a square table, each one at a corner and mid-side, facing the center. They are each from different countries and drink different types of beverages. Using the clues given, determine the seating arrangement, their countries, and the beverage each one drinks. 1) The person from Brazil drinks Tea and sits at a corner. 2) The person from India is directly opposite to the person from Japan, who drinks Coffee. 3) The person from China drinks Juice and is to the left of the German. 4) The Canadian, who sits at a corner, drinks Milk. 5) The person from France is directly opposite the person who drinks Water. 6) The person drinking Soda is to the immediate left of the American. 7) The Italian is not sitting at any corner. 8) The Australian is directly opposite the person from China. Who drinks Soda?",
+    "options": {
+      "A": "Brazilian",
+      "B": "Indian",
+      "C": "Chinese",
+      "D": "German",
+      "E": "Australian"
+    },
+    "correct_answer": "B",
+    "explanation": "The seating is solved by placing the countries based on direct opposites and left/right positional clues. Brazilian (Tea, corner) opposite Chinese (Juice), then German, followed by Japan (Coffee). American is left to Soda drinker. After other placements, Indian drinks Soda, left of American.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_010",
+    "question": "Ten runners are participating in a marathon. They come from different countries (USA, UK, Japan, India, Brazil, China, Germany, France, Italy, Canada) and have different favorite numbers (1 to 10). Clues: 1) The runner from USA likes an odd number and is ahead of the one from Germany. 2) The Canadian is at an even position and likes number 8. 3) The Japanese runner is immediately ahead of the Indian. 4) The Italian, liking number 5, is three places behind the French who likes number 7. 5) The runner from Brazil is neither first nor last, liking the number 1. 6) Number 9 is liked by the runner who is at position 4. 7) The Chinese runner is after the one who likes number 2. 8) The one from UK is immediately behind the runner who likes number 6. Who is last?",
+    "options": {
+      "A": "Italian",
+      "B": "Indian",
+      "C": "German",
+      "D": "Chinese",
+      "E": "Japanese"
+    },
+    "correct_answer": "C",
+    "explanation": "Through deduction from the clues: The USA runner (odd number, not last) must be ahead of Germany. Canada (8) at position 4. Japan ahead of India directly. Brazil (1) in a middle spot. Italy (5) three behind France (7). Based on other positions, the German is the only logical runner for the last position.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_011",
+    "question": "Five friends are seated in a row. Each of them is wearing a different colored shirt and has a favorite fruit. Determine the arrangement based on the following clues: 1. Alex is wearing a blue shirt and is sitting next to the person who likes apples. 2. The person wearing a green shirt is at one of the ends. 3. Charlie is sitting to the left of the person who likes bananas, and they are not sitting together. 4. The person wearing a red shirt likes oranges and is sitting between Alex and Charlie. 5. Bob likes grapes and is not sitting at either end. What is the color of the shirt worn by the person who likes mangoes?",
+    "options": {
+      "A": "Yellow",
+      "B": "Green",
+      "C": "Red",
+      "D": "Blue",
+      "E": "White"
+    },
+    "correct_answer": "E",
+    "explanation": "Following the clues, the arrangement from left to right is: Person 1 - Green shirt, apples; Person 2 - Blue shirt (Alex), grapes (Bob); Person 3 - Red shirt, oranges; Person 4 - White shirt, mangoes; Person 5 - Yellow shirt, bananas. Therefore, the person who likes mangoes is wearing a White shirt.",
+    "difficulty": "Easy",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_012",
+    "question": "Seven people (L, M, N, O, P, Q, and R) are sitting in a row, facing north. Each person has a different profession: Doctor, Engineer, Teacher, Artist, Chef, Lawyer, and Scientist. Determine their seating arrangement based on these clues: 1. N is sitting third to the left of the Scientist. 2. O is not a Doctor and is second from the right end. 3. The Teacher is sitting between the Engineer and Lawyer. 4. R is a Lawyer and is sitting at one of the ends. 5. Q is second to the left of the Chef. 6. L is the Doctor and is not sitting next to the Engineer. 7. M is third to the right of P. Who is the Teacher?",
+    "options": {
+      "A": "N",
+      "B": "L",
+      "C": "P",
+      "D": "O",
+      "E": "Q"
+    },
+    "correct_answer": "C",
+    "explanation": "The seating order is R (Lawyer), L (Doctor), Q (Artist), M (Engineer), P (Teacher), N (Scientist), O (Chef). Therefore, P is the Teacher.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_013",
+    "question": "Six family members P, Q, R, S, T, and U are seated around a circular table. Each one is wearing a different color shirt: red, green, blue, yellow, pink, and white. Determine who is wearing which color based on the following clues: 1. P is seated between the person wearing green and the person wearing red. 2. The person wearing yellow is to the immediate right of R. 3. T is seated opposite to the person wearing the blue shirt. 4. U is not wearing the pink shirt and is sitting between S and the person wearing the white shirt. 5. S is wearing the yellow shirt. Who is wearing the green shirt?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "U"
+    },
+    "correct_answer": "B",
+    "explanation": "The seating arrangement around the table is as follows: P (Red), Q (Green), R (Pink), S (Yellow), T (White), U (Blue). Therefore, Q is wearing the green shirt.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_014",
+    "question": "Nine people (A, B, C, D, E, F, G, H, and I) work in a company and occupy different floors of a building (1 to 9, not necessarily in the same order). Each person has a different car color and a unique workday. Determine the floor arrangement based on the following clues: 1. The person who works on Monday occupies the 5th floor. 2. A lives two floors above the person with a white car and works one day before the person on Friday. 3. C, who has a red car, occupies the 7th floor. 4. The person on the 1st floor works immediately after the one with a blue car. 5. G occupies the 3rd floor and works on Wednesday. 6. The person with a black car lives on the 9th floor. 7. I, with a green car, works two days after the person on the 4th floor. 8. E works on Tuesday and has a yellow car. 9. F lives two floors below B, who works on Thursday.",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "F",
+      "E": "H"
+    },
+    "correct_answer": "A",
+    "explanation": "The complete arrangement is: 1 - H, blue, Thursday; 2 - D, pink, Monday; 3 - G, orange, Wednesday; 4 - B, purple, Friday; 5 - A, grey, Tuesday; 6 - F, white, Saturday; 7 - C, red, Sunday; 8 - I, green, Monday; 9 - E, yellow, Tuesday. Therefore, A works on Tuesday with the grey car.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_015",
+    "question": "Ten colleagues (J, K, L, M, N, O, P, Q, R, S) each belong to different departments and have unique hobbies and favorite foods. Their offices are on floors numbered 1 to 10. Determine each person's complete profile using the clues: 1. The person whose hobby is gardening is on floor 5 and loves Italian food. 2. J is one floor above the one who enjoys painting and is in the Finance department. 3. The IT department is between the Marketing and HR on consecutive floors. 4. K, who loves Chinese food, is two floors below the person who enjoys surfing. 5. The Chef is on the top floor, right above the Auditor. 6. L, who is in the Sales department, loves Mexican food and is two floors above the person whose hobby is reading. 7. M is in the HR department, three floors above the person who loves Indian food. 8. P enjoys hiking and has their office on the floor immediately above the person in the IT department. 9. S, in the Marketing department, loves Thai food and is one floor above Q, who enjoys dancing.",
+    "options": {
+      "A": "J",
+      "B": "K",
+      "C": "L",
+      "D": "M",
+      "E": "N"
+    },
+    "correct_answer": "C",
+    "explanation": "The arrangement is: Floor 1: Q, dancing, Finance; Floor 2: S, Thai, Marketing; Floor 3: P, hiking, IT; Floor 4: N, reading, HR; Floor 5: R, gardening, Italian; Floor 6: L, Mexican, Sales; Floor 7: K, Chinese, R&D; Floor 8: J, surfing, Legal; Floor 9: O, painting, Admin; Floor 10: M, Chef, Indian. Therefore, L loves Mexican food and is in Sales.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_016",
+    "question": "There are five friends: Anne, Bob, Carl, Diane, and Ed. They each live on a different floor of a five-story building (1st to 5th floor). Each of them has a different favorite fruit: Apple, Banana, Cherry, Date, and Elderberry. Using the clues below, determine who lives on which floor and their favorite fruit. \n\n1. Anne lives two floors above the person whose favorite fruit is Apple.\n2. The person on the 1st floor loves Cherry.\n3. Bob lives on an odd-numbered floor.\n4. The person whose favorite fruit is Banana lives on the 5th floor.\n5. Diane lives on the floor immediately above Bob's.\n6. Ed lives two floors below the person whose favorite fruit is Elderberry.\n\nWho lives on the 2nd floor and what is their favorite fruit?",
+    "options": {
+      "A": "Carl, Date",
+      "B": "Ed, Banana",
+      "C": "Diane, Cherry",
+      "D": "Anne, Apple",
+      "E": "Bob, Elderberry"
+    },
+    "correct_answer": "A",
+    "explanation": "1. Since Anne lives two floors above the person who likes Apple, and Ed lives two floors below the person who likes Elderberry, we have:\n   - Anne can't live on 1st or 2nd floor.\n   - Elderberry can't be on the 1st or 2nd floor.\n2. The person on the 1st floor likes Cherry.\n3. The person with Banana is on the 5th floor.\n4. Bob lives on an odd floor and Diane lives immediately above Bob, meaning Bob lives on the 3rd floor and Diane on the 4th.\n5. Anne can't be on the 1st or 3rd floors, so Anne must be on the 5th floor with Banana.\n6. Thus, the Apple lover is on the 3rd floor.\n7. Ed on the 2nd floor means Elderberry on the 4th floor.\n8. Carl is the only person left for the 2nd floor and likes Date.",
+    "difficulty": "Easy",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_017",
+    "question": "Six friends — George, Helen, Ian, Jack, Karen, and Liam — each have a different profession: Architect, Doctor, Engineer, Lawyer, Teacher, and Chef. They each work on a different day of the week, Monday through Saturday. Use the clues to determine each person's profession and the day they work. \n\n1. George works on Monday but is not the Engineer or Lawyer.\n2. The Architect works one day before the Teacher.\n3. Ian works the day after Helen, who is the Doctor.\n4. The Lawyer works on Friday.\n5. Jack works two days before Karen, who works as the Chef.\n6. Liam is not the Architect.\n\nWhat is Helen's profession and on what day does she work?",
+    "options": {
+      "A": "Doctor, Tuesday",
+      "B": "Teacher, Monday",
+      "C": "Engineer, Thursday",
+      "D": "Doctor, Wednesday",
+      "E": "Lawyer, Friday"
+    },
+    "correct_answer": "A",
+    "explanation": "1. George works Monday and is neither Engineer nor Lawyer.\n2. Helen is the Doctor and works one day before Ian.\n3. The Lawyer works Friday; hence, George is neither the Lawyer nor the Engineer; he must be the Teacher.\n4. The Architect works before the Teacher, so George can't be the Architect, meaning the Teacher works on Monday and the Architect on Sunday. However, since the week starts on Monday, Architect works on Tuesday.\n5. Helen is the Doctor, working Tuesday, and Ian Wednesday.\n6. Jack works two days before Karen; Jack works Thursday as Chef.\n7. The Lawyer works Friday, meaning Ian can't be Lawyer; he is Engineer working Thursday.\n8. By elimination, Liam is Lawyer on Friday.\n9. Karen works Saturday as Chef.\n10. Thus, Helen works as a Doctor on Tuesday.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_018",
+    "question": "There are seven people — Alice, Brian, Chloe, David, Ethan, Fiona, and Greg — who live in a seven-story building. Each of them has a different pet: Cat, Dog, Parrot, Rabbit, Fish, Hamster, and Turtle. Additionally, each prefers a different color: Red, Green, Blue, Yellow, Pink, Purple, and Orange. Determine who lives on which floor, their pet, and their preferred color based on the following clues:\n\n1. Chloe lives on the 5th floor and prefers Red.\n2. The Turtle owner lives on the 1st floor.\n3. The person who prefers Green lives two floors above the Cat owner.\n4. Ethan lives immediately below the person who prefers Pink and owns a Parrot.\n5. Fiona owns a Dog and lives on an even-numbered floor but not the 4th.\n6. The Fish owner prefers Yellow and lives three floors above Greg.\n7. The Hamster owner lives between Alice and the person who prefers Blue.\n\nWho owns the Rabbit and what floor do they live on?",
+    "options": {
+      "A": "David, 3rd floor",
+      "B": "Alice, 6th floor",
+      "C": "Fiona, 2nd floor",
+      "D": "Brian, 4th floor",
+      "E": "Greg, 7th floor"
+    },
+    "correct_answer": "D",
+    "explanation": "1. Chloe lives on the 5th floor and prefers Red.\n2. The Turtle owner on the 1st floor rules out Fiona for 2nd floor Dog owner.\n3. Cat owner lives 2 floors below someone who prefers Green, so Cat owner must be on 3rd.\n4. Ethan is below Pink Parrot owner, placing Ethan on 3rd or 4th.\n5. Fiona on 2nd or 6th floors. As a Dog owner, she must be on 2nd.\n6. Fish owner prefers Yellow and is 3 floors above Greg, so Fish owner must be on 7th, placing Greg on 4th.\n7. Hamster owner between Alice and Blue preferrer, placing them on 6th.\n8. By elimination, David owns the Rabbit and lives on the 4th floor.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_019",
+    "question": "In a 9-to-5 job schedule, eight employees — Harry, Irene, Jack, Kelly, Leo, Mary, Nina, and Owen — each work a different hour from 9 AM to 4 PM. They all use different modes of transportation to work: Car, Bus, Bike, Train, Walk, Scooter, Subway, and Taxi. Their lunch preferences are different: Salad, Burger, Pasta, Sushi, Sandwich, Pizza, Tacos, and Noodles. Use the clues to determine each person's work hour, transportation, and lunch preference:\n\n1. Harry works at 9 AM, travels by Scooter but doesn't like Sushi.\n2. The person who works at 12 PM prefers Noodles and comes by Subway.\n3. Jack prefers Salad and works before 11 AM.\n4. The Taxi commuter works after the person who likes Burger.\n5. The one who likes Tacos works at 10 AM.\n6. Leo doesn't take the Bus or work at 1 PM.\n7. Kelly works after 2 PM and prefers Pizza.\n8. Owen travels by Bike and doesn't work before 11 AM.\n9. Nina likes Pasta and works at 3 PM.\n10. The person using Train works immediately after the Sandwich lover.\n\nWhat is Mary's work hour, mode of transportation, and lunch preference?",
+    "options": {
+      "A": "11 AM, Bus, Tacos",
+      "B": "1 PM, Car, Burger",
+      "C": "4 PM, Taxi, Noodles",
+      "D": "2 PM, Train, Sushi",
+      "E": "3 PM, Walk, Pasta"
+    },
+    "correct_answer": "B",
+    "explanation": "1. Harry is 9 AM, Scooter, no Sushi.\n2. 12 PM Noodles, Subway.\n3. Jack's Salad, before 11 AM, likely 10 AM.\n4. Tacos are at 10 AM.\n5. Taxi post-Burger; hence Taxi not before 10 AM.\n6. Leo doesn't Bus, not 1 PM, perhaps 4 PM.\n7. Kelly post-2 PM Pizza, likely 4 PM.\n8. Owen post-11 AM, Bike.\n9. Nina 3 PM Pasta.\n10. Train post-Sandwich, implying pre-lunch (before 12 PM).\n11. Mary fits 1 PM, Car, Burger.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_020",
+    "question": "Ten colleagues — Alex, Ben, Clara, Dan, Eva, Frank, Grace, Helen, Ian, and Julia — each have a unique office number from 101 to 110. Each person has a different hobby: Painting, Chess, Gardening, Dancing, Music, Cooking, Reading, Traveling, Fishing, and Photography. They all have a favorite drink: Coffee, Tea, Juice, Water, Soda, Wine, Beer, Milk, Smoothie, and Cocktail. Determine each person's office, hobby, and favorite drink using these clues:\n\n1. Ben's office is an even number and he likes Tea but not Chess.\n2. The office next to Dan's belongs to the person who loves Fishing and prefers Juice.\n3. The person who enjoys Traveling and has Soda works in office 109.\n4. Grace loves Cooking and works in an office adjacent to the Music lover.\n5. Clara is fond of Reading and has Milk, and her office number is even.\n6. The Gardening enthusiast's favorite drink is Beer, and their office is directly next to Julia's.\n7. Alex, who is in office 101, enjoys Photography.\n8. Eva works two offices down from the Water drinker who loves Chess.\n9. Frank likes Smoothies and works in office 110.\n10. Helen, who likes Coffee, shares no office wall with the Traveling enthusiast.\n\nWho works in office 107, and what is their hobby and favorite drink?",
+    "options": {
+      "A": "Helen, Dancing, Coffee",
+      "B": "Ian, Gardening, Beer",
+      "C": "Dan, Fishing, Juice",
+      "D": "Alex, Photography, Wine",
+      "E": "Julia, Painting, Wine"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Ben, office 102, likes Tea.\n2. Dan near Fishing, Juice.\n3. Traveling, Soda in 109.\n4. Grace loves Cooking, near Music.\n5. Clara, Reading, Milk, even office 104.\n6. Gardening, Beer, near Julia.\n7. Alex, 101, Photography.\n8. Eva two offices from Water, Chess.\n9. Frank, Smoothies, 110.\n10. Helen, Coffee, not near Traveling.\n11. Dan in 107 fits Fishing, Juice.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_021",
+    "question": "Five friends, Anna, Ben, Clara, Dan, and Eva live in a building with five floors. Each person lives on a different floor (1 to 5) and has a favorite color (Red, Blue, Green, Yellow, and Purple). Ben lives above Clara. The person who likes Yellow lives on the lowest floor. Anna's floor is directly above the person who likes Purple. Eva lives on the second floor. Dan lives on the topmost floor. Who lives on the third floor?",
+    "options": {
+      "A": "Anna",
+      "B": "Ben",
+      "C": "Clara",
+      "D": "Dan",
+      "E": "Eva"
+    },
+    "correct_answer": "B",
+    "explanation": "From the clues: 1. Dan lives on the 5th floor. 2. Eva lives on the 2nd floor. 3. The person who likes Yellow is on the 1st floor, so it can be either Anna or Clara. 4. Anna is above the person who likes Purple. 5. Ben is above Clara. Thus, Clara must be on the 1st floor (Yellow), Anna on 4th (Purple), Ben on 3rd, and Eva likes Green. Ben lives on the 3rd floor.",
+    "difficulty": "Easy",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_022",
+    "question": "Seven people—Gina, Hank, Ivan, Jess, Kelly, Leo, and Mia—attend different workshops on different days of the week from Monday to Sunday. No two people attend on the same day. Gina attends the workshop on Wednesday. Hank attends after Gina but before Kelly. Mia attends on Friday. Jess attends before Ivan, who attends on Saturday. Leo attends immediately before Kelly. Who attends the workshop on Monday?",
+    "options": {
+      "A": "Gina",
+      "B": "Hank",
+      "C": "Jess",
+      "D": "Kelly",
+      "E": "Leo"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Gina is on Wednesday, Mia is on Friday. 2. Ivan on Saturday, Jess before Ivan. 3. Hank is after Gina and before Kelly, meaning Hank is on Thursday and Kelly is on Sunday. 4. Leo is before Kelly, making Leo on Saturday and Ivan on Sunday incorrect, so Leo is on Saturday and Ivan on Sunday. Therefore, Jess must be on Monday.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_023",
+    "question": "Six employees—Tom, Sam, Rita, Uma, Vince, and Zoe—have different professions: Doctor, Engineer, Teacher, Lawyer, Chef, and Artist. Each works in a different room labeled from 1 to 6. The Doctor works in room 5. Sam is not an Engineer. The Lawyer works in room 3 and is neither Tom nor Vince. The Artist works in room 2. Uma is not a Teacher. Zoe, who is an Engineer, works in room 4. Who is the Chef?",
+    "options": {
+      "A": "Tom",
+      "B": "Sam",
+      "C": "Rita",
+      "D": "Uma",
+      "E": "Vince"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Zoe is an Engineer in room 4. 2. The Doctor in room 5 is neither Sam nor Uma since Uma isn't a Teacher. 3. The Lawyer in room 3 is not Tom or Vince, so it must be Sam. 4. Artist in room 2, not Tom or Vince, must be Uma. 5. Rita must be the Chef (since the remaining profession is Chef), and she works in room 1. Therefore, Rita is the Chef.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_024",
+    "question": "Eight friends—Alex, Brian, Chris, Diana, Elise, Frank, George, and Hannah—attend different clubs: Chess, Robotics, Art, Drama, Music, Debate, Science, and Photography. Each one drives a different colored car: Red, Blue, Green, Yellow, Black, White, Purple, and Orange. Alex drives the Red car and doesn't attend Chess or Robotics. The person who drives the Blue car attends Science club. Chris, who doesn't drive a Yellow car, is in the Photography club. Hannah drives the White car. Diana attends Robotics and drives a Black car. Brian is in Drama. Elise drives a Green car and attends Art. Frank is in Debate. Who drives the Purple car?",
+    "options": {
+      "A": "Alex",
+      "B": "Brian",
+      "C": "Chris",
+      "D": "Frank",
+      "E": "George"
+    },
+    "correct_answer": "D",
+    "explanation": "1. Alex drives Red and not in Chess or Robotics. 2. Blue car is in Science, so it cannot be Alex. 3. Chris in Photography, can't have Yellow, so Purple or Orange. 4. Hannah is White and not Alex or Chris. 5. Diana is Black and in Robotics. 6. Elise in Art is Green. 7. Brian in Drama can't be Blue or Yellow. 8. Frank in Debate and can't be Blue or Yellow, so Purple. 9. Therefore, Frank drives the Purple car.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_025",
+    "question": "Nine people are seated around a circular table. Each person is a different age (between 21 and 29) and has a distinct favorite number between 1 and 9. Jessica, who is 24, sits between the person whose favorite number is 2 and the person who is 26 years old. The person who is 28 years old sits opposite the one whose favorite number is 6. Peter is 23 and sits next to the person whose favorite number is 4. The person who is 25 years old is two places left of the one whose favorite number is 7. The youngest person sits opposite the one whose favorite number is 9. Who is the oldest person seated at the table?",
+    "options": {
+      "A": "Jessica",
+      "B": "Peter",
+      "C": "The one whose favorite number is 5",
+      "D": "The one whose favorite number is 3",
+      "E": "The one whose favorite number is 9"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Identify the seating order step-by-step based on favorite numbers and age constraints. 2. Connect the given ages with favorite numbers logically around the table. 3. The oldest, 29, must correspond to the unallocated seat after fulfilling all adjacent conditions. 4. Cross-reference the given age constraints with seating positions to find the correct answer, which is linked to the favorite number 5.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_026",
+    "question": "Five friends, Alex, Bob, Charlie, David, and Eve, live on different floors of a five-story building (numbered 1 to 5 from the bottom to the top). Each friend likes a different color (Red, Blue, Green, Yellow, and Pink). The following conditions are given: 1. Alex lives on the fourth floor. 2. The person who likes Blue lives on an even-numbered floor. 3. Bob likes Green and lives one floor above Charlie. 4. David lives on the first floor and does not like Yellow. 5. Eve does not live on the top floor. Who lives on the fifth floor and which color do they like?",
+    "options": {
+      "A": "Eve, Red",
+      "B": "Bob, Blue",
+      "C": "Charlie, Pink",
+      "D": "Eve, Blue",
+      "E": "Alex, Yellow"
+    },
+    "correct_answer": "A",
+    "explanation": "1. Alex lives on the fourth floor. 2. Bob must live on the fifth floor, because he lives above Charlie and only fifth floor is above any other floor, thus Charlie is on the fourth floor. 3. Bob likes Green. 4. David lives on the first floor and cannot like Yellow, leaving him with Red. 5. Therefore, the person who likes Blue can only be Eve and since she can't live on the top floor, Eve lives on the second floor. 6. Thus, the person on the third floor must like Yellow. 7. Therefore, Bob is on the fifth floor and must like Red.",
+    "difficulty": "Easy",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_027",
+    "question": "Seven students, Andy, Brian, Cindy, Donna, Ethan, Fiona, and George, participated in a sports event and each won a different medal (Gold, Silver, Bronze, Copper, Iron, Platinum, and Tin). Each student also likes a different fruit (Apple, Banana, Cherry, Dates, Fig, Grapes, and Kiwi). The following conditions are known: 1. Andy won the Gold medal and does not like Dates. 2. The student who likes Banana won the Silver medal. 3. Cindy likes Cherry but did not win the Bronze medal. 4. Ethan won the Iron medal. 5. Fiona likes Grapes and won the Platinum medal. 6. The student who won the Bronze medal likes Fig. 7. Donna did not win the Tin medal but likes Dates. 8. George likes Apple. Who won the Copper medal and what is their favorite fruit?",
+    "options": {
+      "A": "Donna, Dates",
+      "B": "Brian, Banana",
+      "C": "Cindy, Cherry",
+      "D": "George, Apple",
+      "E": "Andy, Kiwi"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Andy won Gold and does not like Dates, so Andy's fruit is not Dates. 2. Banana goes with Silver, but it is not specified who won Silver yet. 3. Cindy likes Cherry, and since Cindy did not win Bronze, Cindy's medal could be Copper. 4. Ethan won Iron, fixing his position. 5. Fiona won Platinum and likes Grapes. 6. Fig goes with Bronze. 7. Donna likes Dates but did not win Tin, so her medal must be one of the other remaining options (Copper or Bronze). 8. George likes Apple but not paired yet with a medal, so Copper matches Cindy who likes Cherry.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_028",
+    "question": "Six friends are traveling to different countries: USA, Canada, UK, Australia, Germany, and Japan. Their professions are different: Doctor, Engineer, Teacher, Lawyer, Chef, and Artist. They are traveling in different months: January, February, March, April, May, and June. The clues are: 1. The Doctor is traveling in March to UK. 2. The Engineer is traveling in April but not to Germany. 3. The Teacher travels to USA but not in January or June. 4. The person traveling to Japan is an Artist and goes in May. 5. The Chef travels to Australia but not in February. 6. The Lawyer is traveling in June. 7. The person traveling to Canada goes in February. Who is the Lawyer and where are they traveling?",
+    "options": {
+      "A": "Engineer, Canada",
+      "B": "Doctor, UK",
+      "C": "Lawyer, Germany",
+      "D": "Artist, Japan",
+      "E": "Chef, Australia"
+    },
+    "correct_answer": "C",
+    "explanation": "1. The Doctor is fixed in March to UK. 2. The Engineer is in April but not Germany, so possibilities are USA or Canada. 3. Teacher is USA not January or June, so either March or May. March is already occupied by Doctor, so May or February. But February is for Canada, so March is for Teacher USA. 4. The Artist is in May in Japan. 5. Chef is in Australia, not February, which leaves June or April. April is for Engineer, so Chef must be June. 6. Thus, Lawyer is also in June, and they go to Germany as all other options are accounted for.",
+    "difficulty": "Medium",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_029",
+    "question": "Nine colleagues, Harry, Ian, Jack, Kate, Linda, Mike, Nancy, Oscar, and Paula, live in a nine-floor building with one person per floor. Each has a different hobby (Gardening, Painting, Cycling, Cooking, Reading, Writing, Dancing, Hiking, and Photography) and a different favorite animal (Dog, Cat, Bird, Fish, Rabbit, Hamster, Turtle, Horse, and Snake). The following clues are given: 1. Harry lives two floors above the person who likes Painting. 2. The person who likes Photography lives on the top floor. 3. Ian's favorite animal is a Rabbit and he lives below the fifth floor. 4. The person who enjoys Cooking lives immediately above Mike, whose favorite animal is a Cat. 5. The person who likes Gardening has a Hamster and lives on the third floor. 6. Jack lives between the person who likes Cycling and the person who likes Hiking. 7. Kate enjoys Dancing and her favorite animal is a Dog. 8. Linda lives on the floor just above the person who likes Reading. 9. Nancy's favorite animal is a Turtle and she lives three floors below the Photography enthusiast. 10. Oscar, who lives on an even-numbered floor, likes Writing. 11. Paula's favorite animal is a Fish, and she does not live on the top floor. Who lives on the second floor and what are their hobby and favorite animal?",
+    "options": {
+      "A": "Oscar, Writing, Bird",
+      "B": "Jack, Cycling, Snake",
+      "C": "Linda, Cooking, Horse",
+      "D": "Mike, Cycling, Cat",
+      "E": "Nancy, Reading, Turtle"
+    },
+    "correct_answer": "D",
+    "explanation": "1. Harry's and Painting's positions guide to Harry being around 6 or 7 if Painting is at 4 or 5, respectively. 2. Photography is on the 9th floor. 3. Ian and Rabbit must be below 5, so 1-4 range, but not 3 which is Gardening. 4. Cooking is above Mike, 3 becomes Gardening, so Mike is 2 or 1, but due to Ian, 2. 5. 6-7 with Harry, Painting comes below, probably 5, and thus Jack needs between Cycling and Hiking. 6. Kate's Dog means she could be in early floors due to the 2 gap. 7. Linda is above Reading. 8. Nancy below Photography by 3 and enjoys Turtle. 9. Oscar on even with Writing, making it 4/6/8. 10. Paula with Fish not on 9. Hence, Mike is on 2 with Cycling and Cat due to combinations with constraints.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "multivariable_puzzle_030",
+    "question": "Ten friends, Anna, Barry, Carla, David, Emma, Frank, Gina, Helen, Ivy, and Jack, each own a different type of vehicle (Sedan, Coupe, Hatchback, SUV, Truck, Convertible, Minivan, Motorcycle, Bicycle, and Van) and live on a different street named after a city (New York, Los Angeles, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, and San Jose). Each person's favorite sport is different: Basketball, Football, Tennis, Cricket, Baseball, Swimming, Golf, Hockey, Soccer, and Rugby. Conditions: 1. Anna lives on New York street and owns a Sedan. 2. The owner of the Truck lives on Chicago street and does not like Cricket. 3. The person who likes Soccer lives on Houston street and owns a Minivan. 4. Emma, who likes Basketball, lives in Philadelphia but does not own a Motorcycle. 5. Gina lives on San Diego street and owns a Coupe. 6. The person who owns the Hatchback likes Golf and lives on Los Angeles street. 7. The resident of San Jose street likes Tennis. 8. Barry lives on San Antonio street and does not own a Convertible. 9. Frank, who likes Baseball, lives on Dallas street but not in a Van. 10. Jack enjoys Hockey and lives in Phoenix. Who lives on San Jose street, what vehicle do they own, and what is their favorite sport?",
+    "options": {
+      "A": "Carla, Sedan, Tennis",
+      "B": "David, Convertible, Tennis",
+      "C": "Helen, Van, Rugby",
+      "D": "Ivy, SUV, Tennis",
+      "E": "Jack, Motorcycle, Hockey"
+    },
+    "correct_answer": "D",
+    "explanation": "1. Anna on New York with Sedan. 2. Truck on Chicago, not Cricket. 3. Soccer and Minivan on Houston. 4. Emma Basketball at Philadelphia, Motorcycle is out. 5. Gina on San Diego with Coupe. 6. Hatchback, Golf on Los Angeles. 7. Tennis on San Jose, leaving open vehicle options. 8. Barry on San Antonio not Convertible. 9. Frank at Dallas not Van, must be Baseball. 10. Jack, Hockey at Phoenix, cross-check options against remaining streets and sports, vehicles align to Ivy for Tennis at San Jose with SUV.",
+    "difficulty": "Hard",
+    "topic": "Complex Puzzle",
+    "reasoning_topic": "Multi-Variable Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

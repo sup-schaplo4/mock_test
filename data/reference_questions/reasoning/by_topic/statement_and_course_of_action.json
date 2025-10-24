@@ -1,0 +1,403 @@
+{
+  "topic": "Statement & Course of Action",
+  "total_questions": 13,
+  "questions": [
+    {
+      "id": "2017_Q129",
+      "question_number": 129,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "A. Around 60% of the computer and software professionals of Country X wish to pursue ethical hacking. B. The IT companies in three of the neighbouring countries of Country X recently faced an attack of ‘Hacker Virus’ in many of their systems.",
+      "options": {
+        "A": "Both statements A and B are independent causes.",
+        "B": "Both statements A and B are effects of some common cause.",
+        "C": "Statement B is the cause and statement A is its effect.",
+        "D": "Statement A is the cause and statement B is its effect.",
+        "E": "Both statements A and B are effects of independent causes."
+      },
+      "correct_answer": "C",
+      "explanation": "The statement B states that IT companies of neighbouring countries of country X faced ‘Hacker Virus’ in their systems and statement A states that 60% of computer professionals in country X wants to pursue ethical hacking. Statement B is the cause and statement A is its effect.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00019",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253996",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q156",
+      "question_number": 156,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "A road construction project has been going on in State Y and was due to be completed two months ago. The government of that time had extended the deadline of the project by three months and also allowed truck carrying the raw material to pass through city 2 in order to speed up the process. Yet the construction work is further delayed and is not likely to get over in the extended deadline as well. Which of the following may NOT be a reason for the delay of construction work in State Y?",
+      "options": {
+        "A": "the workers have started going on strike and off since the past four months as they demanding higher wages.",
+        "B": "Some part of the land on which the road is to be constructed is owned privately and a dispute is going on in the court regarding the same.",
+        "C": "Monsoon have approached State Y and due to heavy rainfall the construction work is 3 times slower than you.",
+        "D": "Due to several complaints by the residents living in the vicinity of the construction site, the construction work is done for four hours less than the usual construction hours since paid four months.",
+        "E": "Most roads of city 2 have traffic jam in the morning as well as evening for two hours each as most people in the city travel to work by road."
+      },
+      "correct_answer": "E",
+      "explanation": "Statement A states that the workers of state Y demands high wages and started going on strike. Statement B states that the dispute on the land is going on in the court where road is to be constructed. Statement C states that due to heavy rainfall in state Y construction work gets affected. Statement D states that construction work is affected due to complaint of local residents. Statement E states that traffic jam is huge in the city in the morning as well as evening. Hence statement E is not the reason for the delay of construction work in state Y.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00044",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254023",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q160",
+      "question_number": 160,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Statements: I. Unlike last two years, the amount of toxic gases such as carbon monoxide and sulphur dioxide along with volatile organic compounds present in atmosphere crossed the permissible limit in Country X thi year. II. The emissions from stationary sources such as industries and that from mobile sources such as transport have increased substantially this year in Country X.",
+      "options": {
+        "A": "Both statements I and II are effects of independent causes.",
+        "B": "Both statements I and II are effects of some common cause.",
+        "C": "Statement I is the cause and statement II is its effect.",
+        "D": "Statement II is the cause and statement I is its effect.",
+        "E": "Both statements I and II are independent causes."
+      },
+      "correct_answer": "D",
+      "explanation": "160 Statement I states that the amount of toxic gases in atmosphere of country X have crossed the permissible limit. Statement B states that the emission of toxic gases from industries and mobile sources have increased substantially this year. Hence statement II is the cause and statement I is its effect.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00048",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254028",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q66",
+      "question_number": 66,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Direction: In the question given below, a statement is given followed by three courses of action. A course of action is taken for improvement, follow up, etc. Read the statement carefully and give your answer accordingly. Statement: Children are more susceptible than adults to diseases caused by chemical pesticide residues in food, a recent research report by a food committee states. Courses of Action: I. Every family should have a kitchen garden where they can grow their own food. II. Parents should try and ensure that children eat more organic and locally grown food that is free of pesticides. III. Parents and children should keep a tab on which fruits and vegetables have higher levels of pesticide residue and try and avoid them.",
+      "options": {
+        "A": "Only course of action I follows",
+        "B": "Only course of action II follows",
+        "C": "Both I and II follow",
+        "D": "Both II and III follow",
+        "E": "None of them follow"
+      },
+      "correct_answer": "D",
+      "explanation": "Course of action I is not feasible as it is not possible for every person to have a kitchen garden. Courses of action II and III follow because both of them are reasonable solutions to the problem of children being more susceptible to diseases caused by chemical pesticide residues in food. Hence, option(D) is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00094",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254085"
+      }
+    },
+    {
+      "id": "2018_Q88",
+      "question_number": 88,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Direction: Study the following information carefully to answer the given question. I. The destiny of Asia will be shaped by the triangular relationship between the Asian nations, India, China and Japan. II. India, China and Japan which have registered a phenomenal growth, over the last decade in particular, has acted as southern engines of growth for the whole world.",
+      "options": {
+        "A": "If statement I is the cause and statement II is its effect;",
+        "B": "If statement II is the cause and statement I is its effect;",
+        "C": "If both the statements I and II are independent causes;",
+        "D": "If both the statements I and II are effects of independent causes;",
+        "E": "If both the statements I and II are effects of some common cause."
+      },
+      "correct_answer": "B",
+      "explanation": "Since the three countries are leading the economic growth of the whole world, they will shape the destiny of Asia. Hence, II is the cause and I is its effect.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00115",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254109",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q48",
+      "question_number": 48,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statement: The Indian High Commission in Antigua and Barbuda had asked the authorities there to stop billionaire diamond trader Mehul Choksi from travelling around the world, sources said on Monday. Courses of Action: I. All billionaire diamond traders should immediately stop travelling to Antigua and Barbuda for the time being. II. Mehul Choksi should seek asylum in some other country to avoid being caught. III. The Indian High Commissioner should himself go and arrest Mehul Choksi.",
+      "options": {
+        "A": "If only course of action I follows",
+        "B": "If only course of action II follows",
+        "C": "If both I and II follow",
+        "D": "If both II and III follow",
+        "E": "If none of them follow"
+      },
+      "correct_answer": "E",
+      "explanation": "None of the courses of action follow. All of them contain a lot of extraneous information and are impractical solutions. Stoping all billionaire diamond traders from travelling to Antigua and Barbuda and the act of Indian High commissioner should go to arrest Mehul Choksi are extreme courses of action, hence they are ruled out. As for Mehul Choksi should seek asylum is an inappropriate course of action in the context of a given statement. Therefore, option E is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00165",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254164"
+      }
+    },
+    {
+      "id": "2019_Q49",
+      "question_number": 49,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statement: Disposal of non-biodegradable electronic waste is another problem that the government, which is unable to reduce the use of plastic, has to handle in the near future. Courses of Actions: I. The government should not worry about electronic waste now. II. The government should learn from its failure to reduce the use of plastic and take early steps for effective disposal of electronic waste.",
+      "options": {
+        "A": "Only course of action I follows",
+        "B": "Only course of action II follows",
+        "C": "Either I or II follows",
+        "D": "Neither I nor II follows",
+        "E": "Both I and II follow"
+      },
+      "correct_answer": "B",
+      "explanation": "I is a negative suggestion. It is against the accepted norm that a stitch in time saves nine'. Hence, I does not follow II is a positive suggestion. Moreover it also suggests that the government has a chance to take better action by learning from its experience. Hence, II follows. Only II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00166",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254165",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q50",
+      "question_number": 50,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: I. Kochi got its new traffic light system that was specially designed to cope with the increasing traffic problems and roadblocks. II. The number of road accidents in Kochi has come down in the past 2 months.",
+      "options": {
+        "A": "Statement I is the cause and statement II is its effect.",
+        "B": "Statement II is the cause and statement I is its effect.",
+        "C": "Both the statements I and II are independent causes.",
+        "D": "Both the statements I and II are effects of independent causes.",
+        "E": "Both the statements I and II are effects of some common cause."
+      },
+      "correct_answer": "D",
+      "explanation": "At first it may seem statement I is the cause and II is effect, but the reduction in the accidents may not be a direct impact of a new traffic light. The first sentence states that the new traffic lights are specially designed to cope with the increasing traffic problems and roadblocks. So, it cannot be said that II is the effect of I. The reduction in the number of accidents could be caused by factors like well-maintained road, speed limits, etc. Statement I is caused by increasing traffic blocks. So, both statements are effects with independent causes.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00167",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254166",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q58",
+      "question_number": 58,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statement:Sea level rise driven by climate change is set to pose an existential crisis to many US coastal communities, with new research finding that as many as 311,000 homes face being flooded every two weeks within the next 30 years. Inferences: I. This research report will potentially inflict a huge financial and emotional toll on all those Americans who live in the properties at risk of having their basements, backyards, garages or living rooms inundated every other week. II. Greenhouse gas emissions, the main cause of rising sea levels, need to severely curtailed with immediate effect.",
+      "options": {
+        "A": "Only I can be inferred",
+        "B": "Only II can be inferred",
+        "C": "Both of them can be inferred",
+        "D": "None of them can be inferred",
+        "E": "Either Only I or II"
+      },
+      "correct_answer": "A",
+      "explanation": "The given statement says that due to climate changes sea levels are rising and because of this, more than three hundred thousand homes will get flooded every two weeks in the next 30 years. I is an obvious deduction – people who live near the coastlines will be financially and emotionally affected. And II statement may look like an inference but it actually a course of action. A course of action is a procedure to deal with a situation. Second statement layout plan to minimize the effect of green house gas on sea level.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00175",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254175"
+      }
+    },
+    {
+      "id": "2022_Q154",
+      "question_number": 154,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statement: The management of XYZ Ltd has been at the receiving end of constant complaints from its employees about the HR department. The management is concerned that poor HR management will likely spread to impact all levels of the company causing issues such as employee conflict, poor team building, personality conflicts among many others. Which of the following statements is/are a viable course of action to tackle the problem? I) Replacing the HR personnel with a HR management software. II) Develop an effective training program for HR which includes guidance on the company’s interdepartmental communications improvement.",
+      "options": {
+        "A": "Only I follows",
+        "B": "Only II follows",
+        "C": "Both I and II follow",
+        "D": "Neither I nor II follows",
+        "E": "Either I or II follows"
+      },
+      "correct_answer": "B",
+      "explanation": "I' is not a valid course of action as replacing HR personnel with HR software will solve the problem. But 'II' is a valid course of action as effective training of HR department is required.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00188",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254191"
+      }
+    },
+    {
+      "id": "2022_Q183",
+      "question_number": 183,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "(A) The meteorological department has issued a statement mentioning deficit rainfall during monsoon in many parts of the country. (B) The Government has lowered the revised estimated GDP growth from the level of earlier estimates.",
+      "options": {
+        "A": "Statement(A) is the cause and statement(B) is the effect.",
+        "B": "Statement(B) is the cause and statement(A) is the effect.",
+        "C": "Both the statements(A) and(B) are independent causes.",
+        "D": "Both the statements(A) and(B) are effects of independent causes.",
+        "E": "Both the statements(A) and(B) are effects of some common cause."
+      },
+      "correct_answer": "A",
+      "explanation": "When rainfall is less in monsoon, the agricultural output generally reduces due to lack of irrigation. So, overall GDP will also reduce. So, clearly, A is the cause and B is the effect.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00216",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254222",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q184",
+      "question_number": 184,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "(A) As per the statistics there has been a rise in the number of electric cars in country ‘X’ this year. (B) The oil prices have fallen strongly in country ‘X’ this year and are estimated to stay low for at least two years for now and not decrease further.",
+      "options": {
+        "A": "Statement(A) is the cause and statement(B) is the effect.",
+        "B": "Statement(B) is the cause and statement(A) is the effect.",
+        "C": "Both the statements(A) and(B) are independent causes.",
+        "D": "Both the statements(A) and(B) are effects of independent causes.",
+        "E": "Both the statements(A) and(B) are effects of some common cause."
+      },
+      "correct_answer": "A",
+      "explanation": "An increase in the number of electric cars means people may be shifting to electric cars from fuel cars. So, accordingly, demand for fuel cars will reduce which will consequently reduce the demand of oil. As a result, oil prices will reduce.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00217",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254223",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q164",
+      "question_number": 164,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Statement: In order to reduce the number of accidents on the highways, the government should impose stricter penalties for traffic violations. Which of the following, if true, most seriously weakens the argument above?",
+      "options": {
+        "A": "Most drivers already know the existing traffic laws.",
+        "B": "The current penalties for traffic violations are rarely enforced.",
+        "C": "Many accidents are caused by factors other than traffic violations.",
+        "D": "Stricter penalties will lead to an increase in the number of people who drive under the influence.",
+        "E": "The cost of enforcing stricter penalties will be very high."
+      },
+      "correct_answer": "B",
+      "explanation": "Nothing has been mentioned about architectural structure or any problem in it. So, action 1 does not follow. It has been mentioned in the first sentence that paucity is one of the main reason for pathetic condition and hence course of action 2 follows. Course of action 3 does not follow because reasons for poor condition have already been mentioned in the passage.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Course of Action",
+      "topic": "Statement & Course of Action",
+      "question_id": "REASONING_00252",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254262"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

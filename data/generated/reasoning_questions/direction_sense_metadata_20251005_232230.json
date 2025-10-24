@@ -1,0 +1,36 @@
+{
+  "generation_date": "2025-10-05 23:25:44",
+  "model_used": "gpt-4o",
+  "total_questions_requested": 30,
+  "total_questions_generated": 30,
+  "difficulty_distribution": {
+    "Easy": 6,
+    "Medium": 12,
+    "Hard": 12
+  },
+  "batch_configuration": {
+    "total_batches": 6,
+    "batch_size": 5,
+    "successful_batches": 6,
+    "failed_batches": 0
+  },
+  "token_usage": {
+    "input_tokens": 6936,
+    "output_tokens": 8579,
+    "total_tokens": 15515
+  },
+  "cost": {
+    "input_cost": 0.01734,
+    "output_cost": 0.08579,
+    "total_cost": 0.10313
+  },
+  "time": {
+    "total_time_seconds": 193.35,
+    "api_time_seconds": 178.32
+  },
+  "output_files": {
+    "questions": "data/generated/direction_sense_questions_20251005_232230.json",
+    "errors": "data/generated/direction_sense_errors_20251005_232230.log",
+    "metadata": "data/generated/direction_sense_metadata_20251005_232230.json"
+  }
+}

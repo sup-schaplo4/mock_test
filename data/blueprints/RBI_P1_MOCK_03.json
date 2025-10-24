@@ -1,0 +1,98 @@
+{
+    "test_id": "RBI_P1_MOCK_03",
+    "test_name": "RBI Grade B - Phase 1 Mock Test #3",
+    "description": "Full-length mock test with higher difficulty variation",
+    "total_questions": 200,
+    "total_marks": 200,
+    "duration_minutes": 120,
+    "negative_marking": 0.25,
+    "created_date": "2025-10-07",
+    "sections": [
+      {
+        "section_id": "GA",
+        "section_name": "General Awareness",
+        "total_questions": 80,
+        "source_files": ["general_awareness_master_question_bank.json"],
+        "difficulty_distribution": {
+          "Easy": 16,
+          "Medium": 40,
+          "Hard": 24
+        },
+        "topic_distribution": {
+          "Economic_Indicators": 10,
+          "Banking_Regulation": 9,
+          "Fiscal_Policy": 8,
+          "Monetary_Policy": 8,
+          "Banking_Sector": 7,
+          "Government_Schemes": 7,
+          "RBI_Functions": 6,
+          "Financial_Stability": 6,
+          "Economic_Updates": 6,
+          "Government_Initiatives": 5,
+          "Inflation": 4,
+          "Current_Affairs": 4
+        }
+      },
+      {
+        "section_id": "REASONING",
+        "section_name": "Logical Reasoning",
+        "total_questions": 60,
+        "source_files": ["reasoning_master_question_bank.json"],
+        "difficulty_distribution": {
+          "Easy": 10,
+          "Medium": 25,
+          "Hard": 25
+        },
+        "topic_distribution": {
+          "Floor Puzzle": 10,
+          "Linear Seating Arrangement": 9,
+          "Circular Seating Arrangement": 8,
+          "Syllogisms": 7,
+          "Box Puzzle": 6,
+          "Data Sufficiency": 5,
+          "Inequalities": 5,
+          "Blood Relations": 4,
+          "Direction Sense": 3,
+          "Input-Output": 3
+        }
+      },
+      {
+        "section_id": "ENGLISH",
+        "section_name": "English Language",
+        "total_questions": 30,
+        "source_files": ["english_master_question_bank.json"],
+        "difficulty_distribution": {
+          "Easy": 5,
+          "Medium": 15,
+          "Hard": 10
+        },
+        "topic_distribution": {
+          "Reading_Comprehension": 10,
+          "Vocabulary": 6,
+          "Fill_in_the_Blanks": 5,
+          "Error_Spotting": 5,
+          "Para_Jumbles": 4
+        }
+      },
+      {
+        "section_id": "QUANT",
+        "section_name": "Quantitative Aptitude",
+        "total_questions": 30,
+        "source_files": ["arithmetic_master_question_bank.json", "di_master_question_bank.json"],
+        "difficulty_distribution": {
+          "Easy": 5,
+          "Medium": 15,
+          "Hard": 10
+        },
+        "topic_distribution": {
+          "Data Interpretation": 2,
+          "Averages": 4,
+          "Percentage": 4,
+          "Simple & Compound Interest": 4,
+          "Ratio & Proportion": 4,
+          "Time, Speed & Distance": 4
+        }
+      }
+    ]
+  }
+  

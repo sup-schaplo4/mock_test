@@ -1,0 +1,1604 @@
+Q.1) 
+Read the given information carefully and answer the questions given below: Eight people M, N, O, P, Q, R, S and T are sitting in a straight line facing north direction. They all have different ages, viz. 8, 12, 14, 21, 28, 36, 44 and 56 but not necessarily in the same order. Two people are sitting between O and the one whose age is 56 years. The one whose age is 14 years is sitting second to the left of O. N is sitting to the immediate left of the one whose age is 56 years. One person is sitting between T and the one whose age is 56 years. Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. There is a difference of 7 years between the ages of R and S and two people are sitting between them. The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. There is one people sitting between R and the one whose age is 44 years. M is an immediate neighbor of the one whose age is 44 years. Q and the one whose age is 21 years are immediate neighbors. T is older than M and N is younger than Q. How many people sit(s) between R and the one who is 21 years old?
+(a) One 
+(b) Two 
+(c) Three 
+(d) More than three 
+(e) None
+
+Q.2) 
+Read the given information carefully and answer the questions given below: Eight people M, N, O, P, Q, R, S and T are sitting in a straight line facing north direction. They all have different ages, viz. 8, 12, 14, 21, 28, 36, 44 and 56 but not necessarily in the same order. Two people are sitting between O and the one whose age is 56 years. The one whose age is 14 years is sitting second to the left of O. N is sitting to the immediate left of the one whose age is 56 years. One person is sitting between T and the one whose age is 56 years. Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. There is a difference of 7 years between the ages of R and S and two people are sitting between them. The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. There is one people sitting between R and the one whose age is 44 years. M is an immediate neighbor of the one whose age is 44 years. Q and the one whose age is 21 years are immediate neighbors. T is older than M and N is younger than Q. What is the age difference between M and S?
+(a) 10 
+(b) 11 
+(c) 12 
+(d) 13 
+(e) None of these
+
+Q.3) 
+Read the given information carefully and answer the questions given below: Eight people M, N, O, P, Q, R, S and T are sitting in a straight line facing north direction. They all have different ages, viz. 8, 12, 14, 21, 28, 36, 44 and 56 but not necessarily in the same order. Two people are sitting between O and the one whose age is 56 years. The one whose age is 14 years is sitting second to the left of O. N is sitting to the immediate left of the one whose age is 56 years. One person is sitting between T and the one whose age is 56 years. Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. There is a difference of 7 years between the ages of R and S and two people are sitting between them. The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. There is one people sitting between R and the one whose age is 44 years. M is an immediate neighbor of the one whose age is 44 years. Q and the one whose age is 21 years are immediate neighbors. T is older than M and N is younger than Q. What is the age of P?
+(a) 56 years 
+(b) 44 years 
+(c) 12 years 
+(d) 21 years 
+(e) None of these
+
+Q.4) 
+Read the given information carefully and answer the questions given below: Eight people M, N, O, P, Q, R, S and T are sitting in a straight line facing north direction. They all have different ages, viz. 8, 12, 14, 21, 28, 36, 44 and 56 but not necessarily in the same order. Two people are sitting between O and the one whose age is 56 years. The one whose age is 14 years is sitting second to the left of O. N is sitting to the immediate left of the one whose age is 56 years. One person is sitting between T and the one whose age is 56 years. Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. There is a difference of 7 years between the ages of R and S and two people are sitting between them. The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. There is one people sitting between R and the one whose age is 44 years. M is an immediate neighbor of the one whose age is 44 years. Q and the one whose age is 21 years are immediate neighbors. T is older than M and N is younger than Q. What is the sum of the ages of the people who sit the extreme ends?
+(a) 30 years 
+(b) 84 years 
+(c) 48 years 
+(d) 65 years 
+(e) None of these
+
+Q.5) 
+Read the given information carefully and answer the questions given below: Eight people M, N, O, P, Q, R, S and T are sitting in a straight line facing north direction. They all have different ages, viz. 8, 12, 14, 21, 28, 36, 44 and 56 but not necessarily in the same order. Two people are sitting between O and the one whose age is 56 years. The one whose age is 14 years is sitting second to the left of O. N is sitting to the immediate left of the one whose age is 56 years. One person is sitting between T and the one whose age is 56 years. Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. There is a difference of 7 years between the ages of R and S and two people are sitting between them. The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. There is one people sitting between R and the one whose age is 44 years. M is an immediate neighbor of the one whose age is 44 years. Q and the one whose age is 21 years are immediate neighbors. T is older than M and N is younger than Q. What is the name of the person who is 28 years old?
+(a) M 
+(b) O 
+(c) R 
+(d) P 
+(e) None of these
+
+Q.6) 
+Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. What is the code for ‘security’?
+(a) jo 
+(b) ti 
+(c) tis 
+(d) su 
+(e) Can’t be determined
+
+Q.7) 
+Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. What does ‘za’ stand for?
+(a) old 
+(b) lists 
+(c) correction 
+(d) with 
+(e) Either with or correction
+
+Q.8) 
+’Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. tis da tip’ could be a code for which of the following?
+(a) old regime lists 
+(b) regime lists arise 
+(c) correction theme case 
+(d) India with regime 
+(e) None of these
+
+Q.9) 
+Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. Which of the following may represent ‘transparency in old security’?
+(a) su die mac ti 
+(b) die mac jo tip 
+(c) die jo nic su 
+(d) jo die su mac 
+(e) None of these
+
+Q.10) 
+If it is possible to make one meaningful word with the 1st, 5th, 6th and 9th letters of the word OVERWHELM, which of the following will be the second letter from the right end of that word? If no such word can be made, give ‘X’ as the answer and if more than one such words can be made, give ‘V’ as the answer.
+(a) M 
+(b) H 
+(c) O 
+(d) X 
+(e) V
+
+Q.11) 
+Statements: Only a few Men are Boys. All Boys are Kids. No Kids are Children. Conclusions: I. Some Men are not Children. II. Some Men are not Boys.
+(a) If only conclusion II follows 
+(b) If either conclusion I or conclusion II follows 
+(c) If both conclusions I and II follow 
+(d) If neither conclusion I nor conclusion II follows 
+
+Q.12) 
+Statements: Some Fruits are Mangos. Only Mangos are Tasty. Only a few Mangos are Guavas. Conclusions: I. All Guavas are Mangos. II. No Tasty being Fruit is a possibility.
+(a) If only conclusion I follows 
+(b) If only conclusion II follows 
+(c) If either conclusion I or conclusion II follows 
+(d) If both conclusions I and II follow 
+(e) If neither conclusion I nor conclusion II follows
+
+Q.13) 
+Statements: Only a few Dairy Milk is Milky Bar. Some Milky Bar is Munch. Only Munch is Perk. Conclusions: I. All Dairy Milk can be Milky Bar II. Some Munch is Milky Bar.
+(a) If only conclusion I follows 
+(b) If only conclusion II follows 
+(c) If either conclusion I or conclusion II follows 
+(d) If both conclusions I and II follow 
+(e) If neither conclusion I nor conclusion II follows
+
+Q.14) 
+Statements: All Trees are Plants. Some Plants are Bushes. Only a few Bushes are Grass. Conclusions: I. No Plant is Grass. II. All Bushes can be Grass.
+(a) If only conclusion I follows 
+(b) If only conclusion II follows 
+(c) If either conclusion I or conclusion II follows 
+(d) If both conclusions I and II follow 
+(e) If neither conclusion I nor conclusion II follows
+
+Q.15) 
+Statements: Only a few Dinners are Cake. No Dinner is Apple. Only a few Apples are figures. Conclusions: I. Some apples are not figures. II. No Apple is Cake.
+(a) If only conclusion I follows 
+(b) If only conclusion II follows 
+(c) If either conclusion I or conclusion II follows 
+(d) If both conclusions I and II follow 
+(e) If neither conclusion I nor conclusion II follows
+
+Q.16) 
+Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. Who among the following goes to the market immediately before F?
+(a) A 
+(b) B 
+(c) C 
+(d) E 
+(e) F
+
+Q.17) 
+Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. Who among the following goes to the market on Monday?
+(a) C 
+(b) G 
+(c) D 
+(d) E 
+(e) F
+
+Q.18) 
+Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. D buys which of the following item?
+(a) Chair 
+(b) Lamp 
+(c) Table 
+(d) Either Chair or Lamp 
+(e) Either Lamp or Table
+
+Q.19) 
+Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. How many people go the market between C and B?
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) More than four
+
+Q.20) 
+Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. Four of the following five are alike in a certain way, find the one which doesn’t belong to that group.
+(a) EG 
+(b) AD 
+(c) CA 
+(d) GB 
+(e) EF
+
+Q.21) 
+Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is the direction of X with respect to R?
+(a) North 
+(b) East 
+(c) North – West 
+(d) West 
+(e) South – West
+
+Q.22) 
+Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. If point A is the point of intersection of line segment RS and UV then which of the following is/ are true about A?
+(a) Point Y is North of A 
+(b) AV+ AU= XW – 6 
+(c) A is to the North of U 
+(d) All are true 
+(e) None is true.
+
+Q.23) 
+Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is total distance travelled by Raga in west direction?
+(a) 64 m 
+(b) 35 m 
+(c) 45 m 
+(d) 28 m 
+(e) 56 m
+
+Q.24) 
+Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is the direction of point T with respect to Y?
+(a) South 
+(b) North – West 
+(c) South – East 
+(d) South – West 
+(e) North – East
+
+Q.25) 
+Statements: S<=T<P=D; P<=M;R>=M Conclusions: I.M<=S II.D>S
+(a) Neither conclusion I nor II is true.
+(b) Either conclusion I or II is true.
+(c) Only conclusion II is true.
+(d) Both conclusions I and II and true.
+(e) Only conclusion I is true.
+
+Q.26) 
+Statements: S<=T<P=D; P<+M; R>=M Conclusions: I.D<R II. R=D
+(a) Neither conclusion I nor II is true.
+(b) Either conclusion I or II is true.
+(c) Only conclusion II is true.
+(d) Both conclusions I and II and true.
+(e) Only conclusion I is true.
+
+Q.27) 
+Statements: L>=J>=U<=P; D<=P;U>=T Conclusions: I.L>T II.D<=J
+(a) Neither conclusion I nor II is true.
+(b) Either conclusion I or II is true.
+(c) Only conclusion II is true.
+(d) Both conclusions I and II and true.
+(e) Only conclusion I is true.
+
+Q.28) 
+Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row-1 A, B, C, D, E and F are seated and all of them are facing south. In row-2 P, Q, R, S, T and V are seated and all of them are facing north. Therefore, in the given seating arrangement each member seated in a row faces another member of the other row. V sits third to the right of S. S faces F and F does not sit at any of the extreme ends of the line. D sits third to the right of C. R faces C. The one who is facing E sits third to the right of P. B and P do not sit at the extreme ends of the line. T is not an immediate neighbour of V and A is not an immediate neighbour of C. R does not sit at the extreme end. Who amongst the following faces D?
+(a) T 
+(b) P 
+(c) Q 
+(d) R 
+(e) None of these
+
+Q.29) 
+Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row-1 A, B, C, D, E and F are seated and all of them are facing south. In row-2 P, Q, R, S, T and V are seated and all of them are facing north. Therefore, in the given seating arrangement each member seated in a row faces another member of the other row. V sits third to the right of S. S faces F and F does not sit at any of the extreme ends of the line. D sits third to the right of C. R faces C. The one who is facing E sits third to the right of P. B and P do not sit at the extreme ends of the line. T is not an immediate neighbour of V and A is not an immediate neighbour of C. R does not sit at the extreme end. Who amongst the following represent the people sitting at the extreme ends of the rows?
+(a) R, F 
+(b) T, A 
+(c) D, R 
+(d) C, Q 
+(e) S, A
+
+Q.30) 
+Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row-1 A, B, C, D, E and F are seated and all of them are facing south. In row-2 P, Q, R, S, T and V are seated and all of them are facing north. Therefore, in the given seating arrangement each member seated in a row faces another member of the other row. V sits third to the right of S. S faces F and F does not sit at any of the extreme ends of the line. D sits third to the right of C. R faces C. The one who is facing E sits third to the right of P. B and P do not sit at the extreme ends of the line. T is not an immediate neighbour of V and A is not an immediate neighbour of C. R does not sit at the extreme end. Four of the following five are alike in a certain way and thus form a group. Which is the one that does not belong to that group?
+(a) B-T 
+(b) A-Q 
+(c) C-S 
+(d) F-P 
+(e) D-R
+
+Q.31) 
+Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row-1 A, B, C, D, E and F are seated and all of them are facing south. In row-2 P, Q, R, S, T and V are seated and all of them are facing north. Therefore, in the given seating arrangement each member seated in a row faces another member of the other row. V sits third to the right of S. S faces F and F does not sit at any of the extreme ends of the line. D sits third to the right of C. R faces C. The one who is facing E sits third to the right of P. B and P do not sit at the extreme ends of the line. T is not an immediate neighbour of V and A is not an immediate neighbour of C. R does not sit at the extreme end. How many persons are seated between R and T?
+(a) ONE 
+(b) TWO 
+(c) THREE 
+(d) FOUR 
+(e) None of these
+
+Q.32) 
+Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row-1 A, B, C, D, E and F are seated and all of them are facing south. In row-2 P, Q, R, S, T and V are seated and all of them are facing north. Therefore, in the given seating arrangement each member seated in a row faces another member of the other row. V sits third to the right of S. S faces F and F does not sit at any of the extreme ends of the line. D sits third to the right of C. R faces C. The one who is facing E sits third to the right of P. B and P do not sit at the extreme ends of the line. T is not an immediate neighbour of V and A is not an immediate neighbour of C. R does not sit at the extreme end. Who amongst the following faces Q?
+(a) D 
+(b) B 
+(c) E 
+(d) A 
+(e) None of these
+
+Q.33) 
+Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row-1 A, B, C, D, E and F are seated and all of them are facing south. In row-2 P, Q, R, S, T and V are seated and all of them are facing north. Therefore, in the given seating arrangement each member seated in a row faces another member of the other row. V sits third to the right of S. S faces F and F does not sit at any of the extreme ends of the line. D sits third to the right of C. R faces C. The one who is facing E sits third to the right of P. B and P do not sit at the extreme ends of the line. T is not an immediate neighbour of V and A is not an immediate neighbour of C. R does not sit at the extreme end. Which of the following is true regarding B?
+(a) B sits to the immediate left of C
+(b) B faces Q 
+(c) B sits fourth from the extreme left end of the line 
+(d) D and F are immediate neighbours of B 
+(e) None of these
+
+Q.34) 
+When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29.
+Twelve people are sitting in two parallel rows containing six people each, in such a way that there is an equal distance between adjacent persons. In row-1 A, B, C, D, E and F are seated and all of them are facing south. In row-2 P, Q, R, S, T and V are seated and all of them are facing north. Therefore, in the given seating arrangement each member seated in a row faces another member of the other row. V sits third to the right of S. S faces F and F does not sit at any of the extreme ends of the line. D sits third to the right of C. R faces C. The one who is facing E sits third to the right of P. B and P do not sit at the extreme ends of the line. T is not an immediate neighbour of V and A is not an immediate neighbour of C. R does not sit at the extreme end. How many such pairs of letters are there in the word ‘Rockabilly’ each of which has as many letters between them in the word as in the English alphabet (Both forward and backward)? 
+(a) Nil 
+(b) One 
+(c) Two 
+(d) Three 
+(e) None of these
+
+Q.35) 
+When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29.How many steps will be required to complete the arrangement?
+(a) 5 
+(b) 6 
+(c) 7 
+(d) 8 
+(e) None of these
+
+Q.36) 
+When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. Which word/Number would be at the fifth place from the right in Step IV?
+(a) 11 
+(b) ear 
+(c) 12 
+(d) gone 
+(e) None of these
+
+Q.37) 
+When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. How many elements are there between ‘judge’ and ‘34’ in step II?
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None of these
+
+Q.38) 
+When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. Which of the following represents the position of ‘sitting’ in step V?
+(a) 1st from right 
+(b) 5th from left 
+(c) 6th from left 
+(d) 2nd from right 
+(e) None of these
+
+Q.39) 
+When a word and number arrangement machine is given an input line of words and numbers, it arranges them following a particular rule. The following is an illustration of input and its rearrangement (All the numbers are two-digit numbers). Input: not 10 bold 21 curse hockey 31 28 49 44 Step I: 10 21 not bold curse hockey 31 28 49 44 Step II: not bold 10 21 curse hockey 31 28 49 44 Step III: 28 31 not bold 10 21 curse hockey 49 44 Step IV: curse hockey 28 31 not bold 10 21 49 44 Step V: 44 49 curse hockey 28 31 not bold 10 21 And Step V is the last step of the above arrangement as the intended arrangement is obtained . As per the rules followed in the given steps find out the appropriate steps for the given input. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29. Which of the following elements is third to the left of 6th element from the right end in the last step?
+(a) 34 
+(b) judge 
+(c) Arranges 
+(d) ear 
+(e) None of these
+
+Q.40) 
+Each of the consonants in the word ORGANISATION is replaced by number 3 and each vowel is replaced by its numeric place value in the English alphabet series i.e. A is by 1, E is by 5 and so on. What is the total sum of all the numbers once the replacement is completed?
+(a) 65 
+(b) 70 
+(c) 72 
+(d) 68 
+(e) None of these
+
+Q.41) 
+Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC. Who among the following works in IOC?
+(a) The one, who lives just below W 
+(b) The one, who lives on sixth floor 
+(c) The one, who lives between V and X 
+(d) The one, who lives two floors above X 
+(e) None of these
+
+Q.42) 
+Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC. If V is related to Tata motors and T is related to HPCL then in the same way, Z is related to__.
+(a) RIL 
+(b) SBI 
+(c) BPCL 
+(d) ONGC 
+(e) None of these
+
+Q.43) 
+Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC.How many persons are living above the one, who works in BPCL?
+(a) Three 
+(b) Two 
+(c) Five 
+(d) Four 
+(e) None of these
+
+Q.44) 
+Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC. Find the odd one.
+(a) W, RIL 
+(b) T, BPCL 
+(c) Z, Tata motors 
+(d) V, SBI 
+(e) Y, HPCL
+
+Q.45) 
+Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC. Find the correct statement.
+(a) Y works in BPCL and lives just above X 
+(b) Four persons are living between W and the one, who works in SBI
+(c) U works in Tata motors and lives two floors away from T 
+(d) V lives three floors away from the one, who works in HPCL 
+(e) None is correct
+
+Q.46) 
+Statement: "You are hereby appointed as a curriculum developer with a period of probation that shall last for 6 months; at the end of which you will be confirmed or let go as per your performance evaluation"- A line in an offer letter.
+Assumptions:
+I. The performance of any professional can usually not be measured at the time of offering the job.
+II. The probation period is for the professional to prove his capabilities.
+(a) If only assumption I is implicit 
+(b) If only assumption II is implicit 
+(c) If either I or II is implicit 
+(d) If neither I nor II is implicit 
+(e) If both I and II are implicit
+
+Q.47) 
+Statement: Overwhelmed with grief and anger, families have been returning to what is left of their homes in the Old City of Mosul, following its liberation from Isis, the terrorist organization. Assumptions: I. The terrorist organization, Isis, destroyed the Old City of Mosul before they left. II. Most of the residents of Mosul had left/ been driven away when Isis took over their city. III. None of the residents of Mosul supported Isis, which is why they left the city.
+(a) If only assumption I is implicit 
+(b) If only assumption II is implicit 
+(c) If only assumption III is implicit 
+(d) If both assumptions I and II are implicit 
+(e) If none of the assumptions are implicit
+
+Q.48) 
+Statement: The Indian High Commission in Antigua and Barbuda had asked the authorities there to stop billionaire diamond trader Mehul Choksi from travelling around the world, sources said on Monday. Courses of Action: I. All billionaire diamond traders should immediately stop travelling to Antigua and Barbuda for the time being. II. Mehul Choksi should seek asylum in some other country to avoid being caught. III. The Indian High Commissioner should himself go and arrest Mehul Choksi.
+(a) If only course of action I follows 
+(b) If only course of action II follows 
+(c) If both I and II follow 
+(d) If both II and III follow 
+(e) If none of them follow
+
+Q.49) 
+Statement: Disposal of non-biodegradable electronic waste is another problem that the government, which is unable to reduce the use of plastic, has to handle in the near future. Courses of Actions: I. The government should not worry about electronic waste now. II. The government should learn from its failure to reduce the use of plastic and take early steps for effective disposal of electronic waste.
+(a) Only course of action I follows 
+(b) Only course of action II follows 
+(c) Either I or II follows 
+(d) Neither I nor II follows 
+(e) Both I and II follow
+
+Q.50) 
+Statements: I. Kochi got its new traffic light system that was specially designed to cope with the increasing traffic problems and roadblocks. II. The number of road accidents in Kochi has come down in the past 2 months.
+(a) Statement I is the cause and statement II is its effect.
+(b) Statement II is the cause and statement I is its effect.
+(c) Both the statements I and II are independent causes.
+(d) Both the statements I and II are effects of independent causes.
+(e) Both the statements I and II are effects of some common cause.
+
+Q.51) 
+Read the following information carefully and answer the questions that follow. P, Q, R, S, T, V and W are seven different boxes of different colours i.e. black, silver, red, pink, yellow, white and green but not necessarily in the same order. Box S is kept immediately above the yellow colour box. More than three boxes are there between pink and silver colour box. There are two boxes between box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is kept immediately above the box W. More than three boxes are there between yellow and pink colour box. The colour of box T is red. Which box is of yellow colour?
+(a) Q 
+(b) S 
+(c) V 
+(d) W 
+(e) P
+
+Q.52) 
+Read the following information carefully and answer the questions that follow. P, Q, R, S, T, V and W are seven different boxes of different colours i.e. black, silver, red, pink, yellow, white and green but not necessarily in the same order. Box S is kept immediately above the yellow colour box. More than three boxes are there between pink and silver colour box. There are two boxes between box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is kept immediately above the box W. More than three boxes are there between yellow and pink colour box. The colour of box T is red.How many boxes are there between the green coloured box and silver coloured box?
+(a) One 
+(b) Two 
+(c) Three 
+(d) Four 
+(e) None
+
+Q.53) 
+Read the following information carefully and answer the questions that follow. P, Q, R, S, T, V and W are seven different boxes of different colours i.e. black, silver, red, pink, yellow, white and green but not necessarily in the same order. Box S is kept immediately above the yellow colour box. More than three boxes are there between pink and silver colour box. There are two boxes between box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is kept immediately above the box W. More than three boxes are there between yellow and pink colour box. The colour of box T is red.Box Q is of which colour?
+(a) Silver 
+(b) Green 
+(c) Yellow 
+(d) Black 
+(e) Pink
+
+Q.54) 
+Read the following information carefully and answer the questions that follow. P, Q, R, S, T, V and W are seven different boxes of different colours i.e. black, silver, red, pink, yellow, white and green but not necessarily in the same order. Box S is kept immediately above the yellow colour box. More than three boxes are there between pink and silver colour box. There are two boxes between box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is kept immediately above the box W. More than three boxes are there between yellow and pink colour box. The colour of box T is red.Which box is placed immediately above red colour box?
+(a) P 
+(b) S 
+(c) R 
+(d) T 
+(e) W
+
+Q.55) 
+Read the following information carefully and answer the questions that follow. P, Q, R, S, T, V and W are seven different boxes of different colours i.e. black, silver, red, pink, yellow, white and green but not necessarily in the same order. Box S is kept immediately above the yellow colour box. More than three boxes are there between pink and silver colour box. There are two boxes between box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is kept immediately above the box W. More than three boxes are there between yellow and pink colour box. The colour of box T is red.How many boxes are there between box W and box Q?
+(a) Four 
+(b) One 
+(c) Two 
+(d) Three 
+(e) None
+
+Q.56) 
+Statement: Mexico’s ruling Institutional Revolutionary Party(PRI), which has dominated its politics for the better part of a century, seems at risk of a defeat in the July 1 election. Conclusions: I. The PRI has won most of the elections held in Mexico in the last 100 years. II. The PRI will no longer remain the reigning party in Mexico post July. III. The leaders of PRI seemed to have irked the sentiments of the common people in Mexico.
+(a) Only I follows 
+(b) Only II follows 
+(c) Both I and II follow 
+(d) Both II and III follow 
+(e) Both I and III follow
+
+Q.57) 
+Statement:In 2016, the Government Of India put a ban on all Rs 500 and 1000 notes in an effort to curtail the shadow economy and impede the use of illegal and fake currency that funds illegal activities and terrorism. Arguments: I. This was the best way to tackle corruption and to stop the use of counterfeit cash. II. Demonetisation looks like a bad idea, badly executed on the basis of some half-baked notions.
+(a) Only 1 is strong 
+(b) Only 2 is strong 
+(c) Both are equally valid 
+(d) None are valid 
+(e) Together, they can be used to make a strong argument
+
+Q.58) 
+Statement:Sea level rise driven by climate change is set to pose an existential crisis to many US coastal communities, with new research finding that as many as 311,000 homes face being flooded every two weeks within the next 30 years. Inferences: I. This research report will potentially inflict a huge financial and emotional toll on all those Americans who live in the properties at risk of having their basements, backyards, garages or living rooms inundated every other week. II. Greenhouse gas emissions, the main cause of rising sea levels, need to severely curtailed with immediate effect.
+(a) Only I can be inferred 
+(b) Only II can be inferred 
+(c) Both of them can be inferred 
+(d) None of them can be inferred 
+(e) Either Only I or II
+
+Q.59) 
+The lifeline of Mumbai is its railway network, which is one of the most crowded places in the city. A Group of commuters of the Mumbai suburban railways called for a strike in response to the increase in the number of accidents in some routes in the past year due to overcrowding. The commuters want to continue the strike unless the authorities agree to increase the frequency of the trains in that route. Which of the following can be inferred from the aforementioned statements?
+(a) Increase in the frequency of the trains would lead to decrease in the number of such accidents 
+(b) The trains in the Mumbai suburban run overcrowded 
+(c) The railway authorities are indifferent to the safety of the commuters 
+(d) The railways did not increase the frequency of trains in proportion to the increase in the number of commuters in the past year.
+(e) None of these
+
+Q.60) 
+Statement: Digital payment systems have ballooned in popularity in India since the government scrapped large-value banknotes in 2016. Inferences: I. People find it easier to pay via electronic methods rather than cash. II. The common people have realised the convenience of digital payments, which is why it has gained popularity. III. Digital payments methods have become popular in India because of good advertising.
+(a) Only I follows 
+(b) Only II follows 
+(c) Both I and II follow 
+(d) Both II and III follow 
+(e) Both I and III follow
+
+Q.61) 
+Study the given information carefully and answer the following questions: Data regarding the number of Doctors(D) and Engineers(E) in three colleges - A, B and C is given. College A: Ratio of male doctors and male engineers is 12 : 5 and the difference between them is 280. Total number of female doctors and female engineers is 300. Number of male engineers is 30 more than that of the number of female engineers. College B: Sum of the number of male doctors and male engineers is equal to the sum of the number of female doctors and female engineers in college A. Ratio of the male doctors and male engineers together and female doctors and female engineers together is 6 : 7. Ratio of female doctors and female engineers is 2 : 3. Number of male doctors in college B is 1/3rd of the number of male engineers in college C. College C: Male engineers is 1.5 times the number of female doctors. Sum of the number of female doctors and female engineers is 550. Number of female engineers is 70 more than the number of female doctors. Total number of male doctors and male engineers is 760. What is ratio of total number of male and female doctors together in college B to that in college C?
+(a) 12: 25 
+(b) 13: 32 
+(c) 14: 19 
+(d) 23: 34 
+(e) 19: 32
+
+Q.62) 
+Study the given information carefully and answer the following questions: Data regarding the number of Doctors(D) and Engineers(E) in three colleges - A, B and C is given. College A: Ratio of male doctors and male engineers is 12 : 5 and the difference between them is 280. Total number of female doctors and female engineers is 300. Number of male engineers is 30 more than that of the number of female engineers. College B: Sum of the number of male doctors and male engineers is equal to the sum of the number of female doctors and female engineers in college A. Ratio of the male doctors and male engineers together and female doctors and female engineers together is 6 : 7. Ratio of female doctors and female engineers is 2 : 3. Number of male doctors in college B is 1/3rd of the number of male engineers in college C. College C: Male engineers is 1.5 times the number of female doctors. Sum of the number of female doctors and female engineers is 550. Number of female engineers is 70 more than the number of female doctors. Total number of male doctors and male engineers is 760. What is total number of male and female engineers in colleges A, B and C together?
+(a) 1390 
+(b) 1510 
+(c) 1430 
+(d) 1500 
+(e) 1300
+
+Q.63) 
+Study the given information carefully and answer the following questions: Data regarding the number of Doctors(D) and Engineers(E) in three colleges - A, B and C is given. College A: Ratio of male doctors and male engineers is 12 : 5 and the difference between them is 280. Total number of female doctors and female engineers is 300. Number of male engineers is 30 more than that of the number of female engineers. College B: Sum of the number of male doctors and male engineers is equal to the sum of the number of female doctors and female engineers in college A. Ratio of the male doctors and male engineers together and female doctors and female engineers together is 6 : 7. Ratio of female doctors and female engineers is 2 : 3. Number of male doctors in college B is 1/3rd of the number of male engineers in college C. College C: Male engineers is 1.5 times the number of female doctors. Sum of the number of female doctors and female engineers is 550. Number of female engineers is 70 more than the number of female doctors. Total number of male doctors and male engineers is 760. In another college D, total number of females is 640 out of which 25% are doctors and number of male doctors in college is 12.5% more than that in college C. What is the total number of doctors in college D?
+(a) 610 
+(b) 570 
+(c) 590 
+(d) 630 
+(e) None of these
+
+Q.64) 
+Study the given information carefully and answer the following questions: Data regarding the number of Doctors(D) and Engineers(E) in three colleges - A, B and C is given. College A: Ratio of male doctors and male engineers is 12 : 5 and the difference between them is 280. Total number of female doctors and female engineers is 300. Number of male engineers is 30 more than that of the number of female engineers. College B: Sum of the number of male doctors and male engineers is equal to the sum of the number of female doctors and female engineers in college A. Ratio of the male doctors and male engineers together and female doctors and female engineers together is 6 : 7. Ratio of female doctors and female engineers is 2 : 3. Number of male doctors in college B is 1/3rd of the number of male engineers in college C. College C: Male engineers is 1.5 times the number of female doctors. Sum of the number of female doctors and female engineers is 550. Number of female engineers is 70 more than the number of female doctors. Total number of male doctors and male engineers is 760. Average number of female doctors in colleges A, B and C is 
+(a) 160 
+(b) 150 
+(c) 180 
+(d) 200 
+(e) 170
+
+Q.65) 
+Study the given information carefully and answer the following questions: Data regarding the number of Doctors(D) and Engineers(E) in three colleges - A, B and C is given. College A: Ratio of male doctors and male engineers is 12 : 5 and the difference between them is 280. Total number of female doctors and female engineers is 300. Number of male engineers is 30 more than that of the number of female engineers. College B: Sum of the number of male doctors and male engineers is equal to the sum of the number of female doctors and female engineers in college A. Ratio of the male doctors and male engineers together and female doctors and female engineers together is 6 : 7. Ratio of female doctors and female engineers is 2 : 3. Number of male doctors in college B is 1/3rd of the number of male engineers in college C. College C: Male engineers is 1.5 times the number of female doctors. Sum of the number of female doctors and female engineers is 550. Number of female engineers is 70 more than the number of female doctors. Total number of male doctors and male engineers is 760. Female doctors and engineers in college C is approximately what percent less than total male doctors and engineers in college A?
+(a) 28 
+(b) 8 
+(c) 19 
+(d) 34 
+(e) 4
+
+Q.66) 
+Study the given information carefully and answer the following questions: Data regarding the number of Doctors(D) and Engineers(E) in three colleges - A, B and C is given. College A: Ratio of male doctors and male engineers is 12 : 5 and the difference between them is 280. Total number of female doctors and female engineers is 300. Number of male engineers is 30 more than that of the number of female engineers. College B: Sum of the number of male doctors and male engineers is equal to the sum of the number of female doctors and female engineers in college A. Ratio of the male doctors and male engineers together and female doctors and female engineers together is 6 : 7. Ratio of female doctors and female engineers is 2 : 3. Number of male doctors in college B is 1/3rd of the number of male engineers in college C. College C: Male engineers is 1.5 times the number of female doctors. Sum of the number of female doctors and female engineers is 550. Number of female engineers is 70 more than the number of female doctors. Total number of male doctors and male engineers is 760. Find the difference between male engineers in college B and female engineers in the same college.
+(a) 35 
+(b) 20 
+(c) 40 
+(d) 30 
+(e) None of these
+
+Q.67) 
+A number when multiplied by 7 gives another number which is as much above 260 as the original number itself is below 260. What is 32% of the original number?
+(a) 16 
+(b) 18.5 
+(c) 20.8 
+(d) 17.5 
+(e) None of these
+
+Q.68) 
+Cost price of B is Rs 180 more than the Cost price of A. A is sold at profit of 20% and B is sold at loss of 40%. Ratio of selling price of A and B is 5:4. What is the cost price of A?
+(a) Rs. 400 
+(b) Rs. 300 
+(c) Rs. 360 
+(d) Rs. 350 
+(e) Rs. 250
+
+Q.69) 
+Ratio of present ages of A and B is 6:5. After 10 years, the ratio of their ages will be 7:6. Find the difference in their present ages?
+(a) 5 years 
+(b) 6 years 
+(c) 10 years 
+(d) 12 years 
+(e) 15 years
+
+Q.70) 
+Ratio of heights of right circular cylinders A and B is 1:2. Ratio of curved surface areas of right circular cylinders A and B is 2:3. Find the ratio of radii of right circular cylinders A and B?
+(a) 3:2 
+(b) 2:1 
+(c) 3:4 
+(d) 4:3 
+(e) 3:5
+
+Q.71) 
+Train A, 240 m long, crosses a platform double its length in 24 seconds. Find the approx. time taken to cross train B, 200 m long and travelling at 108 kmph in opposite direction?
+(a) 12 seconds 
+(b) 10 seconds 
+(c) 14 seconds 
+(d) 15 seconds 
+(e) 7 seconds
+
+Q.72) 
+Find the wrong term in the given series: 13, 22, 40, 76, 152, 292, 580
+(a) 292 
+(b) 76 
+(c) 22 
+(d) 152 
+(e) 40
+
+Q.73) 
+Find the wrong term in the given series: 4, 15, 37, 100, 224, 439, 781
+(a) 37 
+(b) 439 
+(c) 100 
+(d) 15 
+(e) 224
+
+Q.74) 
+Find the wrong term in the given series: 15, 20, 27, 37, 51, 72, 95
+(a) 20 
+(b) 37 
+(c) 27 
+(d) 51 
+(e) 72
+
+Q.75) 
+Find the wrong term in the given series: 26, 29, 22, 25, 18, 23, 14
+(a) 23 
+(b) 22 
+(c) 25 
+(d) 29 
+(e) 18
+
+Q.76) 
+There are 4 positive integral values A, B, C and D. Find the value of C? I. Average of A, B, C and D is 42. II. A<B<C<D. Average of B and C is 40. A and B are equidistant from 28. A and C are equidistant from 32.
+(a) Data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question
+(b) Data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.
+(c) Data either in Statement I or in Statement II alone are sufficient to answer the question.
+(d) Data in both Statements I and II together are necessary to answer the question.
+(e) Data even in both Statements I and II together are not sufficient to answer the question.
+
+Q.77) 
+In how many days, 4 men and 4 women can complete the work? I. 6 men and 10 women can complete the work in 10 days. II. 8 men and 20 women can complete the work in 6 days.
+(a) Data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question
+(b) Data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.
+(c) Data either in Statement I or in Statement II alone are sufficient to answer the question.
+(d) Data in both Statements I and II together are necessary to answer the question.
+(e) Data even in both Statements I and II together are not sufficient to answer the question.
+
+Q.78) 
+What is A’s mother present age? I. Ratio of A’s father present age and A’s present age is 3:1. II. Combined present age of A’s father& A is 8 years more than the combined present age of A’s mother& A. 12 years ago, A’s father that time was times A’s mother that time.
+(a) Data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question
+(b) Data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.
+(c) Data either in Statement I or in Statement II alone are sufficient to answer the question.
+(d) Data in both Statements I and II together are necessary to answer the question.
+(e) Data even in both Statements I and II together are not sufficient to answer the question.
+
+Q.79) 
+Find the cost of paving the rectangular field at the rate of Rs. 12 per Statement I: The length of a rectangular field is equal to the diagonal of a square of area 162 and ratio of length and breadth of the rectangle is 3: 2 respectively. Statement II: The perimeter of the rectangle is 40 m less than the perimeter of a square of area 4096
+(a) If the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.
+(b) If the data in Statement II alone are sufficient to answer the question, while the data in Statement I alone are not sufficient to answer the question.
+(c) If the data either in Statement I or in Statement II alone are sufficient to answer the question.
+(d) If the data in both Statements I and II together are necessary to answer the question.
+(e) If the data even in both Statements I and II together are not sufficient to answer the question.
+
+Q.80) 
+Study the following bar graph carefully and answer the given questions. 5 TV channels A, B, C, D and E show the two types of movies-Bollywood and Hollywood. Number of movies shown by these 5 TV channels in a year is given in the bar graph. Number of Hollywood movies telecasted on channel E is what percent more than the number of Bollywood movies telecasted on the same channel?
+(a) 25% 
+(b) 20% 
+(c) 37.5% 
+(d)  
+(e)  
+
+Q.81) 
+Study the following bar graph carefully and answer the given questions. 5 TV channels A, B, C, D and E show the two types of movies-Bollywood and Hollywood. Number of movies shown by these 5 TV channels in a year is given in the bar graph. What is the average number of Hollywood movies telecasted on the channels B, D and E together?
+(a) 640 
+(b) 720 
+(c) 680 
+(d) 750 
+(e) 760
+
+Q.82) 
+Study the following bar graph carefully and answer the given questions. 5 TV channels A, B, C, D and E show the two types of movies-Bollywood and Hollywood. Number of movies shown by these 5 TV channels in a year is given in the bar graph. What is the ratio of the total number of movies telecasted on channel A and channel E?
+(a) 5: 6 
+(b) 6: 7 
+(c) 5: 7 
+(d) 6: 5 
+(e) 4: 7
+
+Q.83) 
+Study the following bar graph carefully and answer the given questions. 5 TV channels A, B, C, D and E show the two types of movies-Bollywood and Hollywood. Number of movies shown by these 5 TV channels in a year is given in the bar graph. what is the difference between the number of Bollywood movies telecasted on channels A and C and the number of Hollywood movies telecasted on channels B and D?
+(a) 360 
+(b) 390 
+(c) 420 
+(d) 480 
+(e) 520
+
+Q.84) 
+Study the following bar graph carefully and answer the given questions. 5 TV channels A, B, C, D and E show the two types of movies-Bollywood and Hollywood. Number of movies shown by these 5 TV channels in a year is given in the bar graph. 30% of the Bollywood movies telecasted on channel E and 20% of the Hollywood movies telecasted on the same channel were on historical events. How many movies telecasted on channel E were on historical events?
+(a) 256 
+(b) 292 
+(c) 264 
+(d) 262 
+(e) 272
+
+Q.85) 
+A shopkeeper sold a wrist watch at 20% discount to Sohan and Sohan sold this watch at the profit of 12.5% profit for Rs. 2700, Then find the discount.
+(a) 600 
+(b) 450 
+(c) 550 
+(d) 870 
+(e) 700
+
+Q.86) 
+A person travels a total distance of 1260 km partly by bike and partly by Car. The speed of Bike and Car is 4: 3. If the distance traveled by car is 180 km more than that by bike, then What is the ratio of time taken by car and bike to travel?
+(a) 11: 9 
+(b) 16: 6 
+(c) 9: 16 
+(d) 16: 9 
+(e) 17: 5
+
+Q.87) 
+Two pipes can fill a tank in 36 hours and 12 hours respectively. If the pipe C can empty the one-fourth of the tank in 8 hours, then in how much time all the three pipes can fill half the empty tank?
+(a) 8
+(b) 6
+(c) 6
+(d) 5
+(e) 6
+
+Q.88) 
+Bina invested 10% of her monthly income in stocks. She spent 15% of remaining on groceries and gave the remaining 30600 to her husband. What is the difference between the amount spent on groceries and the investment in stocks?
+(a) 1930
+(b) 1500 
+(c) 2200 
+(d) 1300 
+(e) 1400
+
+Q.89) 
+Cost of 4 shirts and 3 trousers is Rs. 1700. If the price of a shirt is 37.5% more than the price of a trouser, then what is the difference between the price of a shirt and a trouser?
+(a) 87 
+(b) 65 
+(c) 75 
+(d) 88 
+(e) 95
+
+Q.90) 
+Wages of a labour are increased by 15% and his working hours are also increased by 9%.Initially he used to earn Rs.18,000 per month for 300 hours in a month. Find his total earning in a month now?
+(a) Rs.21,000 
+(b) Rs.22,563 
+(c) Rs.23,623 
+(d) Rs.24,868 
+(e) Rs.23,456
+
+Q.91) 
+In the given question, five words are printed in bold and are numbered A, B, C, D and E. The positions of some highlighted words may be incorrect and need to be exchanged with another highlighted to make the sentence correct. Find  the words that need to be exchanged. As the spread(A) of habitat and biodiversity loss suggest(B) humans to more zoonotic diseases that destruction
+(C) from animals to humans, a key programme to study the spread of these diseases and expose(D) ways to control them has been in the works(E) in India since 2018.
+(a) Only A-B 
+(b) Both C-D& B-E 
+(c) Both A-D& C-E 
+(d) Both A-C& B-D 
+(e) No exchange required
+
+Q.92) 
+In the given question, five words are printed in bold and are numbered A, B, C, D and E. The positions of some highlighted words may be incorrect and need to be exchanged with another highlighted to make the sentence correct. Find  the words that need to be exchanged. The public school’s multicultural(A) included curriculum(B) program that taught(C) students about ethnic(D) from different inventors (E) background.
+(a) A-B and C-D 
+(b) D-B and C-D 
+(c) A-B and D-E 
+(d) B-D and D-E 
+(e) No exchange required
+
+Q.93) 
+In the given question, five words are printed in bold and are numbered A, B, C, D and E. The positions of some highlighted words may be incorrect and need to be exchanged with another highlighted to make the sentence correct. Find  the words that need to be exchanged.With its diverse world(A), the cities (B) is considered(C) one of the most cosmopolitan city(D) in the population (E).
+(a) D-E 
+(b) D-A 
+(c) A-D and D-E 
+(d) A-E and B-D 
+(e) No exchange required
+
+Q.94) 
+In the given question, five words are printed in bold and are numbered A, B, C, D and E. The positions of some highlighted words may be incorrect and need to be exchanged with another highlighted to make the sentence correct. Find  the words that need to be exchanged.To restrict(A) the study to the compliant patients, only those completing(B) a second department (C) at the outpatient visit(D) were included(E).
+(a) A-E and B-D 
+(b) C-D 
+(c) A-B and D-E 
+(d) B-C 
+(e) No exchange required
+
+Q.95) 
+In the given question, five words are printed in bold and are numbered A, B, C, D and E. The positions of some highlighted words may be incorrect and need to be exchanged with another highlighted to make the sentence correct. Find  the words that need to be exchanged.As the comment(A) are at a delicate(B) stage the senior staff at the observatory preferred(C) to make no negotiations(D) when contacted(E) yesterday.
+(a) A-B 
+(b) B-C 
+(c) D-E 
+(d) A-D 
+(e) No exchange required
+
+Q.96) 
+In this question, two columns I and II and three sentences are given, which are divided into two parts. Column I (A, B and C) consists of first half of each sentence and Column II (D, E and F) consists of second half of each sentence. Match column I with column II, so that the sentences formed are both meaningful and grammatically correct. Choose the option as your answer. A) There was a biographical note about B) His research is at the cutting C) I have no idea how to set II. D) edge of new therapies for cancer. E) the author on the back of the book. F) off changing a tyre on a car.
+(a) B-E and C-F 
+(b) A-E and B-D 
+(c) A-E 
+(d) B-F 
+(e) A-E, B-D and C-F
+
+Q.97) 
+In this question, two columns I and II and three sentences are given, which are divided into two parts. Column I (A, B and C) consists of first half of each sentence and Column II (D, E and F) consists of second half of each sentence. Match column I with column II, so that the sentences formed are both meaningful and grammatically correct. Choose the option as your answer. A) The more precious the metals that go into the B) We must ensures that tourism develop C) The government is being widely II. D) criticized in the press for its strict step. E) in harmony with the environment. F) making of the alloy, the higher are the charge.
+(a) B-E and C-D 
+(b) A-E, B-D and C-F 
+(c) A-E and C-E 
+(d) B-F 
+(e) None of the above
+
+Q.98) 
+In this question, two columns I and II and three sentences are given, which are divided into two parts. Column I (A, B and C) consists of first half of each sentence and Column II (D, E and F) consists of second half of each sentence. Match column I with column II, so that the sentences formed are both meaningful and grammatically correct. Choose the option as your answer.A) This method was criticized for being wasteful B) The admission process was faulty C) The portal aims at improving the II. D) These had to be conducted all over again. E) And causing inconvenience to the common man. F) Availability of coal to consumers.
+(a) B-E and C-D 
+(b) A-D, B-F and C-E 
+(c) A-E and C-E 
+(d) A-E and C-F 
+(e) None of the above
+
+Q.99) 
+Given below are six statements A, B, C, D, E and F, which when arranged in the correct order, form a coherent and meaningful paragraph. The sentence marked E is fixed and would fit in the fifth position. Rearrange the other statements in a proper sequence to form a meaningful paragraph, then answer the questions that follow. A) They have worked against the rules which state that GI is given to goods where a given quality and reputation are drawn from its geographic origin. B) The result of this belief is that today, India has more than 600 GI products in defiance of logic, rules and any economic rationale. C) The officials who hand out the GI trademarks believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance. D) This is a perpetually silly reason presented by the officials while assigning GIs at the Geographical Indications (GIs) registry. E) However, the officials seem to believe in numbers and made people jostle for the GI label in the mistaken belief that it would magically boost their business. F) The tag was meant to safeguard monopolies and was a right given to a community of producers, not individuals. Which of the following will be the first statement after rearrangement?
+(a) C 
+(b) E 
+(c) D 
+(d) F 
+(e) A
+
+Q.100) 
+Given below are six statements A, B, C, D, E and F, which when arranged in the correct order, form a coherent and meaningful paragraph. The sentence marked E is fixed and would fit in the fifth position. Rearrange the other statements in a proper sequence to form a meaningful paragraph, then answer the questions that follow. A) They have worked against the rules which state that GI is given to goods where a given quality and reputation are drawn from its geographic origin. B) The result of this belief is that today, India has more than 600 GI products in defiance of logic, rules and any economic rationale. C) The officials who hand out the GI trademarks believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance. D) This is a perpetually silly reason presented by the officials while assigning GIs at the Geographical Indications (GIs) registry. E) However, the officials seem to believe in numbers and made people jostle for the GI label in the mistaken belief that it would magically boost their business. F) The tag was meant to safeguard monopolies and was a right given to a community of producers, not individuals. Which of the following will be the fourth statement after rearrangement?
+(a) C 
+(b) E 
+(c) B 
+(d) F 
+(e) A
+
+Q.101) 
+Given below are six statements A, B, C, D, E and F, which when arranged in the correct order, form a coherent and meaningful paragraph. The sentence marked E is fixed and would fit in the fifth position. Rearrange the other statements in a proper sequence to form a meaningful paragraph, then answer the questions that follow. A) They have worked against the rules which state that GI is given to goods where a given quality and reputation are drawn from its geographic origin. B) The result of this belief is that today, India has more than 600 GI products in defiance of logic, rules and any economic rationale. C) The officials who hand out the GI trademarks believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance. D) This is a perpetually silly reason presented by the officials while assigning GIs at the Geographical Indications (GIs) registry. E) However, the officials seem to believe in numbers and made people jostle for the GI label in the mistaken belief that it would magically boost their business. F) The tag was meant to safeguard monopolies and was a right given to a community of producers, not individuals. Which of the following will be the third statement after rearrangement?
+(a) C 
+(b) E 
+(c) B 
+(d) F 
+(e) A
+
+Q.102) 
+Given below are six statements A, B, C, D, E and F, which when arranged in the correct order, form a coherent and meaningful paragraph. The sentence marked E is fixed and would fit in the fifth position. Rearrange the other statements in a proper sequence to form a meaningful paragraph, then answer the questions that follow. A) They have worked against the rules which state that GI is given to goods where a given quality and reputation are drawn from its geographic origin. B) The result of this belief is that today, India has more than 600 GI products in defiance of logic, rules and any economic rationale. C) The officials who hand out the GI trademarks believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance. D) This is a perpetually silly reason presented by the officials while assigning GIs at the Geographical Indications (GIs) registry. E) However, the officials seem to believe in numbers and made people jostle for the GI label in the mistaken belief that it would magically boost their business. F) The tag was meant to safeguard monopolies and was a right given to a community of producers, not individuals. Which of the following will be the second statement after rearrangement?
+(a) C
+(b) D 
+(c) B 
+(d) F 
+(e) A
+
+Q.103) 
+Given below are six statements A, B, C, D, E and F, which when arranged in the correct order, form a coherent and meaningful paragraph. The sentence marked E is fixed and would fit in the fifth position. Rearrange the other statements in a proper sequence to form a meaningful paragraph, then answer the questions that follow. A) They have worked against the rules which state that GI is given to goods where a given quality and reputation are drawn from its geographic origin. B) The result of this belief is that today, India has more than 600 GI products in defiance of logic, rules and any economic rationale. C) The officials who hand out the GI trademarks believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance. D) This is a perpetually silly reason presented by the officials while assigning GIs at the Geographical Indications (GIs) registry. E) However, the officials seem to believe in numbers and made people jostle for the GI label in the mistaken belief that it would magically boost their business. F) The tag was meant to safeguard monopolies and was a right given to a community of producers, not individuals. Which of the following will be the last statement after rearrangement?
+(a) C 
+(b) E 
+(c) B 
+(d) F 
+(e) A
+
+Q.104) 
+Countries are(Q1) species to move to new places by enabling climate change, and at the same time, making it harder for them to move. Across geologic time, the Earth has apparently survived five mass extinctions, and we are on the verge of the Sixth. We don’t believe humanity can survive this wave, unless we make rapid(Q2). There has been a rising tide of ignorance in the face of absolute facts in the global arena. The very science that the world is (Q3) to reach the moon, Mars and beyond, is now telling us that we might have to abandon ship if we keep polluting and (Q4) the environment and have leaders who ignore science. Large corporations, especially energy corporations, release carbon emissions into the atmosphere. Factors that have been influencing these emissions are very much within our control. One of them is consumerism which(Q5) climate change. The Food and Agriculture Organization of the United Nations, in its report titled ‘Livestock’s Long Shadow’, argues that livestock is a major stressor on many ecosystems and on the planet as a whole. It is one of the largest sources of greenhouse gases, and these gases will only increase if we, as consumers, don’t make conscious(Q6). Find the appropriate word in (Q1)
+(a) carrying 
+(b) abandoning 
+(c) forcing 
+(d) finding 
+(e) ensuring
+
+Q.105) 
+Countries are(Q1) species to move to new places by enabling climate change, and at the same time, making it harder for them to move. Across geologic time, the Earth has apparently survived five mass extinctions, and we are on the verge of the Sixth. We don’t believe humanity can survive this wave, unless we make rapid(Q2). There has been a rising tide of ignorance in the face of absolute facts in the global arena. The very science that the world is (Q3) to reach the moon, Mars and beyond, is now telling us that we might have to abandon ship if we keep polluting and (Q4) the environment and have leaders who ignore science. Large corporations, especially energy corporations, release carbon emissions into the atmosphere. Factors that have been influencing these emissions are very much within our control. One of them is consumerism which(Q5) climate change. The Food and Agriculture Organization of the United Nations, in its report titled ‘Livestock’s Long Shadow’, argues that livestock is a major stressor on many ecosystems and on the planet as a whole. It is one of the largest sources of greenhouse gases, and these gases will only increase if we, as consumers, don’t make conscious(Q6). Find the appropriate word in (Q2)
+(a) proceeds 
+(b) amends 
+(c) plots 
+(d) Gauge 
+(e) atone
+
+Q.106) 
+Countries are(Q1) species to move to new places by enabling climate change, and at the same time, making it harder for them to move. Across geologic time, the Earth has apparently survived five mass extinctions, and we are on the verge of the Sixth. We don’t believe humanity can survive this wave, unless we make rapid(Q2). There has been a rising tide of ignorance in the face of absolute facts in the global arena. The very science that the world is (Q3) to reach the moon, Mars and beyond, is now telling us that we might have to abandon ship if we keep polluting and (Q4) the environment and have leaders who ignore science. Large corporations, especially energy corporations, release carbon emissions into the atmosphere. Factors that have been influencing these emissions are very much within our control. One of them is consumerism which(Q5) climate change. The Food and Agriculture Organization of the United Nations, in its report titled ‘Livestock’s Long Shadow’, argues that livestock is a major stressor on many ecosystems and on the planet as a whole. It is one of the largest sources of greenhouse gases, and these gases will only increase if we, as consumers, don’t make conscious(Q6). Find the appropriate word in (Q3)
+(a) daunting 
+(b) craving 
+(c) heartening 
+(d) scraping 
+(e) using
+
+Q.107) 
+Countries are(Q1) species to move to new places by enabling climate change, and at the same time, making it harder for them to move. Across geologic time, the Earth has apparently survived five mass extinctions, and we are on the verge of the Sixth. We don’t believe humanity can survive this wave, unless we make rapid(Q2). There has been a rising tide of ignorance in the face of absolute facts in the global arena. The very science that the world is (Q3) to reach the moon, Mars and beyond, is now telling us that we might have to abandon ship if we keep polluting and (Q4) the environment and have leaders who ignore science. Large corporations, especially energy corporations, release carbon emissions into the atmosphere. Factors that have been influencing these emissions are very much within our control. One of them is consumerism which(Q5) climate change. The Food and Agriculture Organization of the United Nations, in its report titled ‘Livestock’s Long Shadow’, argues that livestock is a major stressor on many ecosystems and on the planet as a whole. It is one of the largest sources of greenhouse gases, and these gases will only increase if we, as consumers, don’t make conscious(Q6). Find the appropriate word in (Q4)
+(a) outgrowing 
+(b) illustrating 
+(c) warping 
+(d) abusing 
+(e) depraving
+
+Q.108) 
+Countries are(Q1) species to move to new places by enabling climate change, and at the same time, making it harder for them to move. Across geologic time, the Earth has apparently survived five mass extinctions, and we are on the verge of the Sixth. We don’t believe humanity can survive this wave, unless we make rapid(Q2). There has been a rising tide of ignorance in the face of absolute facts in the global arena. The very science that the world is (Q3) to reach the moon, Mars and beyond, is now telling us that we might have to abandon ship if we keep polluting and (Q4) the environment and have leaders who ignore science. Large corporations, especially energy corporations, release carbon emissions into the atmosphere. Factors that have been influencing these emissions are very much within our control. One of them is consumerism which(Q5) climate change. The Food and Agriculture Organization of the United Nations, in its report titled ‘Livestock’s Long Shadow’, argues that livestock is a major stressor on many ecosystems and on the planet as a whole. It is one of the largest sources of greenhouse gases, and these gases will only increase if we, as consumers, don’t make conscious(Q6). Find the appropriate word in (Q5)
+(a) amplifies 
+(b) misemploys 
+(c) expounds 
+(d) elucidates 
+(e) clucks
+
+Q.109) 
+Countries are(Q1) species to move to new places by enabling climate change, and at the same time, making it harder for them to move. Across geologic time, the Earth has apparently survived five mass extinctions, and we are on the verge of the Sixth. We don’t believe humanity can survive this wave, unless we make rapid(Q2). There has been a rising tide of ignorance in the face of absolute facts in the global arena. The very science that the world is (Q3) to reach the moon, Mars and beyond, is now telling us that we might have to abandon ship if we keep polluting and (Q4) the environment and have leaders who ignore science. Large corporations, especially energy corporations, release carbon emissions into the atmosphere. Factors that have been influencing these emissions are very much within our control. One of them is consumerism which(Q5) climate change. The Food and Agriculture Organization of the United Nations, in its report titled ‘Livestock’s Long Shadow’, argues that livestock is a major stressor on many ecosystems and on the planet as a whole. It is one of the largest sources of greenhouse gases, and these gases will only increase if we, as consumers, don’t make conscious(Q6). Find the appropriate word in (Q6)
+(a) illuminates 
+(b) transitive 
+(c) choices 
+(d) reasoning 
+(e) prophecies
+
+Q.110) 
+Despite almost ubiquitous scepticism, the electoral bonds have prevailed and, that too, almost solely _________________ rhetorical claims of “transparency of political funding system,” “clean money,” and “donor’s anonymity.” i. with the backing of the ruling government’s ii. based on the endorsement derived from the political party at power’s iii. backed by the political party at power’s 
+(a) Only i 
+(b) Only ii 
+(c) Only iii 
+(d) Both i and ii 
+(e) All of these
+
+Q.111) 
+Impeachment experts testified before the House judiciary committee on Wednesday that Donald Trump’s misconduct offered____________ as prescribed by the constitution and applied over the course of US history. i. the perfect example for impeachment ii. the correct case iii. a textbook case of impeachable offenses 
+(a) Only i 
+(b) Only ii 
+(c) Both i and iii 
+(d) Both i and ii 
+(e) All of these
+
+Q.112) 
+More energy intake than energy expenditure, will in the long-term lead to fat deposition, insulin resistance and a fatty liver ______________ diet composition. i) regardless of the ii) despite having a proper iii) though a different 
+(a) Only i 
+(b) Only ii 
+(c) Both ii and iii 
+(d) Both i and ii 
+(e) All of these
+
+Q.113) 
+Some eighty thousand years ago, hunters and gatherers ate fruit sporadically, since these were ________________. i) not widely available. ii) not good hunting. iii) competes with birds.
+(a) Only i 
+(b) Only ii 
+(c) Both i and iii 
+(d) Both i and ii 
+(e) All of these
+
+Q.114) 
+______________ cloud based blockchain services on various platforms from start-up to language platforms, experimentation is getting easier with time. i) In the rise of ii) Due to the emergence of iii) With the use of 
+(a) Only i 
+(b) Only ii 
+(c) Both ii and iii 
+(d) Both i and ii 
+(e) All of these
+
+Q.115) 
+Read the given passage carefully and answer the questions that follow. Most every job seeker has, at some point, either applied to or interviewed for a position only to be met by radio silence. Follow-up emails go unanswered, and the once-promising opportunity vanishes into the void. A few years ago, this might simply have been called part of the job hunt. Today, this disappearing act is referred to as “ghosting,” and it’s a practice that’s becoming more prevalent among applicants. Now the tables have turned. It’s employees who more and more often are ghosting employers. With the unemployment rate at a low 3.5%, job seekers are optimistic about the job market, so much so that 28% of job seekers have backed out of an offer after accepting it, with 44% of those doing so for another, more attractive proposition, according to a study. If multiple companies are pursuing one candidate, he or she may accept the first offer, set a start date and then receive and accept a second offer without letting the first company know. Research from Indeed found that of the 83% of employers who report having been ghosted, 65% say the candidate accepted their offer but failed to show up on day one. Some 27% ceased communication after getting a counteroffer from their current employer and 19% after hearing negative feedback about the company. And job seekers aren’t only ghosting employers after accepting offers, says McDonald, who has first-hand experience with this phenomenon. Some are bailing on interviews, while others are completing several rounds of interviews before shutting down the lines of communication. How can employers avoid this fate? McDonald advises that companies stay in constant communication with candidates to minimize the likelihood of them being a no-show. Once they accept, hiring managers should continue correspondence, whether through emails, texts, phone calls or even in-person meetings. At the end of the day, though, it’s really up to the candidates. While Indeed found that 94% of job seekers who have ghosted say they’ve not experienced many, if any, negative repercussions, McDonald says it’s only a matter of time before their actions catch up to them. Once job seekers ghost, they burn bridges, ones that can be challenging to repair, and with every future job search will come the chance of running into someone from their past. He advises that candidates who are no longer interested in pursuing opportunities communicate that to hiring managers, whether in the form of an email or a phone call. When the average cost-per-hire is $4,425, the sooner, the better. Source: https://www.forbes.com/sites/samantha todd/2019/10/29/94-of-employers- have-been-ghosted-why-job-seekers-do- it-and-how-to-avoid-being- haunted/#1563f71635e6 Which of the following statements can be correctly inferred from the passage? I. The author states that nowadays, even though the unemployment rate is 3.5%, job seekers do not get jobs easily and they have to stick to whatever jobs they get. II. The culture of ‘ghosting’ is appreciated by big companies. III. The author states that the potential employees should not ghost the companies they get selected in as there will be consequences, if not today, but in future.
+(a) Only I 
+(b) Only II 
+(c) Only III 
+(d) Both I and II 
+(e) Both II and III
+
+Q.116) 
+Read the given passage carefully and answer the questions that follow. Most every job seeker has, at some point, either applied to or interviewed for a position only to be met by radio silence. Follow-up emails go unanswered, and the once-promising opportunity vanishes into the void. A few years ago, this might simply have been called part of the job hunt. Today, this disappearing act is referred to as “ghosting,” and it’s a practice that’s becoming more prevalent among applicants. Now the tables have turned. It’s employees who more and more often are ghosting employers. With the unemployment rate at a low 3.5%, job seekers are optimistic about the job market, so much so that 28% of job seekers have backed out of an offer after accepting it, with 44% of those doing so for another, more attractive proposition, according to a study. If multiple companies are pursuing one candidate, he or she may accept the first offer, set a start date and then receive and accept a second offer without letting the first company know. Research from Indeed found that of the 83% of employers who report having been ghosted, 65% say the candidate accepted their offer but failed to show up on day one. Some 27% ceased communication after getting a counteroffer from their current employer and 19% after hearing negative feedback about the company. And job seekers aren’t only ghosting employers after accepting offers, says McDonald, who has first-hand experience with this phenomenon. Some are bailing on interviews, while others are completing several rounds of interviews before shutting down the lines of communication. How can employers avoid this fate? McDonald advises that companies stay in constant communication with candidates to minimize the likelihood of them being a no-show. Once they accept, hiring managers should continue correspondence, whether through emails, texts, phone calls or even in-person meetings. At the end of the day, though, it’s really up to the candidates. While Indeed found that 94% of job seekers who have ghosted say they’ve not experienced many, if any, negative repercussions, McDonald says it’s only a matter of time before their actions catch up to them. Once job seekers ghost, they burn bridges, ones that can be challenging to repair, and with every future job search will come the chance of running into someone from their past. He advises that candidates who are no longer interested in pursuing opportunities communicate that to hiring managers, whether in the form of an email or a phone call. When the average cost-per-hire is $4,425, the sooner, the better. Source: https://www.forbes.com/sites/samantha todd/2019/10/29/94-of-employers- have-been-ghosted-why-job-seekers-do- it-and-how-to-avoid-being- haunted/#1563f71635e6 Which of the following statements is NOT true with respect to the passage? A. Out of 83 percent of the employers who were ghosted, research from Indeed found that 35% of the candidates who accepted their offer and showed up on day one. B. A person who is ghosting after accepting the job keep in touch in the form of an email or a phone call. C. 6 percent of the job seekers who have ghosted might have faced negative repercussions. D. Companies can avoid ghosting of employees by using their hiring managers to be in constant touch with the employee whether through emails, texts, phone calls or even in-person meetings. E. According to the passage, since the unemployment rate is low, it gives more power to employees when it comes to selecting a job.
+(a) A 
+(b) B 
+(c) C 
+(d) D 
+(e) E
+
+Q.117) 
+Read the given passage carefully and answer the questions that follow. Most every job seeker has, at some point, either applied to or interviewed for a position only to be met by radio silence. Follow-up emails go unanswered, and the once-promising opportunity vanishes into the void. A few years ago, this might simply have been called part of the job hunt. Today, this disappearing act is referred to as “ghosting,” and it’s a practice that’s becoming more prevalent among applicants. Now the tables have turned. It’s employees who more and more often are ghosting employers. With the unemployment rate at a low 3.5%, job seekers are optimistic about the job market, so much so that 28% of job seekers have backed out of an offer after accepting it, with 44% of those doing so for another, more attractive proposition, according to a study. If multiple companies are pursuing one candidate, he or she may accept the first offer, set a start date and then receive and accept a second offer without letting the first company know. Research from Indeed found that of the 83% of employers who report having been ghosted, 65% say the candidate accepted their offer but failed to show up on day one. Some 27% ceased communication after getting a counteroffer from their current employer and 19% after hearing negative feedback about the company. And job seekers aren’t only ghosting employers after accepting offers, says McDonald, who has first-hand experience with this phenomenon. Some are bailing on interviews, while others are completing several rounds of interviews before shutting down the lines of communication. How can employers avoid this fate? McDonald advises that companies stay in constant communication with candidates to minimize the likelihood of them being a no-show. Once they accept, hiring managers should continue correspondence, whether through emails, texts, phone calls or even in-person meetings. At the end of the day, though, it’s really up to the candidates. While Indeed found that 94% of job seekers who have ghosted say they’ve not experienced many, if any, negative repercussions, McDonald says it’s only a matter of time before their actions catch up to them. Once job seekers ghost, they burn bridges, ones that can be challenging to repair, and with every future job search will come the chance of running into someone from their past. He advises that candidates who are no longer interested in pursuing opportunities communicate that to hiring managers, whether in the form of an email or a phone call. When the average cost-per-hire is $4,425, the sooner, the better. Source: https://www.forbes.com/sites/samantha todd/2019/10/29/94-of-employers- have-been-ghosted-why-job-seekers-do- it-and-how-to-avoid-being- haunted/#1563f71635e6. According to the author, what is the central theme of the passage?
+(a) Bad treatment of the employers 
+(b) Proper jobs in the market 
+(c) Growth in jobs market due to a boost in the economy 
+(d) Sudden vanishing of employees after accepting the job 
+(e) Reading habits of company employees
+
+Q.118) 
+Read the given passage carefully and answer the questions that follow. Most every job seeker has, at some point, either applied to or interviewed for a position only to be met by radio silence. Follow-up emails go unanswered, and the once-promising opportunity vanishes into the void. A few years ago, this might simply have been called part of the job hunt. Today, this disappearing act is referred to as “ghosting,” and it’s a practice that’s becoming more prevalent among applicants. Now the tables have turned. It’s employees who more and more often are ghosting employers. With the unemployment rate at a low 3.5%, job seekers are optimistic about the job market, so much so that 28% of job seekers have backed out of an offer after accepting it, with 44% of those doing so for another, more attractive proposition, according to a study. If multiple companies are pursuing one candidate, he or she may accept the first offer, set a start date and then receive and accept a second offer without letting the first company know. Research from Indeed found that of the 83% of employers who report having been ghosted, 65% say the candidate accepted their offer but failed to show up on day one. Some 27% ceased communication after getting a counteroffer from their current employer and 19% after hearing negative feedback about the company. And job seekers aren’t only ghosting employers after accepting offers, says McDonald, who has first-hand experience with this phenomenon. Some are bailing on interviews, while others are completing several rounds of interviews before shutting down the lines of communication. How can employers avoid this fate? McDonald advises that companies stay in constant communication with candidates to minimize the likelihood of them being a no-show. Once they accept, hiring managers should continue correspondence, whether through emails, texts, phone calls or even in-person meetings. At the end of the day, though, it’s really up to the candidates. While Indeed found that 94% of job seekers who have ghosted say they’ve not experienced many, if any, negative repercussions, McDonald says it’s only a matter of time before their actions catch up to them. Once job seekers ghost, they burn bridges, ones that can be challenging to repair, and with every future job search will come the chance of running into someone from their past. He advises that candidates who are no longer interested in pursuing opportunities communicate that to hiring managers, whether in the form of an email or a phone call. When the average cost-per-hire is $4,425, the sooner, the better. Source: https://www.forbes.com/sites/samantha todd/2019/10/29/94-of-employers- have-been-ghosted-why-job-seekers-do- it-and-how-to-avoid-being- haunted/#1563f71635e6. Out of the given options, choose the most similar meaning to the phrase marked in bold in the passage'vanishes into the void'.
+(a) vanishing into thin air 
+(b) as smooth as butter 
+(c) vanishing into the ocean 
+(d) over the moon
+(e) fat chance
+
+Q.119) 
+Read the given passage carefully and answer the questions that follow. Most every job seeker has, at some point, either applied to or interviewed for a position only to be met by radio silence. Follow-up emails go unanswered, and the once-promising opportunity vanishes into the void. A few years ago, this might simply have been called part of the job hunt. Today, this disappearing act is referred to as “ghosting,” and it’s a practice that’s becoming more prevalent among applicants. Now the tables have turned. It’s employees who more and more often are ghosting employers. With the unemployment rate at a low 3.5%, job seekers are optimistic about the job market, so much so that 28% of job seekers have backed out of an offer after accepting it, with 44% of those doing so for another, more attractive proposition, according to a study. If multiple companies are pursuing one candidate, he or she may accept the first offer, set a start date and then receive and accept a second offer without letting the first company know. Research from Indeed found that of the 83% of employers who report having been ghosted, 65% say the candidate accepted their offer but failed to show up on day one. Some 27% ceased communication after getting a counteroffer from their current employer and 19% after hearing negative feedback about the company. And job seekers aren’t only ghosting employers after accepting offers, says McDonald, who has first-hand experience with this phenomenon. Some are bailing on interviews, while others are completing several rounds of interviews before shutting down the lines of communication. How can employers avoid this fate? McDonald advises that companies stay in constant communication with candidates to minimize the likelihood of them being a no-show. Once they accept, hiring managers should continue correspondence, whether through emails, texts, phone calls or even in-person meetings. At the end of the day, though, it’s really up to the candidates. While Indeed found that 94% of job seekers who have ghosted say they’ve not experienced many, if any, negative repercussions, McDonald says it’s only a matter of time before their actions catch up to them. Once job seekers ghost, they burn bridges, ones that can be challenging to repair, and with every future job search will come the chance of running into someone from their past. He advises that candidates who are no longer interested in pursuing opportunities communicate that to hiring managers, whether in the form of an email or a phone call. When the average cost-per-hire is $4,425, the sooner, the better. Source: https://www.forbes.com/sites/samantha todd/2019/10/29/94-of-employers- have-been-ghosted-why-job-seekers-do- it-and-how-to-avoid-being- haunted/#1563f71635e6. What determines the ‘ghosting’ as it is becoming more prevalent among applicants?
+(a) Lack of job opportunity in the market 
+(b) Multiple opportunities in the job market 
+(c) Cost of application 
+(d) Employers do not follow back 
+(e) Rudeness of employers
+
+Q.120) 
+Read the given passage carefully and answer the questions that follow. Most every job seeker has, at some point, either applied to or interviewed for a position only to be met by radio silence. Follow-up emails go unanswered, and the once-promising opportunity vanishes into the void. A few years ago, this might simply have been called part of the job hunt. Today, this disappearing act is referred to as “ghosting,” and it’s a practice that’s becoming more prevalent among applicants. Now the tables have turned. It’s employees who more and more often are ghosting employers. With the unemployment rate at a low 3.5%, job seekers are optimistic about the job market, so much so that 28% of job seekers have backed out of an offer after accepting it, with 44% of those doing so for another, more attractive proposition, according to a study. If multiple companies are pursuing one candidate, he or she may accept the first offer, set a start date and then receive and accept a second offer without letting the first company know. Research from Indeed found that of the 83% of employers who report having been ghosted, 65% say the candidate accepted their offer but failed to show up on day one. Some 27% ceased communication after getting a counteroffer from their current employer and 19% after hearing negative feedback about the company. And job seekers aren’t only ghosting employers after accepting offers, says McDonald, who has first-hand experience with this phenomenon. Some are bailing on interviews, while others are completing several rounds of interviews before shutting down the lines of communication. How can employers avoid this fate? McDonald advises that companies stay in constant communication with candidates to minimize the likelihood of them being a no-show. Once they accept, hiring managers should continue correspondence, whether through emails, texts, phone calls or even in-person meetings. At the end of the day, though, it’s really up to the candidates. While Indeed found that 94% of job seekers who have ghosted say they’ve not experienced many, if any, negative repercussions, McDonald says it’s only a matter of time before their actions catch up to them. Once job seekers ghost, they burn bridges, ones that can be challenging to repair, and with every future job search will come the chance of running into someone from their past. He advises that candidates who are no longer interested in pursuing opportunities communicate that to hiring managers, whether in the form of an email or a phone call. When the average cost-per-hire is $4,425, the sooner, the better. Source: https://www.forbes.com/sites/samantha todd/2019/10/29/94-of-employers- have-been-ghosted-why-job-seekers-do- it-and-how-to-avoid-being- haunted/#1563f71635e6. Which of the following correctly describes the tone of the passage?
+(a) Speculative 
+(b) Grandiose 
+(c) Factual 
+(d) Reflective 
+(e) Nostalgic
+
+Q.121) 
+Where is the headquarters of Credit Saison India, which has received a non-banking financial company(NBFC) licence from the Reserve Bank of India?
+(a) Mumbai 
+(b) Kolkata 
+(c) Chennai 
+(d) Bengaluru 
+(e) New Delhi
+
+Q.122) 
+Lalji Tandon is an Indian politician serving as the 22nd and current Governor of which state?
+(a) Rajasthan 
+(b) Odisha 
+(c) Madhya Pradesh 
+(d) Gujarat 
+(e) Bihar
+
+Q.123) 
+The Nobel Prize in Chemistry 2019 was given for the development of ______.
+(a) Work on the structure of protein and insulin 
+(b) Lithium-Ion Battery 
+(c) Structure of atom 
+(d) Radioactivity 
+(e) None of the above
+
+Q.124) 
+The World Economic Forum Meeting in the Year 2020 will be held in which city?
+(a) Davos, Switzerland 
+(b) Madrid, Spain 
+(c) Geneva, Switzerland
+(d) Paris, France 
+(e) Berlin, Germany
+
+Q.125) 
+India-Maldives joint military exercise ‘Ex EKUVERIN – 2019’ was held in which place?
+(a) Jodhpur 
+(b) Vishakhapatnam 
+(c) Pune 
+(d) Dehradun 
+(e) Balasore
+
+Q.126) 
+Indian cricketer Rohit Sharma has launched the ‘Rohit4Rhinos’ campaign in partnership with WWF India and which of the following organization to create awareness about conservation of the Indian Rhino?
+(a) World Animal Protection India 
+(b) Animal Welfare Board of India 
+(c) International Fund for Animal Welfare 
+(d) Animal Planet 
+(e) None of the above
+
+Q.127) 
+Which organization has announced relaxation in norms for ‘Muni Bonds’ to help smart cities?
+(a) RBI 
+(b) SEBI 
+(c) IRDAI 
+(d) TRAI 
+(e) None of these
+
+Q.128) 
+Which organization has constituted a working group on Social Stock Exchanges(SSE) under the chairmanship of Ishaat Hussain?
+(a) RBI 
+(b) Finance Ministry 
+(c) SEBI 
+(d) IRDAI 
+(e) TRAI
+
+Q.129) 
+The Minister of Railways and Minister of Commerce, Piyush Goyal is Rajya Sabha MP from which constituency?
+(a) Karnataka 
+(b) Maharashtra 
+(c) Delhi 
+(d) Rajasthan 
+(e) Gujarat
+
+Q.130) 
+Who is the director of the Indian movie ‘Gully Boy’?
+(a) Frahan Akhtar 
+(b) Karan Johar 
+(c) Rohit Shetty 
+(d) Zoya Akhtar 
+(e) Ranvir Singh
+
+Q.131) 
+Which of the following organizations has launched the “Project Netra”?
+(a) ISRO 
+(b) DRDO 
+(c) Google India 
+(d) Microsoft 
+(e) None of these
+
+Q.132) 
+The National Unity Day was celebrated on 31st October in the remembrance of who among the following?
+(a) Indira Gandhi 
+(b) Lal Bahadur Shastri 
+(c) Sardar Vallabhai Patel 
+(d) Chaudhari Charan Singh 
+(e) Rajiv Gandhi
+
+Q.133) 
+What was the theme of the ‘World Teacher’s Day 2019’?
+(a) Young Teacher: The future of the profession 
+(b) Youth: the Next Wave for Change 
+(c) Education for betterment 
+(d) Educating Young collective responsibility 
+(e) None of these
+
+Q.134) 
+Kamlang tiger reserve is located in which state?
+(a) Manipur 
+(b) Meghalaya 
+(c) Arunachal Pradesh 
+(d) Assam 
+(e) Mizoram
+
+Q.135) 
+The Largest Solar Park in India is located in which state?
+(a) Gujarat 
+(b) Rajasthan 
+(c) Tamil Nadu 
+(d) Maharshtra 
+(e) Karnataka
+
+Q.136) 
+The railway minister has made an association with which Indian institute of technology, on a project of ‘Industry 4.0’?
+(a) IIT Delhi 
+(b) IIT Kanpur 
+(c) IIT Bombay 
+(d) IIT Kharagpur 
+(e) IIT Guwahati
+
+Q.137) 
+Sarah Taylor, who recently announced her retirement from cricket, belongs to which country?
+(a) Australia 
+(b) New Zealand 
+(c) England 
+(d) South Africa 
+(e) West Indies
+
+Q.138) 
+Indian Government has recently approved the infusion of 9300 Crore in which Bank?
+(a) ICICI Bank 
+(b) IDBI Bank 
+(c) HDFC Bank 
+(d) Axis Bank 
+(e) None of these
+
+Q.139) 
+The first-ever world cotton day was observed on October 7, in which city?
+(a) Geneva, Switzerland 
+(b) New York, USA 
+(c) Ahmedabad, India 
+(d) London, England 
+(e) Paris, France
+
+Q.140) 
+Who held Women’s World record in 400 meter race?
+(a) Marita Koch 
+(b) Shelly-Ann 
+(c) Jarmila Kratochvílová 
+(d) Salwa Eid Naser 
+(e) Marie-José Pérec
+
+Q.141) 
+Among the following, which bank is being merged with Punjab National Bank?
+(a) Union Bank 
+(b) United Bank of India 
+(c) Canara Bank 
+(d) Punjab and Sindh bank 
+(e) Bank of India
+
+Q.142) 
+Ratapani Tiger Reserve is located in which state of India?
+(a) Madhya Pradesh
+(b) Rajasthan 
+(c) Chhattisgarh 
+(d) Odisha 
+(e) Jharkhand
+
+Q.143) 
+In a bid to Raise Awareness about the Importance of Life Insurance, the industry has come together with the tagline?
+(a) Jindagi ke sath bhi jindagi ke bad bhi 
+(b) SabsePehle Life Insurance 
+(c) SabseAchha Jeevan Beema 
+(d) SabsePahle Apni Suraksha 
+(e) None of these
+
+Q.144) 
+Which country takes the presidency of the UN convention to combat desertification presidency from China for Next 2 years?
+(a) India 
+(b) Japan 
+(c) Philippines 
+(d) Australia 
+(e) South Africa
+
+Q.145) 
+PLA is the name of the Army of which country?
+(a) USA 
+(b) Japan 
+(c) North Korea 
+(d) China 
+(e) Pakistan
+
+Q.146) 
+India comprehensive national nutrition survey first of its kind is conducted by the ministry of health& family welfare(MOHFW) in collaboration with_____.
+(a) UNESCO 
+(b) UNICEF 
+(c) WHO 
+(d) FAO 
+(e) WTO
+
+Q.147) 
+Padma Shri Awardee Shri Dr Hargovind Laxmishanker Trivedi who passed away recently was veteran_____.
+(a) Geologist 
+(b) Neurologist 
+(c) Nephrologist 
+(d) Journalist 
+(e) Environmentalist
+
+Q.148) 
+The 5th World Parliament of Science Religion& Philosophy was held in_____.
+(a) Mumbai 
+(b) Nagpur 
+(c) Pune 
+(d) Ahmedabad 
+(e) Jaipur
+
+Q.149) 
+The courage in journalism award is a prize awarded by which of the following organizations?
+(a) World Media Foundation 
+(b) International women’s media foundation 
+(c) Interactive Media Foundation 
+(d) New Media Foundation 
+(e) None of these
+
+Q.150) 
+Recently, INS Khanderi was commissioned into the Indian Navy at which Port?
+(a) Mormugao Dockyard, Goa 
+(b) Mazagaon Docks, Mumbai 
+(c) Vishakhapatnam 
+(d) Paradip Dockyard, Odisha 
+(e) None of these
+
+Q.151) 
+Who has recently won the “Peter Mackler Award” which was given for courageous journalism?
+(a) Robert Fisk 
+(b) Paolo Borrometi 
+(c) Kate Adie 
+(d) Christiane Amanpour 
+(e) Bob Woodward
+
+Q.152) 
+What is the name of the exercise which India has conducted near China border in eastern Ladakh?
+(a) Vajra Prahar 
+(b) Hand-in-Hand 
+(c) Yudha Abhyas 
+(d) Chang Thang 
+(e) Surya Kiran
+
+Q.153) 
+Managing Director(MD) and Chief Executive Officer(CEO) of Lakshmi Vilas Bank Parthasarathi Mukherjee has announced his resignation citing personal reasons. Where is headquarter of the bank is situated?
+(a) Mumbai 
+(b) Madurai 
+(c) Chennai
+(d) Delhi 
+(e) Mangalore
+
+Q.154) 
+Which of the following Southeast Asian countries has inaugurated Southeast Asia’s largest solar power farm which has the capacity to produce 688 million kWh of electricity per year?
+(a) Thailand 
+(b) Laos 
+(c) Cambodia 
+(d) Vietnam 
+(e) Malaysia
+
+Q.155) 
+Where is the headquarters of the International Atomic Energy Agency located?
+(a) Manila 
+(b) Vienna 
+(c) Paris 
+(d) Washington DC 
+(e) London
+
+Q.156) 
+Reserve Bank of India comes out with draft norms for ‘on-tap’ licensing of Small Finance Banks(SFBs). In the draft guidelines, the RBI has proposed the minimum paid-up equity capital of ________ for the SFBs.
+(a) ₹100 crore 
+(b) ₹200 crore 
+(c) ₹300 crore 
+(d) ₹400 crore 
+(e) ₹500 crore
+
+Q.157) 
+Where is the headquarters of UN-Habitat located?
+(a) Rome, France 
+(b) Austria, Vienna 
+(c) Nairobi, Kenya 
+(d) Geneva, Switzerland 
+(e) New York, US
+
+Q.158) 
+James Peebles, Michel Mayor and Didier queloz won the Nobel Prize in 2019 for which category?
+(a) Medicine 
+(b) Chemistry 
+(c) Physics 
+(d) Economics 
+(e) Peace
+
+Q.159) 
+Pakyong Airport is located in____.
+(a) Sikkim
+(b) Jammu and Kashmir 
+(c) Arunachal Pradesh 
+(d) Mizoram 
+(e) None of these
+
+Q.160) 
+On November 1 and 2, 2019, two-day meeting of the council of heads of government (CHG) of Shanghai Cooperation Organisation(SCO) was held in_______.
+(a) Beijing, China 
+(b) Nur-Sultan, Kazakhstan 
+(c) Tashkent, Uzbekistan 
+(d) Bishkek, Kyrgyzstan 
+(e) Dushanbe, Tajikistan
+
+Q.161) 
+Who is the author of the book ‘The Third Pillar-How Markets and the State leave the Community Behind’?
+(a) Raghuram Rajan 
+(b) Anita Desai 
+(c) Chetan Bhagat 
+(d) Arundhati Roy 
+(e) Ravinder Singh
+
+Q.162) 
+Which of the following global payment technology company has signed up newly crowned World Champion P.V. Sindhu as an athlete member for the 2020 Tokyo Olympic Games?
+(a) Mastercard 
+(b) Global payments 
+(c) VISA 
+(d) Heartland 
+(e) PayPros
+
+Q.163) 
+The Ramsar wetland Rudrasagar lake is located in which state?
+(a) Assam 
+(b) Tripura 
+(c) Meghalaya 
+(d) Manipur 
+(e) Mizoram
+
+Q.164) 
+Who among the following has been appointed as the first Lieutenant(Lt) Governors of Ladakh, the newly created Union Territories of India?
+(a) Dineshwar Sharma 
+(b) Girish Chandra Murmu 
+(c) Satya Pal Malik 
+(d) P S Sreedharan Pillai 
+(e) Radha Krishna Mathur
+
+Q.165) 
+Which of the following countries will host the G20 summit in 2020?
+(a) Japan 
+(b) Saudi Arabia 
+(c) Canada 
+(d) India 
+(e) Indonesia
+
+Q.166) 
+‘Lessons Life Taught Me, Unknowingly’ is the autobiography of _______.
+(a) Lal Krishna Advani 
+(b) Pranab Mukherjee 
+(c) Amitabh Bachchan 
+(d) Anupam Kher 
+(e) Sanjay Dutt
+
+Q.167) 
+Helsinki is the capital of which country?
+(a) Norway 
+(b) Sweden 
+(c) Finland 
+(d) Croatia 
+(e) Belgium
+
+Q.168) 
+Lakshmi Vilas Bank is set to be merged with which of the following companies?
+(a) PNB Housing Finance Limited 
+(b) LIC Housing Finance Limited 
+(c) Indiabulls Housing Finance Ltd 
+(d) ICICI Housing Finance 
+(e) None of these
+
+Q.169) 
+IAAF World Athletics Championships 2019 was held in which country?
+(a) Qatar 
+(b) UAE 
+(c) Iran 
+(d) Saudi Arabia 
+(e) Turkey
+
+Q.170) 
+Which of the following Mutual Fund has been renamed as ‘Nippon India Mutual Fund’?
+(a) Religare Mutual Fund: 
+(b) Bharti AXA Mutual Fund 
+(c) Reliance Mutual Fund 
+(d) HSBC Mutual Fund 
+(e) ICICI Prudential Mutual Fund
+
+Q.171) 
+Recently, Edgar Chagwa Lungu visited New Delhi and Prime Minister Narendra Modi held delegation-level talks with him, he is the President of which of the following country?
+(a) Zambia 
+(b) Jamaica 
+(c) Zimbabwe 
+(d) Kenya 
+(e) Kongo
+
+Q.172) 
+Which of the following banks has announced the launch of ‘Express FD’, a digital fixed deposit(FD) product that allows the customer to open an FD account in three minutes through the digital mode without opening a savings account with the bank?
+(a) ICICI Bank 
+(b) HDFC Bank 
+(c) Axis Bank 
+(d) Yes Bank 
+(e) Kotak Mahindra Bank
+
+Q.173) 
+According to the ‘Swachh Rail, Swachh Bharat 2019’ report, which railway station topped the list of the cleanest railway station in India?
+(a) Jhansi 
+(b) Jaipur 
+(c) Kharagpur 
+(d) Bhopal 
+(e) None of the above/More than one of the above
+
+Q.174) 
+What is the theme of the International Day of the Girl Child (IDGC), 2019?
+(a) Innovating for girl's education 
+(b) GirlForce: Unscripted and Unstoppable 
+(c) Empowering Adolescent Girls: Ending the Cycle of Violence 
+(d) EmPOWER Girls: Before, during and after crises 
+(e) Girls' Progress= Goals
+
+Q.175) 
+Which country has launched the World's Biggest Transport Spaceship, Kounotori-8 for Space Station in September 2019?
+(a) China 
+(b) Russia 
+(c) USA 
+(d) Japan 
+(e) Israel
+
+Q.176) 
+The 7th annual World Hindu Economic Forum(WHEF) 2019 held in _______.
+(a) Chicago, USA 
+(b) Paris, France 
+(c) Mumbai, India 
+(d) London, UK 
+(e) Kathmandu, Nepal
+
+Q.177) 
+During the UN Climate Change Summit, 2019 the 16-year-old environmental activist Greta Thunberg shook world leaders with her speech at the United Nations, accusing world leaders of failing to take action on climate change. She belongs to which country?
+(a) Sweden 
+(b) Norway 
+(c) Denmark 
+(d) Finland 
+(e) Austria
+
+Q.178) 
+Who among the following has won the 2019 Japan Open single title in Tokyo, Japan?
+(a) Roger Federer 
+(b) Rafael Nadal 
+(c) Novak Djokovic 
+(d) John Millman 
+(e) Daniil Medvedev
+
+Q.179) 
+Which of the following cities has hosted the first-ever India International Cooperatives Trade Fair(IICTF)?
+(a) Ahmedabad 
+(b) Lucknow 
+(c) Patna 
+(d) New Delhi 
+(e) Indore
+
+Q.180) 
+Which among the following countries had decided to withdraw its membership from Organisation of the Petroleum Exporting Countries(OPEC) effective from January 2019?
+(a) Iran 
+(b) Venezuela 
+(c) Iraq 
+(d) Qatar 
+(e) United Arab Emirates
+
+Q.181) 
+The joint military exercise ‘Vajra Prahar’ was held between India and which country?
+(a) Japan 
+(b) China 
+(c) USA 
+(d) Russia 
+(e) Israel
+
+Q.182) 
+On October 11, 2019, the Reserve Bank of India(RBI) came up with a new reporting system called Central Information System for Banking Infrastructure(CISBI) for__________.
+(a) all commercial banks 
+(b) all regional rural banks 
+(c) all cooperative banks 
+(d) all NBFCs 
+(e) all foreign banks
+
+Q.183) 
+Jagdeep Dhankar has been appointed the new Governor of which state?
+(a) West Bengal 
+(b) Bihar 
+(c) Jharkhand 
+(d) Madhya Pradesh 
+(e) Uttar Pradesh
+
+Q.184) 
+Which among the following countries recently abolished the most controversial labour system called “Kafala”?
+A.U.
+(a) None of these 
+(b) Saudi Arabia 
+(c) Qatar 
+(d) Bahrain 
+(e) Kuwait
+
+Q.185) 
+The new version of Bharat Interface for Money app, BHIM 2.0 will now support how many additional languages with existing 13 languages?
+(a) 3 
+(b) 4 
+(c) 5 
+(d) 6 
+(e) 7
+
+Q.186) 
+Which of the following Ministry has launched Pradhan Mantri Innovative Learning Programme(PMILP) ‘DHRUV’ from ISRO Headquarters Bengaluru? 
+(a) Ministry of Home Affairs 
+(b) Ministry of Food Processing Industries 
+(c) Ministry of Environment 
+(d) Ministry of Human Resource Development 
+(e) None of these
+
+Q.187) 
+Which company becomes the 1st Indian company to hit Rs. 9 lakh crore market capitalization?
+(a) Tata 
+(b) Hero 
+(c) Reliance 
+(d) Infosys 
+(e) None of these
+
+Q.188) 
+Which of the following banks has announced to launch a new Fixed Deposit (FD) scheme ‘FD Health’ that will offer the dual benefit of a fixed deposit along with free critical illness coverage with a sum assured of Rs 1 lakh?
+(a) HDFC Bank 
+(b) Yes Bank 
+(c) Axis Bank 
+(d) ICICI Bank 
+(e) Kotak Mahindra Bank
+
+Q.189) 
+Which state has smallest land area?
+(a) Goa 
+(b) Nagaland 
+(c) Sikkim 
+(d) Tripura 
+(e) Mizoram
+
+Q.190) 
+Bernardine Evaristo won the 2019 Booker Prize for which novel?
+(a) The Testaments 
+(b) Quichote 
+(c) The Handmaid's Tale 
+(d) Girl, Woman, Other 
+(e) None of these
+
+Q.191) 
+Kuchipudi is a folk dance of...............
+(a) Mizoram 
+(b) Andhra Pradesh 
+(c) Jammu& Kashmir 
+(d) Maharashtra 
+(e) Tamil Nadu
+
+Q.192) 
+The 2020 Summer Olympics is scheduled to take place in Tokyo, Japan from____ 
+(a) Beijing, China 
+(b) Pyeongchang, South Korea 
+(c) Jakarta, Indonesia
+(d) Tokyo, Japan 
+(e) Gold Coast, Australia
+
+Q.193) 
+Which Payment Bank recently announced to shut down all its banking operations?
+(a) Paytm Payments Bank 
+(b) Fino Payments Bank 
+(c) Airtel Payments Bank 
+(d) Aditya Birla Payments Bank 
+(e) Jio Payments Bank
+
+Q.194) 
+The headquarters of the International Solar Alliance (ISA)is headquartered in which city in India?
+(a) Chandigarh 
+(b) Gurgaon 
+(c) Mysuru 
+(d) Surat 
+(e) None of these
+
+Q.195) 
+Where is the headquarters of the International Olympic Committee located?
+(a) Italy 
+(b) Switzerland 
+(c) Belgium 
+(d) France 
+(e) Uk
+
+Q.196) 
+Which country will host the 46th G7 summit which is scheduled to be held from 10 to 12th June 2020?
+(a) England 
+(b) Italy 
+(c) France 
+(d) USA 
+(e) Canada
+
+Q.197) 
+The India arm of Netherlands-based Home Credit Group has tied up with which bank for joint lending to tap the large unbanked customer base across the country?
+(a) Yes Bank 
+(b) ICICI Bank 
+(c) Axis Bank 
+(d) HDFC Bank 
+(e) Karur Vysya Bank
+
+Q.198) 
+Which of the following banks has launched DigiSmart credit card?
+(a) Standard Chartered Bank 
+(b) ABN Amro Bank
+(c) Deutsche Bank 
+(d) HSBC Bank 
+(e) Federal Bank
+
+Q.199) 
+In which of the following cities India’s first e-waste clinic will be set up?
+(a) Indore 
+(b) Jabalpur 
+(c) Bhopal 
+(d) Raipur 
+(e) New Delhi
+
+Q.200) 
+Which of the following British cricketers has been named as the players' player of the year at the Professional Cricketers' Association awards.?
+(a) Joe Root 
+(b) Eoin Morgan 
+(c) Ben Stokes 
+(d) Jos Buttler 
+(e) Tom Curran

@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "circular_seating_arrangement_001",
+    "question": "Five friends - Alice, Bob, Charlie, David, and Eva - are sitting around a circular table facing the center. The following conditions are known: 1) Alice sits two places to the right of Bob. 2) Charlie is not sitting next to Eva. 3) David sits directly between Bob and Charlie. 4) Eva sits to the immediate left of Alice. Who is sitting immediately to the right of Charlie?",
+    "options": {
+      "A": "Bob",
+      "B": "Alice",
+      "C": "David",
+      "D": "Eva",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Arrange the friends based on the clues: Start with Bob at position 1. Alice is two places to the right, so Alice is at position 3. Eva is to the immediate left of Alice, so Eva is at position 2. David sits between Bob and Charlie, which places David at position 4 and Charlie at position 5. Therefore, David is immediately to the right of Charlie.",
+    "difficulty": "Easy",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_002",
+    "question": "Seven people - P, Q, R, S, T, U, and V - are sitting around a circular table. Some are facing the center while others face outside. The following conditions apply: 1) P sits third to the right of Q, who faces the center. 2) S sits to the immediate left of R. 3) T is not an immediate neighbor of R. 4) Both the immediate neighbors of T face opposite directions. 5) U sits third to the left of S. 6) V sits exactly between S and T. Who is facing outside?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "S",
+      "D": "U",
+      "E": "V"
+    },
+    "correct_answer": "D",
+    "explanation": "Position Q who faces the center. Based on rules, P is placed. As U is three to the left of S, place S and then U. V is between S and T; solve the directions using opposite direction conditions. The final arrangement shows U facing outside.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_003",
+    "question": "Eight people - A, B, C, D, E, F, G, and H - are sitting around a circular table, some facing the center and some facing outside. Conditions: 1) A sits second to the right of D, who faces the center. 2) G faces outside and sits second to the left of A. 3) F sits between B and H. 4) C faces the same direction as B but opposite to H. 5) E sits third to the left of F and faces the center. Who is sitting opposite to E?",
+    "options": {
+      "A": "G",
+      "B": "H",
+      "C": "C",
+      "D": "A",
+      "E": "B"
+    },
+    "correct_answer": "B",
+    "explanation": "Position D, facing center. Follow conditions to place A, G, F, E and others using facing directions and positional constraints. H ends up opposite E.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_004",
+    "question": "Nine friends - A, B, C, D, E, F, G, H, and I - are sitting around a circular table. The positions and facing directions are to be determined using these conditions: 1) C sits second to the left of F, who faces the center. 2) D sits to the immediate right of H, who is facing outside. 3) E is not an immediate neighbor of C. 4) G sits third to the right of B, who faces the center. 5) I sits exactly between D and B and faces the opposite direction as F. 6) A faces the same direction as H and sits to the right of F.",
+    "options": {
+      "A": "G faces outside",
+      "B": "B faces outside",
+      "C": "A faces center",
+      "D": "I faces center",
+      "E": "D faces outside"
+    },
+    "correct_answer": "A",
+    "explanation": "Align F facing center and place C, G, and B. Use the direction of H, and place I and D according to the clues. A's direction and placement further clarify G faces outside.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_005",
+    "question": "Ten colleagues - P, Q, R, S, T, U, V, W, X, and Y - are sitting in a circle, with some facing towards the center and some facing outward. The conditions are: 1) P faces the center and sits third to the left of T. 2) S is not an immediate neighbor of T. 3) Q faces outward and sits second to the right of S. 4) R sits third to the left of V who faces the same direction as T. 5) U faces the center and is an immediate neighbor of Y, who faces outward. 6) W is not facing the center but sits exactly between P and R.",
+    "options": {
+      "A": "X faces the center",
+      "B": "V faces outward",
+      "C": "S faces the center",
+      "D": "Y faces the center",
+      "E": "U faces outward"
+    },
+    "correct_answer": "C",
+    "explanation": "Using P and T's positions, deduce V and align the remaining individuals. W between P and R with the given direction helps fix the rest of the positions, leading to S facing center.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_006",
+    "question": "Six friends A, B, C, D, E, and F are sitting around a circular table facing the center. Who is sitting to the immediate right of E?\\n\\n1. A is sitting two seats away from F.\\n2. C is to the immediate left of F.\\n3. D is sitting opposite A.\\n4. E is sitting between B and D.",
+    "options": {
+      "A": "A",
+      "B": "C",
+      "C": "D",
+      "D": "F",
+      "E": "B"
+    },
+    "correct_answer": "E",
+    "explanation": "Based on the given conditions, arrange the friends as follows: E is between B and D, A is opposite D, and C is to the immediate left of F. This leads to the arrangement: B, E, D, A, F, C. Therefore, B is to the immediate right of E.",
+    "difficulty": "Easy",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_007",
+    "question": "Seven individuals G, H, I, J, K, L, and M are sitting around a circular table. Some face the center, and some face outside. Who sits third to the left of J?\\n\\n1. M faces the center and sits second to the right of G.\\n2. H sits immediately between J and K, who face opposite directions.\\n3. L is second to the left of H.\\n4. I faces the center and is opposite K.\\n5. G faces outside.",
+    "options": {
+      "A": "I",
+      "B": "L",
+      "C": "M",
+      "D": "G",
+      "E": "H"
+    },
+    "correct_answer": "B",
+    "explanation": "Based on the clues, deduce the seating arrangement: M is second to the right of G who faces outside, I is opposite K, and H is between J and K facing the opposite direction to K. The arrangement becomes: G(outside), M(center), I(center), K(outside), H(outside), J(center), L(outside). L is third to the left of J.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_008",
+    "question": "Eight people P, Q, R, S, T, U, V, and W are sitting around a circular table. Some face inside, and some face outside. Who sits to the immediate left of U?\\n\\n1. V is third to the right of T, who faces the center.\\n2. Q sits second to the left of W, who faces the outside.\\n3. P is an immediate neighbor of W and U, both of whom face opposite directions.\\n4. S is second to the right of R, who is facing the center.\\n5. U is not an immediate neighbor of T.",
+    "options": {
+      "A": "W",
+      "B": "S",
+      "C": "P",
+      "D": "Q",
+      "E": "R"
+    },
+    "correct_answer": "A",
+    "explanation": "Arrange the seating based on provided conditions: U's neighbors face opposite directions, P is between W and U. V is third right of T facing center. Q sits second left of W. Thus, the seating is: P(center), W(outside), S(center), T(center), R(center), V(outside), Q(outside), U(outside). W sits to the immediate left of U.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_009",
+    "question": "Nine people A, B, C, D, E, F, G, H, and I are sitting around a circular table. Who sits exactly opposite to A if everyone faces the center?\\n\\n1. D is third to the left of F.\\n2. B sits immediate right of C.\\n3. E is between B and D.\\n4. G is second to the right of A.\\n5. H sits exactly between C and G.\\n6. I is not an immediate neighbor of A.",
+    "options": {
+      "A": "E",
+      "B": "F",
+      "C": "G",
+      "D": "D",
+      "E": "H"
+    },
+    "correct_answer": "B",
+    "explanation": "Arrange using the clues: G is second to the right of A, D is third to the left of F, E is between B and D, H is between C and G, I isn't near A. Thus, the arrangement is: A(center), G(center), H(center), F(center), I(center), C(center), B(center), E(center), D(center). F is opposite to A.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_010",
+    "question": "Ten individuals J, K, L, M, N, O, P, Q, R, and S are sitting around a circular table. Who sits two places to the right of N?\\n\\n1. P is opposite L, who is facing the center.\\n2. S sits second to the right of Q, who faces outside.\\n3. K is to the immediate left of N and faces the center.\\n4. J sits opposite M.\\n5. R and S are immediate neighbors and face opposite directions.\\n6. O sits between L and R.\\n7. N is not a neighbor of L.",
+    "options": {
+      "A": "S",
+      "B": "O",
+      "C": "P",
+      "D": "R",
+      "E": "Q"
+    },
+    "correct_answer": "A",
+    "explanation": "The arrangement based on given conditions is: M(center), K(center), N(center), O(center), R(outside), S(center), Q(outside), J(center), P(outside), L(center). S is two places to the right of N.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_011",
+    "question": "Six friends - P, Q, R, S, T, and U are sitting around a circular table facing the center. Each one of them is wearing a different colored shirt: Red, Green, Blue, Yellow, White, and Black. The following conditions are given: 1) P sits second to the right of Q. 2) R is not an immediate neighbor of Q. 3) The one in Red is opposite the one in White. 4) S is sitting next to the one in Yellow and the one in Black. 5) T sits to the immediate left of the one in Blue. Who is sitting opposite the one in Green?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "U"
+    },
+    "correct_answer": "D",
+    "explanation": "Based on the conditions: P sits second to the right of Q, which helps place P and Q relative to each other. Since R is not an immediate neighbor of Q, and S is next to Yellow and Black, we can deduce their positions. Since T is to the immediate left of Blue, we can arrange the remaining friends and colors accordingly. S, who wears the Red shirt, ends up sitting opposite the one in Green.",
+    "difficulty": "Easy",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_012",
+    "question": "Seven friends - A, B, C, D, E, F, and G are sitting around a circular table. Some are facing the center while others are facing outside. The following information is known: 1) A is third to the right of C, who is facing the center. 2) B sits second to the left of A. 3) E, who is facing outside, is an immediate neighbor of both F and G. 4) D is third to the right of G, who faces the center. 5) F faces the center. Who is facing outside?",
+    "options": {
+      "A": "A and D",
+      "B": "B and E",
+      "C": "B and F",
+      "D": "A and B",
+      "E": "D and F"
+    },
+    "correct_answer": "B",
+    "explanation": "With C and F facing the center, and A positioned relative to C, B must be placed accordingly. Since E is facing outside, immediate neighbors must be identified, taking into account G’s position (facing the center), and D’s position in relation to G. Thus, B and E are facing outside.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_013",
+    "question": "Eight people - H, I, J, K, L, M, N, and O are seated around a circular table. Some of them face the center, while others face outside. 1) L is to the immediate right of K, who is third to the right of J. 2) H is facing the center and is second to the left of M. 3) N is third to the right of M, who faces outside. 4) I is not an immediate neighbor of J. 5) Both the immediate neighbors of H are facing outside. 6) O is facing the center. Who sits directly opposite H?",
+    "options": {
+      "A": "N",
+      "B": "O",
+      "C": "J",
+      "D": "M",
+      "E": "K"
+    },
+    "correct_answer": "B",
+    "explanation": "Positioning H based on M's position, facing outside, helps place immediate neighbors. O faces the center, and with H facing the center, and both neighbors of H facing outside, O’s position is opposite to H.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_014",
+    "question": "Nine people - P, Q, R, S, T, U, V, W, and X are sitting around a circular table facing either the center or outside. The conditions are: 1) P sits third to the left of Q, who faces the center. 2) R is not an immediate neighbor of Q. 3) Only two people sit between R and S. 4) V, who is facing outside, is an immediate neighbor of both T and W. 5) U sits second to the right of R. 6) X is not an immediate neighbor of Q. 7) The immediate neighbors of U face the center. Who sits second to the left of W?",
+    "options": {
+      "A": "X",
+      "B": "S",
+      "C": "P",
+      "D": "V",
+      "E": "R"
+    },
+    "correct_answer": "A",
+    "explanation": "Placing Q with P according to the conditions, and then determining the placement of R and S, helps fix U’s position, while confirming neighbors’ directions. Establishing V’s outside-facing, adjacent positions (T and W) allows confirmation of neighbors’ (U) directions facing the center, solidifying X’s relative position second left of W.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_015",
+    "question": "Ten colleagues - A, B, C, D, E, F, G, H, I, and J are sitting around a circular table. Some are facing the center, others are facing outside. The following is known: 1) B sits third to the right of E, who faces the center. 2) G is not an immediate neighbor of E. 3) Both the immediate neighbors of B face outside. 4) I sits third to the left of G, who faces the center. 5) C is an immediate neighbor of both A and D. 6) H is second to the right of C. 7) The immediate neighbors of A face the center. 8) F is not an immediate neighbor of D. Who sits opposite G?",
+    "options": {
+      "A": "A",
+      "B": "F",
+      "C": "J",
+      "D": "D",
+      "E": "I"
+    },
+    "correct_answer": "C",
+    "explanation": "Start with placing E facing center with B's placement. G's position allows I's placement. B’s immediate neighbors face outside, aiding placement of other members, aligning A’s neighbors facing center. Confirm C between A and D, enables H and others’ positioning, pinpointing J directly opposite G.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_016",
+    "question": "Six friends - P, Q, R, S, T, and U are sitting around a circular table facing the center. Who is sitting to the immediate right of R?\n\nConditions:\n1. P sits second to the right of Q.\n2. R is sitting to the immediate left of U.\n3. S sits third to the left of T.\n4. U is not an immediate neighbor of T.",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "S",
+      "D": "T",
+      "E": "U"
+    },
+    "correct_answer": "B",
+    "explanation": "Start by placing Q, who is seated. P is second to the right of Q. R is immediately left of U, so place R and U together. Since U cannot be next to T, consider the placement that satisfies all conditions. The final arrangement is Q - P - S - T - U - R. Thus, Q is to the immediate right of R.",
+    "difficulty": "Easy",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_017",
+    "question": "Eight people - A, B, C, D, E, F, G, and H are sitting around a circular table. Some are facing the center while others are facing outside. Who is directly opposite to F?\n\nConditions:\n1. A sits second to the left of B, who faces the center.\n2. D is an immediate neighbor of A and sits third to the right of F.\n3. C sits second to the right of H, who is not an immediate neighbor of D.\n4. E sits opposite to G.\n5. Both immediate neighbors of G face outside.",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correct_answer": "D",
+    "explanation": "Place B and determine A's position since B faces the center. Position D and F according to their relationship. Using the conditions that G's neighbors face outside and E sits opposite G, we adjust the positions. The final arrangement shows D sits opposite to F.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_018",
+    "question": "Seven people - L, M, N, O, P, Q, and R are sitting around a circular table. Who is sitting to the immediate left of P?\n\nConditions:\n1. L sits second to the right of N.\n2. M is an immediate neighbor of L.\n3. O sits third to the left of Q.\n4. R is not an immediate neighbor of Q.\n5. P sits directly opposite to N.",
+    "options": {
+      "A": "L",
+      "B": "M",
+      "C": "N",
+      "D": "O",
+      "E": "Q"
+    },
+    "correct_answer": "B",
+    "explanation": "Place N and then L according to the conditions. Since M is an immediate neighbor of L, we place M. With O positioned relative to Q and R not near Q, the placement of P opposite N results in M sitting to the immediate left of P.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_019",
+    "question": "Nine people - A, B, C, D, E, F, G, H, and I are sitting around a circular table, with some facing the center and others facing outside. Who is to the immediate right of G?\n\nConditions:\n1. A, facing outside, sits third to the left of I.\n2. B sits second to the right of H, who faces the center.\n3. F is not an immediate neighbor of A.\n4. C sits opposite to E, who faces the center.\n5. D sits third to the right of G, who faces outside.\n6. Immediate neighbors of C face the center.",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "D",
+      "D": "E",
+      "E": "I"
+    },
+    "correct_answer": "B",
+    "explanation": "Start by placing I and then A (facing outside) in relative position. B's placement is adjusted to fit next to H, as B is second right of H. With F not next to A, adjust positions of F and others. D's position helps place G (facing outside), and thus B sits to the immediate right of G.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_020",
+    "question": "Ten friends - J, K, L, M, N, O, P, Q, R, and S are sitting around a circular table. Who is sitting directly opposite J?\n\nConditions:\n1. M sits second to the right of K.\n2. L sits third to the left of O, who is facing outside.\n3. N sits to the immediate right of P.\n4. S is not an immediate neighbor of Q.\n5. R sits opposite to P, who faces the center.\n6. Immediate neighbors of J face the same direction as J.\n7. Q sits second to the right of S.\n8. K and J face opposite directions.",
+    "options": {
+      "A": "K",
+      "B": "L",
+      "C": "M",
+      "D": "N",
+      "E": "O"
+    },
+    "correct_answer": "C",
+    "explanation": "First, place K and M, which allows the placement of P opposite R, with P facing the center. Place O facing outside, then L. J's placement depends on neighbors facing the same direction. Q's position is defined by S. Through process of elimination, M is found to be directly opposite J.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_021",
+    "question": "Six friends A, B, C, D, E, and F are sitting around a circular table facing the center. 1) A sits second to the right of B. 2) D is not an immediate neighbor of B. 3) C sits third to the left of F. 4) E sits between D and F. Who is sitting immediately to the right of E?",
+    "options": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "F",
+      "E": "D"
+    },
+    "correct_answer": "A",
+    "explanation": "Place B first. A sits second to the right of B, so possible placements for A and B are verified. Next, since D is not next to B, place D accordingly. C sits third to the left of F, and E sits between D and F. This confirms E's placement and who sits next to E.",
+    "difficulty": "Easy",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_022",
+    "question": "Seven colleagues P, Q, R, S, T, U, and V are seated in a circle facing the center. 1) P is second to the left of Q. 2) R is third to the right of T. 3) S is not an immediate neighbor of P. 4) V is to the immediate left of U. 5) S is between U and T. Who is exactly opposite T?",
+    "options": {
+      "A": "P",
+      "B": "R",
+      "C": "S",
+      "D": "Q",
+      "E": "U"
+    },
+    "correct_answer": "B",
+    "explanation": "Start with P and Q, placing P second to the left of Q. Then place R, who is third to the right of T. V is placed left of U, and S between U and T. This creates a unique arrangement confirming R's position opposite T.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_023",
+    "question": "Eight friends J, K, L, M, N, O, P, and Q are sitting around a circle, some facing the center and some facing outside. 1) J sits second to the right of K, who faces the center. 2) L sits third to the left of M. 3) N sits second to the left of L. 4) O is not an immediate neighbor of J. 5) P is third to the right of N. 6) J and L face the same direction. Who is sitting opposite O?",
+    "options": {
+      "A": "N",
+      "B": "Q",
+      "C": "J",
+      "D": "K",
+      "E": "P"
+    },
+    "correct_answer": "A",
+    "explanation": "Position K facing the center and place J accordingly. Then place L third to the left of M, and N second to the left of L. P is placed relative to N, and the direction clues help solve remaining placements. This confirms N is opposite O.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_024",
+    "question": "Nine friends A, B, C, D, E, F, G, H, and I are sitting around a circular table. 1) C is third to the right of A. 2) B is second to the left of G, who is facing the center. 3) H is facing outside and is second to the right of B. 4) I is third to the left of D, who is facing the center. 5) A is not next to E. 6) F is fourth to the right of I, who faces the center. Who sits to the immediate left of E?",
+    "options": {
+      "A": "B",
+      "B": "H",
+      "C": "I",
+      "D": "F",
+      "E": "G"
+    },
+    "correct_answer": "E",
+    "explanation": "Place G and B first based on their conditions. Using the directions and relative positions of H and others, build the seating arrangement. Position A, C, D, and I according to the rules, filling gaps with known placements. This confirms E's left neighbor.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_025",
+    "question": "Ten people P, Q, R, S, T, U, V, W, X, and Y are sitting around a circle, some facing the center and some facing outside. 1) P is third to the right of Q, who faces the center. 2) R is not adjacent to P. 3) S is fourth to the left of T, facing the center. 4) U is not an immediate neighbor of Q. 5) V sits to the immediate left of W, who faces outside. 6) X sits third to the right of Y, and both face the same direction. 7) T sits second to the left of U, facing the center. Who sits opposite S?",
+    "options": {
+      "A": "V",
+      "B": "R",
+      "C": "Y",
+      "D": "P",
+      "E": "X"
+    },
+    "correct_answer": "D",
+    "explanation": "Start with Q facing the center and place P. Ensure R is not adjacent. Position S based on T's location, ensuring correct directions. V, W, and X are placed using their relative positions and directions. Fill remaining spots while confirming everyone fits. This places P opposite S.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_026",
+    "question": "Six friends A, B, C, D, E, and F are sitting around a circular table facing the center. 1) A sits second to the right of B. 2) C is an immediate neighbor of B. 3) D sits third to the right of C. 4) E is not an immediate neighbor of A. Who sits immediately to the left of E?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "F"
+    },
+    "correct_answer": "D",
+    "explanation": "Following the conditions: A sits second to the right of B and C is a neighbor of B, we can determine that the sequence B, C, A is fixed. D sits third to the right of C, placing D directly opposite B. Since E is not a neighbor of A, the final sequence is: B, C, F, A, E, D. Thus, D sits immediately to the left of E.",
+    "difficulty": "Easy",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_027",
+    "question": "Seven people P, Q, R, S, T, U, and V are sitting around a circular table, some facing the center and some facing outside. 1) P sits third to the left of Q, and Q faces the center. 2) R is not an immediate neighbor of P or Q. 3) U sits second to the right of S, who faces the center. 4) V sits third to the left of T, both facing the same direction. 5) U faces outside. Who sits opposite to S?",
+    "options": {
+      "A": "Q",
+      "B": "P",
+      "C": "V",
+      "D": "U",
+      "E": "R"
+    },
+    "correct_answer": "C",
+    "explanation": "Q faces the center with P third to the left, meaning P faces outside. U is second right of S, placing U opposite to S and facing outside. V and T face the same direction, and V is third to the left of T. The complete sequence adhering to all conditions results in V sitting opposite to S.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_028",
+    "question": "Eight friends L, M, N, O, P, Q, R, and S are sitting in a circle, some facing the center and some facing outside. 1) L sits second to the right of N, who faces the center. 2) P is not a neighbor of L or N. 3) M sits third to the left of R, and both M and R face the same direction. 4) Q sits second to the right of P. 5) S sits third to the right of O, who faces outside. Who sits to the immediate right of Q?",
+    "options": {
+      "A": "L",
+      "B": "M",
+      "C": "N",
+      "D": "R",
+      "E": "S"
+    },
+    "correct_answer": "E",
+    "explanation": "Following the conditions: N faces the center, L is second to the right of N. M and R face the same direction, positioning M opposite P. Q is second to the right of P, placing S as immediate right to Q following all conditions and deductions.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_029",
+    "question": "Nine people A, B, C, D, E, F, G, H, and I are sitting in a circle, facing either center or outside. 1) B sits second to the left of C, who faces the center. 2) E is an immediate neighbor of both B and D. 3) G sits third to the left of E, facing the same direction as E. 4) H is not an immediate neighbor of G or C. 5) A sits third to the right of I, who faces the center. 6) F is second to the left of H. Who sits to the immediate right of A?",
+    "options": {
+      "A": "B",
+      "B": "C",
+      "C": "D",
+      "D": "E",
+      "E": "F"
+    },
+    "correct_answer": "E",
+    "explanation": "B is placed second left of C. G and E face the same way. A is third to the right of I, both facing inward. Given F's and H's constraints, E logically falls to the immediate right of A based on condition fulfillment and spatial deductions.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "circular_seating_arrangement_030",
+    "question": "Ten people J, K, L, M, N, O, P, Q, R, and S are sitting in a circle, facing either center or outside. 1) J sits second to the right of K, who faces outside. 2) L sits third to the left of N, and they face opposite directions. 3) P is not an immediate neighbor of J or K. 4) Q is fourth to the right of M, who faces the center. 5) R sits second to the left of O, who faces the same direction as Q. 6) S is an immediate neighbor of both J and N. 7) M is not next to R. Who sits opposite L?",
+    "options": {
+      "A": "J",
+      "B": "K",
+      "C": "P",
+      "D": "Q",
+      "E": "S"
+    },
+    "correct_answer": "D",
+    "explanation": "Following the directions, K and J are placed with J second right of K. L and N oppose each other. The positioning of R and O plus other constraints places Q opposite L through logical deductions fulfilling all conditions.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

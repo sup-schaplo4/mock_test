@@ -1,0 +1,36 @@
+{
+  "generation_date": "2025-10-05 22:00:31",
+  "model_used": "gpt-4o",
+  "total_questions_requested": 30,
+  "total_questions_generated": 30,
+  "difficulty_distribution": {
+    "Easy": 6,
+    "Medium": 12,
+    "Hard": 12
+  },
+  "batch_configuration": {
+    "total_batches": 6,
+    "batch_size": 5,
+    "successful_batches": 6,
+    "failed_batches": 0
+  },
+  "token_usage": {
+    "input_tokens": 4332,
+    "output_tokens": 10652,
+    "total_tokens": 14984
+  },
+  "cost": {
+    "input_cost": 0.01083,
+    "output_cost": 0.10652,
+    "total_cost": 0.11735000000000001
+  },
+  "time": {
+    "total_time_seconds": 119.31,
+    "api_time_seconds": 104.27
+  },
+  "output_files": {
+    "questions": "data/generated/linear_seating_questions_20251005_215831.json",
+    "errors": "data/generated/linear_seating_errors_20251005_215831.log",
+    "metadata": "data/generated/linear_seating_metadata_20251005_215831.json"
+  }
+}

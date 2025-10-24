@@ -1,0 +1,339 @@
+{
+  "topic": "Circular Seating Arrangement",
+  "total_questions": 11,
+  "questions": [
+    {
+      "id": "2018_Q49",
+      "question_number": 49,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the information given below and answer the questions based on it. Eight persons M, N, O, P, Q, R, S and T are sitting around a square table. They are sitting in such a way that four of them sit at four corners of the square while four sit in the middle of each of the four sides. The ones who sit at four corners face inside while those who sit in the middle of the sides face outside. They were born in different months from January to August but in the same year, not necessarily in the same order. Q was born in a month which has 30 days and facing the centre. The one who is 3rd to the right of Q is 2 months elder to Q. The number of person elder to T is same as younger to P. Only one person is elder to N. The one who was born in June is 2nd to the right of the one who was born in February. S is 2nd to the left of N. R is the youngest person and neighbour of T. P is one month elder to Q. O is 3rd to the left of R. P is facing outside. The one who was born in January is 2nd to the left of O. S is elder to O. Who among the following is the eldest person?",
+      "options": {
+        "A": "M",
+        "B": "N",
+        "C": "P",
+        "D": "Q",
+        "E": "T"
+      },
+      "correct_answer": "A",
+      "explanation": "M is the eldest person. Details Solution: Q was born in a month which has 30 days and facing the centre. So Q was either born in April or June. ● The one who is 3rd to the right of Q is 2 months elder to Q. So that person either born in February or April. ● Only one person is elder to N. So N was born in Feb. Take case 1: ● S is 2nd to the left of N. ● P is one month elder to Q. So P was born in March. The number of person is elder to T is same as younger to P. 5 persons are younger to P so T must born in June. ● The one who was born in June is 2nd to the right of the one who was born in February. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● P is facing outside. All the position of in the middle is occupied so this case gets rejected. Take case 2: ● The one who was born in June is 2nd to the right of the one who was born in February. ● P is one month elder to Q. So P was born in May. The number of person is elder to T is same as younger to P. 3 persons are younger to P so T must born in April. ● As we know that N was born in Feb. S is 2nd to the left of N. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● The one who was born in January is 2nd to the left of O. ● P is facing outside as P was born in May so P was exactly between N and S. ● So M was born in Jan. ● S is elder to O so S was born in March and O was born in July. Here is the final arrangement:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating Arrangement",
+      "question_id": "REASONING_00077",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254065"
+      }
+    },
+    {
+      "id": "2018_Q50",
+      "question_number": 50,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the information given below and answer the questions based on it. Eight persons M, N, O, P, Q, R, S and T are sitting around a square table. They are sitting in such a way that four of them sit at four corners of the square while four sit in the middle of each of the four sides. The ones who sit at four corners face inside while those who sit in the middle of the sides face outside. They were born in different months from January to August but in the same year, not necessarily in the same order. Q was born in a month which has 30 days and facing the centre. The one who is 3rd to the right of Q is 2 months elder to Q. The number of person elder to T is same as younger to P. Only one person is elder to N. The one who was born in June is 2nd to the right of the one who was born in February. S is 2nd to the left of N. R is the youngest person and neighbour of T. P is one month elder to Q. O is 3rd to the left of R. P is facing outside. The one who was born in January is 2nd to the left of O. S is elder to O. Who among the following is 2nd to the left of R?",
+      "options": {
+        "A": "O",
+        "B": "S",
+        "C": "Q",
+        "D": "P",
+        "E": "T"
+      },
+      "correct_answer": "C",
+      "explanation": "Q is 2nd to the left of R. Details Solution: Q was born in a month which has 30 days and facing the centre. So Q was either born in April or June. ● The one who is 3rd to the right of Q is 2 months elder to Q. So that person either born in February or April. ● Only one person is elder to N. So N was born in Feb. Take case 1: ● S is 2nd to the left of N. ● P is one month elder to Q. So P was born in March. The number of person is elder to T is same as younger to P. 5 persons are younger to P so T must born in June. ● The one who was born in June is 2nd to the right of the one who was born in February. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● P is facing outside. All the position of in the middle is occupied so this case gets rejected. Take case 2: ● The one who was born in June is 2nd to the right of the one who was born in February. ● P is one month elder to Q. So P was born in May. The number of person is elder to T is same as younger to P. 3 persons are younger to P so T must born in April. ● As we know that N was born in Feb. S is 2nd to the left of N. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● The one who was born in January is 2nd to the left of O. ● P is facing outside as P was born in May so P was exactly between N and S. ● So M was born in Jan. ● S is elder to O so S was born in March and O was born in July. Here is the final arrangement:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating Arrangement",
+      "question_id": "REASONING_00078",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254066"
+      }
+    },
+    {
+      "id": "2018_Q51",
+      "question_number": 51,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the information given below and answer the questions based on it. Eight persons M, N, O, P, Q, R, S and T are sitting around a square table. They are sitting in such a way that four of them sit at four corners of the square while four sit in the middle of each of the four sides. The ones who sit at four corners face inside while those who sit in the middle of the sides face outside. They were born in different months from January to August but in the same year, not necessarily in the same order. Q was born in a month which has 30 days and facing the centre. The one who is 3rd to the right of Q is 2 months elder to Q. The number of person elder to T is same as younger to P. Only one person is elder to N. The one who was born in June is 2nd to the right of the one who was born in February. S is 2nd to the left of N. R is the youngest person and neighbour of T. P is one month elder to Q. O is 3rd to the left of R. P is facing outside. The one who was born in January is 2nd to the left of O. S is elder to O. Which of the following combination is correct?",
+      "options": {
+        "A": "P-March",
+        "B": "T-May",
+        "C": "O-July",
+        "D": "M-February",
+        "E": "S- July"
+      },
+      "correct_answer": "C",
+      "explanation": "O was born in July. Details Solution: Q was born in a month which has 30 days and facing the centre. So Q was either born in April or June. ● The one who is 3rd to the right of Q is 2 months elder to Q. So that person either born in February or April. ● Only one person is elder to N. So N was born in Feb. Take case 1: ● S is 2nd to the left of N. ● P is one month elder to Q. So P was born in March. The number of person is elder to T is same as younger to P. 5 persons are younger to P so T must born in June. ● The one who was born in June is 2nd to the right of the one who was born in February. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● P is facing outside. All the position of in the middle is occupied so this case gets rejected. Take case 2: ● The one who was born in June is 2nd to the right of the one who was born in February. ● P is one month elder to Q. So P was born in May. The number of person is elder to T is same as younger to P. 3 persons are younger to P so T must born in April. ● As we know that N was born in Feb. S is 2nd to the left of N. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● The one who was born in January is 2nd to the left of O. ● P is facing outside as P was born in May so P was exactly between N and S. ● So M was born in Jan. ● S is elder to O so S was born in March and O was born in July. Here is the final arrangement:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating Arrangement",
+      "question_id": "REASONING_00079",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254067"
+      }
+    },
+    {
+      "id": "2018_Q52",
+      "question_number": 52,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the information given below and answer the questions based on it. Eight persons M, N, O, P, Q, R, S and T are sitting around a square table. They are sitting in such a way that four of them sit at four corners of the square while four sit in the middle of each of the four sides. The ones who sit at four corners face inside while those who sit in the middle of the sides face outside. They were born in different months from January to August but in the same year, not necessarily in the same order. Q was born in a month which has 30 days and facing the centre. The one who is 3rd to the right of Q is 2 months elder to Q. The number of person elder to T is same as younger to P. Only one person is elder to N. The one who was born in June is 2nd to the right of the one who was born in February. S is 2nd to the left of N. R is the youngest person and neighbour of T. P is one month elder to Q. O is 3rd to the left of R. P is facing outside. The one who was born in January is 2nd to the left of O. S is elder to O. Which of the following person does not belong to the group?",
+      "options": {
+        "A": "N",
+        "B": "S",
+        "C": "R",
+        "D": "Q",
+        "E": "O"
+      },
+      "correct_answer": "E",
+      "explanation": "All the persons are facing the centre except O. Details Solution: Q was born in a month which has 30 days and facing the centre. So Q was either born in April or June. ● The one who is 3rd to the right of Q is 2 months elder to Q. So that person either born in February or April. ● Only one person is elder to N. So N was born in Feb. Take case 1: ● S is 2nd to the left of N. ● P is one month elder to Q. So P was born in March. The number of person is elder to T is same as younger to P. 5 persons are younger to P so T must born in June. ● The one who was born in June is 2nd to the right of the one who was born in February. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● P is facing outside. All the position of in the middle is occupied so this case gets rejected. Take case 2: ● The one who was born in June is 2nd to the right of the one who was born in February. ● P is one month elder to Q. So P was born in May. The number of person is elder to T is same as younger to P. 3 persons are younger to P so T must born in April. ● As we know that N was born in Feb. S is 2nd to the left of N. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● The one who was born in January is 2nd to the left of O. ● P is facing outside as P was born in May so P was exactly between N and S. ● So M was born in Jan. ● S is elder to O so S was born in March and O was born in July. Here is the final arrangement:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating Arrangement",
+      "question_id": "REASONING_00080",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254068"
+      }
+    },
+    {
+      "id": "2018_Q53",
+      "question_number": 53,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the information given below and answer the questions based on it. Eight persons M, N, O, P, Q, R, S and T are sitting around a square table. They are sitting in such a way that four of them sit at four corners of the square while four sit in the middle of each of the four sides. The ones who sit at four corners face inside while those who sit in the middle of the sides face outside. They were born in different months from January to August but in the same year, not necessarily in the same order. Q was born in a month which has 30 days and facing the centre. The one who is 3rd to the right of Q is 2 months elder to Q. The number of person elder to T is same as younger to P. Only one person is elder to N. The one who was born in June is 2nd to the right of the one who was born in February. S is 2nd to the left of N. R is the youngest person and neighbour of T. P is one month elder to Q. O is 3rd to the left of R. P is facing outside. The one who was born in January is 2nd to the left of O. S is elder to O. Who among the following is not elder to P?",
+      "options": {
+        "A": "T",
+        "B": "O",
+        "C": "S",
+        "D": "M",
+        "E": "N"
+      },
+      "correct_answer": "B",
+      "explanation": "O is younger to P. Details Solution: Q was born in a month which has 30 days and facing the centre. So Q was either born in April or June. ● The one who is 3rd to the right of Q is 2 months elder to Q. So that person either born in February or April. ● Only one person is elder to N. So N was born in Feb. Take case 1: ● S is 2nd to the left of N. ● P is one month elder to Q. So P was born in March. The number of person is elder to T is same as younger to P. 5 persons are younger to P so T must born in June. ● The one who was born in June is 2nd to the right of the one who was born in February. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● P is facing outside. All the position of in the middle is occupied so this case gets rejected. Take case 2: ● The one who was born in June is 2nd to the right of the one who was born in February. ● P is one month elder to Q. So P was born in May. The number of person is elder to T is same as younger to P. 3 persons are younger to P so T must born in April. ● As we know that N was born in Feb. S is 2nd to the left of N. ● R is the youngest person and neighbor of T. R was born in August. ● O is 3rd to the left of R. ● The one who was born in January is 2nd to the left of O. ● P is facing outside as P was born in May so P was exactly between N and S. ● So M was born in Jan. ● S is elder to O so S was born in March and O was born in July. Here is the final arrangement:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating Arrangement",
+      "question_id": "REASONING_00081",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254069"
+      }
+    },
+    {
+      "id": "2018_Q54",
+      "question_number": 54,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "What is Q’s position with respect to M when L, M, N, O, P and Q are sitting around a circle facing the centre? I. L is second to the left of O who is sitting immediate left of P. II. M and N are immediate neighbour of each other and M is sitting immediate left of L.",
+      "options": {
+        "A": "Data in statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.",
+        "B": "Data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+        "C": "Data in statements I alone or in Statement II alone are sufficient to answer the question.",
+        "D": "Data in both the Statements I and II are not sufficient to answer the question.",
+        "E": "Data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "E",
+      "explanation": "Given: A, B, C, D, E and F are sitting around a circle facing the Centre. From statement I: L is second to the left of O who is sitting immediate left of P. As position of M, N and Q is not known we cannot answer the question. From statement II: M and N are immediate neighbour of each other and M is sitting immediate left of L. As position of P, Q and O is not known we cannot answer the question. On combining I and II: L is second to the left of O who is sitting immediate left of P and M and N are immediate neighbour of each other and M is sitting immediate left of L. Clearly, Q is second to the right of M. Hence, both the statements are necessary together to answer the question.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating Arrangement",
+      "question_id": "REASONING_00082",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254070"
+      }
+    },
+    {
+      "id": "2023_Q184",
+      "question_number": 184,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders.Choose the correct option. I) P faces the spouse of R. II) Number of married couples and the number of males are the same. III) Immediate neighbours of F are female.",
+      "options": {
+        "A": "Both I and II follow",
+        "B": "Only III follows",
+        "C": "Both II and III follows",
+        "D": "Only I follows",
+        "E": "None follows"
+      },
+      "correct_answer": "D",
+      "explanation": "The final seating arrangement is as follows: The final blood relation chart is as follows:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating",
+      "question_id": "REASONING_00270",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254282",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q185",
+      "question_number": 185,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. How many persons are sitting between Q and the one who faces E when counted from the right of Q?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "The final seating arrangement is as follows: The final blood relation chart is as follows:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating",
+      "question_id": "REASONING_00271",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254283",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q186",
+      "question_number": 186,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders.Which of the following statement is/are true? I) R is the nephew of C. II) P is the brother-in-law of D. III) S is the aunt of B.",
+      "options": {
+        "A": "Only I",
+        "B": "Only II",
+        "C": "Only III",
+        "D": "Both I and II",
+        "E": "All I, II and III"
+      },
+      "correct_answer": "C",
+      "explanation": "The final seating arrangement is as follows: The final blood relation chart is as follows:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating",
+      "question_id": "REASONING_00272",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254284",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q187",
+      "question_number": 187,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders.Who among the following person faces the spouse of A?",
+      "options": {
+        "A": "P",
+        "B": "Q",
+        "C": "R",
+        "D": "S",
+        "E": "T"
+      },
+      "correct_answer": "E",
+      "explanation": "The final seating arrangement is as follows: The final blood relation chart is as follows: Except for U, all belongs to the second generation.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating",
+      "question_id": "REASONING_00273",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254285",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q188",
+      "question_number": 188,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. Which of the following statement is not true?",
+      "options": {
+        "A": "A is the father of R.",
+        "B": "B is the sister-in-law of F.",
+        "C": "C is the grandmother of U.",
+        "D": "P is sitting second to the left of U.",
+        "E": "D and R are facing each other."
+      },
+      "correct_answer": "D",
+      "explanation": "The final seating arrangement is as follows: The final blood relation chart is as follows:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Circular Seating Arrangement",
+      "topic": "Circular Seating",
+      "question_id": "REASONING_00274",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254286",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "data_sufficiency_001",
+    "question": "What is the value of x?\n\nStatement I: 3x + 5 = 20\nStatement II: x - 2 = 3",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "D",
+    "explanation": "To find the value of x: (1) From Statement I: 3x + 5 = 20 gives x = 5, so Statement I alone is sufficient. (2) From Statement II: x - 2 = 3 gives x = 5, so Statement II alone is sufficient. Hence, each statement alone is sufficient to find the value of x.",
+    "difficulty": "Easy",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_002",
+    "question": "Is the triangle with sides a, b, and c a right triangle?\n\nStatement I: a^2 + b^2 = c^2\nStatement II: a = 3, b = 4, c = 5",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "D",
+    "explanation": "To determine if the triangle is a right triangle: (1) Statement I uses the Pythagorean theorem, indicating it's a right triangle if true, so Statement I alone is sufficient. (2) Statement II provides the specific Pythagorean triple (3,4,5), which is a right triangle, so Statement II alone is sufficient.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_003",
+    "question": "What is the value of y, if y is an integer?\n\nStatement I: y^2 = 9\nStatement II: y > 0",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To find the value of y: (1) Statement I gives y^2 = 9, so y could be 3 or -3, thus not sufficient. (2) Statement II only states y > 0, no numerical value provided, hence not sufficient. (3) Combining both gives y^2 = 9 and y > 0, so y = 3. Together, both statements are sufficient.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_004",
+    "question": "How many students in the class passed both Math and Science?\n\nStatement I: 10 students passed both Math and Science.\nStatement II: The number of students who passed Math is 20 and the number of students who passed Science is 18.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "A",
+    "explanation": "To determine how many students passed both subjects: (1) Statement I directly states the number of students who passed both subjects, hence sufficient. (2) Statement II provides numbers for students passing each subject separately but not how many passed both, hence insufficient.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_005",
+    "question": "What is the area of rectangle R?\n\nStatement I: The length of rectangle R is twice its width.\nStatement II: The perimeter of rectangle R is 36.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To determine the area of rectangle R: (1) Statement I gives a relation between length and width, but no specific dimensions, hence insufficient alone. (2) Statement II provides the perimeter but not enough to determine specific dimensions, hence insufficient alone. (3) Combining both: Let width be x, then length = 2x. Perimeter = 2(x + 2x) = 36 gives x = 6, length = 12. Area = length x width = 12 x 6 = 72. Both statements together are sufficient.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_006",
+    "question": "What is the value of x?\n\nStatement I: x is an even number between 5 and 10.\nStatement II: x is divisible by 4.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "A",
+    "explanation": "To determine the value of x, we need a unique number.\n1) Statement I says x is an even number between 5 and 10, so x could be 6 or 8, but alone, this is not enough to find x.\n2) Statement II alone states x is divisible by 4. Without additional information, x could be any multiple of 4.\n3) Combining both, x is 8 since it is the only number between 5 and 10 that is both even and divisible by 4.",
+    "difficulty": "Easy",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_007",
+    "question": "Is the integer y divisible by 6?\n\nStatement I: y is divisible by 2.\nStatement II: y is divisible by 3.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To determine if y is divisible by 6, it must be divisible by both 2 and 3.\n1) Statement I alone states y is divisible by 2, but this is not enough since it could still not be divisible by 3.\n2) Statement II alone states y is divisible by 3, but this is not enough since it could still not be divisible by 2.\n3) Combining both statements, if y is divisible by both 2 and 3, then it must be divisible by 6.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_008",
+    "question": "What is the total area of rectangle ABCD?\n\nStatement I: The length of ABCD is twice the width.\nStatement II: The width of ABCD is 5 units.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To find the total area of a rectangle, we need both its length and width.\n1) Statement I alone gives a relationship between the length and width, but no actual values, hence it is not sufficient.\n2) Statement II alone gives the width, but without the length, it is insufficient.\n3) Together, we can determine the length is twice the width (10 units) and the width is 5 units, allowing us to calculate the area as 50 square units.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_009",
+    "question": "Is z an integer?\n\nStatement I: z squared is a whole number.\nStatement II: 2z is an integer.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "B",
+    "explanation": "To determine if z is an integer:\n1) Statement I alone: z squared being a whole number does not ensure z is an integer (e.g., z could be the square root of a non-perfect square like 2).\n2) Statement II alone: if 2z is an integer, then z is half of an integer, which must be an integer itself since it must divide evenly to be a whole number.\n3) Therefore, Statement II alone is sufficient.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_010",
+    "question": "If a and b are two integers, is a + b > 10?\n\nStatement I: a > 5.\nStatement II: b > 5.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "E",
+    "explanation": "To determine if a + b > 10:\n1) Statement I alone shows a > 5, but without knowing b, a could be large or small, so insufficiency.\n2) Statement II alone shows b > 5, but without knowing a, b could be large or small, so insufficiency.\n3) Even together, if a = 6 and b = 5, then a + b = 11, but a = 6 and b = 6 means a + b = 12. Many combinations give varying results. Thus, neither statement alone nor both together ensure a unique answer.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_011",
+    "question": "What is John's current age?\n\nStatement I: Five years ago, John was twice as old as his brother, who is currently 15 years old.\nStatement II: John's brother will be 20 years old in five years.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "A",
+    "explanation": "To find John's current age, we need his brother's age 5 years ago and John's relationship to that age. (1) Statement I tells us that John's brother was 10 years old five years ago (since he's 15 now) and John was twice that age, making John 20 years old at that time, thus John is now 25. Statement I is sufficient. (2) Statement II only confirms the current age of John's brother as 15, which is already known. It does not provide any additional information about John's age. Hence, Statement II alone is not sufficient. Therefore, the correct answer is A.",
+    "difficulty": "Easy",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_012",
+    "question": "What is the value of x?\n\nStatement I: The value of 3x + 2y = 10 when y = 2.\nStatement II: x - y = 2.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To find the value of x, we need to solve for x in terms of y or directly. (1) Statement I provides an equation with two variables (x and y), which is not sufficient to find a unique value of x. (2) Statement II provides another equation with both x and y, which alone is also insufficient. (3) Combining both statements, we have two equations with two variables: 3x + 2(2) = 10 and x - 2 = 2. Solving these gives a unique solution for x. Hence, both statements together are sufficient. Therefore, the correct answer is C.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_013",
+    "question": "Is the product of two integers, a and b, positive?\n\nStatement I: a^2 is positive.\nStatement II: b is positive.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "The product of two numbers a and b is positive if both are either positive or negative. (1) Statement I tells us a^2 is positive, which only means a is non-zero but doesn't indicate its sign. So, it is insufficient by itself. (2) Statement II tells us b is positive, but gives no information about a's sign. Hence, it is also insufficient. (3) Combining both, we know that if b is positive and a is non-zero, the product ab can only be positive if a is positive. Thus, both statements together are sufficient. Therefore, the correct answer is C.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_014",
+    "question": "What is the area of a right triangle with hypotenuse c?\n\nStatement I: The length of one leg is 5.\nStatement II: The length of the other leg is 12.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To find the area of the triangle, we need both legs' lengths or the length of one leg and the hypotenuse. (1) Statement I alone gives one leg's length, but without additional information about the hypotenuse or the other leg, it is insufficient. (2) Statement II alone provides the length of the other leg, but again without more information, it is insufficient. (3) Together, knowing both legs (5 and 12), we can use the Pythagorean theorem to check the validity of the triangle's hypotenuse c or calculate the area directly as (1/2)*5*12. Therefore, the statements together are sufficient, and the correct answer is C.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_015",
+    "question": "Is the integer x divisible by 6?\n\nStatement I: x is divisible by 2.\nStatement II: x is divisible by 3.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "For x to be divisible by 6, it needs to be divisible by both 2 and 3. (1) Statement I alone shows that x is divisible by 2, but doesn't address divisibility by 3, so it's insufficient. (2) Statement II shows that x is divisible by 3, but doesn't confirm divisibility by 2, making it insufficient alone as well. (3) When combined, both statements confirm x is divisible by both 2 and 3, thus also by 6. Therefore, both statements together are sufficient, and the correct answer is C.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_016",
+    "question": "What is Ravi's current age?\n\nStatement I: Five years ago, Ravi was twice as old as his sister.\nStatement II: Ravi is 20 years older than his sister.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To determine Ravi's current age, we need his sister's current age. (1) From Statement I alone: Five years ago, Ravi was twice as old as his sister, but without knowing either's current age, we can't find Ravi's current age. Not sufficient. (2) From Statement II alone: Ravi is 20 years older than his sister. Again, without knowing the sister's age, we can't determine Ravi's age. Not sufficient. (3) Combining both statements, we can set up equations to determine both Ravi's and his sister's ages. Together sufficient.",
+    "difficulty": "Easy",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_017",
+    "question": "How many apples did John sell last week?\n\nStatement I: John sold 15% more apples last week than he did the week before.\nStatement II: The week before last, John sold 200 apples.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To find the number of apples John sold last week, we need the number sold the previous week. (1) Statement I alone: Gives a percentage comparison, but without actual values, it's not enough. (2) Statement II alone: Provides the number from two weeks ago but not last week's sales. Combining both, we can calculate: Last week's sales = 200 + 15% of 200. Together sufficient.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_018",
+    "question": "Is the integer x a prime number?\n\nStatement I: x is greater than 2 and is odd.\nStatement II: x has no divisors other than 1 and itself.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "B",
+    "explanation": "To determine if x is a prime number, it must only have two divisors: 1 and itself. (1) Statement I alone: x being odd and greater than 2 is not sufficient; many non-prime numbers meet this condition. (2) Statement II alone: Directly identifies x as prime because it has no divisors other than 1 and itself. Sufficient.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_019",
+    "question": "What is the area of triangle ABC?\n\nStatement I: The triangle is isosceles with two sides measuring 5 cm each.\nStatement II: The base of the triangle is 8 cm.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To find the area, we need both base and height. (1) Statement I alone: Provides side lengths but no information about height or base. Not sufficient. (2) Statement II alone: Provides only the base length. Not sufficient. (3) Combining both, we know the side lengths (5 cm) and base (8 cm); we can apply the Pythagorean theorem to find the height and then calculate the area. Together sufficient.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_020",
+    "question": "What is the value of x if x and y are integers?\n\nStatement I: 3x + 5y = 12\nStatement II: 4x - 3y = 7",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To determine x's value uniquely, we need a consistent solution from two independent equations. (1) Statement I alone: Provides one equation in two variables; not sufficient to solve for x. (2) Statement II alone: Similarly, only one equation is given; not sufficient. (3) Combining both, we have a system of two independent equations in two variables, enabling us to solve for x uniquely. Together sufficient.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_021",
+    "question": "What is the value of x?\n\nStatement I: x + 5 = 10\nStatement II: x - 2 = 3",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "D",
+    "explanation": "To determine the value of x, solving either statement alone is sufficient. (1) Statement I gives x + 5 = 10, so x = 5, which is sufficient. (2) Statement II gives x - 2 = 3, so x = 5, which is also sufficient. Both statements independently determine that x = 5.",
+    "difficulty": "Easy",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_022",
+    "question": "What is the ratio of A's age to B's age?\n\nStatement I: The sum of A's and B's ages is 45 years.\nStatement II: A is 5 years older than B.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To find the ratio of A's age to B's age, we need specific values. (1) Statement I alone provides only the sum, which is not sufficient. (2) Statement II alone provides the difference, which is also not sufficient. (3) Together, A + B = 45 and A = B + 5 allows solving for A and B, providing the exact ratio.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_023",
+    "question": "Is the number n even?\n\nStatement I: n is divisible by 4.\nStatement II: n is a multiple of 3.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "A",
+    "explanation": "(1) Statement I: A number divisible by 4 is always even, making this statement sufficient. (2) Statement II: Knowing n is a multiple of 3 alone does not determine if n is even. Therefore, statement I alone is sufficient.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_024",
+    "question": "What is the area of rectangle R?\n\nStatement I: The length of rectangle R is twice its width.\nStatement II: The perimeter of rectangle R is 36 units.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To determine the area, both dimensions are needed. (1) Statement I alone provides a ratio, but not values. (2) Statement II alone gives perimeter, insufficient alone. Together, they provide a system of equations to solve for length and width, then find the area.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_025",
+    "question": "What is the probability of drawing a red ball from a bag containing only red and blue balls?\n\nStatement I: There are 8 balls in total.\nStatement II: The probability of drawing a blue ball is 0.25.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To find the probability of a red ball, the number of red balls is needed. (1) Statement I alone gives total balls, but no ratio. (2) Statement II alone gives blue ball probability, allowing calculation of red ball probability with total number. Together, with total and blue ball probability, the red ball probability can be determined.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_026",
+    "question": "What is the value of x?\n\nStatement I: 2x + 3 = 11\nStatement II: x - 2 = 4",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "D",
+    "explanation": "To determine the value of x, we can analyze each statement: (1) Statement I gives us 2x + 3 = 11. Solving this, 2x = 8, so x = 4, which is sufficient. (2) Statement II gives us x - 2 = 4. Solving this, x = 6, which is also sufficient. Each statement alone provides a definitive value for x.",
+    "difficulty": "Easy",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_027",
+    "question": "Is the product of a and b greater than 20?\n\nStatement I: a = 5\nStatement II: b > 4",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "C",
+    "explanation": "To determine if the product ab > 20, we analyze: (1) Statement I alone gives a = 5, insufficient without knowing b. (2) Statement II alone gives b > 4, insufficient without knowing a. (3) Combining both, a = 5 and b > 4 implies ab > 20 as the minimum product would be 5*5=25, which is greater than 20.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_028",
+    "question": "What is the average of x, y, and z?\n\nStatement I: x + y = 10\nStatement II: y + z = 14",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "E",
+    "explanation": "To find the average of x, y, and z, we need to know the sum x + y + z. (1) Statement I gives x + y = 10, but z is unknown. (2) Statement II gives y + z = 14, but x is unknown. (3) Even combining, we get two equations with three variables and cannot determine x + y + z. Hence, both statements together are insufficient.",
+    "difficulty": "Medium",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_029",
+    "question": "Is the triangle ABC isosceles?\n\nStatement I: AB = AC\nStatement II: Angle B = Angle C",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "D",
+    "explanation": "For a triangle to be isosceles, at least two sides or two angles must be equal. (1) Statement I alone, AB = AC, shows that the triangle is isosceles. (2) Statement II alone, Angle B = Angle C, also shows that the triangle is isosceles. Thus, each statement alone is sufficient.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "data_sufficiency_030",
+    "question": "What is the value of y?\n\nStatement I: y^2 - 4y = 0\nStatement II: y is an integer.",
+    "options": {
+      "A": "Statement I alone is sufficient, but Statement II alone is not sufficient to answer the question.",
+      "B": "Statement II alone is sufficient, but Statement I alone is not sufficient to answer the question.",
+      "C": "Both statements I and II together are sufficient to answer the question, but neither statement alone is sufficient.",
+      "D": "Each statement alone is sufficient to answer the question.",
+      "E": "Statements I and II together are not sufficient to answer the question, and additional information is needed."
+    },
+    "correct_answer": "A",
+    "explanation": "To determine the value of y: (1) From Statement I, y^2 - 4y = 0 gives us y(y - 4) = 0, so y = 0 or y = 4, which are possible integer solutions. (2) Statement II merely states that y is an integer, which does not help in selecting between the possibilities without further data. Thus, Statement I alone is sufficient.",
+    "difficulty": "Hard",
+    "topic": "Data Sufficiency",
+    "reasoning_topic": "Data Sufficiency",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

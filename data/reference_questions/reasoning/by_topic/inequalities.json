@@ -1,0 +1,592 @@
+{
+  "topic": "Inequalities",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": "2017_Q130",
+      "question_number": 130,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "In which of the given expressions does the expression R ≤ T definitely holds true?",
+      "options": {
+        "A": "T ≥ L ≥ M, R ≥ O ≥ M",
+        "B": "T > L ≤ M, R ≤ M ≤ O",
+        "C": "T > L > M, R ≥ O ≥ M",
+        "D": "T ≥ L ≥ M, R ≤ O ≤ M",
+        "E": "T > L = M, R < O ≤ M"
+      },
+      "correct_answer": "D",
+      "explanation": "From option(D), T M ; R O M; R O M L T         Hence, R T True  →",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00020",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253997",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q134",
+      "question_number": 134,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "What should come in place of(?) in the expression P? U= E> J; E? M< W respectively so that the expression W> P definitely holds true?",
+      "options": {
+        "A": "=,<",
+        "B": ">,=",
+        "C": "=,=",
+        "D": ">,<",
+        "E": "≥, ≤"
+      },
+      "correct_answer": "C",
+      "explanation": "From option(C), I. P? U E J; P U E J =  = =  II. E? M W; E M W  =  W P True   →",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00024",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254001"
+      }
+    },
+    {
+      "id": "2017_Q153",
+      "question_number": 153,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. S ≥ L II. E< A",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If only conclusions II is true",
+        "C": "If either conclusion I or II is true",
+        "D": "If neither conclusion I nor II is true",
+        "E": "If both conclusion I and II are true"
+      },
+      "correct_answer": "A",
+      "explanation": "S H A P E P L R E S H A P E R L P =   =    =   =    Conclusions I. S L True  → II. E A False  → Hence, only conclusion I follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00041",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254020"
+      }
+    },
+    {
+      "id": "2017_Q154",
+      "question_number": 154,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. S< P II. P< A",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If only conclusions II is true",
+        "C": "If either conclusion I or II is true",
+        "D": "If neither conclusion I nor II is true",
+        "E": "If both conclusion I and II are true"
+      },
+      "correct_answer": "B",
+      "explanation": "S H A P E P L R E S H A P E R L P =   =    =   =    Conclusions I. S P False  → II. P A True  → Hence, only conclusion II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00042",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254021"
+      }
+    },
+    {
+      "id": "2017_Q166",
+      "question_number": 166,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions. Trishaa starts walking from point A, walks 12 m to the south ad reaches point B. She then takes a left turn and walks 7 m to reach point C. She then takes a left, walks 5 m and reaches Point D. From Point D she turns left, walks 11 m and stops at point E. Point P is to the west of Point B. Rishi who is standing at point P walks for a distance equal to the shortest distance between B and E and reaches Point Q. From Point Q he takes a left turn, walks for a certain distance and reaches point E. Mehul starts walking towards south from Point B. He walks for a certain distance to reach Point K. He then takes a left turn walks for 10 m, takes another left turn and stops after walking for 9 m. If his final position is 3 m to the east of Point D, what is the distance between Point B and Point K?",
+      "options": {
+        "A": "4 m",
+        "B": "6 m",
+        "C": "5 m",
+        "D": "2 m",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": "A",
+      "explanation": "The distance between point E and K is 9m. Hence, the distance between B and K is 9 – 5= 4m.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00054",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254036"
+      }
+    },
+    {
+      "id": "2018_Q41",
+      "question_number": 41,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: A> B ≤ C; B= D; E ≤ F ≤ D Conclusions: I. E= C II. C> E III. A< D IV. F> B",
+      "options": {
+        "A": "None is true.",
+        "B": "Only IV is true.",
+        "C": "Either I or II follows.",
+        "D": "Both I and IV follow.",
+        "E": "All are true."
+      },
+      "correct_answer": "C",
+      "explanation": "Given statements: A> B ≤ C; B= D; E ≤ F ≤ D On combining: A> B= D ≤ C; E ≤ F ≤ D= B I. E= C(maybe true)(as E ≤ F ≤ D= B ≤ C. So E may be less than or equal to C) II. C> E(maybe true)(as E ≤ F ≤ D= B ≤ C. So C may be greater than or equal to E) III. A< D(false)(A> B= D. So A is greater than D) IV. F> B(false)(as E ≤ F ≤ D= B. So F is either less than or equal to B) Therefore, either conclusion I or II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00069",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254057"
+      }
+    },
+    {
+      "id": "2018_Q42",
+      "question_number": 42,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: D> O ≤ M= I< N; I> A ≥ T> E Conclusions: I. M> E II. O< T III. N> A IV. D= E",
+      "options": {
+        "A": "None is true.",
+        "B": "Only IV is true.",
+        "C": "Only II follows.",
+        "D": "Both I and III follow.",
+        "E": "All are true."
+      },
+      "correct_answer": "D",
+      "explanation": "Given statements: D> O ≤ M= I< N; I> A ≥ T> E On combining: D> O ≤ M= I> A ≥ T> E; N > I> A ≥ T> E I. M> E(true)(as M= I> A ≥ T> E. So M is greater than E) II. O< T(false)(as O ≤ M= I> A ≥ T> E. There is no definite relation between O and T.) III. N> A(true)(N> I> A. So N is greater than A) IV. D= E(false)(as D> O ≤ M= I> A ≥ T > E. So there is no definite relation between D and E.) Therefore, both conclusion I and III follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00070",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254058"
+      }
+    },
+    {
+      "id": "2018_Q43",
+      "question_number": 43,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: P= Q ≥ R; Q ≥ S> T; U< R Conclusions: I. P ≥ S II. Q> U III. P= T IV. R> P",
+      "options": {
+        "A": "None is true.",
+        "B": "Both I and II are true.",
+        "C": "Only III follows.",
+        "D": "Both I and III follow.",
+        "E": "All are true."
+      },
+      "correct_answer": "B",
+      "explanation": "Given statements: P= Q ≥ R; Q ≥ S> T; U< R On combining: P= Q ≥ R> U; P= Q ≥ S> T I. P ≥ S(true)(as P= Q ≥ S. So P is greater than and equal to S) II. Q> U(true)(as Q ≥ R> U. So Q is greater than U) III. P= T(false)(P= Q ≥ S> T. So P is greater than T) IV. R> P(false)(P= Q ≥ R. P is greater than and equal to R.) Therefore, both conclusion I and II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00071",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254059"
+      }
+    },
+    {
+      "id": "2018_Q44",
+      "question_number": 44,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: I ≥ J= K< L; M ≤ J; N< K Conclusions: I. M ≤ I II. N< L III. I> L IV. J= N",
+      "options": {
+        "A": "None is true.",
+        "B": "Both I and II are true.",
+        "C": "Only I follow.",
+        "D": "Only III follows.",
+        "E": "All are true."
+      },
+      "correct_answer": "B",
+      "explanation": "Given statements: I ≥ J= K< L; M ≤ J; N< K On combining: I ≥ J= K ≥ M; N< J= K< L I. M ≤ I(true)(I ≥ J ≥ M. M is less than and equal to I) II. N< L(true)(N< K< L. N is less than L) III. I> L(false)(I ≥ J= K< L. There is no definite relation between I and L.) IV. J= N(false)(J= K> N. There is no definite relation between J and N.) Therefore, both conclusion I and II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00072",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254060"
+      }
+    },
+    {
+      "id": "2018_Q45",
+      "question_number": 45,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: I ≥ J= K< L; L> M ≥ N; I< O Conclusions: I. O> L II. N> L III. I> M IV. J< N",
+      "options": {
+        "A": "None is true.",
+        "B": "Both I and III are true.",
+        "C": "Only IV follows.",
+        "D": "Only I follow.",
+        "E": "All are true."
+      },
+      "correct_answer": "A",
+      "explanation": "Given statements: I ≥ J= K< L; L> M ≥ N; I< O On combining: O> I ≥ J= K< L> M ≥ N I. O> L(false)(as O> I ≥ J= K< L. There is no definite relation between O and L.) II.N> L(false)(as L> M ≥ N. L is greater than N) III. I> M(false)(I ≥ J= K< L> M. There is no definite relation between I and M.) IV. J< N(false)(J= K< L> M ≥ N. There is no definite relation between J and N.) None of the conclusion follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00073",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254061"
+      }
+    },
+    {
+      "id": "2018_Q48",
+      "question_number": 48,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following alphanumeric sequence carefully and answer the questions given beside: 84 LAST 67 CRAB 78 NEWS 89 ROSE 76 UNDO If a meaningful word is to be formed using the letters of words separately (using each letter only once), given that the second letter of newly formed word must be a vowel then what would be the total sum of the digits of the numbers attached to those words which follow the condition given?",
+      "options": {
+        "A": "29",
+        "B": "24",
+        "C": "20",
+        "D": "33",
+        "E": "38"
+      },
+      "correct_answer": "A",
+      "explanation": "We have the given sequence, 84 LAST 67 CRAB 78 NEWS 89 ROSE 76 UNDO Here, the meaningful words having second letter as a vowel that can be formed using the above words separately are: 1 – ‘SALT’ using the word ‘LAST’ 2 – ‘SORE’ using the word ‘ROSE’ Now, the number attached to the words ‘LAST’ and ‘ROSE’ are 84 and 89 respectively. Required Sum= 8+ 4+ 8+ 9= 29",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00076",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254064"
+      }
+    },
+    {
+      "id": "2018_Q59",
+      "question_number": 59,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions given below: Point A is 3m east of point B. Point D 4m north of point of C. Point K 7m west of point J. Point D 4m south of point of A. Point L 4m south of point G who 6m west of point F. Point E 5m east of point C and point B 5m north of point F. Point M 5m south of point E who 4m west of point N. Point K 3m north of Q. Point I is 4m east of point A. Point J is in 6m north of I. What is shortest distance between point N and point K?",
+      "options": {
+        "A": "340m",
+        "B": "m",
+        "C": "75m",
+        "D": "m",
+        "E": "Both b and c"
+      },
+      "correct_answer": "B",
+      "explanation": "m=2 m",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00087",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254075"
+      }
+    },
+    {
+      "id": "2019_Q25",
+      "question_number": 25,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: S<=T<P=D; P<=M;R>=M Conclusions: I.M<=S II.D>S",
+      "options": {
+        "A": "Neither conclusion I nor II is true.",
+        "B": "Either conclusion I or II is true.",
+        "C": "Only conclusion II is true.",
+        "D": "Both conclusions I and II and true.",
+        "E": "Only conclusion I is true."
+      },
+      "correct_answer": "C",
+      "explanation": "Statements: For conclusion I: S ≤ T< P= D ≤ M ≤ R Check for conclusion I: S ≤ T< P= D ≤ M ≤ R, does not hold true. Check for conclusion II: S ≤ T< P= D ≤ M ≤ R, holds true. Only option C) is correct.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00142",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254138"
+      }
+    },
+    {
+      "id": "2019_Q26",
+      "question_number": 26,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: S<=T<P=D; P<+M; R>=M Conclusions: I.D<R II. R=D",
+      "options": {
+        "A": "Neither conclusion I nor II is true.",
+        "B": "Either conclusion I or II is true.",
+        "C": "Only conclusion II is true.",
+        "D": "Both conclusions I and II and true.",
+        "E": "Only conclusion I is true."
+      },
+      "correct_answer": "B",
+      "explanation": "Check for conclusion I: S ≤ T< P= D ≤ M ≤ R, R> D may holds true. Check for conclusion II: S ≤ T< P= D ≤ M ≤ R, R=D also may holds true. Only option B) is correct.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00143",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254140"
+      }
+    },
+    {
+      "id": "2019_Q27",
+      "question_number": 27,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: L>=J>=U<=P; D<=P;U>=T Conclusions: I.L>T II.D<=J",
+      "options": {
+        "A": "Neither conclusion I nor II is true.",
+        "B": "Either conclusion I or II is true.",
+        "C": "Only conclusion II is true.",
+        "D": "Both conclusions I and II and true.",
+        "E": "Only conclusion I is true."
+      },
+      "correct_answer": "E",
+      "explanation": "Statements: Check for conclusion I: L≥ J≥U>T≤P≥D, holds true. Check for conclusion II: L≥ J≥U≤P≥D does not hold true. Only option E) is correct.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00144",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254141"
+      }
+    },
+    {
+      "id": "2019_Q40",
+      "question_number": 40,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Each of the consonants in the word ORGANISATION is replaced by number 3 and each vowel is replaced by its numeric place value in the English alphabet series i.e. A is by 1, E is by 5 and so on. What is the total sum of all the numbers once the replacement is completed?",
+      "options": {
+        "A": "65",
+        "B": "70",
+        "C": "72",
+        "D": "68",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "After replacing the consonants by 3 and vowels by its place value in English alphabet, we get 15 3 3 1 3 9 3 1 3 9 15 3 Required sum= 68",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00157",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254155"
+      }
+    },
+    {
+      "id": "2022_Q175",
+      "question_number": 175,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statements: L ≥ A ≥ C, K= Y ≤ C, H> D ≤ K, A> E< Y Conclusions: I) D< A II) A= D III) L> Y",
+      "options": {
+        "A": "All the conclusions follow",
+        "B": "Either conclusion I or II follows",
+        "C": "Only conclusion III follows",
+        "D": "Only conclusion II and III follow",
+        "E": "None of the conclusions follows"
+      },
+      "correct_answer": "B",
+      "explanation": "For conclusion I: D<A From statements I, II and III, we get: D<K=Y<C≤A Here, the common sign between D and A is '≤', hence D≤A. Thus, conclusion I does not follow individually. For conclusion II: A=D From statements I, II and III, we get: D≤K=Y≤C≤A Here, the common sign between D and A is '≤', hence D≤A. Thus, conclusion II does not follow individually. On combining conclusion I and II we get D≤A. Therefore, either conclusion I or II follows. For conclusion III: L>Y From statements I and II, we get: Y≤C≤A≤L Thus, the common sign between Y and L is '≤', Therefore Y≤L is the true relationship. Hence conclusion III does not follow.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00209",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254214"
+      }
+    },
+    {
+      "id": "2022_Q176",
+      "question_number": 176,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statements: M> H= A, X ≥ G< H, Y< M< P, G> O> K Conclusions: I) P> X II) G< P III) Y< H",
+      "options": {
+        "A": "All the conclusions follow",
+        "B": "Either conclusion I or II follows",
+        "C": "Only conclusion I and III follow",
+        "D": "Only conclusion II follows",
+        "E": "None of the conclusions follows"
+      },
+      "correct_answer": "D",
+      "explanation": "For conclusion I: P>X From statements II and III, we get: X≥G<H<M<P Here, we can see the opposite sign between P and X, thus no relationship can be established between them. Thus, conclusion I does not follow. For conclusion II: G<P From statements I, II and III, we get: G<H<M<P Here, the common sign between G and P is '<'. Hence G<P. Hence conclusion II follows. For conclusion III: Y<H From statements I and III, we get: Y<M>H Here, we can see the opposite sign between Y and H, thus no relationship can be established between them. Thus, conclusion III does not follow. Therefore, only conclusion II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00210",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254215"
+      }
+    },
+    {
+      "id": "2023_Q141",
+      "question_number": 141,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "In the word ‘GLASTONBURY’, change every vowel after k to the third consonant after it...and every consonant to previous letter and then after changing, delete the letters that appear more than once and vowels if left. Which of the following letter will come in the middle of the newly formed word?",
+      "options": {
+        "A": "X",
+        "B": "R",
+        "C": "K",
+        "D": "S",
+        "E": "M"
+      },
+      "correct_answer": "D",
+      "explanation": "G – 1= F L – 1= K A= A S-1= R T – 1= S O+ 3= R N – 1= M B – 1= A U+ 3= X R – 1= Q Y – 1= X The word formed is 'FKARSRMAXQX' Now delete the vowels and letters that appear more than once. FKRSMXQ So, letter 'S' comes in the middle.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00229",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254237"
+      }
+    },
+    {
+      "id": "2023_Q152",
+      "question_number": 152,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Consider the below symbols and their meaning: ‘A^ B’ means ‘A is either greater than or equal to B’ ‘A% B’ means ‘A is neither greater than nor smaller than B’ ‘A? B’ means ‘A is neither smaller than nor equal to B’ ‘A! B’ means ‘A is neither greater than nor equal to B’ ‘A+ B’ means ‘A is either smaller than or equal to B’. Which of the following symbols should be placed in the blank spaces in order to complete the given expression in such a manner that makes the expressions ‘J^ F’ and ‘K? G’ true?  K? J% H___ G^ F! E",
+      "options": {
+        "A": "^",
+        "B": "+",
+        "C": "%",
+        "D": "?",
+        "E": "Either (a) or (c)"
+      },
+      "correct_answer": "E",
+      "explanation": "'J^ F' means J ≥ F 'K? G' means K> G K? J% H___ G^ F! E K> J= H___ G ≥ F< E So, either '=' or '≥' will make both the expressions true. So, Option E is the right answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00240",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254249"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

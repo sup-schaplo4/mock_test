@@ -1,0 +1,2242 @@
+{
+  "category": "Verbal & Logical Reasoning",
+  "total_questions": 75,
+  "questions": [
+    {
+      "id": "2017_Q119",
+      "question_number": 119,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. If in the given arrangement, Q+ V = 31, then what is the possible age of R?",
+      "options": {
+        "A": "27",
+        "B": "56",
+        "C": "23",
+        "D": "59",
+        "E": "30"
+      },
+      "correct_answer": "E",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) Hence, R possible age is 30.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00009",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253984"
+      }
+    },
+    {
+      "id": "2017_Q120",
+      "question_number": 120,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. If P is 24 years old, what will be the sum of ages of P and T?",
+      "options": {
+        "A": "28",
+        "B": "78",
+        "C": "64",
+        "D": "49",
+        "E": "75"
+      },
+      "correct_answer": "B",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) Hence, sum of P and T age is 78.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00010",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253985"
+      }
+    },
+    {
+      "id": "2017_Q121",
+      "question_number": 121,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. How is T related to Q?",
+      "options": {
+        "A": "Grandmother",
+        "B": "Granddaughter",
+        "C": "Aunt",
+        "D": "Mother-in-law",
+        "E": "Mother"
+      },
+      "correct_answer": "A",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) Hence, T is grandmother of Q.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00011",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253986"
+      }
+    },
+    {
+      "id": "2017_Q122",
+      "question_number": 122,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. If M is married to S, then how is S related to R?",
+      "options": {
+        "A": "Grandmother",
+        "B": "Granddaughter",
+        "C": "Grandfather",
+        "D": "Uncle",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": "E",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) The gender of S is not known. Hence, relation between S and R cannot be determined.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00012",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253988"
+      }
+    },
+    {
+      "id": "2017_Q123",
+      "question_number": 123,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Seven people P, Q, R, S, T, U and V are related to each other in some or the other way. Each person is of a different age, but not necessarily in the same order. (Note: It is assumed that the husband is older than the wife.) T is older than V but younger than U. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. Who amongst the following is/are younger than V?",
+      "options": {
+        "A": "Both P and U",
+        "B": "Only Q",
+        "C": "Only P",
+        "D": "Both P and Q",
+        "E": "No one"
+      },
+      "correct_answer": "D",
+      "explanation": "Person- P, Q, R, S, T, U and V 1. P is the mother of Q. R is the sister-in-law of P. R is unmarried. T is the daughter-in-law of S. S is the eldest member of the family. U is the father of only R and V. U does not have any sibling. V does not have any son. From the given information, 2. T is older than V but younger than U. S is the eldest member of the family. R is older than V. The third eldest member of the family is 54 years old. The youngest member of the family is 4 years old. S> U> T(54)> R> V> P> Q(4) Hence, both P and Q are younger than V.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00013",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253989"
+      }
+    },
+    {
+      "id": "2017_Q130",
+      "question_number": 130,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "In which of the given expressions does the expression R ≤ T definitely holds true?",
+      "options": {
+        "A": "T ≥ L ≥ M, R ≥ O ≥ M",
+        "B": "T > L ≤ M, R ≤ M ≤ O",
+        "C": "T > L > M, R ≥ O ≥ M",
+        "D": "T ≥ L ≥ M, R ≤ O ≤ M",
+        "E": "T > L = M, R < O ≤ M"
+      },
+      "correct_answer": "D",
+      "explanation": "From option(D), T M ; R O M; R O M L T         Hence, R T True  →",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00020",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253997",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q131",
+      "question_number": 131,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. No star is an astronaut II. All astronauts are planets",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If both conclusions I and II are true",
+        "C": "If either conclusion I or II is true",
+        "D": "If only conclusion II is true",
+        "E": "If neither conclusion I nor II true"
+      },
+      "correct_answer": "A",
+      "explanation": "The least possible diagram for the given statements are below: Conclusions: I. No star is an astronaut → It is true. Hence, conclusion I follows. II. All astronauts are planets → It is possible but not definite. Hence, conclusion II does not follows. Hence, only conclusion I follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00021",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253998"
+      }
+    },
+    {
+      "id": "2017_Q132",
+      "question_number": 132,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. Some planets being astronauts is a possibility. II. At least some comets are planets.",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If both conclusions I and II are true",
+        "C": "If either conclusion I or II is true",
+        "D": "If only conclusion II is true",
+        "E": "If neither conclusion I nor II true"
+      },
+      "correct_answer": "B",
+      "explanation": "The least possible diagram for the given statements are below: Conclusions: I. Some planets being astronauts is a possibility → The possibility is true as shown below: II. At least some comets are planets → It is true. Hence, conclusion II follows. Hence, both conclusion I and II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00022",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253999"
+      }
+    },
+    {
+      "id": "2017_Q133",
+      "question_number": 133,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. All trains are rickshaws. II. All plains being trains is a possibility.",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If both conclusions I and II are true",
+        "C": "If either conclusion I or II is true",
+        "D": "If only conclusion II is true",
+        "E": "If neither conclusion I nor II true"
+      },
+      "correct_answer": "A",
+      "explanation": "The least possible diagram is shown as below: Conclusions: I. All trains are rickshaws → It is true. Hence, conclusion I follows. II. All plains being trains is a possibility → This is not possible. Hence, conclusion II does not follow. Hence, only conclusion I follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00023",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254000"
+      }
+    },
+    {
+      "id": "2017_Q134",
+      "question_number": 134,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "What should come in place of(?) in the expression P? U= E> J; E? M< W respectively so that the expression W> P definitely holds true?",
+      "options": {
+        "A": "=,<",
+        "B": ">,=",
+        "C": "=,=",
+        "D": ">,<",
+        "E": "≥, ≤"
+      },
+      "correct_answer": "C",
+      "explanation": "From option(C), I. P? U E J; P U E J =  = =  II. E? M W; E M W  =  W P True   →",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00024",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254001"
+      }
+    },
+    {
+      "id": "2017_Q151",
+      "question_number": 151,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. B= A II. B> A",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If only conclusions II is true",
+        "C": "If either conclusion I or II is true",
+        "D": "If neither conclusion I nor II is true",
+        "E": "If both conclusion I and II are true"
+      },
+      "correct_answer": "C",
+      "explanation": "B R U S H Y O U A B R U A           Conclusions: I. B A Either conclusion II. B A I or II is true =    Hence, either conclusion I or II is true.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00039",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254018"
+      }
+    },
+    {
+      "id": "2017_Q152",
+      "question_number": 152,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. S ≥ O; II. R< Y",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If only conclusions II is true",
+        "C": "If either conclusion I or II is true",
+        "D": "If neither conclusion I nor II is true",
+        "E": "If both conclusion I and II are true"
+      },
+      "correct_answer": "C",
+      "explanation": "B R U S H Y O U A B R U O Y O U S H               Conclusions: I. S O False  → II. R Y False  → Hence, neither conclusion I nor II is true.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00040",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254019"
+      }
+    },
+    {
+      "id": "2017_Q153",
+      "question_number": 153,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. S ≥ L II. E< A",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If only conclusions II is true",
+        "C": "If either conclusion I or II is true",
+        "D": "If neither conclusion I nor II is true",
+        "E": "If both conclusion I and II are true"
+      },
+      "correct_answer": "A",
+      "explanation": "S H A P E P L R E S H A P E R L P =   =    =   =    Conclusions I. S L True  → II. E A False  → Hence, only conclusion I follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00041",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254020"
+      }
+    },
+    {
+      "id": "2017_Q154",
+      "question_number": 154,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. S< P II. P< A",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If only conclusions II is true",
+        "C": "If either conclusion I or II is true",
+        "D": "If neither conclusion I nor II is true",
+        "E": "If both conclusion I and II are true"
+      },
+      "correct_answer": "B",
+      "explanation": "S H A P E P L R E S H A P E R L P =   =    =   =    Conclusions I. S P False  → II. P A True  → Hence, only conclusion II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00042",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254021"
+      }
+    },
+    {
+      "id": "2017_Q166",
+      "question_number": 166,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions. Trishaa starts walking from point A, walks 12 m to the south ad reaches point B. She then takes a left turn and walks 7 m to reach point C. She then takes a left, walks 5 m and reaches Point D. From Point D she turns left, walks 11 m and stops at point E. Point P is to the west of Point B. Rishi who is standing at point P walks for a distance equal to the shortest distance between B and E and reaches Point Q. From Point Q he takes a left turn, walks for a certain distance and reaches point E. Mehul starts walking towards south from Point B. He walks for a certain distance to reach Point K. He then takes a left turn walks for 10 m, takes another left turn and stops after walking for 9 m. If his final position is 3 m to the east of Point D, what is the distance between Point B and Point K?",
+      "options": {
+        "A": "4 m",
+        "B": "6 m",
+        "C": "5 m",
+        "D": "2 m",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": "A",
+      "explanation": "The distance between point E and K is 9m. Hence, the distance between B and K is 9 – 5= 4m.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00054",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254036"
+      }
+    },
+    {
+      "id": "2017_Q167",
+      "question_number": 167,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions. Trishaa starts walking from point A, walks 12 m to the south ad reaches point B. She then takes a left turn and walks 7 m to reach point C. She then takes a left, walks 5 m and reaches Point D. From Point D she turns left, walks 11 m and stops at point E. Point P is to the west of Point B. Rishi who is standing at point P walks for a distance equal to the shortest distance between B and E and reaches Point Q. From Point Q he takes a left turn, walks for a certain distance and reaches point E. Point M is 9 m to the north of Point Q. From Point M, which of the following walking directions would lead to point A? A. 12 m towards west, turn right and walk for 2 m, then turn right and walk for 7 m. B. 4 m towards east, turn left and walk for 3 m, then turn right and walk 5 m. C. 3 m towards north, turn left, walk 19 m, turn left and walk 5 m. D. 3 m towards north, turn right and walk for 4 m.",
+      "options": {
+        "A": "Both A and D",
+        "B": "Only D",
+        "C": "Both B and C",
+        "D": "Only C",
+        "E": "Only B"
+      },
+      "correct_answer": "D",
+      "explanation": "Hence, from point M 3m towards north, turn right and walk for 4m leads to point A.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00055",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254037"
+      }
+    },
+    {
+      "id": "2017_Q168",
+      "question_number": 168,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions. Trishaa starts walking from point A, walks 12 m to the south ad reaches point B. She then takes a left turn and walks 7 m to reach point C. She then takes a left, walks 5 m and reaches Point D. From Point D she turns left, walks 11 m and stops at point E. Point P is to the west of Point B. Rishi who is standing at point P walks for a distance equal to the shortest distance between B and E and reaches Point Q. From Point Q he takes a left turn, walks for a certain distance and reaches point E. In which direction is point C with respect to point P?",
+      "options": {
+        "A": "North-East",
+        "B": "West",
+        "C": "East",
+        "D": "South-East",
+        "E": "North-West"
+      },
+      "correct_answer": "C",
+      "explanation": "Hence, point C is in east direction with respect to point P.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00056",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254038",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q169",
+      "question_number": 169,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions. Trishaa starts walking from point A, walks 12 m to the south ad reaches point B. She then takes a left turn and walks 7 m to reach point C. She then takes a left, walks 5 m and reaches Point D. From Point D she turns left, walks 11 m and stops at point E. Point P is to the west of Point B. Rishi who is standing at point P walks for a distance equal to the shortest distance between B and E and reaches Point Q. From Point Q he takes a left turn, walks for a certain distance and reaches point E. Point Z is 9 m to the east of Point A. Arun starts from point Z, walks towards south, takes a right turn and walks for a certain distance to reach Point D. What is the total distance that Arun has to walk in order to reach Point D?",
+      "options": {
+        "A": "20 m",
+        "B": "11 m",
+        "C": "19 m",
+        "D": "9 m",
+        "E": "15 m"
+      },
+      "correct_answer": "B",
+      "explanation": "Hence, Arun walks 11m to reach point D.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00057",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254039",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q36",
+      "question_number": 36,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. Who is not the female member of the given group?",
+      "options": {
+        "A": "Geeta",
+        "B": "Susheel",
+        "C": "Aashi",
+        "D": "Sonu",
+        "E": "All are females"
+      },
+      "correct_answer": "C",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan). So, the complete family tree is, Hence, Aashi is not the female member of this family group.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00064",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254050"
+      }
+    },
+    {
+      "id": "2018_Q37",
+      "question_number": 37,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. Who is the nephew of Susheel?",
+      "options": {
+        "A": "Chetan",
+        "B": "Aashi",
+        "C": "Sonu",
+        "D": "Pankaj",
+        "E": "Geeta"
+      },
+      "correct_answer": "A",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan). So, the complete family tree is, Hence, from the above family tree, it is clear that Chetan is the nephew of Susheel.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00065",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254051"
+      }
+    },
+    {
+      "id": "2018_Q38",
+      "question_number": 38,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. Who are the married females in the family?",
+      "options": {
+        "A": "Susheel, Aashi",
+        "B": "Susheel, Seema",
+        "C": "Geeta, Seema",
+        "D": "Geeta, Pankaj",
+        "E": "Susheel, Geeta"
+      },
+      "correct_answer": "C",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan). Hence, from the above family tree, it is clear that Geeta and Seema are the married females in the family.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00066",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254052"
+      }
+    },
+    {
+      "id": "2018_Q39",
+      "question_number": 39,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. To which generation Pankaj belongs?",
+      "options": {
+        "A": "1st",
+        "B": "2nd",
+        "C": "4th",
+        "D": "3rd",
+        "E": "Can’t be determined"
+      },
+      "correct_answer": "B",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan). Hence, Pankaj belongs to 2nd generation.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00067",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254055"
+      }
+    },
+    {
+      "id": "2018_Q40",
+      "question_number": 40,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. Eight members Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema of a family went to the park. There are two married couples and four generation. None of the fourth generation member is married. Chetan is the husband of Pankaj’s Daughter in law. Neither Seema nor Susheel is married to Chetan. Susheel’s sister has one son. There are four males and four females. Vinit is the grandfather of Aashi’s father. Sonu is unmarried and is not the son of Chetan or Seema. Susheel is not married to Pankaj, who is father in law of Sonu’s mother. Vinit does not have any son. Susheel’s nephew has one son and one daughter. Who is the son of Geeta?",
+      "options": {
+        "A": "Sonu",
+        "B": "Aashi",
+        "C": "Pankaj",
+        "D": "Vinit",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "Family member: 8(Susheel, Geeta, Vinit, Chetan, Sonu, Pankaj, Aashi and Seema) Male= Female= 4 members and two married couples. Symbols used in diagrams, 1) Chetan is the husband of Pankaj’s Daughter in law. 2) Neither Seema nor Sushil is married to Chetan. 3) Susheel’s sister has one son. 4) Vinit is the maternal grandfather of Aashi’s father as Vinit does not have any son. (Clearly, Aashi is from fourth generation and unmarried and Vinit is from first generation) 5) Sonu is unmarried and is not the son of Chetan or Seema. 6) Susheel is not married to Pankaj, who is father in law of Sonu’s mother. 7) Susheel’s nephew has one son and one daughter. (Hence, Susheel is from second generation and is a female. As chetan is not married to Seema and Sonu is unmarried, Chetan is married to Geeta and Pankaj is married to Seema. Sonu is unmarried and is the daughter of Chetan and Ashi is the son of chetan) So, the complete family tree is, Hence, Aashi is the son of Geeta.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00068",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254056"
+      }
+    },
+    {
+      "id": "2018_Q41",
+      "question_number": 41,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: A> B ≤ C; B= D; E ≤ F ≤ D Conclusions: I. E= C II. C> E III. A< D IV. F> B",
+      "options": {
+        "A": "None is true.",
+        "B": "Only IV is true.",
+        "C": "Either I or II follows.",
+        "D": "Both I and IV follow.",
+        "E": "All are true."
+      },
+      "correct_answer": "C",
+      "explanation": "Given statements: A> B ≤ C; B= D; E ≤ F ≤ D On combining: A> B= D ≤ C; E ≤ F ≤ D= B I. E= C(maybe true)(as E ≤ F ≤ D= B ≤ C. So E may be less than or equal to C) II. C> E(maybe true)(as E ≤ F ≤ D= B ≤ C. So C may be greater than or equal to E) III. A< D(false)(A> B= D. So A is greater than D) IV. F> B(false)(as E ≤ F ≤ D= B. So F is either less than or equal to B) Therefore, either conclusion I or II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00069",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254057"
+      }
+    },
+    {
+      "id": "2018_Q42",
+      "question_number": 42,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: D> O ≤ M= I< N; I> A ≥ T> E Conclusions: I. M> E II. O< T III. N> A IV. D= E",
+      "options": {
+        "A": "None is true.",
+        "B": "Only IV is true.",
+        "C": "Only II follows.",
+        "D": "Both I and III follow.",
+        "E": "All are true."
+      },
+      "correct_answer": "D",
+      "explanation": "Given statements: D> O ≤ M= I< N; I> A ≥ T> E On combining: D> O ≤ M= I> A ≥ T> E; N > I> A ≥ T> E I. M> E(true)(as M= I> A ≥ T> E. So M is greater than E) II. O< T(false)(as O ≤ M= I> A ≥ T> E. There is no definite relation between O and T.) III. N> A(true)(N> I> A. So N is greater than A) IV. D= E(false)(as D> O ≤ M= I> A ≥ T > E. So there is no definite relation between D and E.) Therefore, both conclusion I and III follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00070",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254058"
+      }
+    },
+    {
+      "id": "2018_Q43",
+      "question_number": 43,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: P= Q ≥ R; Q ≥ S> T; U< R Conclusions: I. P ≥ S II. Q> U III. P= T IV. R> P",
+      "options": {
+        "A": "None is true.",
+        "B": "Both I and II are true.",
+        "C": "Only III follows.",
+        "D": "Both I and III follow.",
+        "E": "All are true."
+      },
+      "correct_answer": "B",
+      "explanation": "Given statements: P= Q ≥ R; Q ≥ S> T; U< R On combining: P= Q ≥ R> U; P= Q ≥ S> T I. P ≥ S(true)(as P= Q ≥ S. So P is greater than and equal to S) II. Q> U(true)(as Q ≥ R> U. So Q is greater than U) III. P= T(false)(P= Q ≥ S> T. So P is greater than T) IV. R> P(false)(P= Q ≥ R. P is greater than and equal to R.) Therefore, both conclusion I and II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00071",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254059"
+      }
+    },
+    {
+      "id": "2018_Q44",
+      "question_number": 44,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: I ≥ J= K< L; M ≤ J; N< K Conclusions: I. M ≤ I II. N< L III. I> L IV. J= N",
+      "options": {
+        "A": "None is true.",
+        "B": "Both I and II are true.",
+        "C": "Only I follow.",
+        "D": "Only III follows.",
+        "E": "All are true."
+      },
+      "correct_answer": "B",
+      "explanation": "Given statements: I ≥ J= K< L; M ≤ J; N< K On combining: I ≥ J= K ≥ M; N< J= K< L I. M ≤ I(true)(I ≥ J ≥ M. M is less than and equal to I) II. N< L(true)(N< K< L. N is less than L) III. I> L(false)(I ≥ J= K< L. There is no definite relation between I and L.) IV. J= N(false)(J= K> N. There is no definite relation between J and N.) Therefore, both conclusion I and II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00072",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254060"
+      }
+    },
+    {
+      "id": "2018_Q45",
+      "question_number": 45,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: I ≥ J= K< L; L> M ≥ N; I< O Conclusions: I. O> L II. N> L III. I> M IV. J< N",
+      "options": {
+        "A": "None is true.",
+        "B": "Both I and III are true.",
+        "C": "Only IV follows.",
+        "D": "Only I follow.",
+        "E": "All are true."
+      },
+      "correct_answer": "A",
+      "explanation": "Given statements: I ≥ J= K< L; L> M ≥ N; I< O On combining: O> I ≥ J= K< L> M ≥ N I. O> L(false)(as O> I ≥ J= K< L. There is no definite relation between O and L.) II.N> L(false)(as L> M ≥ N. L is greater than N) III. I> M(false)(I ≥ J= K< L> M. There is no definite relation between I and M.) IV. J< N(false)(J= K< L> M ≥ N. There is no definite relation between J and N.) None of the conclusion follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00073",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254061"
+      }
+    },
+    {
+      "id": "2018_Q48",
+      "question_number": 48,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following alphanumeric sequence carefully and answer the questions given beside: 84 LAST 67 CRAB 78 NEWS 89 ROSE 76 UNDO If a meaningful word is to be formed using the letters of words separately (using each letter only once), given that the second letter of newly formed word must be a vowel then what would be the total sum of the digits of the numbers attached to those words which follow the condition given?",
+      "options": {
+        "A": "29",
+        "B": "24",
+        "C": "20",
+        "D": "33",
+        "E": "38"
+      },
+      "correct_answer": "A",
+      "explanation": "We have the given sequence, 84 LAST 67 CRAB 78 NEWS 89 ROSE 76 UNDO Here, the meaningful words having second letter as a vowel that can be formed using the above words separately are: 1 – ‘SALT’ using the word ‘LAST’ 2 – ‘SORE’ using the word ‘ROSE’ Now, the number attached to the words ‘LAST’ and ‘ROSE’ are 84 and 89 respectively. Required Sum= 8+ 4+ 8+ 9= 29",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00076",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254064"
+      }
+    },
+    {
+      "id": "2018_Q56",
+      "question_number": 56,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "What is the meaning of the code ‘pullu’ in a code language? I. In that code language ‘rem tez kullu pullu tullu’ means ‘sher singh is my son’ and ‘gullu sullu rullu pullu’ means ‘is he at home’. II. In that code language ‘nel pullu kullu dela’ means ‘my daughter is nirmala’ and ‘setha gama lala’ means ‘sit with me’.",
+      "options": {
+        "A": "Data in statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.",
+        "B": "Data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+        "C": "Data in statements I alone or in Statement II alone are sufficient to answer the question.",
+        "D": "Data in both the Statements I and II are not sufficient to answer the question.",
+        "E": "Data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "A",
+      "explanation": "From I: In that code language rem tez kullu pullu tullu means ‘Sher Singh is my son’ and ‘gullu sullu rullu pullu’ means ‘is he at home’. Therefore, code for'is' is'pullu' in the given coded language from statement I alone. From II: In that code language nel pullu kullu dela means ‘my daughter is Nirmala’ and setha gama lala means ‘sit with me’. There are no common word in both statements therefore we cannot determine meaning of “pullu” is given coded language from statement II alone.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00084",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254072"
+      }
+    },
+    {
+      "id": "2018_Q59",
+      "question_number": 59,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions given below: Point A is 3m east of point B. Point D 4m north of point of C. Point K 7m west of point J. Point D 4m south of point of A. Point L 4m south of point G who 6m west of point F. Point E 5m east of point C and point B 5m north of point F. Point M 5m south of point E who 4m west of point N. Point K 3m north of Q. Point I is 4m east of point A. Point J is in 6m north of I. What is shortest distance between point N and point K?",
+      "options": {
+        "A": "340m",
+        "B": "m",
+        "C": "75m",
+        "D": "m",
+        "E": "Both b and c"
+      },
+      "correct_answer": "B",
+      "explanation": "m=2 m",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00087",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254075"
+      }
+    },
+    {
+      "id": "2018_Q60",
+      "question_number": 60,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions given below: Point A is 3m east of point B. Point D 4m north of point of C. Point K 7m west of point J. Point D 4m south of point of A. Point L 4m south of point G who 6m west of point F. Point E 5m east of point C and point B 5m north of point F. Point M 5m south of point E who 4m west of point N. Point K 3m north of Q. Point I is 4m east of point A. Point J is in 6m north of I. If Point W 3m east of point J and point V 4m north of point W. what is shortest distance between point V and point L?",
+      "options": {
+        "A": "m",
+        "B": "m",
+        "C": "√(617) m",
+        "D": "24 m",
+        "E": "m"
+      },
+      "correct_answer": "C",
+      "explanation": "Square root of 192+ 162 √(617)",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00088",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254077",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q61",
+      "question_number": 61,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions given below: Point A is 3m east of point B. Point D 4m north of point of C. Point K 7m west of point J. Point D 4m south of point of A. Point L 4m south of point G who 6m west of point F. Point E 5m east of point C and point B 5m north of point F. Point M 5m south of point E who 4m west of point N. Point K 3m north of Q. Point I is 4m east of point A. Point J is in 6m north of I. In which direction point M respect of point Q?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "North east",
+        "D": "south west",
+        "E": "South east"
+      },
+      "correct_answer": "E",
+      "explanation": "point M south east respect of point Q",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00089",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254078",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q72",
+      "question_number": 72,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: Some jacket is shirt. Some shirts are trouser. No shoes are t-shirt. All trousers are shoes. All pants are t-shirt. Conclusions: I. All shirts being t-shirt is a possibility. II. Some shoes are trouser. III. Some jackets are t-shirt. IV. Some shirts being t-shirt is a possibility.",
+      "options": {
+        "A": "Only II and III follow.",
+        "B": "Only II and IV follow",
+        "C": "Only I follows",
+        "D": "All follow",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00100",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254092",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q73",
+      "question_number": 73,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statement: No colour is paper. Some paper is book. All books are eraser. All pens are colour. Conclusions: I. Some papers are eraser. II. All pens being eraser is a possibility. III. Some pens are eraser. IV. Some pens are not eraser.",
+      "options": {
+        "A": "I and II follow",
+        "B": "I and II and either III or IV follows",
+        "C": "I and IV follow",
+        "D": "All follow",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00101",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254093",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q75",
+      "question_number": 75,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statement: All schools are college. Some college are hostel. All hostels are building. No building is land. Conclusion: I. Some land being hostel is a possibility. II. Some hostel is school. III. Some buildings are college. IV. All buildings are school.",
+      "options": {
+        "A": "II and IV follow",
+        "B": "I and III follow",
+        "C": "Only IV follows",
+        "D": "Only III follows",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00102",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254094",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q76",
+      "question_number": 76,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statement: All watch are time. All time are clock. Some watch is period. Some late is period. Conclusion: I. Some clocks are period. II. Some time is watch. III. Some late are time. IV. All watch are clock.",
+      "options": {
+        "A": "II and III follow",
+        "B": "Only I follows",
+        "C": "I, II and IV follow",
+        "D": "All follow",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00103",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254095",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q77",
+      "question_number": 77,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. In a family of 9 members- Jyotsna, Lavanya, Mahesh, Megha, Prem, Priya, Ram, Supriya, and Vijay. There are 2 married couples in the family. Further following information is known: How is Ram related to Lavanya?",
+      "options": {
+        "A": "Mother-in-law",
+        "B": "Father-in-law",
+        "C": "Either a) or b)",
+        "D": "Can't be determined",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "Symbols used are as follows: Option C is the correct answer. Ram’s gender is not known, Ram can be either male or female. Ram can be either Father-in-law or Mother-in-law to Lavanya.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00104",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254096"
+      }
+    },
+    {
+      "id": "2018_Q78",
+      "question_number": 78,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. In a family of 9 members- Jyotsna, Lavanya, Mahesh, Megha, Prem, Priya, Ram, Supriya, and Vijay. There are 2 married couples in the family. Further following information is known: How many male members are there in the family?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "5",
+        "D": "Can't be determined",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "Symbols used are as follows: Option D is the correct answer. Gender of 3 members are not known so, it is not convenient to know the number of male members in the family.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00105",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254097",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q79",
+      "question_number": 79,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. In a family of 9 members- Jyotsna, Lavanya, Mahesh, Megha, Prem, Priya, Ram, Supriya, and Vijay. There are 2 married couples in the family. Further following information is known: Who is the paternal aunt of Megha?",
+      "options": {
+        "A": "Priya",
+        "B": "Jyotsna",
+        "C": "Lavanya",
+        "D": "Can't be determined",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "Symbols used are as follows: Option C is the correct answer. Paternal aunt is Father’s sister. Megha’s paternal aunt is Lavanya.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00106",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254098",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q80",
+      "question_number": 80,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully to answer the given questions. In a family of 9 members- Jyotsna, Lavanya, Mahesh, Megha, Prem, Priya, Ram, Supriya, and Vijay. There are 2 married couples in the family. Further following information is known: If Mahesh is married to Sucheta, how is Sucheta related to Supriya?",
+      "options": {
+        "A": "Mother",
+        "B": "Father",
+        "C": "Grandmother",
+        "D": "Grandfather",
+        "E": "Can't be determined"
+      },
+      "correct_answer": "C",
+      "explanation": "Symbols used are as follows: Option C is the correct answer. As Mahesh is a male and is married to Sucheta(Female. So, Sucheta is grand mother to Supriya.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00107",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254101",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q6",
+      "question_number": 6,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. What is the code for ‘security’?",
+      "options": {
+        "A": "jo",
+        "B": "ti",
+        "C": "tis",
+        "D": "su",
+        "E": "Can’t be determined"
+      },
+      "correct_answer": "E",
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00123",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254118",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q7",
+      "question_number": 7,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. What does ‘za’ stand for?",
+      "options": {
+        "A": "old",
+        "B": "lists",
+        "C": "correction",
+        "D": "with",
+        "E": "Either with or correction"
+      },
+      "correct_answer": "E",
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00124",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254119",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q8",
+      "question_number": 8,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "’Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. tis da tip’ could be a code for which of the following?",
+      "options": {
+        "A": "old regime lists",
+        "B": "regime lists arise",
+        "C": "correction theme case",
+        "D": "India with regime",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00125",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254120",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q9",
+      "question_number": 9,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. Which of the following may represent ‘transparency in old security’?",
+      "options": {
+        "A": "su die mac ti",
+        "B": "die mac jo tip",
+        "C": "die jo nic su",
+        "D": "jo die su mac",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00126",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254121",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q10",
+      "question_number": 10,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "If it is possible to make one meaningful word with the 1st, 5th, 6th and 9th letters of the word OVERWHELM, which of the following will be the second letter from the right end of that word? If no such word can be made, give ‘X’ as the answer and if more than one such words can be made, give ‘V’ as the answer.",
+      "options": {
+        "A": "M",
+        "B": "H",
+        "C": "O",
+        "D": "X",
+        "E": "V"
+      },
+      "correct_answer": "C",
+      "explanation": "Given word: OVERWHELM 1st letter- O 5th letter- W 6th letter- H 9th letter – M Meaningful word – Whom.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00127",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254123",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q11",
+      "question_number": 11,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: Only a few Men are Boys. All Boys are Kids. No Kids are Children. Conclusions: I. Some Men are not Children. II. Some Men are not Boys.",
+      "options": {
+        "A": "If only conclusion II follows",
+        "B": "If either conclusion I or conclusion II follows",
+        "C": "If both conclusions I and II follow",
+        "D": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "C",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: Conclusions: I. Some men are not children – Its sure. Hence, true. II. Some men are not boys – Its sure. Because it is given in the statement that only a few Men are boys, hence true. Hence, both conclusions I and II follow.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00128",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254124"
+      }
+    },
+    {
+      "id": "2019_Q12",
+      "question_number": 12,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: Some Fruits are Mangos. Only Mangos are Tasty. Only a few Mangos are Guavas. Conclusions: I. All Guavas are Mangos. II. No Tasty being Fruit is a possibility.",
+      "options": {
+        "A": "If only conclusion I follows",
+        "B": "If only conclusion II follows",
+        "C": "If either conclusion I or conclusion II follows",
+        "D": "If both conclusions I and II follow",
+        "E": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "B",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: Conclusions: I. All Guavas are Mangos – We can say that but it’s not sure. Hence, false. II. No Tasty being Fruit is a possibility – It’s possible, hence true. The least possible Venn diagram for the given statements is as follows: Conclusions: I. All Guavas are Mangos – We can say that but it’s not sure. Hence, false. II. No Tasty being Fruit is a possibility – It’s possible, hence true.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00129",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254125"
+      }
+    },
+    {
+      "id": "2019_Q13",
+      "question_number": 13,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: Only a few Dairy Milk is Milky Bar. Some Milky Bar is Munch. Only Munch is Perk. Conclusions: I. All Dairy Milk can be Milky Bar II. Some Munch is Milky Bar.",
+      "options": {
+        "A": "If only conclusion I follows",
+        "B": "If only conclusion II follows",
+        "C": "If either conclusion I or conclusion II follows",
+        "D": "If both conclusions I and II follow",
+        "E": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "B",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: Conclusions: 1. All Dairy Milk can be Milky Bar → It’s not possible, because here given in the statement that only a few Dairy Milk is Milky Bar, hence false. 2. Some Munch is Milky Bar → It’s sure, because here given in the statement that some Milky Bar is Munch, hence true. Thus, only conclusion II follow.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00130",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254126"
+      }
+    },
+    {
+      "id": "2019_Q14",
+      "question_number": 14,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: All Trees are Plants. Some Plants are Bushes. Only a few Bushes are Grass. Conclusions: I. No Plant is Grass. II. All Bushes can be Grass.",
+      "options": {
+        "A": "If only conclusion I follows",
+        "B": "If only conclusion II follows",
+        "C": "If either conclusion I or conclusion II follows",
+        "D": "If both conclusions I and II follow",
+        "E": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "E",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: I. No Plants are Grass → It’s a doubtful case, so its false. II. All Bushes can be Grass → It’s not possible, because only a few bushes are grass that means all is not possible, hence false. Thus, neither conclusion I nor conclusion II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00131",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254127"
+      }
+    },
+    {
+      "id": "2019_Q15",
+      "question_number": 15,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: Only a few Dinners are Cake. No Dinner is Apple. Only a few Apples are figures. Conclusions: I. Some apples are not figures. II. No Apple is Cake.",
+      "options": {
+        "A": "If only conclusion I follows",
+        "B": "If only conclusion II follows",
+        "C": "If either conclusion I or conclusion II follows",
+        "D": "If both conclusions I and II follow",
+        "E": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "A",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: I. Some apples are not figures → It’s true because it is given that only a few Apples are figures. II. No Apple is Cake → It’s doubtful, hence false. Thus, only conclusion I follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00132",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254128"
+      }
+    },
+    {
+      "id": "2019_Q21",
+      "question_number": 21,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is the direction of X with respect to R?",
+      "options": {
+        "A": "North",
+        "B": "East",
+        "C": "North – West",
+        "D": "West",
+        "E": "South – West"
+      },
+      "correct_answer": "C",
+      "explanation": "1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, point X is in North – West direction with respect to point R.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00138",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254134"
+      }
+    },
+    {
+      "id": "2019_Q22",
+      "question_number": 22,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. If point A is the point of intersection of line segment RS and UV then which of the following is/ are true about A?",
+      "options": {
+        "A": "Point Y is North of A",
+        "B": "AV+ AU= XW – 6",
+        "C": "A is to the North of U",
+        "D": "All are true",
+        "E": "None is true."
+      },
+      "correct_answer": "B",
+      "explanation": "1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, AV+ AU= XW – 6 is true about A.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00139",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254135"
+      }
+    },
+    {
+      "id": "2019_Q23",
+      "question_number": 23,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is total distance travelled by Raga in west direction?",
+      "options": {
+        "A": "64 m",
+        "B": "35 m",
+        "C": "45 m",
+        "D": "28 m",
+        "E": "56 m"
+      },
+      "correct_answer": "B",
+      "explanation": "1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Total distance travelled in West direction is: 28+ 7= 35 m Hence, 35 m is travelled in West direction.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00140",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254136"
+      }
+    },
+    {
+      "id": "2019_Q24",
+      "question_number": 24,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is the direction of point T with respect to Y?",
+      "options": {
+        "A": "South",
+        "B": "North – West",
+        "C": "South – East",
+        "D": "South – West",
+        "E": "North – East"
+      },
+      "correct_answer": "C",
+      "explanation": "1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, point T is South – East of point Y.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00141",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254137"
+      }
+    },
+    {
+      "id": "2019_Q25",
+      "question_number": 25,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: S<=T<P=D; P<=M;R>=M Conclusions: I.M<=S II.D>S",
+      "options": {
+        "A": "Neither conclusion I nor II is true.",
+        "B": "Either conclusion I or II is true.",
+        "C": "Only conclusion II is true.",
+        "D": "Both conclusions I and II and true.",
+        "E": "Only conclusion I is true."
+      },
+      "correct_answer": "C",
+      "explanation": "Statements: For conclusion I: S ≤ T< P= D ≤ M ≤ R Check for conclusion I: S ≤ T< P= D ≤ M ≤ R, does not hold true. Check for conclusion II: S ≤ T< P= D ≤ M ≤ R, holds true. Only option C) is correct.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00142",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254138"
+      }
+    },
+    {
+      "id": "2019_Q26",
+      "question_number": 26,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: S<=T<P=D; P<+M; R>=M Conclusions: I.D<R II. R=D",
+      "options": {
+        "A": "Neither conclusion I nor II is true.",
+        "B": "Either conclusion I or II is true.",
+        "C": "Only conclusion II is true.",
+        "D": "Both conclusions I and II and true.",
+        "E": "Only conclusion I is true."
+      },
+      "correct_answer": "B",
+      "explanation": "Check for conclusion I: S ≤ T< P= D ≤ M ≤ R, R> D may holds true. Check for conclusion II: S ≤ T< P= D ≤ M ≤ R, R=D also may holds true. Only option B) is correct.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00143",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254140"
+      }
+    },
+    {
+      "id": "2019_Q27",
+      "question_number": 27,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: L>=J>=U<=P; D<=P;U>=T Conclusions: I.L>T II.D<=J",
+      "options": {
+        "A": "Neither conclusion I nor II is true.",
+        "B": "Either conclusion I or II is true.",
+        "C": "Only conclusion II is true.",
+        "D": "Both conclusions I and II and true.",
+        "E": "Only conclusion I is true."
+      },
+      "correct_answer": "E",
+      "explanation": "Statements: Check for conclusion I: L≥ J≥U>T≤P≥D, holds true. Check for conclusion II: L≥ J≥U≤P≥D does not hold true. Only option E) is correct.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00144",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254141"
+      }
+    },
+    {
+      "id": "2019_Q40",
+      "question_number": 40,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Each of the consonants in the word ORGANISATION is replaced by number 3 and each vowel is replaced by its numeric place value in the English alphabet series i.e. A is by 1, E is by 5 and so on. What is the total sum of all the numbers once the replacement is completed?",
+      "options": {
+        "A": "65",
+        "B": "70",
+        "C": "72",
+        "D": "68",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "After replacing the consonants by 3 and vowels by its place value in English alphabet, we get 15 3 3 1 3 9 3 1 3 9 15 3 Required sum= 68",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00157",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254155"
+      }
+    },
+    {
+      "id": "2022_Q141",
+      "question_number": 141,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "From which of the below given words maximum words can be formed by replacing the vowel with other vowels without changing the position of any letter?",
+      "options": {
+        "A": "SICK",
+        "B": "LIST",
+        "C": "TICK",
+        "D": "TEST",
+        "E": "FARM"
+      },
+      "correct_answer": "B",
+      "explanation": "The possible words are LIST, LAST, LEST, LOST, LUST.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00178",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254180",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q142",
+      "question_number": 142,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "In the word “REVOLUTION”, how many pairs of letters has as many vowels between them as in the English Alphabet from left to right?",
+      "options": {
+        "A": "two",
+        "B": "three",
+        "C": "four",
+        "D": "more than four",
+        "E": "None of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "The pairs are RV, EO, OL, LT, UT, UI, IO, ON.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00179",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254181",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q150",
+      "question_number": 150,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven people P, Q, R, S, T, U, and V are from seven different countries India, Brazil, China, USA, UAE, UK, and Russia not necessarily in the same order. Each one of them works in the same company but on different designation i.e., Chief Executive Officer (CEO), Chairman, Manager, Deputy Manager (DM), Assistant Manager (AM), Assistant and Clerk. These ranks are given in descending order (ex. CEO is the senior and Clerk is the junior). P is senior to V but he is neither CEO nor Manager. U is senior to R who is not from UAE. Two designations are between Q and the one who is from Brazil. P is from China and immediate senior to the one who is from UAE. Q is a junior to the AM and he is from Russia. More than four people are senior to S. The number of people who are senior to the one who is from Brazil is the same as the number of people junior to V. T is from the USA and is junior to one who is from India. In a family, T is the mother of J. J is the husband of C. C is the mother of K. K is married to L. Y is the mother of L. Y is married to S. R is married to P. K is the brother of P. O is the daughter of K.How is O related to R?",
+      "options": {
+        "A": "Niece",
+        "B": "Nephew",
+        "C": "Son",
+        "D": "Can’t be determined",
+        "E": "Daughter"
+      },
+      "correct_answer": "A",
+      "explanation": "From the family tree, O is the daughter of K, and K is the brother of P. R is married to P. Therefore, O is the niece of R.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Blood Relations",
+      "topic": "Blood Relations",
+      "question_id": "REASONING_00185",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254188",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q175",
+      "question_number": 175,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statements: L ≥ A ≥ C, K= Y ≤ C, H> D ≤ K, A> E< Y Conclusions: I) D< A II) A= D III) L> Y",
+      "options": {
+        "A": "All the conclusions follow",
+        "B": "Either conclusion I or II follows",
+        "C": "Only conclusion III follows",
+        "D": "Only conclusion II and III follow",
+        "E": "None of the conclusions follows"
+      },
+      "correct_answer": "B",
+      "explanation": "For conclusion I: D<A From statements I, II and III, we get: D<K=Y<C≤A Here, the common sign between D and A is '≤', hence D≤A. Thus, conclusion I does not follow individually. For conclusion II: A=D From statements I, II and III, we get: D≤K=Y≤C≤A Here, the common sign between D and A is '≤', hence D≤A. Thus, conclusion II does not follow individually. On combining conclusion I and II we get D≤A. Therefore, either conclusion I or II follows. For conclusion III: L>Y From statements I and II, we get: Y≤C≤A≤L Thus, the common sign between Y and L is '≤', Therefore Y≤L is the true relationship. Hence conclusion III does not follow.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00209",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254214"
+      }
+    },
+    {
+      "id": "2022_Q176",
+      "question_number": 176,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statements: M> H= A, X ≥ G< H, Y< M< P, G> O> K Conclusions: I) P> X II) G< P III) Y< H",
+      "options": {
+        "A": "All the conclusions follow",
+        "B": "Either conclusion I or II follows",
+        "C": "Only conclusion I and III follow",
+        "D": "Only conclusion II follows",
+        "E": "None of the conclusions follows"
+      },
+      "correct_answer": "D",
+      "explanation": "For conclusion I: P>X From statements II and III, we get: X≥G<H<M<P Here, we can see the opposite sign between P and X, thus no relationship can be established between them. Thus, conclusion I does not follow. For conclusion II: G<P From statements I, II and III, we get: G<H<M<P Here, the common sign between G and P is '<'. Hence G<P. Hence conclusion II follows. For conclusion III: Y<H From statements I and III, we get: Y<M>H Here, we can see the opposite sign between Y and H, thus no relationship can be established between them. Thus, conclusion III does not follow. Therefore, only conclusion II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00210",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254215"
+      }
+    },
+    {
+      "id": "2022_Q177",
+      "question_number": 177,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Conditions: I) If the right most element in the group is an odd digit and the left most element is an even digit, then reverse the order of the code for the group. II) If the right most element is a symbol and the left most is an even digit, then the codes of these two get interchanged. III) If both the right most and the left most elements are symbols, then the code for both will be Z. IV) If the right most element in the group is an even digit and the left most element is an odd digit, then the codes for the first two elements get interchanged between them and the codes for the last two elements get interchanged between them. V) If the right most element is an odd digit and the left most element is a symbol, then the code for both will be Y. 5@\\*8172",
+      "options": {
+        "A": "EFLAHDG",
+        "B": "FELAHDG",
+        "C": "FELAHGD",
+        "D": "EFLAHGD",
+        "E": "None of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "Condition (IV) will apply 5 @ * 8 1 7 2 → E F L A H G D",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00211",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254216",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q178",
+      "question_number": 178,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Conditions: I) If the right most element in the group is an odd digit and the left most element is an even digit, then reverse the order of the code for the group. II) If the right most element is a symbol and the left most is an even digit, then the codes of these two get interchanged. III) If both the right most and the left most elements are symbols, then the code for both will be Z. IV) If the right most element in the group is an even digit and the left most element is an odd digit, then the codes for the first two elements get interchanged between them and the codes for the last two elements get interchanged between them. V) If the right most element is an odd digit and the left most element is a symbol, then the code for both will be Y. 40!371&",
+      "options": {
+        "A": "VHDJMTB",
+        "B": "BTMJDHV",
+        "C": "TBMJDVH",
+        "D": "VTMJDHB",
+        "E": "ZTMJDHZ"
+      },
+      "correct_answer": "B",
+      "explanation": "Condition (I) will apply 4 0 ! 3 7 1 & → B T M J D H V",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00212",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254217",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q179",
+      "question_number": 179,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Conditions: I) If the right most element in the group is an odd digit and the left most element is an even digit, then reverse the order of the code for the group. II) If the right most element is a symbol and the left most is an even digit, then the codes of these two get interchanged. III) If both the right most and the left most elements are symbols, then the code for both will be Z. IV) If the right most element in the group is an even digit and the left most element is an odd digit, then the codes for the first two elements get interchanged between them and the codes for the last two elements get interchanged between them. V) If the right most element is an odd digit and the left most element is a symbol, then the code for both will be Y. 857&219",
+      "options": {
+        "A": "AFDBGHC",
+        "B": "FADBGCH",
+        "C": "CHGBDFA",
+        "D": "CFDBGHA",
+        "E": "YFDBGHY"
+      },
+      "correct_answer": "C",
+      "explanation": "Condition (I) will apply 8 5 7 & 2 1 9 → C H G B D F A",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00213",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254218",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q180",
+      "question_number": 180,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "In a certain code language, ‘board neck spiritual truck’ is written as ‘ga po ni fu’ ‘spiritual bloom if preach’ is written as ‘dx ga bd pk’ ‘truck for neck preach’ is written as ‘ni sr fu dx’ ‘board bloom if bird’ is written as ‘bd po pk ke’ What is the code for ‘bloom’ as per the given code language?",
+      "options": {
+        "A": "dx",
+        "B": "ga",
+        "C": "either ‘bd’ or ‘pk’",
+        "D": "either ‘ni’ or ‘po’",
+        "E": "po"
+      },
+      "correct_answer": "C",
+      "explanation": "ga-spiritual, dx-preach, po-board, sr-for, ke-bird, truck & neck (fu or ni), bloom & if (bd or pk)",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00214",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254220",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q141",
+      "question_number": 141,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "In the word ‘GLASTONBURY’, change every vowel after k to the third consonant after it...and every consonant to previous letter and then after changing, delete the letters that appear more than once and vowels if left. Which of the following letter will come in the middle of the newly formed word?",
+      "options": {
+        "A": "X",
+        "B": "R",
+        "C": "K",
+        "D": "S",
+        "E": "M"
+      },
+      "correct_answer": "D",
+      "explanation": "G – 1= F L – 1= K A= A S-1= R T – 1= S O+ 3= R N – 1= M B – 1= A U+ 3= X R – 1= Q Y – 1= X The word formed is 'FKARSRMAXQX' Now delete the vowels and letters that appear more than once. FKRSMXQ So, letter 'S' comes in the middle.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00229",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254237"
+      }
+    },
+    {
+      "id": "2023_Q142",
+      "question_number": 142,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Consider the following words which have one blank each. You are required to fill the blanks from one of the given options below. I. CUPBOARD : NRMZ : : CUPCAKE : ___ II. LUXURY : OXAV : : BOTTLE : ___ III. MIRROR : ___ : : SPOON : QONPM",
+      "options": {
+        "A": "T and B",
+        "B": "Q and D",
+        "C": "C and S",
+        "D": "P and E",
+        "E": "All of the above belong to the same city"
+      },
+      "correct_answer": "B",
+      "explanation": "The meaningful words formed are: FALK, BLUR, CLOG and WELT.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00230",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254238",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q148",
+      "question_number": 148,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Conclusion: I. Some Briefcase are not Umbrella. II. Some Umbrella not being Charger is a possibility. III. Some Truck can never be Charger.",
+      "options": {
+        "A": "Some Umbrella are Truck. All Truck are Briefcase. No Briefcase is Umbrella. Some Umbrella are Charger. All Glass are Charger.",
+        "B": "All Briefcase is Umbrella. Some Umbrella are Charger. Some Charger are Truck. All Truck are Glass. No Glass is Water.",
+        "C": "Some Truck are Water. All Water are Umbrella. No Umbrella is Charger. Some Charger are Briefcase. All Briefcase are Glass.",
+        "D": "Only Water are Truck. Some Glass are Briefcase. No Umbrella is Glass. Some Water are Umbrella. All Briefcase are Charger.",
+        "E": "Some Briefcase are Umbrella. All Umbrella are Charger. No Charger is Truck. All Truck are Glass. Some Glass are not Water."
+      },
+      "correct_answer": "D",
+      "explanation": "Option B gets eliminated because it says 'All Briefcase is Umbrella' whereas in the conclusion it is given 'Some Briefcase are not Umbrella'. Option C is also eliminated because it says 'No Umbrella is Charger' which is a definite conclusion. So the conclusion 'Some Umbrella not being Charger is a possibility' does not follow because 'no umbrella is charger' is a definite conclusion and hence not a possibility. Option E is also eliminated because it contains 'All umbrella are charger' whereas in the conclusion it is given 'Some Umbrella not being Charger is a possibility.' Option A is also eliminated as it is not possible to make a diagram of it. So, option D should be the answer. The basic diagram of it is as follows: Since only water are truck, so truck cannot be anything else except water. So, all the three conclusion follows from statements in Option D.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00236",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254244",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q149",
+      "question_number": 149,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Conclusion: I. Some football can never be Chess. II. Some Volleyball not being Boxing is a possibility. III. Some Boxing can be Cricket.",
+      "options": {
+        "A": "All Cricket are Football. No Football is Volleyball. Some Boxing are Chess. No Chess is Cricket.",
+        "B": "Some Cricket are Football. All Football are Volleyball. Some Chess are Boxing. No Boxing is Volleyball. No Chess is Cricket.",
+        "C": "Only Football are Cricket. Some Football are Chess. No chess is Volleyball. All Volleyball are Boxing.",
+        "D": "Some Cricket are Football. All Football are Chess. Some Chess are Boxing. Some Boxing are Volleyball.",
+        "E": "No Cricket is Football. Some Football are Volleyball. All Boxing are Chess. No Chess is Cricket."
+      },
+      "correct_answer": "A",
+      "explanation": "Option B is eliminated because it says 'No Boxing is Volleyball' which makes the conclusion 'Some Volleyball not being Boxing is a possibility' false because 'no boxing is volleyball' is a definite statement and hence we cannot get a possible conclusion between volleyball and boxing. Option C is eliminated because it contains 'all volleyball are boxing' which makes the conclusion 'some volleyball not being boxing is a possibility' false. Option D is eliminated because it says 'All football are chess' which makes the conclusion 'some football can never be chess' false. Option E is eliminated because it says 'All Boxing are Chess. No Chess is Cricket' which implies 'No boxing is Cricket' which makes the conclusion 'Some boxing can be cricket' false. The basic diagram for Option A is as follows: We can draw possible diagrams for option A to check for possible conclusions.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00237",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254246",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q150",
+      "question_number": 150,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Conclusion: I. Some N are R. II. All O which are N is also S is a possibility. III. Some Z are R.",
+      "options": {
+        "A": "Some M are R. Only a few R are O. No O is N. Some N is S. All S are Z.",
+        "B": "Some M are O. Only a few O are R. No R is S. Some S is N. All N are Z.",
+        "C": "Some M are O. Only a few O are R. No N are R. Some N are S. All S are Z.",
+        "D": "Some O are R. Some M are O. Some R are N. Some N are S. All N are Z.",
+        "E": "All Follows."
+      },
+      "correct_answer": "D",
+      "explanation": "Option C is eliminated because it contains 'No N are R' whereas conclusion I contains 'some N are R'. So, Option E is also eliminated. Option A is also eliminated because it contains 'No O is N' which makes conclusion II false. Option B is also eliminated because 'some N are R' and 'some Z are R' does not always follow. This is because option B contains 'No R is S'. So, option D is the answer and its basic diagram is as follows:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00238",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254247",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q151",
+      "question_number": 151,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Conclusion: I. Some Red are not Carrot. II. Some Chili being not Garlic is not a possibility. III. Some Green are not Tomato.",
+      "options": {
+        "A": "Some Garlic are not Chili. All Garlic are Red. No Red is Carrot. Some Carrot are Green. All Green are Tomato.",
+        "B": "All Red are Tomato. Some Tomato are Green. No Green is Chili. All Chili are Carrot. Some Garlic are Carrot.",
+        "C": "All Red are Chili. All Tomato are Garlic. Some Garlic are Carrot. No Chili is Carrot. Some Green are Chili. No Green is Garlic.",
+        "D": "All Carrot are Chili. Some Chili are Tomato. No tomato is Green. Some Green are Garlic. No Garlic is Red.",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "Option A is eliminated because it contains 'all green are tomato' which makes conclusion III false. From option B, we can draw the below possible diagram which makes conclusion I false. So, Option B is also eliminated. From Option C, Conclusion II is true because in option C, some chili being not garlic is a definite conclusion and not a possibility. So, Option C is the answer as all the conclusions follow from Option C. Option D is also eliminated because conclusion I does not hold true.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00239",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254248",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q152",
+      "question_number": 152,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Consider the below symbols and their meaning: ‘A^ B’ means ‘A is either greater than or equal to B’ ‘A% B’ means ‘A is neither greater than nor smaller than B’ ‘A? B’ means ‘A is neither smaller than nor equal to B’ ‘A! B’ means ‘A is neither greater than nor equal to B’ ‘A+ B’ means ‘A is either smaller than or equal to B’. Which of the following symbols should be placed in the blank spaces in order to complete the given expression in such a manner that makes the expressions ‘J^ F’ and ‘K? G’ true?  K? J% H___ G^ F! E",
+      "options": {
+        "A": "^",
+        "B": "+",
+        "C": "%",
+        "D": "?",
+        "E": "Either (a) or (c)"
+      },
+      "correct_answer": "E",
+      "explanation": "'J^ F' means J ≥ F 'K? G' means K> G K? J% H___ G^ F! E K> J= H___ G ≥ F< E So, either '=' or '≥' will make both the expressions true. So, Option E is the right answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Inequalities",
+      "topic": "Inequalities",
+      "question_id": "REASONING_00240",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254249"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

@@ -1,0 +1,59 @@
+======================================================================
+RBI GRADE B - GENERAL AWARENESS PILOT RUN SUMMARY
+======================================================================
+
+Generation Date: 2025-10-02 20:08:58
+Model Used: gemini-2.5-pro
+Generation Type: RAG (Retrieval-Augmented Generation)
+Total Questions: 5
+Target Questions: 5
+Validation Status: ✅ Passed
+
+======================================================================
+SOURCE DOCUMENTS
+======================================================================
+1. Economic_Survey_2024_2023.pdf
+2. Economic_Survey_2024_2025.pdf
+
+======================================================================
+DIFFICULTY DISTRIBUTION
+======================================================================
+✅ Hard    : 2/2
+✅ Medium  : 2/2
+✅ Easy    : 1/1
+
+======================================================================
+TOPIC DISTRIBUTION
+======================================================================
+Economic_Indicators           : 3
+Banking_Sector                : 1
+Government_Initiatives        : 1
+
+======================================================================
+SOURCE DOCUMENT USAGE
+======================================================================
+Economic_Survey_2024_2023.pdf                     : 4
+Economic_Survey_2024_2023.pdf, Economic_Survey_2024_2025.pdf: 1
+
+======================================================================
+SAMPLE QUESTIONS
+======================================================================
+
+Q1. According to the Economic Survey 2023-24, what was the estimated real GDP growth rate for the financial year 2024 (FY24)?
+    Difficulty: Easy
+    Topic: Economic_Indicators
+    Source: Economic_Survey_2024_2023.pdf
+    Correct Answer: C
+
+Q2. As per the Economic Survey 2023-24, the Gross Non-Performing Assets (GNPA) ratio of Scheduled Commercial Banks (SCBs) reached a 12-year low at the end of March 2024. What was this specific GNPA ratio?
+    Difficulty: Medium
+    Topic: Banking_Sector
+    Source: Economic_Survey_2024_2023.pdf
+    Correct Answer: C
+
+Q3. The Economic Survey 2023-24 discusses the revamp of the Credit Guarantee Scheme (CGS) for Micro and Small Enterprises. What was the credit limit under this scheme enhanced to, from the previous limit of ₹2 crore?
+    Difficulty: Medium
+    Topic: Government_Initiatives
+    Source: Economic_Survey_2024_2023.pdf
+    Correct Answer: C
+

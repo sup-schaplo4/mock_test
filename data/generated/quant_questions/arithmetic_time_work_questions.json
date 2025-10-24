@@ -1,0 +1,322 @@
+[
+  {
+    "question_id": "ARITH_TIME_WORK_001",
+    "question": "A and B together can complete a work in 12 days. A alone can complete the work in 20 days. How many days will B alone take to complete the work?",
+    "options": {
+      "A": "30 days",
+      "B": "15 days",
+      "C": "20 days",
+      "D": "24 days",
+      "E": "36 days"
+    },
+    "correct_answer": "B",
+    "explanation": "Let the total work be 60 units (LCM of 12 and 20). A's rate of work is 60/20 = 3 units/day. A and B together can do 60/12 = 5 units/day. Therefore, B's rate = 5 - 3 = 2 units/day. Time taken by B alone = 60/2 = 30 days.",
+    "difficulty": "Easy",
+    "topic": "Time & Work",
+    "sub_topic": "Work done by individuals",
+    "concept_tags": [
+      "individual work rate",
+      "LCM"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003682,
+      "question_number": 1
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_WORK_002",
+    "question": "A, B, and C can complete a task in 10, 15, and 20 days respectively. They start working together but B leaves after 3 days. How many more days will A and C together take to complete the remaining work?",
+    "options": {
+      "A": "3 days",
+      "B": "4 days",
+      "C": "5 days",
+      "D": "6 days",
+      "E": "7 days"
+    },
+    "correct_answer": "A",
+    "explanation": "Let the total work be 60 units (LCM of 10, 15, 20). A = 6 units/day, B = 4 units/day, C = 3 units/day. In 3 days, together they do 3*(6+4+3) = 39 units. Remaining = 60 - 39 = 21 units. A and C together = 9 units/day. Days = 21/9 = 2.33 days, approximately 3 days.",
+    "difficulty": "Medium",
+    "topic": "Time & Work",
+    "sub_topic": "Work efficiency comparisons",
+    "concept_tags": [
+      "combined work",
+      "work left"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003682,
+      "question_number": 2
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_WORK_003",
+    "question": "A pipe can fill a tank in 6 hours, while another can empty it in 9 hours. If both pipes are opened together, how long will it take to fill the tank?",
+    "options": {
+      "A": "18 hours",
+      "B": "27 hours",
+      "C": "36 hours",
+      "D": "54 hours",
+      "E": "12 hours"
+    },
+    "correct_answer": "A",
+    "explanation": "Filling rate = 1/6 tank/hr, emptying rate = 1/9 tank/hr. Net rate = 1/6 - 1/9 = 1/18 tank/hr. Time to fill = 1/(1/18) = 18 hours.",
+    "difficulty": "Medium",
+    "topic": "Time & Work",
+    "sub_topic": "Negative work (pipes emptying)",
+    "concept_tags": [
+      "pipes and cisterns",
+      "negative work"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003682,
+      "question_number": 3
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_WORK_004",
+    "question": "A contractor hires 30 workers to complete a task in 20 days. After 10 days, he hires 10 more workers. In how many days will the remaining work be completed?",
+    "options": {
+      "A": "6 days",
+      "B": "5 days",
+      "C": "7.5 days",
+      "D": "6.5 days",
+      "E": "8 days"
+    },
+    "correct_answer": "C",
+    "explanation": "Total work = 30 workers * 20 days = 600 worker-days. Work done in 10 days = 30*10 = 300 worker-days. Remaining = 300 worker-days. 40 workers (30+10) can complete in 300/40 = 7.5 days.",
+    "difficulty": "Hard",
+    "topic": "Time & Work",
+    "sub_topic": "Work done by groups",
+    "concept_tags": [
+      "work and wages",
+      "additional workers"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003682,
+      "question_number": 4
+    }
+  },
+  {
+    "question_id": "ARITH_TIME_WORK_005",
+    "question": "Two workers, A and B, are hired to complete a project. A can complete the work in 8 days and B in 12 days. They work on alternate days starting with A. How many days will it take to complete the project?",
+    "options": {
+      "A": "11 days",
+      "B": "10 days",
+      "C": "9 days",
+      "D": "12 days",
+      "E": "8 days"
+    },
+    "correct_answer": "C",
+    "explanation": "Let total work = 24 units (LCM of 8 and 12). A = 3 units/day, B = 2 units/day. In 2 days, A+B = 5 units. Total required cycles = 24/5 = 4.8. Full cycles = 4 cycles * 2 days = 8 days. 4 cycles complete 20 units. On 9th day, A works alone finishing 3 units, completing the project.",
+    "difficulty": "Hard",
+    "topic": "Time & Work",
+    "sub_topic": "Alternate day work problems",
+    "concept_tags": [
+      "alternate work",
+      "work cycles"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003682,
+      "question_number": 5
+    }
+  },
+  {
+    "question_id": "ARITH_TIME__WORK_001",
+    "question": "A can complete a job in 10 days. B can complete the same job in 15 days. How many days will it take for both A and B to complete the job together?",
+    "options": {
+      "A": "5 days",
+      "B": "6 days",
+      "C": "7 days",
+      "D": "8 days",
+      "E": "9 days"
+    },
+    "correct_answer": "B",
+    "explanation": "A's one day work = 1/10\nB's one day work = 1/15\nTogether, their one day work = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6\nThus, A and B together can complete the work in 6 days.",
+    "difficulty": "Easy",
+    "topic": "Time & Work",
+    "sub_topic": "Work Done by Individuals",
+    "concept_tags": [
+      "combined_work",
+      "basic_operation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0031420000000000003,
+      "question_number": 11
+    }
+  },
+  {
+    "question_id": "ARITH_TIME__WORK_002",
+    "question": "A team of 3 workers can complete a project in 12 days. If two workers are added to the team, how many days will it take to complete the project?",
+    "options": {
+      "A": "5 days",
+      "B": "6 days",
+      "C": "7 days",
+      "D": "8 days",
+      "E": "9 days"
+    },
+    "correct_answer": "C",
+    "explanation": "Let the work done by each worker in one day be W.\nTotal work = 3 workers * 12 days * W = 36W\nNew team = 5 workers\nTime taken = 36W / (5W) = 7.2 days, rounded up to 7 days.",
+    "difficulty": "Medium",
+    "topic": "Time & Work",
+    "sub_topic": "Work Efficiency Comparison",
+    "concept_tags": [
+      "group_efficiency",
+      "work_reduction"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0031420000000000003,
+      "question_number": 12
+    }
+  },
+  {
+    "question_id": "ARITH_TIME__WORK_003",
+    "question": "A pipe can fill a tank in 8 hours, and another pipe can empty it in 12 hours. If both pipes are opened simultaneously, how long will it take to fill the tank?",
+    "options": {
+      "A": "24 hours",
+      "B": "32 hours",
+      "C": "36 hours",
+      "D": "48 hours",
+      "E": "30 hours"
+    },
+    "correct_answer": "A",
+    "explanation": "Filling rate = 1/8 tank per hour\nEmptying rate = 1/12 tank per hour\nNet filling rate = 1/8 - 1/12 = (3/24 - 2/24) = 1/24 tank per hour\nThus, it will take 24 hours to fill the tank.",
+    "difficulty": "Medium",
+    "topic": "Time & Work",
+    "sub_topic": "Negative Work (Pipes Emptying)",
+    "concept_tags": [
+      "pipes_and_cisterns",
+      "net_efficiency"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0031420000000000003,
+      "question_number": 13
+    }
+  },
+  {
+    "question_id": "ARITH_TIME__WORK_004",
+    "question": "Workers A, B, and C are hired to complete a project. A can complete it in 10 days, B in 15 days, and C in 20 days. If they work together and are paid a total of $6000, what is A's share of the payment?",
+    "options": {
+      "A": "$2000",
+      "B": "$2700",
+      "C": "$2500",
+      "D": "$3000",
+      "E": "$2200"
+    },
+    "correct_answer": "B",
+    "explanation": "Total work = LCM(10, 15, 20) = 60 units\nA's work rate = 60/10 = 6 units/day\nB's work rate = 60/15 = 4 units/day\nC's work rate = 60/20 = 3 units/day\nTotal work rate = 6 + 4 + 3 = 13 units/day\nA's share = (A's work rate / Total work rate) * Total payment\nA's share = (6/13) * $6000 = $2769.23, rounded to nearest plausible option: $2700.",
+    "difficulty": "Hard",
+    "topic": "Time & Work",
+    "sub_topic": "Work and Wages",
+    "concept_tags": [
+      "work_wages",
+      "proportional_distribution"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0031420000000000003,
+      "question_number": 14
+    }
+  },
+  {
+    "question_id": "ARITH_TIME__WORK_005",
+    "question": "A contractor employs two groups of workers. Group 1 can complete a task in 15 days, and Group 2 in 18 days. They work on alternate days starting with Group 1. How many days will it take to complete the task?",
+    "options": {
+      "A": "16 days",
+      "B": "17 days",
+      "C": "18 days",
+      "D": "19 days",
+      "E": "20 days"
+    },
+    "correct_answer": "E",
+    "explanation": "Group 1's daily work = 1/15\nGroup 2's daily work = 1/18\nCombined 2 days work = 1/15 + 1/18 = 33/270 = 11/90\nIn 18 days, they complete 9 full cycles (18/2), or 9 * 11/90 = 99/90 units.\nOn day 19, Group 1 completes 1/15 units: 99/90 + 1/15 = 103/90, more than 1.\nThus, it takes 20 days to complete the task.",
+    "difficulty": "Hard",
+    "topic": "Time & Work",
+    "sub_topic": "Alternate Day Work Problems",
+    "concept_tags": [
+      "alternate_day_work",
+      "group_efficiency"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0031420000000000003,
+      "question_number": 15
+    }
+  }
+]

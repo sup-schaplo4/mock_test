@@ -1,0 +1,28 @@
+# Core dependencies
+openai>=1.0.0
+google-generativeai>=0.3.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+pymupdf>=1.23.0
+
+# Data processing
+json5>=0.9.0
+python-dotenv>=1.0.0
+
+# Image processing (for charts)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+Pillow>=10.0.0
+
+# Web scraping (if needed)
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+
+# Utilities
+tqdm>=4.65.0
+colorama>=0.4.6

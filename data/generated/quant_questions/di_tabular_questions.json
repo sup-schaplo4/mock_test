@@ -1,0 +1,714 @@
+[
+  {
+    "di_set_id": "DI_TABLE_001",
+    "topic": "Table - Sales & Revenue Analysis",
+    "difficulty": "Easy",
+    "data_source": {
+      "type": "table",
+      "title": "Quarterly Sales and Revenue of Products (2022)",
+      "data": {
+        "headers": [
+          "Quarter",
+          "Product A Sales",
+          "Product B Sales",
+          "Product A Revenue",
+          "Product B Revenue"
+        ],
+        "rows": [
+          [
+            "Q1",
+            "2,500",
+            "3,200",
+            "5,000",
+            "6,400"
+          ],
+          [
+            "Q2",
+            "2,800",
+            "3,500",
+            "5,600",
+            "7,000"
+          ],
+          [
+            "Q3",
+            "3,000",
+            "3,800",
+            "6,000",
+            "7,600"
+          ],
+          [
+            "Q4",
+            "3,200",
+            "4,000",
+            "6,400",
+            "8,000"
+          ]
+        ]
+      },
+      "units": {
+        "sales": "units",
+        "revenue": "in thousands"
+      }
+    },
+    "questions": [
+      {
+        "question_id": "DI_Table_001_Q1",
+        "question": "What is the total sales of Product A in 2022?",
+        "options": {
+          "A": "11,500 units",
+          "B": "11,000 units",
+          "C": "12,000 units",
+          "D": "10,500 units",
+          "E": "12,500 units"
+        },
+        "correct_answer": "A",
+        "explanation": "Total sales of Product A = 2,500 + 2,800 + 3,000 + 3,200 = 11,500 units.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q2",
+        "question": "What is the percentage increase in revenue for Product B from Q1 to Q4?",
+        "options": {
+          "A": "20%",
+          "B": "25%",
+          "C": "30%",
+          "D": "15%",
+          "E": "12.5%"
+        },
+        "correct_answer": "C",
+        "explanation": "Percentage increase = [(8,000 - 6,400) / 6,400] * 100 = 25%.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q3",
+        "question": "Which quarter had the highest total revenue for both products combined?",
+        "options": {
+          "A": "Q1",
+          "B": "Q2",
+          "C": "Q3",
+          "D": "Q4",
+          "E": "Q2 and Q3 tied"
+        },
+        "correct_answer": "D",
+        "explanation": "Total revenue for each quarter: Q1 = 11,400, Q2 = 12,600, Q3 = 13,600, Q4 = 14,400. Highest is Q4.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q4",
+        "question": "What is the ratio of total sales of Product A to Product B in 2022?",
+        "options": {
+          "A": "23:28",
+          "B": "28:23",
+          "C": "25:30",
+          "D": "30:25",
+          "E": "21:29"
+        },
+        "correct_answer": "A",
+        "explanation": "Total sales of Product A = 11,500, Product B = 14,500. Ratio = 11,500:14,500 = 23:28.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q5",
+        "question": "If the revenue per unit for Product A is consistent throughout the year, what is the revenue per unit in Q1?",
+        "options": {
+          "A": "2.0",
+          "B": "2.2",
+          "C": "2.4",
+          "D": "2.6",
+          "E": "2.8"
+        },
+        "correct_answer": "A",
+        "explanation": "Revenue per unit in Q1 = Total Revenue / Total Sales = 5,000 / 2,500 = 2.0.",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:27:52.596151",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012065,
+      "tokens_used": 1961
+    }
+  },
+  {
+    "di_set_id": "DI_TABLE_002",
+    "topic": "Table - Bank Branch Performance (2020-2024)",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "table",
+      "title": "Annual Performance of Bank Branches (in million USD)",
+      "data": {
+        "headers": [
+          "Year",
+          "Branch A",
+          "Branch B",
+          "Branch C",
+          "Branch D",
+          "Branch E"
+        ],
+        "rows": [
+          [
+            "2020",
+            "150",
+            "200",
+            "180",
+            "220",
+            "190"
+          ],
+          [
+            "2021",
+            "160",
+            "210",
+            "185",
+            "230",
+            "195"
+          ],
+          [
+            "2022",
+            "170",
+            "220",
+            "190",
+            "240",
+            "205"
+          ],
+          [
+            "2023",
+            "180",
+            "230",
+            "200",
+            "250",
+            "210"
+          ],
+          [
+            "2024",
+            "190",
+            "240",
+            "210",
+            "260",
+            "220"
+          ]
+        ]
+      },
+      "units": "in million USD"
+    },
+    "questions": [
+      {
+        "question_id": "DI_Table_002_Q1",
+        "question": "What was the total revenue generated by all branches in 2022?",
+        "options": {
+          "A": "1,025",
+          "B": "1,050",
+          "C": "1,055",
+          "D": "1,075",
+          "E": "1,065"
+        },
+        "correct_answer": "A",
+        "explanation": "Add the revenues for 2022: 170 + 220 + 190 + 240 + 205 = 1,025 million USD.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_002_Q2",
+        "question": "What is the percentage increase in revenue for Branch D from 2020 to 2024?",
+        "options": {
+          "A": "18.18%",
+          "B": "20.00%",
+          "C": "18.75%",
+          "D": "22.73%",
+          "E": "21.43%"
+        },
+        "correct_answer": "A",
+        "explanation": "Percentage increase = ((260 - 220) / 220) * 100 = 18.18%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_001_Q3",
+        "question": "Which branch had the highest average annual revenue from 2020 to 2024?",
+        "options": {
+          "A": "Branch A",
+          "B": "Branch B",
+          "C": "Branch C",
+          "D": "Branch D",
+          "E": "Branch E"
+        },
+        "correct_answer": "D",
+        "explanation": "Calculate the average for each branch: Branch D = (220 + 230 + 240 + 250 + 260) / 5 = 240 million USD, which is the highest.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_002_Q4",
+        "question": "What is the ratio of the total revenue of Branch E to Branch A over the five years?",
+        "options": {
+          "A": "19:17",
+          "B": "19:18",
+          "C": "20:19",
+          "D": "21:20",
+          "E": "20:18"
+        },
+        "correct_answer": "C",
+        "explanation": "Total for Branch E = 190 + 195 + 205 + 210 + 220 = 1,020. Total for Branch A = 150 + 160 + 170 + 180 + 190 = 850. Ratio = 1,020:850 = 20:19.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Table_002_Q5",
+        "question": "By how much did the revenue of Branch C increase from 2021 to 2024?",
+        "options": {
+          "A": "15 million USD",
+          "B": "25 million USD",
+          "C": "30 million USD",
+          "D": "35 million USD",
+          "E": "40 million USD"
+        },
+        "correct_answer": "D",
+        "explanation": "Increase = 210 - 185 = 25 million USD.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:28:04.208624",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012050000000000002,
+      "tokens_used": 1967
+    }
+  },
+  {
+    "di_set_id": "DI_TABLE_003",
+    "topic": "Table - Population & Demographics",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "table",
+      "title": "Population Distribution by Age Group in City Z (2018-2023)",
+      "data": {
+        "headers": [
+          "Year",
+          "0-14 years",
+          "15-24 years",
+          "25-54 years",
+          "55-64 years",
+          "65+ years"
+        ],
+        "rows": [
+          [
+            "2018",
+            "12,500",
+            "15,000",
+            "40,000",
+            "9,500",
+            "6,000"
+          ],
+          [
+            "2019",
+            "12,800",
+            "15,500",
+            "41,200",
+            "9,800",
+            "6,200"
+          ],
+          [
+            "2020",
+            "13,100",
+            "16,000",
+            "42,500",
+            "10,100",
+            "6,400"
+          ],
+          [
+            "2021",
+            "13,400",
+            "16,500",
+            "43,800",
+            "10,400",
+            "6,600"
+          ],
+          [
+            "2022",
+            "13,700",
+            "17,000",
+            "45,000",
+            "10,700",
+            "6,800"
+          ],
+          [
+            "2023",
+            "14,000",
+            "17,500",
+            "46,500",
+            "11,000",
+            "7,000"
+          ]
+        ]
+      },
+      "units": "in number of people"
+    },
+    "questions": [
+      {
+        "question_id": "DI_Table_003_Q1",
+        "question": "What was the total population of City Z in 2020?",
+        "options": {
+          "A": "88,100",
+          "B": "88,300",
+          "C": "88,400",
+          "D": "88,500",
+          "E": "88,600"
+        },
+        "correct_answer": "A",
+        "explanation": "The total population in 2020 is calculated by summing all age groups: 13,100 + 16,000 + 42,500 + 10,100 + 6,400 = 88,100.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_003_Q2",
+        "question": "What is the percentage increase in the '25-54 years' age group from 2018 to 2023?",
+        "options": {
+          "A": "16.25%",
+          "B": "15.63%",
+          "C": "16.50%",
+          "D": "16.00%",
+          "E": "15.00%"
+        },
+        "correct_answer": "A",
+        "explanation": "The percentage increase is calculated as ((46,500 - 40,000) / 40,000) * 100 = 16.25%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_003_Q3",
+        "question": "What is the ratio of the population aged '0-14 years' to '65+ years' in 2022?",
+        "options": {
+          "A": "2:1",
+          "B": "2.01:1",
+          "C": "2.02:1",
+          "D": "2.03:1",
+          "E": "2.04:1"
+        },
+        "correct_answer": "C",
+        "explanation": "The ratio is calculated as 13,700 / 6,800 = 2.02:1.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_003_Q4",
+        "question": "In which year did the '15-24 years' age group see the highest increase in population compared to the previous year?",
+        "options": {
+          "A": "2019",
+          "B": "2020",
+          "C": "2021",
+          "D": "2022",
+          "E": "2023"
+        },
+        "correct_answer": "B",
+        "explanation": "Comparing year-on-year increases: 2019 (500), 2020 (500), 2021 (500), 2022 (500), 2023 (500). The highest increase was in 2020.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_003_Q5",
+        "question": "What is the average annual increase in the '55-64 years' age group from 2018 to 2023?",
+        "options": {
+          "A": "300",
+          "B": "320",
+          "C": "340",
+          "D": "360",
+          "E": "380"
+        },
+        "correct_answer": "A",
+        "explanation": "The total increase from 2018 to 2023 is 11,000 - 9,500 = 1,500. The average annual increase is 1,500 / 5 = 300.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:28:15.686791",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.013382499999999999,
+      "tokens_used": 2101
+    }
+  },
+  {
+    "di_set_id": "DI_TABLE_004",
+    "topic": "Table - Production & Manufacturing",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "table",
+      "title": "Annual Production of Components by Companies (2019-2023)",
+      "data": {
+        "headers": [
+          "Year",
+          "Company X",
+          "Company Y",
+          "Company Z",
+          "Company W"
+        ],
+        "rows": [
+          [
+            "2019",
+            "1,250",
+            "980",
+            "1,100",
+            "920"
+          ],
+          [
+            "2020",
+            "1,350",
+            "1,050",
+            "1,180",
+            "980"
+          ],
+          [
+            "2021",
+            "1,480",
+            "1,120",
+            "1,250",
+            "1,040"
+          ],
+          [
+            "2022",
+            "1,560",
+            "1,190",
+            "1,320",
+            "1,100"
+          ],
+          [
+            "2023",
+            "1,620",
+            "1,260",
+            "1,400",
+            "1,180"
+          ]
+        ]
+      },
+      "units": "in thousands"
+    },
+    "questions": [
+      {
+        "question_id": "DI_Table_004_Q1",
+        "question": "What is the total production by Company X over the period 2019-2023?",
+        "options": {
+          "A": "7,260,000",
+          "B": "7,180,000",
+          "C": "7,350,000",
+          "D": "7,400,000",
+          "E": "7,500,000"
+        },
+        "correct_answer": "C",
+        "explanation": "Total production = 1,250 + 1,350 + 1,480 + 1,560 + 1,620 = 7,260 (in thousands) = 7,260,000.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_004_Q2",
+        "question": "What is the percentage increase in production for Company Y from 2019 to 2023?",
+        "options": {
+          "A": "28.57%",
+          "B": "25.51%",
+          "C": "28.57%",
+          "D": "20.41%",
+          "E": "30.12%"
+        },
+        "correct_answer": "A",
+        "explanation": "Percentage increase = [(1,260 - 980) / 980] * 100 = (280 / 980) * 100 = 28.57%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_004_Q3",
+        "question": "If Company Z wants to achieve a 10% increase in production in 2024 compared to 2023, what will be the target production in 2024?",
+        "options": {
+          "A": "1,540,000",
+          "B": "1,450,000",
+          "C": "1,540,000",
+          "D": "1,540,000",
+          "E": "1,540,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Target Production = 1,400,000 + (10% of 1,400,000) = 1,400,000 + 140,000 = 1,540,000.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_004_Q4",
+        "question": "Which company had the highest average annual production over the period 2019-2023?",
+        "options": {
+          "A": "Company X",
+          "B": "Company Y",
+          "C": "Company Z",
+          "D": "Company W",
+          "E": "Cannot be determined"
+        },
+        "correct_answer": "A",
+        "explanation": "Average for X = 7,260/5 = 1,452; Y = 5,600/5 = 1,120; Z = 6,250/5 = 1,250; W = 5,220/5 = 1,044. Company X has the highest average.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Table_004_Q5",
+        "question": "Calculate the Compound Annual Growth Rate (CAGR) for Company W from 2019 to 2023.",
+        "options": {
+          "A": "6.34%",
+          "B": "6.30%",
+          "C": "6.25%",
+          "D": "6.20%",
+          "E": "6.15%"
+        },
+        "correct_answer": "C",
+        "explanation": "CAGR = [(1180/920)^(1/4) - 1] * 100 = [1.2826^(0.25) - 1] * 100 ≈ 6.25%.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:28:29.622584",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.013287499999999999,
+      "tokens_used": 2105
+    }
+  },
+  {
+    "di_set_id": "DI_TABLE_005",
+    "topic": "Table - Import & Export Analysis",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "table",
+      "title": "Import and Export Values (in million USD) for Selected Countries (2019-2023)",
+      "data": {
+        "headers": [
+          "Year",
+          "Country A Imports",
+          "Country A Exports",
+          "Country B Imports",
+          "Country B Exports",
+          "Country C Imports",
+          "Country C Exports"
+        ],
+        "rows": [
+          [
+            "2019",
+            "500",
+            "450",
+            "620",
+            "580",
+            "700",
+            "650"
+          ],
+          [
+            "2020",
+            "530",
+            "490",
+            "650",
+            "610",
+            "750",
+            "690"
+          ],
+          [
+            "2021",
+            "560",
+            "520",
+            "680",
+            "640",
+            "800",
+            "720"
+          ],
+          [
+            "2022",
+            "590",
+            "550",
+            "710",
+            "680",
+            "850",
+            "770"
+          ],
+          [
+            "2023",
+            "620",
+            "580",
+            "740",
+            "710",
+            "900",
+            "820"
+          ]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "question_id": "DI_TABLE_005_Q1",
+        "question": "What is the average annual growth rate of Country A's exports from 2019 to 2023?",
+        "options": {
+          "A": "6.4%",
+          "B": "6.2%",
+          "C": "7.0%",
+          "D": "5.8%",
+          "E": "6.0%"
+        },
+        "correct_answer": "A",
+        "explanation": "The average annual growth rate (AAGR) is calculated as (Ending Value / Beginning Value)^(1/Number of Years) - 1. For Country A's exports: (580/450)^(1/4) - 1 = 6.4%",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_TABLE_005_Q2",
+        "question": "In which year did Country B have -30 trade surplus?",
+        "options": {
+          "A": "2019",
+          "B": "2020",
+          "C": "2021",
+          "D": "2022",
+          "E": "2023"
+        },
+        "correct_answer": "D",
+        "explanation": "Trade surplus is calculated as Exports - Imports. For Country B in 2022: 680 - 710 = -30. The correct calculation shows 2022 had the maximum positive surplus of 680 - 710 = -30.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_TABLE_005_Q3",
+        "question": "If Country C aims to maintain an average export growth of 8% from 2023 onwards, what would be the expected export value in 2024?",
+        "options": {
+          "A": "885 million USD",
+          "B": "890 million USD",
+          "C": "888 million USD",
+          "D": "883 million USD",
+          "E": "900 million USD"
+        },
+        "correct_answer": "C",
+        "explanation": "The expected export value can be calculated using the formula Future Value = Present Value * (1 + Growth Rate). For 2023: 820 * 1.08 = 885.6, rounded to 888 million USD.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_TABLE_005_Q4",
+        "question": "By what percentage did Country A's imports increase from 2019 to 2023?",
+        "options": {
+          "A": "24%",
+          "B": "20%",
+          "C": "30%",
+          "D": "18%",
+          "E": "28%"
+        },
+        "correct_answer": "B",
+        "explanation": "Percentage increase is calculated as ((New Value - Old Value) / Old Value) * 100. For Country A's imports: ((620 - 500) / 500) * 100 = 24%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_TABLE_005_Q5",
+        "question": "What was the compound annual growth rate (CAGR) of Country C's imports from 2019 to 2023?",
+        "options": {
+          "A": "6.4%",
+          "B": "6.7%",
+          "C": "6.9%",
+          "D": "7.1%",
+          "E": "7.3%"
+        },
+        "correct_answer": "D",
+        "explanation": "The CAGR formula is [(Ending Value / Beginning Value)^(1/Number of Years)] - 1. For Country C's imports: [(900 / 700)^(1/4)] - 1 = 7.1%",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:28:56.677195",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0133775,
+      "tokens_used": 2114
+    }
+  }
+]

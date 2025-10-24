@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "CSA_001",
+    "question": "Six friends, P, Q, R, S, T, and U, are sitting around a circular table facing the center. P is sitting to the immediate right of Q. R is sitting opposite to P. T is sitting to the immediate left of R. S is not sitting next to Q. Who is sitting to the immediate right of T?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "S",
+      "D": "U",
+      "E": "R"
+    },
+    "correct_answer": "D",
+    "explanation": "1. P is to the immediate right of Q. (Q-P)\n2. R is opposite to P. (Q-P opposite R)\n3. T is to the immediate left of R. (Q-P opposite R-T)\n4. S is not next to Q. This means S must be between P and R, or between T and U. Since we already know P is next to Q, S must be between R and T. Therefore, U is next to T. The seating arrangement is: Q-P-S-R-T-U (clockwise). So, U is to the immediate right of T.",
+    "difficulty": "Easy",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "SBI PO",
+    "metadata": {
+      "generated_by": "gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "CSA_002",
+    "question": "Eight people – A, B, C, D, E, F, G, and H – are sitting around a circular table. Some of them are facing the center, and some are facing away from the center. A sits third to the right of B. B faces the center. Two people sit between B and C. D sits to the immediate left of C. D faces away from the center. E sits second to the right of D. F sits opposite to E. G is not an immediate neighbor of B. H sits to the immediate right of A. Both G and H face the same direction. Who sits second to the left of E?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "G",
+      "E": "H"
+    },
+    "correct_answer": "A",
+    "explanation": "1. A sits third to the right of B, and B faces the center.  \n2. Two people sit between B and C. \n3. D sits to the immediate left of C, and D faces away from the center. \n4. E sits second to the right of D. \n5. F sits opposite to E. \n6. G is not an immediate neighbor of B.\n7. H sits to the immediate right of A. Both G and H face the same direction.\n\nLet's deduce:\nSince B faces the center and A is third to the right, we can place A and B. With two people between B and C, we can place C. D is to the immediate left of C and faces away from the center. E is second to the right of D, and F is opposite to E. G cannot be next to B, and H is to the immediate right of A. Since G and H face the same direction, and we know the directions of other people, we can determine their directions. Final Arrangement (assuming clockwise order and starting with B):\nB(center) - _ - C - D(away) - _ - E - F - A - H/G.\nKnowing all placements from above, H must be next to A and G cannot be next to B. Hence, the final arrangement is B(center) - G - C - D(away) - _ - E - F - A - H. This means that the arrangement is: B(center) - G(away) - C(center) - D(away) - A(center) - H(center) - F(away) - E(center).\n\nTherefore, A is second to the left of E.",
+    "difficulty": "Medium",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "SBI PO",
+    "metadata": {
+      "generated_by": "gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "CSA_003",
+    "question": "Ten people – P, Q, R, S, T, U, V, W, X, and Y – are sitting around a circular table. Some face the center, and some face away from the center. No more than two people sitting next to each other face the same direction. P sits third to the right of Q. Q faces the center. R sits to the immediate left of P. Two people sit between R and S. T sits second to the right of S and faces away from the center. U sits third to the left of T. V sits to the immediate right of U and faces the center. W sits second to the left of V. X is not an immediate neighbor of Q. Y sits third to the right of W. P and S face opposite directions. Who sits opposite to T?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "U",
+      "E": "V"
+    },
+    "correct_answer": "E",
+    "explanation": "1. P sits third to the right of Q. Q faces the center.\n2. R sits to the immediate left of P.\n3. Two people sit between R and S.\n4. T sits second to the right of S and faces away from the center.\n5. U sits third to the left of T.\n6. V sits to the immediate right of U and faces the center.\n7. W sits second to the left of V.\n8. X is not an immediate neighbor of Q.\n9. Y sits third to the right of W.\n10. P and S face opposite directions.\n\nLet's deduce:\nFrom (1) and (2), we can place Q, P, and R. From (3), we place S. From (4), we place T, noting that T faces away from the center. From (5), we place U. From (6), we place V, noting that V faces the center. From (7), we place W. From (9), we place Y. X cannot be a neighbor of Q, leaving only one spot to place X. Finally, we consider the directions and constraint that no more than two adjacent people face the same direction. Since P and S face opposite directions, this helps to finalize the direction of each person. \n\nFinal Arrangement (Clockwise, Starting with Q):\nQ(Center) - X(Away) - R(Away) - P(Away) - _ - T(Away) - U - V(Center) - W - Y.\n\nNow we can fill in the blank spot. The only remaining person is S. So the arrangement is:\nQ(Center) - X(Away) - R(Away) - P(Away) - S(Center) - T(Away) - U(Center) - V(Center) - W(Away) - Y(Center)\nChecking directions constraints: No more than two people sitting next to each other face the same direction.\nTherefore, V sits opposite T.",
+    "difficulty": "Hard",
+    "topic": "Circular Seating Arrangement",
+    "reasoning_topic": "Circular Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "SBI PO",
+    "metadata": {
+      "generated_by": "gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

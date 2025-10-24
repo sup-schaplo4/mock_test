@@ -1,0 +1,3328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Validation Report - 2025-10-12 20:20:37</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        
+        .summary {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 40px;
+            background: #f8f9fa;
+        }
+        
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .stat-number {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .stat-card.success .stat-number { color: #28a745; }
+        .stat-card.error .stat-number { color: #dc3545; }
+        .stat-card.warning .stat-number { color: #ffc107; }
+        .stat-card.info .stat-number { color: #17a2b8; }
+        .stat-card.primary .stat-number { color: #667eea; }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .file-section {
+            margin-bottom: 40px;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        .file-header {
+            background: #f8f9fa;
+            padding: 20px;
+            border-bottom: 2px solid #dee2e6;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .file-header h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        
+        .status-badge {
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 14px;
+            text-transform: uppercase;
+        }
+        
+        .status-badge.passed {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .status-badge.failed {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .file-body {
+            padding: 20px;
+        }
+        
+        .issue-section {
+            margin-bottom: 30px;
+        }
+        
+        .issue-section h3 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #dee2e6;
+            color: #495057;
+        }
+        
+        .issue-list {
+            list-style: none;
+        }
+        
+        .issue-item {
+            padding: 12px;
+            margin-bottom: 8px;
+            border-radius: 6px;
+            border-left: 4px solid;
+            background: #f8f9fa;
+        }
+        
+        .issue-item.error {
+            border-left-color: #dc3545;
+            background: #fff5f5;
+        }
+        
+        .issue-item.warning {
+            border-left-color: #ffc107;
+            background: #fffbf0;
+        }
+        
+        .issue-item.ai-error {
+            border-left-color: #e83e8c;
+            background: #fff0f6;
+        }
+        
+        .issue-item.ai-warning {
+            border-left-color: #17a2b8;
+            background: #f0f9ff;
+        }
+        
+        .category-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .category-item {
+            background: white;
+            padding: 15px;
+            border-radius: 6px;
+            border: 1px solid #dee2e6;
+        }
+        
+        .category-name {
+            font-weight: bold;
+            color: #495057;
+            margin-bottom: 5px;
+        }
+        
+        .category-count {
+            color: #6c757d;
+            font-size: 14px;
+        }
+        
+        .ai-issue {
+            margin-bottom: 15px;
+            padding: 15px;
+            border-radius: 6px;
+            background: white;
+            border: 1px solid #dee2e6;
+        }
+        
+        .ai-issue-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        
+        .ai-issue-type {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            background: #e9ecef;
+            color: #495057;
+        }
+        
+        .ai-issue-description {
+            margin-bottom: 10px;
+            color: #495057;
+        }
+        
+        .ai-issue-suggestion {
+            padding: 10px;
+            background: #e7f3ff;
+            border-left: 3px solid #17a2b8;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        
+        .no-issues {
+            text-align: center;
+            padding: 40px;
+            color: #28a745;
+            font-size: 18px;
+        }
+        
+        .footer {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #6c757d;
+            font-size: 14px;
+        }
+        
+        @media print {
+            body {
+                background: white;
+            }
+            .stat-card:hover {
+                transform: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 Quiz Validation Report</h1>
+            <p>Generated on October 12, 2025 at 20:20:37</p>
+        </div>
+        
+        <div class="summary">
+            <div class="stat-card primary">
+                <div class="stat-number">7</div>
+                <div class="stat-label">Total Files</div>
+            </div>
+            <div class="stat-card success">
+                <div class="stat-number">7</div>
+                <div class="stat-label">Files Passed</div>
+            </div>
+            <div class="stat-card error">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Critical Errors</div>
+            </div>
+            <div class="stat-card warning">
+                <div class="stat-number">13</div>
+                <div class="stat-label">Warnings</div>
+            </div>
+            <div class="stat-card info">
+                <div class="stat-number">166</div>
+                <div class="stat-label">AI Issues</div>
+            </div>
+        </div>
+        
+        <div class="content">
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_01.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">263.6 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>🤖 AI-Detected Issues</h3>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #6 (ID: 6)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> India is unlikely to be the 3rd largest economy in the world by May 2025. This is a highly speculative claim and should be removed or rephrased to reflect projections, not a confirmed event.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Remove the question or rephrase to reflect economic projections, citing a credible source.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #8 (ID: 8)</span>
+                                <span class="ai-issue-type">duplicate</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> This question is a duplicate of question 6.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Remove this duplicate question.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #16 (ID: 16)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The policy repo rate is unlikely to be 5.50% in August 2025. This needs to be updated with current information.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question and answer with the correct policy repo rate as of August 2025, citing a source.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #18 (ID: 18)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The deposit insurance coverage and total bank deposit base need to be verified and updated with accurate data as of September 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify and update the deposit insurance coverage and total bank deposit base with accurate data as of September 2025, citing a source.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #30 (ID: 30)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to September 2023. It should be checked if the information is still relevant in October 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify if the revised directions are still current or if there have been any further updates.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #31 (ID: 31)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the October 2024 MPC meeting. This information is outdated and needs to be updated with the most recent MPC stance.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question and answer with the current MPC stance as of October 2025.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #32 (ID: 32)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to prudential norms issued on September 12, 2023. It should be checked if the information is still relevant in October 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify if the prudential norms are still current or if there have been any further updates.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #36 (ID: 36)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to September 2024. This information is outdated and needs to be updated.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question and answer with the most recent information.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #42 (ID: 42)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to December 2024. This information is outdated and needs to be updated.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question and answer with the most recent information.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #47 (ID: 47)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to December 2024 and March 31, 2025. This information is outdated and needs to be updated.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question and answer with the most recent information.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #48 (ID: 48)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the RBI's December 2024 Monetary Policy Statement. This information is outdated and needs to be updated.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question and answer with the most recent information.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #50 (ID: 50)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the February 2025 meeting. This information is outdated and needs to be updated.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question and answer with the most recent information.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #59 (ID: 59)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 2025, but we're now in October 2025. The question assumes the exam is being taken before this event, which is no longer true.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect a past event (e.g., 'In September 2024...') or verify the actual date of the BIA signing.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #76 (ID: 76)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the 'August 2025 Monetary Policy Statement'. This is fine for October 2025, but the data will become outdated soon. Consider updating the question with more evergreen data or a more recent policy statement in future question sets.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Review the relevance of the question in future question sets.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #77 (ID: 77)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the 'Finance Bill 2024'. While valid in October 2025, this will become outdated soon. Consider updating the question with more evergreen data or a more recent Finance Bill in future question sets.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Review the relevance of the question in future question sets.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #78 (ID: 78)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to data for the fiscal year 2023-24. While valid in October 2025, this will become outdated soon. Consider updating the question with more evergreen data or data from a more recent fiscal year in future question sets.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Review the relevance of the question in future question sets.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #79 (ID: 79)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to data for the year 2023-24. While valid in October 2025, this will become outdated soon. Consider updating the question with more evergreen data or data from a more recent year in future question sets.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Review the relevance of the question in future question sets.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #80 (ID: 80)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to data for Q1:2024-25. While valid in October 2025, this will become outdated soon. Consider updating the question with more evergreen data or data from a more recent quarter in future question sets.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Review the relevance of the question in future question sets.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #111 (ID: 111)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The calculation is incorrect. 90 km/hr * 4 hours = 360 km, not 400 km.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the answer to 360 km and update the explanation accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #112 (ID: 112)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the correct answer is 3.75 hours, but then says it's 'closest to 3.5 hours'. This is confusing.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Remove the phrase 'closest to 3.5 hours' as it contradicts the correct calculation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #117 (ID: 117)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly calculates the fourth proportional. The correct method is to set up the proportion 2/3 = 6/x and solve for x. This gives x = (3*6)/2 = 9.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation and the answer to 9.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #118 (ID: 118)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation is correct, but the correct answer is B (2 hours), not C (2.4 hours) as implied by 'Hence, the correct answer is B.'
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify the answer options and correct the final statement to explicitly state the correct answer is 2 hours (Option B).
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #123 (ID: 123)</span>
+                                <span class="ai-issue-type">grammar</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation uses both 'Rs.' and '₹' for Rupees. Maintain consistency.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Use either 'Rs.' or '₹' consistently throughout the explanation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #124 (ID: 124)</span>
+                                <span class="ai-issue-type">grammar</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The correct answer is 4 km/h, not 1 km/h. The explanation has an arithmetic error.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the problem and correct the answer to 4 km/h.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #137 (ID: 137)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation calculates the percentage increase incorrectly. The correct calculation is [(9500 - 8000) / 8000] * 100 = 18.75%. The answer provided (14.3%) is incorrect and the explanation states 'Hence, option B is closest to the actual value.' which is also incorrect as 18.75% is not closest to 14.3%.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the percentage increase and update the correct answer and explanation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #138 (ID: 138)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly identifies the month with the greatest difference. The differences are: Jan: 4000, Feb: 5000, Mar: 6000, Apr: 5700, May: 6500, Jun: 6000. The greatest difference is in May (6500), not March (6000).
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the calculation of differences and update the correct answer and explanation to reflect May as the month with the greatest difference.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #142 (ID: 142)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation and answer are incorrect. The person walks 20m East, then 30m North, then 40m East, then 30m South. This results in a final position of 60m East (20+40) and 0m North/South (30-30). Therefore, the shortest distance back to the starting point is 60 meters, not approximately 36.05 meters.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the calculation and update the correct answer and explanation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #145 (ID: 145)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the pattern is shifting each letter by +2 in the alphabet. However, applying this to LOGIC should result in 'NQIKG', not 'NRJKE'. The correct pattern is L->N (+2), O->Q (+2), G->I (+2), I->K (+2), C->E (+2). The provided answer is incorrect.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify the coding pattern and correct the answer and explanation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #146 (ID: 146)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly concludes that Anna is on the 4th floor. The correct deduction is: 1st floor: Yellow (Clara), 2nd floor: Eva, 5th floor: Dan. Ben is above Clara, and Anna is above Purple. This means Anna must be on the 4th floor (Purple), and Ben on the 3rd. The answer is correct, but the explanation is flawed.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Revise the explanation to accurately reflect the logical deduction process.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #147 (ID: 147)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation is vague and doesn't provide a clear step-by-step deduction of the seating arrangement. It's difficult to follow the logic without a visual representation or more detailed explanation.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide a more detailed, step-by-step explanation of how the seating arrangement is derived from the given conditions. A diagram would be helpful.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #148 (ID: 148)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly assigns Amy to Monday. If Amy meets on Monday, Cara meets on Wednesday (two days after). Eva also meets on Wednesday, which violates the condition that each person meets on a different day. The correct deduction is: Eva - Wednesday. If Amy meets on Tuesday, Cara meets on Thursday. Ben meets before Dan, leaving Monday and Friday for Ben and Dan respectively. Therefore, Dan meets on Friday.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the deduction and update the explanation to accurately reflect the logical process.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #149 (ID: 149)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation provides the correct arrangement but doesn't clearly explain the steps to arrive at that arrangement. It's difficult to verify the logic without more detail.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide a more detailed explanation of how the arrangement is derived from the given conditions. Consider showing the elimination process.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #159 (ID: 159)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question references specific dates in October 2025. Since the current date is October 2025, this question might be too close to the present and could be unintentionally affected by real-world events or knowledge that test-takers might have.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider shifting the dates to a previous year (e.g., October 2024) to avoid any potential bias or unintended influence from current events.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #166 (ID: 166)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly concludes that Q is on Floor 7. The correct arrangement should be: R - Floor 1, S - Floor 2, V - Floor 3, T - Floor 4, P - Floor 5, U - Floor 6, Q - Floor 7. However, the question asks which floor Q lives on, and the explanation arrives at the correct answer (Floor 6) through faulty logic. The correct floor for Q is 7, not 6.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Revise the explanation to correctly deduce that Q lives on floor 7. The answer should be floor 7.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #170 (ID: 170)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly concludes that the Bicycle is on the fifth floor. The correct answer should be Notebook on the 6th floor. The logic in step 6 is flawed. The final arrangement should be: Book - Floor 1, Mobile - Floor 2, Kite - Floor 3, Bicycle - Floor 4, Pen - Floor 5, Notebook - Floor 6, Tablet - Floor 7, Laptop - Floor 8.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Revise the explanation and the correct answer to reflect the correct arrangement and the item on the fifth floor.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #176 (ID: 176)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The provided arrangement 'S, T, Q, R, U, P, V' does not satisfy the condition 'S is fourth to the left of V'. Also, based on the provided arrangement, 'T' is sitting at the second position from the left, not 'S'.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the arrangement based on the given conditions and update the correct answer and explanation accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #177 (ID: 177)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The provided arrangement 'Q, R, S, U, P, M, T, N, O' does not satisfy all the conditions. Specifically, 'N is sitting second to the right of Q' and 'P is second to the right of U' are satisfied, but 'S is sitting second to the left of P and third to the right of R' is not fully satisfied. S is second to the left of P, but only one position to the right of R.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the arrangement based on the given conditions and update the correct answer and explanation accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #178 (ID: 178)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states 'Each letter is increased by 1, then decreased by 1 for the alternate letters.' This is incorrect. The pattern is +1, -1, +1, -1, +1, -1. Applying this to BOTTLE, we get C, N, U, S, M, D. Therefore, the correct answer should be 'CNUSMD', which is not among the options.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation and the answer options to reflect the correct coding pattern. The correct answer should be CNUSMD.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #180 (ID: 180)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation concludes that Salad is at 5 PM, but the reasoning is incomplete and doesn't fully eliminate other possibilities based on all the given constraints. A complete deduction process is missing.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide a complete step-by-step deduction process to arrive at the correct answer, ensuring all constraints are satisfied.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #182 (ID: 182)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The arrangement provided does not satisfy all the conditions. For example, condition 2 states 'The Yellow box is between two Light boxes.' In the given arrangement, the Yellow box is between White (Light) and Blue (Heavy), violating this condition.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the arrangement based on the given conditions and update the correct answer and explanation accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #184 (ID: 184)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation is insufficient and doesn't provide a clear, step-by-step deduction to arrive at the answer. It jumps to conclusions without showing the process of elimination and constraint satisfaction.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide a detailed, step-by-step deduction process to determine the starting day of Project G, ensuring all constraints are met.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #193 (ID: 193)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The provided arrangement 'Row 1 (south): E, D, B, C, A; Row 2 (north): J, H, G, I, F' does not satisfy the condition 'C is directly opposite to I and two places to the left of A'. In the given arrangement, C is opposite I, but C is four places to the left of A, not two.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the arrangement based on the given conditions and update the correct answer and explanation accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #194 (ID: 194)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation is insufficient and doesn't provide a clear, step-by-step deduction to arrive at the answer. It jumps to conclusions without showing the process of elimination and constraint satisfaction. The reasoning provided is vague and doesn't explain how E logically falls to the immediate right of A.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide a detailed, step-by-step deduction process to determine who sits to the immediate right of A, ensuring all constraints are met.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #196 (ID: 196)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The provided arrangement 'Q, U, S, P, T, R' does not satisfy the condition 'P is sitting third to the right of Q'. In the given arrangement, P is sitting three positions to the *right* of Q, but there are two people *between* them. Also, T is not in the middle.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the arrangement based on the given conditions and update the correct answer and explanation accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #198 (ID: 198)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation contains a logical error. It states that T is on floor 4, which is incorrect based on the conditions. N lives three floors above T, and R lives on floor 8. This limits the possible floors for N and T. Also, the conclusion that S can only be on floor 1, 5, or 9, but 5 is unoccupied, is incorrect. Q is on floor 5, not S.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the floor assignments based on the given conditions and update the correct answer and explanation accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #200 (ID: 200)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation is incomplete and doesn't provide a clear, step-by-step deduction to arrive at the answer. It jumps to conclusions without showing the process of elimination and constraint satisfaction. The reasoning for Box J being the Glass Cone at the top is not adequately explained.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide a detailed, step-by-step deduction process to determine which box is at the top, ensuring all constraints are met.
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_02.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">276.0 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>⚠️ Warnings</h3>
+                        <ul class="issue-list">
+
+                            <li class="issue-item warning">⚠️ Q136 (ID:136) Option A: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q136 (ID:136) Option C: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q136 (ID:136) Option D: Duplicate answer text found</li>
+
+                        </ul>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>🤖 AI-Detected Issues</h3>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #1 (ID: 1)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 2025, but we're now in October 2025
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update to 'September 2024' or verify the actual date
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #23 (ID: 23)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 2025, but we're now in October 2025
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update to 'September 2024' or verify the actual date
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #24 (ID: 24)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 17 to October 2, 2025, but we're now in October 2025
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update to 'September 17 to October 2, 2024' or verify the actual date
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #25 (ID: 25)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References August and September 2025, but we're now in October 2025
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update to 'August and September 2024' or verify the actual date
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #26 (ID: 26)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to December 2024. While factually correct at the time, it's now October 2025. The relevance of a specific CRR from almost a year ago is questionable. It might be more relevant to ask about the current CRR or trends.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider updating the question to reflect the current CRR or a more recent period, or focus on the trend of CRR changes.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #28 (ID: 28)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the Economic Survey 2023-24. While the data is still valid, a more recent Economic Survey might be available or more relevant by now (October 2025).
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Check if a more recent Economic Survey is available and update the question accordingly. If not, consider rephrasing to emphasize the historical context.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #29 (ID: 29)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about GNPA ratio as of September 2023. This is over two years old. More recent data would be more relevant.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect a more recent date for the GNPA ratio.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #38 (ID: 38)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about CRAR as of September 2024. This is over a year old. More recent data would be more relevant.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect a more recent date for the CRAR.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #44 (ID: 44)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to UPI transactions in October 2024. This is outdated; more recent data should be used.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect a more recent month for UPI transaction volume.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #46 (ID: 46)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about CRAR at the end of December 2024. This is outdated; more recent data should be used.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect a more recent date for the CRAR.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #50 (ID: 50)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the policy repo rate maintained throughout the first half of FY 2024-25. This is outdated. The current repo rate or recent changes would be more relevant.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect the current policy repo rate or recent changes to it.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #65 (ID: 65)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question references data as of September 2023. While not strictly incorrect, it might be beneficial to update it to a more recent period if available, to reflect the most current systemic risk assessment.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider updating the reference period to a more recent date if newer data is available.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #138 (ID: 138)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation calculates the *average annual increase* in population, not the *average annual growth rate*. The question asks for the growth *rate* which is a percentage, not an absolute number.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the answer using percentage growth rates for each year and then averaging those rates. The current explanation is incorrect.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #139 (ID: 139)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the ratio is 9:16, but the correct answer is given as 9:17. The calculation in the explanation is correct (720,000:1,280,000 = 9:16), so the correct answer choice is wrong.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Change the correct answer to 9:16 or correct the population figures to result in a 9:17 ratio.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #140 (ID: 140)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation calculates the increase as 180,000, but the correct answer is given as 150,000. The calculation in the explanation is correct, so the correct answer choice is wrong.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Change the correct answer to 180,000 or correct the population figures to result in an increase of 150,000.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #147 (ID: 147)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states Alice walks 15 meters East and 15 meters North. It should be 20 meters East (15 + 5) and 10 meters North. The calculation is also wrong. It should be sqrt(20^2 + 10^2) = sqrt(500) = 22.36 meters, approximately 22 meters. The answer is correct, but the explanation is wrong.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation to reflect the correct distances and calculation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #148 (ID: 148)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> Step 5 of the explanation states that T cannot be next to R, S, or V. This is not stated in the question. T can be next to S and V. The logic is flawed. The correct order is Q W R S V U T P. Thus, P is at the right end. The answer is correct, but the explanation is wrong.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation to reflect the correct logic.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #176 (ID: 176)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question is a bit too simple for an RBI Grade B exam.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider making the relationship more complex or adding more individuals to the family tree.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #198 (ID: 198)</span>
+                                <span class="ai-issue-type">duplicate</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> This question is identical to question 176.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Remove or revise this question to avoid redundancy.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #199 (ID: 199)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The description of the table as 'rectangular' with four people on each 'long side' is unusual. Rectangular tables typically have two short sides and two long sides. This could be confusing.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider specifying that the table is a rectangle with two long sides and two short sides, and that people are seated only on the long sides. Or, change the table to a square table.
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_03.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">282.6 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>🤖 AI-Detected Issues</h3>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #1 (ID: 1)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References August 2025, but we're now in October 2025. The question is about a past MPC meeting, so it needs to be updated to a relevant meeting date before October 2025, or the question needs to be rephrased to ask about a hypothetical scenario.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update to a relevant meeting date before October 2025 (e.g., June 2025) and verify the correct repo rate for that meeting. Alternatively, rephrase the question to ask about a hypothetical scenario.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #8 (ID: 8)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 2025, but we're now in October 2025. The question is about past monthly accounts, so it needs to be updated to a relevant month before October 2025, or the question needs to be rephrased to ask about a hypothetical scenario.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update to a relevant month before October 2025 (e.g., August 2025) and verify the correct percentage. Alternatively, rephrase the question to ask about a hypothetical scenario.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #9 (ID: 9)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about projections for 2025-26. While technically valid, it's based on information available *before* October 2025. After October 2025, more concrete data for Q1 and Q2 will be available, potentially making the question less relevant.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Consider updating the question to focus on actual results for Q1 and Q2 once that data is available, or frame the question to emphasize the *projected* nature of the data.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #14 (ID: 14)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 2025, but we're now in October 2025. The question is about a past credit rating upgrade, so it needs to be updated to a relevant month before October 2025, or the question needs to be rephrased to ask about a hypothetical scenario.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update to a relevant month before October 2025 (e.g., August 2025) and verify the correct rating. Alternatively, rephrase the question to ask about a hypothetical scenario.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #23 (ID: 23)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References July 2025, but we're now in October 2025. The question is about past enrolments, so it needs to be updated to a relevant month before October 2025, or the question needs to be rephrased to ask about a hypothetical scenario.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update to a relevant month before October 2025 (e.g., June 2025) and verify the correct enrolment number. Alternatively, rephrase the question to ask about a hypothetical scenario.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #26 (ID: 26)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to MPC meetings in October 2023, December 2023, and February 2024. This information is outdated for an exam in October 2025. The question should focus on more recent MPC meetings.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect MPC meetings in 2024 and 2025.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #29 (ID: 29)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about fiscal deficit data released up to August 2025. This data is already outdated in October 2025. The question needs to be updated with more recent data or a different timeframe.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to use data released up to a more recent month (e.g., September 2025) or a different timeframe altogether.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #35 (ID: 35)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question mentions the National Quantum Mission being approved in September 2025. This is outdated as it is now October 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to refer to a different timeframe or remove the specific month.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #37 (ID: 37)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the May 2024 Systemic Risk Survey (SRS). This is outdated for an exam in October 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to refer to the May 2025 SRS or a more recent survey.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #40 (ID: 40)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the cumulative CRAR-depletion curve for March 2025. This is outdated as it is now October 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to refer to a more recent date.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #41 (ID: 41)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the May 2025 Systemic Risk Survey (SRS). This is outdated as it is now October 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to refer to a more recent survey if available.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #42 (ID: 42)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to data as of July 2025. This is outdated as it is now October 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to refer to more recent data if available.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #43 (ID: 43)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to data as of March 2024. This is outdated for an exam in October 2025.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to refer to more recent data.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #44 (ID: 44)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The MPC did not reduce the repo rate in February 2025. The repo rate remained unchanged at 6.50%.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the question and answer to reflect the actual policy repo rate in February 2025.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #46 (ID: 46)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> While Amitabh Kant *was* India's G20 Sherpa, the question implies he was *appointed* in June 2025. This needs verification. He may have been appointed earlier and still be serving in that role.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify the appointment date of Amitabh Kant as G20 Sherpa and rephrase the question if necessary.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #53 (ID: 53)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The Systemic Risk Survey of November 2023 is outdated. Need to update to a more recent survey, if available, or rephrase the question to be more general.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question with the latest Systemic Risk Survey data or rephrase to remove the specific date.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #59 (ID: 59)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The data regarding the share of unsecured loans is from March 2023 and March 2024. This data is outdated and needs to be updated with more recent figures if available.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question with the latest available data on unsecured loans from NBFCs.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #69 (ID: 69)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The core inflation data is from February 2024. This is outdated and needs to be updated with more recent figures.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question with the latest available core inflation data.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #76 (ID: 76)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states that downstream investments exclude equity shares, while answer (i) states that they include equity shares. This is contradictory and needs clarification. The correct answer is also not clearly explained.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Rephrase the explanation to clearly indicate why downstream investments excluding equity shares is incorrect and why option (v) is the correct answer. Verify the accuracy of the statement about equity shares.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #76 (ID: 76)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation contradicts the answer choices. The explanation states downstream investments exclude equity shares, but the answer choice says they include them. This is a logical error.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation to align with the correct answer choice and the actual RBI circular.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #111 (ID: 111)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly simplifies the ratio 10:10 to 2:1. The correct simplified ratio is 1:1.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the simplification of the ratio to 1:1.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #112 (ID: 112)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly calculates B's work rate. A and B together do 5 units/day, and A does 3 units/day, so B does 5-3 = 2 units/day.  Therefore, B takes 60/2 = 30 days, not 15.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the calculation of B's work rate and the final answer to 30 days.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #122 (ID: 122)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation contains an error in the final calculation. While the steps are correct up to finding x=5, the final calculation of A's age is incorrect. A's present age is 3x = 3 * 5 = 15 years, not 18 years.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the final calculation to show A's age as 15 years.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #125 (ID: 125)</span>
+                                <span class="ai-issue-type">duplicate</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> This question is a duplicate of question 121.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Remove one of the duplicate questions.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #126 (ID: 126)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Country A' and 'exports' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #127 (ID: 127)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Country B' and 'trade balance' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #128 (ID: 128)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Country A' and 'imports' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #129 (ID: 129)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Country B' and 'exports' but provides no data for 2022.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #130 (ID: 130)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Country A' and 'imports' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #131 (ID: 131)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Product X' and 'production' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #132 (ID: 132)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Product Y' and 'production' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #132 (ID: 132)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation calculates the percentage increase as 18.75%, but then states 'Hence, option B is closest to the actual value.' Option B is 14.3%, which is incorrect. The correct answer should be 18.8% (option C).
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation and the correct answer to C (18.8%).
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #133 (ID: 133)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Product X' and 'Product Y' and 'production' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #133 (ID: 133)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly identifies May as having the greatest difference. The calculation shows May with 6800, but the explanation states the greatest difference is in May, which is 6800 units. The correct answer based on the provided differences is May.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify the data and correct the explanation if needed. If the data is correct, the answer and explanation are correct.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #134 (ID: 134)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Product X' and 'production' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #135 (ID: 135)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Product X' and 'Product Y' and 'production' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #136 (ID: 136)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Machinery' and 'Minerals' segments but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #137 (ID: 137)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Chemicals' and 'Textiles' segments but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #139 (ID: 139)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the value of Machinery is 500 and Chemicals is 600, leading to a ratio of 5:6. However, the correct answer is 5:6, which implies the values are correct, but the question lacks the data to verify this.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #138 (ID: 138)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Agricultural Products' but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #140 (ID: 140)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question lacks the data table or chart needed to answer it. It refers to 'Minerals' segment but provides no data.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Include the data table/chart or rewrite the question to be self-contained.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #153 (ID: 153)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The arrangement in the explanation is incorrect. It should be G (Eraser), B (Ruler), D (Glue), C (Marker), E (Pen), F (Book), A (Sharpener). Therefore, Box F contains the Book, not Box A containing the Sharpener.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the arrangement and the correct answer.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #158 (ID: 158)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The logic in the explanation is flawed. If B is in February, C is in March, and A is in March (given), this is a contradiction. Also, D is two months after B, so D is in April. F cannot be in June, so F must be in January. The correct answer should be January.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Re-evaluate the logic and correct the answer and explanation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #159 (ID: 159)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The final arrangement is incorrect. The correct arrangement is T, P, S, R, Q, U, V. Therefore, S is sitting third from the left, not P.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the arrangement and the correct answer.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #162 (ID: 162)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation is unclear and the logic is not fully explained. It's difficult to follow how the conclusion that M is on the 2nd floor is reached. The explanation needs to be more detailed and rigorous.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide a more detailed and step-by-step explanation of the logic used to arrive at the answer.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #167 (ID: 167)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation and final arrangement are incorrect. The correct arrangement is A, C, E, F, B, D. Therefore, Box A is at the top.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the arrangement and the correct answer.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #168 (ID: 168)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The arrangement provided in the explanation does not satisfy all the given conditions. For example, condition 6 states E is sitting second to the left of F, but in the arrangement B, A, E, G, C, I, D, F, H, E is three positions to the left of F. The correct answer is C.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Re-evaluate the arrangement and correct the answer and explanation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #175 (ID: 175)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation and final position are incorrect. Sarah's final position is 25 meters East and 20 meters North of the starting point. The correct answer is none of the options provided. The calculation of the final position is wrong. After turning left, she walks 25 meters. Since she was facing South, turning left means she walks 25 meters East. So, the final position is (20+25, 30-10) = (45, 20).
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the calculation and the correct answer.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #176 (ID: 176)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation doesn't fully explain how the entire arrangement is derived from the clues. It mentions the conditions but doesn't show the step-by-step deduction process, making it difficult to follow for someone struggling with this type of question.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide a more detailed step-by-step explanation of how each item's position, color, and condition are determined based on the given clues.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #183 (ID: 183)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states 'consonants are shifted forward by 1, vowels are shifted backward by 1', but the example for 'DEVELOPMENT' shows D-1=C, which is a shift *backward*, not forward. The pattern is inconsistent.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the description of the pattern and the example to match the actual encoding. The correct pattern is consonants are shifted *backward* by 1, and vowels are shifted *forward* by 1.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #183 (ID: 183)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The correct answer 'SDMFLNMFZ' is wrong. Applying the corrected logic (consonants back 1, vowels forward 1) to TECHNOLOGY: T-1=S, E+1=F, C-1=B, H-1=G, N-1=M, O+1=P, L-1=K, O+1=P, G-1=F, Y+1=Z. The correct answer should be 'SFBGMPKPFZ'.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the correct answer based on the correct pattern and update the 'correct_answer' field.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #183 (ID: 183)</span>
+                                <span class="ai-issue-type">grammar</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation contains grammatical errors: 'L-1=K, O+1=W, P-1=O, M+1=L, E+1=B, N-1=M, T+1=S' should be 'L-1=K, O+1=P, P-1=O, M-1=L, E+1=F, N-1=M, T-1=S'.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the grammatical errors in the explanation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #188 (ID: 188)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly places Pink in position 2. If Red is immediately to the left of Pink, and Red is in position 1, Pink must be in position 2. However, the explanation also states Purple is in position 2. This is a contradiction.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Re-evaluate the placement of items based on the clues to resolve the contradiction.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #188 (ID: 188)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The final arrangement is incorrect. The correct arrangement should be: Red, Purple, Blue, Green, Orange, Yellow, Pink. This means the correct answer should be Red.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation and the correct answer.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #189 (ID: 189)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly concludes that Alex has the Red car. If Alex is on the 1st floor, and the Yellow car is on the 2nd floor (owned by Ethan), and David has the Black car on the 3rd floor, and Bob has the Blue car on the 5th floor, then Charlie must have the Green car on the 4th floor. This leaves Alex with the Red car.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Re-evaluate the assignment of cars to friends and correct the explanation and the correct answer.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #194 (ID: 194)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The calculation of the shortest distance is incorrect. The person moves 10m North and 5m South, resulting in a net movement of 5m North. They also move 15m East. Using the Pythagorean theorem, the shortest distance is the hypotenuse: √(5^2 + 15^2) = √250 ≈ 15.81 meters. The closest answer is 15 meters, not 13 meters.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the calculation and the correct answer to 15 meters.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #198 (ID: 198)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation contains a logical error. It states that Linda is on the 2nd floor, implying Irene is on the 3rd floor. However, Monica is already stated to be on the 3rd floor. This is a contradiction, and the conclusion that Irene must be on the 6th floor is incorrect.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Re-evaluate the placement of friends based on the clues to resolve the contradiction.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #198 (ID: 198)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The correct arrangement is: 1. Kevin, 2. Linda, 3. Monica, 4. George, 5. Jessica, 6. Irene, 7. Henry. Therefore, the person on the 6th floor is Irene.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide the correct explanation and answer.
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_04.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">277.0 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>🤖 AI-Detected Issues</h3>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #1 (ID: 1)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References July 2025, but we're now in October 2025
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify the actual date of approval for the PMDDKY scheme and update the question accordingly. If the scheme was approved earlier, adjust the timeframe accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #21 (ID: 21)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The 56th GST Council meeting did not recommend a reduction of GST on Cement from 28% to 18%. This is factually incorrect.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the question and answer to reflect the actual recommendations of the 56th GST Council meeting regarding GST rates.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #37 (ID: 37)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to data as of September 2023. This is outdated as the current date is October 2025. More recent data should be used.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect more current data on the Capital to Risk-weighted Assets Ratio (CRAR) for Scheduled Commercial Banks, or specify the relevance of using older data.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #39 (ID: 39)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question states the Nobel Prize in Economics was awarded in October 2024. While Claudia Goldin did win, it's important to verify if the year is correct, as it should be October 2023, not 2024.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Double-check and correct the year of the Nobel Prize award. If it was indeed 2023, update the question accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #40 (ID: 40)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question mentions repo rate movement from 6.50% to 6.75% and then held constant between October 2024 and September 2025. This needs verification against actual RBI policy decisions during that period.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify the accuracy of the repo rate movements and dates mentioned in the question against official RBI records. If incorrect, update the question to reflect the correct policy stance.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #44 (ID: 44)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the monthly accounts of the Government of India published in September 2025. While this is the current month, the data is only relevant *after* September 2025 has concluded. As it's early October 2025, the question is potentially using forward-looking information.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Ideally, use data from August 2025 or earlier to avoid any potential issues with forward-looking information. If September 2025 data is used, ensure it's publicly available and verifiable.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #46 (ID: 46)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question states that SEBI reduced the IPO listing timeline to T+3 days in May 2025. This needs to be verified against official SEBI announcements to ensure accuracy.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Confirm the date and details of the SEBI announcement regarding the IPO listing timeline reduction. If the date or timeframe is incorrect, update the question accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #55 (ID: 55)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 2025, but we're now in October 2025. This implies the information is from the future.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify the actual date and update the question accordingly. If the date is correct, consider rephrasing to reflect that the event has already occurred (e.g., 'In September 2025, R&I *had* upgraded...').
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #63 (ID: 63)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about the projected Gross NPA ratio for September 2024, but it is now October 2025. The actual value should be available, not a projection.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to ask about the *actual* Gross NPA ratio for September 2024, if available. If not, consider using a more recent date for which projections are relevant.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #76 (ID: 76)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question doesn't specify the assessment year. While the explanation mentions 'effective from October 1, 2024', it's better to explicitly state the assessment year the question refers to.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Add a phrase like 'For the assessment year 2025-2026' to the question.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #80 (ID: 80)</span>
+                                <span class="ai-issue-type">clarity</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question could be more precise about the relevant financial year. While it mentions 'effective from April 1, 2025', specifying the assessment year would improve clarity.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Add a phrase like 'For the assessment year 2026-2027' to the question.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #115 (ID: 115)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The calculation of time taken to cross each other is incorrect. The relative speed is correctly calculated as 29.17 m/s. However, the time calculation 270/29.17 results in approximately 9.26 seconds, which is not close to 12 seconds. The correct answer should be approximately 9 seconds.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate the answer and update the correct answer and explanation accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #116 (ID: 116)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation rounds 7.2 days to 7 days, which is incorrect in this context. The correct answer should be 7.2 days, and rounding it down changes the meaning of the answer.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide the exact answer (7.2 days) or explain why rounding to 7 days is appropriate (if it is). If the answer choices are integers, consider adjusting the question or the numbers used in the question to result in an integer answer.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #119 (ID: 119)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The calculation is incorrect. Initial population is 100. After 15% increase, it's 115. After 20% increase on 115, it's 115 * 1.20 = 138. The total increase is 138 - 100 = 38. The percentage increase is 38%. The correct answer is 38%, not 36%.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation and the correct answer to 38%.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #121 (ID: 121)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The calculation is slightly off. A = 8000 * (1 + 0.04)^2 = 8000 * 1.0816 = 8652.8. The closest answer is Rs. 8,650, but the explanation should reflect the more precise calculation.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Adjust the answer choices or the principal/rate to result in a cleaner number, or acknowledge the rounding in the explanation.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #122 (ID: 122)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The calculation is correct, but the answer is slightly off due to rounding. 21 km/hr * (1/3) hr = 7 km. The answer is correct, but the explanation could be more precise.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> No change needed, but be aware of potential rounding issues.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #127 (ID: 127)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation calculates the percentage as (18/188)*100 which is correct. However, the total cost calculation is incorrect. The question asks for the percentage of total *cost* attributed to accessories. The provided values are *revenue* values from question 126. The total cost data is missing.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Provide the total cost data and recalculate the percentage. If the total cost is not available, the question cannot be answered.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #139 (ID: 139)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation calculates the new Q2 production correctly (1485). However, the new total production calculation is incorrect. It should be 1200 + 1485 + 1500 + 1650 = 5835. The provided answer is correct, but the explanation has a calculation error.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the calculation in the explanation to 1200 + 1485 + 1500 + 1650 = 5835.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #144 (ID: 144)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly deduces that Dan must be on floor 1. The conditions state Ben is on 2, Carol is on 3, and Eva is on 5. Alan cannot be on 1. This means Dan must be on floor 1, and Alan is on floor 4. The question asks who lives on floor 3, and the correct answer is Carol, but the explanation incorrectly concludes Alan is on floor 4.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation to accurately reflect the deduction process and confirm Carol lives on floor 3.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #148 (ID: 148)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly places Y on the third floor. Given the conditions, U is on floor 4, X is on floor 1. V and Y are not on the first floor. This leaves floors 2, 3, and 5 for V and Y. T is on an even numbered floor in building A, which is floor 4. P and W live on the same floor. Since floor 4 is taken by T in building A, and U in building B, P and W cannot live on floor 4. The explanation is not clear and the answer is incorrect.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Re-evaluate the logic and provide a correct explanation for the placement of Y.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #161 (ID: 161)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly states that B is the stepmother and C is the mother of D. Since A and B are married, and A is the father of D, B must be the mother of D. Therefore, C cannot be the mother of D.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Revise the explanation to reflect that B is the mother of D and E, and C is the sister of B, making C the aunt of E.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #173 (ID: 173)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation incorrectly states that Course of Action I is relevant. The problem is poor customer service, so training customer-facing employees (Course of Action I) is directly relevant to solving the problem. The explanation also incorrectly states that Course of Action II does not address the root cause. While it doesn't directly fix the customer service issue, attracting new customers can help offset the loss of existing customers due to poor service. The correct answer should be 'All follow'.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Revise the explanation to reflect that all three courses of action are relevant to addressing the problem of declining sales due to poor customer service.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #179 (ID: 179)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the pattern involves shifting consonants by +1 and vowels by -1. However, applying this to 'SKILL' results in: S(+1)=T, K(+1)=L, I(-1)=H, L(+1)=M, L(+1)=M. This gives 'TLHMM', not 'TMJMN'. The same error occurs for 'LOGIC'. The explanation is incorrect and the answer is wrong.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation and the answer based on the actual pattern. The correct answer should be 'TVMF'.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #187 (ID: 187)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the pattern shifts vowels -1 and consonants +1. 'LION': L+1=K, I-1=H (but becomes I for vowel adjustment), O-1=N (but becomes O for vowel adjustment), N+1=O. This is incorrect. L+1=M, I-1=H, O-1=N, N+1=O. The pattern is actually +1 for consonants and -1 for vowels. The explanation is wrong, and the application of the rule is also wrong. The same error occurs for 'BEAR'.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation and the answer based on the actual pattern. The correct answer should be 'CFBS'.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #192 (ID: 192)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the arrangement is D, A, C, B, E from left to right and concludes D is at the rightmost end. This contradicts the problem statement that A is third from the left and C is between A and B. E is not at the end. The correct arrangement is A C B. Since A is third from the left, there are two more people to the left of A. Since E is not at the end, D must be at the rightmost end. The arrangement is D _ A C B E. The blank must be filled with someone. The correct arrangement is _ _ A C B. E is not at the end so the arrangement is _ _ A C B E. A is third from the left. So the arrangement is _ _ A C B. Since E is not at the end, the arrangement is _ _ A C B E. The question is flawed.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Revise the question or the explanation to be consistent with the given conditions. The question is unanswerable with the given constraints.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #193 (ID: 193)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the seating order is A, F, B, D, C, G, E and concludes D has C on his right. This contradicts the statement that C sits fourth to the right of A. Also, G is immediately to the right of E, but the arrangement shows the opposite. The arrangement is incorrect and the answer is wrong.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the seating arrangement and the answer based on the given conditions. The correct answer should be B.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #197 (ID: 197)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states the arrangement from bottom to top is E: Elderberry, D: Banana, C: Cherry, B: Date, A: Apple. This contradicts condition 3: The Banana box is directly below the Cherry box. The Cherry box should be directly above the Banana box. The arrangement is incorrect and the answer is wrong.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the arrangement and the answer based on the given conditions. The correct answer should be Cherry.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #199 (ID: 199)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The explanation states that M is two floors above L and places M on 6th and L on 4th. H can be on 2nd or 4th; if on 2nd, K on 1st, leaving no room for G, so H must be on 4th, K on 3rd, G on 1st. This is incorrect. If H is on 4th, then K is on 3rd. M is two floors above L, so if L is on 4th, M is on 6th. This is a contradiction. The explanation is flawed.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the explanation and the answer based on the given conditions. The correct answer should be 6th floor.
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_05.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">275.9 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>⚠️ Warnings</h3>
+                        <ul class="issue-list">
+
+                            <li class="issue-item warning">⚠️ Q132 (ID:132) Option A: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q132 (ID:132) Option C: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q133 (ID:133) Option A: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q133 (ID:133) Option C: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q133 (ID:133) Option D: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q133 (ID:133) Option E: Duplicate answer text found</li>
+
+                        </ul>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>🤖 AI-Detected Issues</h3>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #1 (ID: 1)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about FY24, which ended in March 2024. The question should be updated to reflect more recent data or rephrased to be relevant to the current date (October 2025).
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to refer to a more recent fiscal year or time period. Verify the accuracy of the inflation rate for the relevant period.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #13 (ID: 13)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to the second half of FY 2023-24. This is outdated and needs to be updated to a more recent period.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to refer to a more recent period and verify the policy repo rate for that period.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #32 (ID: 32)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about the GNPA ratio as of the end of September 2024. Since it is now October 2025, this data point is outdated and should be updated to a more recent period or removed.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect a more current timeframe (e.g., end of September 2025 if data is available, or a different recent period).
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #35 (ID: 35)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question refers to CAGR from June 2021 to June 2023. Given the current date of October 2025, this data is outdated. More recent data should be used.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the timeframe to a more recent period, such as June 2023 to June 2025, if data is available.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #45 (ID: 45)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The question asks about the CRAR as of September 2023. Given the current date of October 2025, this data is outdated.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question to reflect a more current timeframe (e.g., end of September 2025 if data is available, or a different recent period).
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #54 (ID: 54)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> Sanjay Malhotra is not the RBI Governor. The current RBI Governor is Shaktikanta Das.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the question and answer to reflect the current RBI Governor.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #62 (ID: 62)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The MPC did not reduce the repo rate in February 2025. This needs to be verified and corrected with accurate information.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Verify the MPC meeting outcomes for February 2025 and correct the question and answer accordingly.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #77 (ID: 77)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> Refers to FY 2025-26, which is current. However, the question asks about H2, implying a past event. The borrowing program would be known by October 2025, but the question should be phrased to reflect that it's asking about a known plan, not a prediction.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Rephrase to indicate that the question is about the *announced* borrowing program for H2 of FY 2025-26, or update to FY 2026-27 when available.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #118 (ID: 118)</span>
+                                <span class="ai-issue-type">logic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The calculation for the boat speed is incorrect. The equation 3(x + 3) = 5(x - 3) leads to x = 12, not 15 as stated in the explanation.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the calculation to show the correct answer of 12 km/hr.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #122 (ID: 122)</span>
+                                <span class="ai-issue-type">arithmetic</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The final answer is rounded incorrectly. The correct value is closer to 17,276, not 17,400.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Recalculate and provide a more accurate answer or adjust the options to include a closer value.
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_06.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">282.7 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>⚠️ Warnings</h3>
+                        <ul class="issue-list">
+
+                            <li class="issue-item warning">⚠️ Q117 (ID:117) Option B: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q117 (ID:117) Option E: Duplicate answer text found</li>
+
+                        </ul>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>🤖 AI-Detected Issues</h3>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #17 (ID: 17)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> Statement III is incorrect as the GST rate on manmade fibre was reduced from 18% to 5%, not 12%.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the statement to reflect the actual reduction from 18% to 5%.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #22 (ID: 22)</span>
+                                <span class="ai-issue-type">factual</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> The special de-merit rate was proposed at 40%, not 30%, making statement IV incorrect.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Correct the statement to reflect the actual de-merit rate of 40%.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #53 (ID: 53)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 2025, but we're now in October 2025. The information might be outdated.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question with more recent information or adjust the date to reflect the current context.
+                            </div>
+
+                        </div>
+
+                        <div class="ai-issue">
+                            <div class="ai-issue-header">
+                                <span>Question #71 (ID: 71)</span>
+                                <span class="ai-issue-type">outdated</span>
+                            </div>
+                            <div class="ai-issue-description">
+                                <strong>Issue:</strong> References September 2025, but we're now in October 2025. The information might be outdated.
+                            </div>
+
+                            <div class="ai-issue-suggestion">
+                                <strong>💡 Suggestion:</strong> Update the question with more recent information or adjust the date to reflect the current context.
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="file-section">
+                <div class="file-header">
+                    <h2>📄 quiz_maker_import_rbi_phase1_mock_07.json</h2>
+                    <span class="status-badge passed">✅ PASSED</span>
+                </div>
+                <div class="file-body">
+
+                    <div class="issue-section">
+                        <h3>📊 Statistics</h3>
+                        <div class="category-stats">
+                            <div class="category-item">
+                                <div class="category-name">Total Questions</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Published</div>
+                                <div class="category-count">200</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Question Length</div>
+                                <div class="category-count">264.7 chars</div>
+                            </div>
+                            <div class="category-item">
+                                <div class="category-name">Avg Options</div>
+                                <div class="category-count">5.0</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>📚 Category Distribution</h3>
+                        <div class="category-stats">
+
+                            <div class="category-item">
+                                <div class="category-name">General Awareness</div>
+                                <div class="category-count">80 / 80 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">English Language</div>
+                                <div class="category-count">30 / 30 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Arithmetic</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Data Interpretation</div>
+                                <div class="category-count">15 / 15 questions</div>
+                            </div>
+
+                            <div class="category-item">
+                                <div class="category-name">Reasoning</div>
+                                <div class="category-count">60 / 60 questions</div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="issue-section">
+                        <h3>⚠️ Warnings</h3>
+                        <ul class="issue-list">
+
+                            <li class="issue-item warning">⚠️ Q150 (ID:150) Option A: Duplicate answer text found</li>
+
+                            <li class="issue-item warning">⚠️ Q150 (ID:150) Option B: Duplicate answer text found</li>
+
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+        
+        <div class="footer">
+            <p>RBI Quiz Validation System v2.0 | Powered by Gemini 2.5 Pro</p>
+            <p>Report generated: 2025-10-12 20:20:37</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,469 @@
+{
+  "topic": "Data Sufficiency",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": "2017_Q157",
+      "question_number": 157,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Six people A, B, C, D, E and F are sitting around a circular table facing the centre. What is E’s position with respect to F? I. A site second to the right of D. Only two people sit between A and F. B sits to the immediate right of E. II. Only two people sit between D and E. E is an immediate neighbor of both B and A. C is not an immediate neighbor of B.",
+      "options": {
+        "A": "The data even in both statements I and II together are not sufficient to answer the question.",
+        "B": "The data in statement I alone are sufficient to answer the question while the data in statement II alone are not sufficient to answer the question.",
+        "C": "The data either in statement I alone or in statement II alone are sufficient to answer the question.",
+        "D": "The data in both statement I and II together are necessary to answer the question.",
+        "E": "The data in statement II alone are sufficient to answer the question while the data in statement I are not sufficient to answer the question."
+      },
+      "correct_answer": "B",
+      "explanation": "From Statement I, Hence, E is sitting second to the left of F. From Statement II, Hence, the data in statement I alone is sufficient to answer the question.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00045",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254025"
+      }
+    },
+    {
+      "id": "2017_Q158",
+      "question_number": 158,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "How is ‘dwarf’ definitely coded in the same code language? I. In a certain code language, ‘the dwarf planet’ is coded as ‘cq sd ap’ and ‘the solar energy’ is coded as ‘kb og sd’. II. In a certain code language, ‘only dwarf planet’ is coded as ‘cq ap st’, ‘the coldest planet’ is coded as ‘sd cq yt’.",
+      "options": {
+        "A": "The data even in both statements I and II together are not sufficient to answer the question.",
+        "B": "The data in statement I alone are sufficient to answer the question while the data in statement II alone are not sufficient to answer the question.",
+        "C": "The data either in statement I alone or in statement II alone are sufficient to answer the question.",
+        "D": "The data in both statement I and II together are necessary to answer the question.",
+        "E": "The data in statement II alone are sufficient to answer the question while the data in statement I are not sufficient to answer the question."
+      },
+      "correct_answer": "D",
+      "explanation": "From statement I, the dwarf planet → eq sd ap the solar energy → kb og sd From statement II, only dwarf planet eq ap st the coldest planet sd cq yt → → Hence, both statements are together necessary to answer the question.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00046",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254026",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q159",
+      "question_number": 159,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Fifteen people are standing in a straight row facing north. What is M’s position with respect to S? I. P stands third from the left end of the row. Only two people stand between P and M. N stands third to the right of M. S is an immediate neighbor of N. II. Q stands second from the right end of the row. Only two people stand between Q and O. O is an immediate neighbor of S. As many people stand to the left of M as to the right of S.",
+      "options": {
+        "A": "The data even in both statements I and II together are not sufficient to answer the question.",
+        "B": "The data in statement I alone are sufficient to answer the question while the data in statement II alone are not sufficient to answer the question.",
+        "C": "The data either in statement I alone or in statement II alone are sufficient to answer the question.",
+        "D": "The data in both statement I and II together are necessary to answer the question.",
+        "E": "The data in statement II alone are sufficient to answer the question while the data in statement I are not sufficient to answer the question."
+      },
+      "correct_answer": "D",
+      "explanation": "From statement I, From statement II, Hence, both statements are necessary together to answer the question.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00047",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254027",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q55",
+      "question_number": 55,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "On a T.V. channel, four movie A, B, C and D were screened, one on each day, on four consecutive days but not necessarily in that order. On which day was the movie C screened? I. The first movie was screened on 23rd, Tuesday and was followed by movie D II. Movie A was not screened on 25th and one movie was screened between serials A and B",
+      "options": {
+        "A": "Data in statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.",
+        "B": "Data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+        "C": "Data in statements I alone or in Statement II alone are sufficient to answer the question.",
+        "D": "Data in both the Statements I and II are not sufficient to answer the question.",
+        "E": "Data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "E",
+      "explanation": "From I: The first movie was screened on 23rd, Tuesday and was followed by movie D So, D was screened second i.e. on 24th, Wednesday. From II: Movie A was not screened on 25th and one movie was screened between serials A and B One movie was screened between A and B Combining both statements, From I, we know that the serials were screened on 23rd, 24th, 25th and 26th. Clearly, D was screened second i.e. on 24th, Wednesday. From II, one movie was screened between A and B. So, A and B were screened first and third, i.e. on 23rd and 25th. But, A was not screened on 25th. So, A was screened on 23rd and B on 25th. Thus, C was screened on 26th, Friday. Data in both the statements I and II together is sufficient to answer the question",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00083",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254071",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q57",
+      "question_number": 57,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "How many person standing between Rohit and Vijay in a straight line of 15 persons(Note: all are standing in a straight line facing north). I. Ajay stands eleventh from the right end of the line. Vijay stands exactly at the center of the line. There are as many persons to the right of Rohit as there are to the left of Ajay. II. Rahul stands fourth from the left end of the line. Ajay is the immediate neighbor of Rahul. Only two person stand between Vijay and Ajay. Only two person Stand between Rohit and Ajay.",
+      "options": {
+        "A": "Data in statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.",
+        "B": "Data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+        "C": "Data in statements I alone or in Statement II alone are sufficient to answer the question.",
+        "D": "Data in both the Statements I and II are not sufficient to answer the question.",
+        "E": "Data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "C",
+      "explanation": "I) Ajay stand eleventh from the right end of the line. Vijay stand exactly at the center of the line. There are as money persons to the right of Rohit as there are to the left of Ajay. As we can see in above diagram there are 2 people between Ajay and Vijay. Hence, Data in statement I are sufficient to answer the question. II) Rahul stands fourth from the left end of line. Ajay is the immediate neighbor of Rahul. Only two person stand between Vijay and Ajay. Only two person Stand between Rohit and Ajay. As we can see in above diagram there are 5 person between Rohit and Vijay. Hence, data in statement II alone are sufficient to answer the question. Here, data either the statement I alone or statement II alone are sufficient to answer the question",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00085",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254073"
+      }
+    },
+    {
+      "id": "2018_Q58",
+      "question_number": 58,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Among M, N, O, P, Q and R, each having a different height, who is the second tallest? I. M is taller than only O. N is taller than P shorter than R. Q is shorter than N. II. Q is taller than only three persons. P is taller than M but shorter than R. N is shorter than R taller than P.",
+      "options": {
+        "A": "Data in statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.",
+        "B": "Data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+        "C": "Data in statements I alone or in Statement II alone are sufficient to answer the question.",
+        "D": "Data in both the Statements I and II are not sufficient to answer the question.",
+        "E": "Data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "A",
+      "explanation": "From II: After combining both statement: R> N> Q> P> M> O Hence data in statement II alone are sufficient to answer the question. II) Q is taller than only three persons. P is taller than M but shorter than R. N is shorter than R taller than P. Hence we can’t tell who is second tallest among them. Hence data in statement II alone are not sufficient to answer the question. Hence, The data in statement I alone are sufficient to answer the question while the data in statement I alone are not sufficient to answer the question.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00086",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254074"
+      }
+    },
+    {
+      "id": "2019_Q52",
+      "question_number": 52,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully and answer the questions that follow. P, Q, R, S, T, V and W are seven different boxes of different colours i.e. black, silver, red, pink, yellow, white and green but not necessarily in the same order. Box S is kept immediately above the yellow colour box. More than three boxes are there between pink and silver colour box. There are two boxes between box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is kept immediately above the box W. More than three boxes are there between yellow and pink colour box. The colour of box T is red.How many boxes are there between the green coloured box and silver coloured box?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "E": "None"
+      },
+      "correct_answer": "C",
+      "explanation": "Box – P, Q, R, S, T, V and W Colour- Black, silver, red, pink, yellow, white and green 1) There are two boxes between the box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is immediately above the box W. Case 1: Case 2: 2) Box S is immediately above yellow colour box. T is of red colour box. This is not possible in case 2. So, case 1 is correct. 3) More than three boxes are there between pink and silver colour box. More than three boxes are there between yellow and pink colour box. Hence, three boxes are there between green and silver colour box.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00169",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254168",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q167",
+      "question_number": 167,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Among five friends P, Q, R, S and T each studying in a different standard, viz 3rd, 4th, 5th, 6th and 8th. In which standard does R study? I) Q studies in a standard which is an odd number. R is Q’s senior but does not study in 8th standard. II) Only three students are senior to P. Q is senior to P but junior to R. III) S is not junior to T.",
+      "options": {
+        "A": "Inadequate data",
+        "B": "Only II",
+        "C": "Only I and II",
+        "D": "Only I and III",
+        "E": "All I, II and III"
+      },
+      "correct_answer": "C",
+      "explanation": "From I and II: | 3rd | 4th | 5th | 6th | 8th | |-----|-----|-----|-----|-----| |     | P   | Q   | R   |     |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00201",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254205",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q168",
+      "question_number": 168,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Which word would be coded as CHAPTER? I) In the code language, ‘Chapter is complete’ is written as ‘DIBQUFS JT DPNMFUF’ II) In the same language, ‘This chapter is very easy’ is written as ‘UIJT DIBQUFS JT WFSZ FBTZ’ III) In the same language, ‘Manish is intelligent’ is written as ‘NBOJTI JT JOUFMMJHFOU’",
+      "options": {
+        "A": "Only I and II are sufficient",
+        "B": "Only I and III are sufficient",
+        "C": "All the statements are needed to answer the question",
+        "D": "Only II and III are sufficient",
+        "E": "Question cannot be answered even with the information in all the statements"
+      },
+      "correct_answer": "C",
+      "explanation": "Using all the three statements together: | Is | JT | |----|----| | Chapter | DIBQUFS | | Complete | DPNMFUF |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00202",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254207",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q169",
+      "question_number": 169,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Among A, B, C, D and E, who is in the middle while standing in a row? Statements: I) C, who is third to the left of D, is at the immediate right of A, and second to the left of E. II) C is second to the left of E, who is not at any of the ends and who is third to the right of A.",
+      "options": {
+        "A": "I alone is sufficient while II alone is not sufficient",
+        "B": "II alone is sufficient while I alone is not sufficient",
+        "C": "Either I or II is sufficient.",
+        "D": "Neither I nor II is sufficient",
+        "E": "Both I and II are required"
+      },
+      "correct_answer": "A",
+      "explanation": "Using I alone: | 1st | 2nd | 3rd | 4th | 5th | |-----|-----|-----|-----|-----| | A   | C   | B   | E   | D   |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00203",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254208",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q153",
+      "question_number": 153,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Six boxes namely – P, Q, R, S, T and U are kept one above other. Each box contains different article viz. Watch, Card, Radio, Book, Mobile and Laptop. All the information given are not necessary in same order. Box R is kept second from bottom at a gap of two boxes from one contains Card. Which box contains Mobile? I. Box U is kept just below the box which contains Radio. Box T contains Mobile and kept just below the box S. II. Box S is kept at a gap of three boxes from the box which contains Card. Box P is kept just above the box which contains Book.",
+      "options": {
+        "A": "If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.",
+        "B": "If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.",
+        "C": "If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.",
+        "D": "If the data in both the Statements I and II together are not sufficient to answer the question.",
+        "E": "If the data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "A",
+      "explanation": "From the initial information in the question, we get: | Box | Article | | --- | --- | | P | Book | |  | Card | |  |  | | U |  | | R |  | |  | Watch | From statement I alone: | Box | Article | | --- | --- | | P | Book | | S | Card | | Q | Mobile | | U | Laptop | | R | Radio | | T | Watch | Box T is kept just below the one that contains Radio. Hence, I alone is sufficient. Now using statement II alone: | Box | Article | | --- | --- | | P | Book | | S/T | Card | | Q | Mobile/radio | | U | Laptop | | R | Radio/mobile | | T/S | Watch | So, II alone is not sufficient.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00241",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254250",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q154",
+      "question_number": 154,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Seven friends namely – Amar, Rekha, Pinku, Hetal, Romy, Zoya and Monty are sitting in a row facing north but not necessarily in the same order. How many persons sit left of Monty? I) Amar sits second to the left of Pinku. Only two persons sit between Romy and Pinku. Rekha sits immediate left of Amar. Hetal is not an immediate neighbour of Pinku. II) Zoya sits third to the left of Hetal, who sits immediate left of Romy. Neither Zoya nor Hetal sits at end of the row.",
+      "options": {
+        "A": "If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.",
+        "B": "If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.",
+        "C": "If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.",
+        "D": "If the data in both the Statements I and II together are not sufficient to answer the question.",
+        "E": "If the data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "E",
+      "explanation": "From statement I alone, | Rekha | Amar | Zoya/ Monty | Pinku | Monty / Zoya | Hetal | Romy | | --- | --- | --- | --- | --- | --- | --- | So, exact position of Monty is not known. Hence, statement I alone is not sufficient. From statement II alone, | Rekha | Monty / Amar | Zoya | Pinku | Amar/ Monty | Hetal | Romy | | --- | --- | --- | --- | --- | --- | --- | Again, exact position of Monty is not known. Hence, statement II alone is not sufficient. Combining I and II, | Rekha | Amar | Zoya | Pinku | Monty | Hetal | Romy | | --- | --- | --- | --- | --- | --- | --- | So, four persons sit to the left of Monty. Hence, I and II together are sufficient.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00242",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254251",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q155",
+      "question_number": 155,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Six persons namely – P, Q, R, S, T and U lives in six floored building marked 1 to 6 in such a way that lowermost floor is marked 1 and topmost floor is marked 6. Each person likes different fruits viz. Orange, Guava, Banana, Mango, Apple and Grapes. All the information are not necessary in same order. Who among the following person likes Apple? I) U lives on topmost floor. Person who likes Grapes lives on adjacent floor of one who likes Guava. Person who likes Banana lives on adjacent floor of one who likes Mango. II) One who likes Orange lives on even numbered floor but not adjacent floor of one who likes Banana. T lives on adjacent floor of one who likes Orange. S and one who likes Mango lives on adjacent floor. Only two person lives between one who likes Apple and T.",
+      "options": {
+        "A": "If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.",
+        "B": "If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.",
+        "C": "If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.",
+        "D": "If the data in both the Statements I and II together are not sufficient to answer the question.",
+        "E": "If the data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "A",
+      "explanation": "From the initial information in the question, we get | Floor | Person | Fruit | | --- | --- | --- | | 6 | U |  | | 5 |  | Banana | | 4 | P |  | | 3 |  | Grapes | | 2 | Q |  | | 1 |  | Guava | Now using I alone, we get | Floor | Person | Fruit | | --- | --- | --- | | 6 | U | Apple | | 5 | S | Banana | | 4 | P | Mango | | 3 | T | Grapes | | 2 | Q | Orange | | 1 | R | Guava | So, I alone is sufficient. Now, using II alone, we get two possibilities Possibility 1: | Floor | Person | Fruit | | --- | --- | --- | | 6 | U | Apple | | 5 | S | Banana | | 4 | P | Mango | | 3 | T | Grapes | | 2 | Q | Orange | | 1 | R | Guava | Possibility 2: | Floor | Person | Fruit | | --- | --- | --- | | 6 | U | Mango | | 5 | S | Banana | | 4 | P | Apple | | 3 | R | Grapes | | 2 | Q | Orange | | 1 | T | Guava | So, statement II alone is not sufficient as we don't know the exact floor of the person who likes apple.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00243",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254252",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q156",
+      "question_number": 156,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "What is the direction of point O with respect to point I? I) Point A is 5 m to the north of point P. Point D is 4 m to the south of point C. Point P is 6 m to the east of point C. II) Point B is 3 m to the east of point P. Point I is 6 m to the east of point F. Point B is 4 m to the north of point F. III) Point N is 2 m to the north of point M. Point A is 4 m to the west of point M. Point N is 6 m to the east of point O.",
+      "options": {
+        "A": "All I, II and III",
+        "B": "Both II and III",
+        "C": "Only II",
+        "D": "II and either I or III",
+        "E": "Both I and II"
+      },
+      "correct_answer": "A",
+      "explanation": "Combining all three, we get So, point O is the north-west direction with respect to point I.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00244",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254253",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q157",
+      "question_number": 157,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Six persons P, Q, R, S, T, U are sitting around a circular table. Some of them are facing the center while some are facing away from the center. How many persons are facing inside? I) S sits second to the right of Q. R sits second to the left of T, who is not an immediate neighbour of S. P sits second to the left of U. II) T sits immediate left of S. P sits second to the right of U. R is not an immediate neighbour of Q.",
+      "options": {
+        "A": "If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.",
+        "B": "If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.",
+        "C": "If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.",
+        "D": "If the data in both the Statements I and II together are not sufficient to answer the question.",
+        "E": "If the data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "D",
+      "explanation": "From statement I: Case 1: Case 2: So, statement I alone is not sufficient. From statement II: Case 1: Case 2: So, statement II alone is not sufficient. Combining I and II: So, even I and II together are not sufficient.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Data Sufficiency",
+      "topic": "Data Sufficiency",
+      "question_id": "REASONING_00245",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254254",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

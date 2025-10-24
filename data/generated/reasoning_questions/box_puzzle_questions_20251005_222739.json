@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "box_puzzle_001",
+    "question": "Five boxes, labeled A, B, C, D, and E, are arranged vertically from bottom to top. Each box contains a different fruit: Apple, Banana, Cherry, Date, and Elderberry. The following conditions must be satisfied:\n1. The Cherry box is directly above the Elderberry box.\n2. The Apple box is at the top.\n3. The Banana box is directly below the Cherry box.\n4. The Date box is not at the bottom.\n\nWhich fruit is in box C?",
+    "options": {
+      "A": "Cherry",
+      "B": "Elderberry",
+      "C": "Date",
+      "D": "Banana",
+      "E": "Apple"
+    },
+    "correct_answer": "D",
+    "explanation": "The conditions lead to the following arrangement from bottom to top: \nE: Elderberry, \nD: Banana, \nC: Cherry, \nB: Date, \nA: Apple. \nThus, box C contains Banana.",
+    "difficulty": "Easy",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_002",
+    "question": "Six boxes are arranged in a horizontal row from left to right, numbered 1 to 6. Each box is labeled with a unique color and contains a different fruit. The colors are Red, Blue, Green, Yellow, White, and Black. The fruits are Apple, Banana, Cherry, Date, Elderberry, and Fig. The following conditions are given:\n1. The Red box is immediately to the left of the Fig box.\n2. The Blue box contains Apple and is at one end.\n3. The Cherry box is exactly two places away from the Blue box.\n4. The Yellow box is between the Date and Cherry boxes.\n5. The Green box is immediately right of the Banana box.\n\nWhich color box contains the Elderberry?",
+    "options": {
+      "A": "Green",
+      "B": "Yellow",
+      "C": "Red",
+      "D": "White",
+      "E": "Black"
+    },
+    "correct_answer": "D",
+    "explanation": "Based on the conditions, the arrangement from left to right is: \n1: Blue (Apple), \n2: White (Elderberry), \n3: Red, \n4: Black (Fig), \n5: Yellow (Cherry), \n6: Green (Date). \nThe White box contains Elderberry.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_003",
+    "question": "Seven boxes numbered 1 to 7 are arranged vertically with different colors and weights. The boxes contain Red, Blue, Green, Yellow, White, Black, and Pink colors. Each box is either Light or Heavy. The following conditions apply:\n1. The Green box is immediately above the Heavy Pink box.\n2. The Yellow box is between two Light boxes.\n3. The Blue box, which is Heavy, is not adjacent to the Red box.\n4. The White box is immediately below the Light Yellow box.\n5. The Black box is at the top and is Light.\n6. Exactly two boxes separate the Red and Pink boxes.\n\nWhat is the color of the box at position 5?",
+    "options": {
+      "A": "White",
+      "B": "Green",
+      "C": "Yellow",
+      "D": "Blue",
+      "E": "Pink"
+    },
+    "correct_answer": "A",
+    "explanation": "The arrangement from top to bottom is:\n1: Black (Light), \n2: Red (Heavy), \n3: Green (Light), \n4: Pink (Heavy), \n5: White (Light), \n6: Yellow (Light), \n7: Blue (Heavy). \nBox 5 is White.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_004",
+    "question": "Eight boxes are stacked vertically with different colors, numbered 1 to 8 from bottom to top. Each box has a unique color, fruit, and weight category (Light or Heavy). The colors are Red, Blue, Green, Yellow, White, Black, Pink, and Orange. The fruits are Apple, Banana, Cherry, Date, Elderberry, Fig, Grape, and Honeydew. Conditions:\n1. The Blue box is heavier than the Yellow box.\n2. The Black box is immediately above the Grape box.\n3. The Cherry is in a Light box and directly below the Orange box.\n4. The Banana box is exactly between the Light White and Heavy Pink boxes.\n5. The Apple is in a Green box that is two boxes below the Date box.\n6. The Honeydew box is below the Elderberry box.\n7. The Fig is in a Heavy box directly above the Red box.\n\nWhat color is the top box?",
+    "options": {
+      "A": "Red",
+      "B": "Blue",
+      "C": "Green",
+      "D": "White",
+      "E": "Pink"
+    },
+    "correct_answer": "B",
+    "explanation": "Using the given conditions, the arrangement from bottom to top is: \n1: Grape (Black, Heavy), \n2: Fig (Red, Heavy), \n3: Elderberry (Yellow, Light), \n4: Honeydew (Orange, Heavy), \n5: Cherry (White, Light), \n6: Date (Pink, Heavy), \n7: Apple (Green, Light), \n8: Banana (Blue, Heavy). \nThe top box is Blue.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_005",
+    "question": "Nine boxes are organized in a row with different colors, weights (Light/Heavy), and shapes (Round/Square/Triangle). The colors are: Red, Blue, Green, Yellow, White, Black, Pink, Orange, and Purple. Following conditions apply:\n1. The Round Red box is heavier than the Square Orange box.\n2. The Blue box is two places away from the Light Triangle box.\n3. The Yellow box is directly to the left of the Heavy Square box.\n4. The Green box is a Light Round box.\n5. The Purple box, which is Square, is immediately next to the Pink box.\n6. The White box is neither the heaviest nor the lightest.\n7. The Black box, which is Round, is heavier than the Yellow box.\n8. The Light Green box is at one end.\n\nWhat is the shape of the Yellow box?",
+    "options": {
+      "A": "Round",
+      "B": "Square",
+      "C": "Triangle",
+      "D": "Oval",
+      "E": "Hexagon"
+    },
+    "correct_answer": "C",
+    "explanation": "By deducing all conditions, the arrangement left to right is:\n1: Green (Round, Light), \n2: Purple (Square, Heavy), \n3: Pink (Round, Light), \n4: Yellow (Triangle, Light), \n5: Blue (Round, Heavy), \n6: Orange (Square, Light), \n7: Red (Round, Heavy), \n8: Black (Round, Heavy), \n9: White (Round, Heavy). \nThe Yellow box is a Triangle.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_006",
+    "question": "Six boxes A, B, C, D, E, and F are arranged vertically. Each box contains a different fruit: Apple, Banana, Cherry, Date, Fig, and Grape. The following conditions are given: 1. Box D is immediately above the box with Cherry. 2. Box B is two places above the box with Fig. 3. The box with Grape is immediately below the box with Date. 4. Box E is at the top. 5. Box C is immediately below Box B. Which fruit is in Box A?",
+    "options": {
+      "A": "Banana",
+      "B": "Apple",
+      "C": "Fig",
+      "D": "Date",
+      "E": "Cherry"
+    },
+    "correct_answer": "B",
+    "explanation": "Arranging from top to bottom: E (Apple), B (Date), C (Grape), D (Cherry), F (Banana), A (Fig). Using the conditions: 4 puts E at the top with Apple. 2 & 5 put B two places above F, B containing Date, C containing Grape. 1 places D immediately above Cherry. Thus, A contains Fig.",
+    "difficulty": "Easy",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_007",
+    "question": "Seven boxes labeled 1 to 7 are placed in a row from left to right. Each box contains a different colored item: Red, Blue, Green, Yellow, Orange, Purple, and Pink. The following conditions apply: 1. The Green item is exactly in the middle. 2. The Red item is to the immediate left of the Pink item. 3. The Yellow item is the second from the right. 4. The Blue item is not adjacent to the Orange item. 5. The Purple item is two places to the left of the Yellow item. Which item is in the leftmost box?",
+    "options": {
+      "A": "Blue",
+      "B": "Purple",
+      "C": "Red",
+      "D": "Orange",
+      "E": "Pink"
+    },
+    "correct_answer": "C",
+    "explanation": "Using condition 1, Green is in position 4. Condition 3 places Yellow in position 6. Condition 5 places Purple in position 4-2=2. Condition 2 then places Red in position 1 and Pink in position 2. Orange and Blue are placed in positions 3 and 5 respectively, with Orange in 5 and Blue in 3 to satisfy condition 4. Thus, Red is in the leftmost box.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_008",
+    "question": "Eight boxes stacked vertically, numbered from 1 to 8 from bottom to top, contain the following items: Laptop, Phone, Tablet, Charger, Book, Pen, Notebook, and Mouse. These items have specific attributes - color (Black, White, Grey) and condition (New, Used). The clues are: 1. The Phone is directly above the New item. 2. The White item is two boxes below the Grey item. 3. The Laptop is Used. 4. The Mouse is exactly between the Black item and the Tablet. 5. The Pen is White. 6. The Book is on top. 7. The Notebook is at position 4 and is Grey.",
+    "options": {
+      "A": "Charger, New, Black",
+      "B": "Charger, Used, Grey",
+      "C": "Pen, New, Black",
+      "D": "Pen, Used, White",
+      "E": "Mouse, New, Black"
+    },
+    "correct_answer": "A",
+    "explanation": "Arranging from bottom to top: 1 (Charger, New, Black), 2 (Phone, New, White), 3 (Pen, Used, White), 4 (Notebook, Grey), 5 (Mouse, New, Black), 6 (Tablet, Used), 7 (Laptop, Used, Grey), 8 (Book, New). Condition 1 places Phone above a New item. Condition 3, 5, 7, and 6 dictate the positions of the Laptop, Pen, Notebook, and Book, respectively. The correct arrangement shows Charger, New, Black in position 1.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_009",
+    "question": "Nine boxes labeled A to I are arranged on two shelves, each with four and five boxes respectively. The boxes have different weights: 1 kg, 2 kg, 3 kg, up to 9 kg. They also contain different objects: Ball, Book, Cup, Doll, Egg, Fan, Hat, Ink, Jug. The conditions are: 1. The Cup is heavier than the Ball and placed on a different shelf than the Ball. 2. Box A is heavier than Box D but lighter than Box H. 3. The Jug is in a 5 kg box. 4. Box G is on the top shelf and lighter than Box I on the bottom shelf. 5. The Doll is immediately next to the Fan. 6. The Egg is in a heavier box than the Book, which is not the lightest. 7. The Hat is on the bottom shelf and weighs less than 6 kg.",
+    "options": {
+      "A": "Box A contains Doll and is 3 kg",
+      "B": "Box B contains Ball and is 1 kg",
+      "C": "Box C contains Egg and is 9 kg",
+      "D": "Box D contains Fan and is 4 kg",
+      "E": "Box E contains Ink and is 7 kg"
+    },
+    "correct_answer": "C",
+    "explanation": "Analyzing the conditions, Box C contains Egg weighing 9 kg due to it being heavier than the Book and logic deduced from weight comparisons. Cup and Ball are separated by shelves, influencing the bottom shelf arrangement. The Jug is fixed at 5 kg, and Hat's placement below 6 kg limits it. Systematically applying all conditions places Egg as 9 kg in Box C.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_010",
+    "question": "Ten boxes are stacked vertically, each containing an item: Camera, Glasses, Necklace, Watch, Ring, Bracelet, Key, Coin, Badge, and Stamp. Each item has a weight (ranging from 1 to 10 units) and a color (Red, Blue, Green, Yellow, Black). The rules are: 1. The Red item is heavier than the Blue item. 2. The item in Box 7 is Yellow. 3. The Necklace and the Bracelet are in adjacent boxes and their weights add up to 15. 4. The Green item is in Box 3 and is lighter than the item in Box 10. 5. The Watch is in the heaviest box and the Ring is in the lightest. 6. The Camera is immediately above the Coin and both are Blue. 7. The Stamp is heavier than the Badge but lighter than the Glasses.",
+    "options": {
+      "A": "The Badge is in Box 4 and weighs 4 units",
+      "B": "The Necklace is in Box 5 and is Red",
+      "C": "The Watch is in Box 10 and weighs 10 units",
+      "D": "The Key is in Box 8 and is Yellow",
+      "E": "The Ring is in Box 1 and weighs 1 unit"
+    },
+    "correct_answer": "E",
+    "explanation": "Solving the puzzle step-by-step, the arrangement is Ring in Box 1 (1 unit), Badge in Box 2 (4 units), Green Glasses in Box 3 (3 units), Necklace and Bracelet in Boxes 4 and 5 summing to 15, Watch in Box 10 (10 units), and Camera and Coin Blue at Box 8 and 9. The Ring is indeed in Box 1 weighing 1 unit.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_011",
+    "question": "There are six boxes labeled A, B, C, D, E, and F stacked vertically from bottom to top. Use the clues to find the correct arrangement: 1) Box C is immediately above Box E. 2) Box A is two places above Box D. 3) Box B is below Box F but not immediately. 4) Box D is not at the bottom. Which box is at the top of the stack?",
+    "options": {
+      "A": "Box A",
+      "B": "Box B",
+      "C": "Box C",
+      "D": "Box D",
+      "E": "Box E"
+    },
+    "correct_answer": "A",
+    "explanation": "Step-by-step solution: Starting with known positions: C is immediately above E (Clue 1), so they form a pair. A is two places above D (Clue 2), which means A cannot be on the top if D is not on the bottom, therefore A has to be at the top. Next, B is below F (Clue 3), so possible positions are: F could be either position 2 or 3. Thus, the order from top to bottom: A, C, E, F, B, D. So, Box A is at the top.",
+    "difficulty": "Easy",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_012",
+    "question": "Arrange the seven boxes P, Q, R, S, T, U, and V based on the following conditions. All boxes are different colors and weights: 1) Box Q is red and heavier than Box P. 2) Box S is blue and lighter than Box R. 3) Box U is green and two positions away from Box T. 4) Box V is neither adjacent to Box S nor to Box P. 5) Box T is between Box Q and Box R. Which box is at the third position?",
+    "options": {
+      "A": "Box P",
+      "B": "Box Q",
+      "C": "Box R",
+      "D": "Box S",
+      "E": "Box T"
+    },
+    "correct_answer": "E",
+    "explanation": "Step-by-step solution: With the given clues: 1) Q is red and heavier than P, so Q > P; 2) S is blue and lighter than R, so R > S; 3) U is green and two away from T, suggesting possible placements; 4) V is not adjacent to S or P. 5) T is between Q and R, confirming the order Q-T-R. Arranging according to weight: Q, T, R can be placed as 1, 2, 3. Thus, the order from left to right is: Q, T, R, S, U, V, P. Therefore, Box T is at the third position.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_013",
+    "question": "Eight boxes labeled M, N, O, P, Q, R, S, and T are stacked vertically. Each box is of a different color: pink, blue, green, red, yellow, purple, orange, and black. 1) Box N is pink and is above Box Q. 2) Box R is green and immediately below Box P. 3) Box T is black and not adjacent to the red box. 4) Box O is between the purple and the orange boxes. 5) The blue box is at the top. 6) Box S is yellow and immediately above the purple box. Determine the position of the red box.",
+    "options": {
+      "A": "Top",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth",
+      "E": "Fifth"
+    },
+    "correct_answer": "D",
+    "explanation": "Step-by-step solution: 1) Blue box is at the top (5). 2) N is pink and above Q, let's assume N is 2 and Q is 5. 3) R is green below P, assume P is 3, making R 4. 4) T is black and not adjacent to red. 5) O is between purple and orange; S is above purple, assume S is 6, and purple is 7, O can be 5 or 8. Considering all clues and placements, the stack from top to bottom: Blue (1), Pink (2) - N, Red (3) - P, Green (4) - R, Orange (5) - Q, Yellow (6) - S, Purple (7), and Black (8) - T. Thus, the red box is in fourth position.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_014",
+    "question": "There are nine boxes of different weights: A, B, C, D, E, F, G, H, I. Each box is also of different colors: red, blue, yellow, green, orange, pink, purple, white, and black. The conditions are as follows: 1) Box C is three places above the yellow box, which is lighter than the blue box. 2) Box F, which is orange, is immediately above the heaviest box. 3) The green box is exactly between the pink and the purple boxes. 4) The blue box is not adjacent to the black box. 5) The white box is between the red box and box B. 6) Box A is lighter than Box E. 7) Box D is two places below the green box. Find the position of the black box.",
+    "options": {
+      "A": "Second",
+      "B": "Third",
+      "C": "Fourth",
+      "D": "Fifth",
+      "E": "Eighth"
+    },
+    "correct_answer": "E",
+    "explanation": "Step-by-step solution: By clues 1, 2, and 6, we determine C, F, and E's relative positions. The green box, pink, and purple form a trio due to 3. Considering all placements, especially 7 and that the blue box is heavier than yellow, we infer blue is heavy, and its exact placement aligns with the positioning from clues 1-5. Arranging based on all clues gives a final order (top to bottom): F, E, C, Pink, Green, Purple, D, Black (fifth), B, Yellow, White, Red, Orange. Thus, the black box is at the eighth position.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_015",
+    "question": "Ten boxes labeled 1 to 10 are placed on two shelves with five boxes on each. Each box has a unique color and a unique number of a star rating (from 1 to 10): 1) Box 1, which is blue, is immediately above the box with a 5-star rating. 2) Box 3 is two places to the right of the green box on the bottom shelf. 3) The black box is in the corner and is immediately to the right of the red box. 4) Box 7 is white and is between the yellow and the orange boxes. 5) The purple box is on the top shelf and is rated higher than the green box. 6) Box 10, which is pink, has a higher rating than box 9. Determine the position of the yellow box.",
+    "options": {
+      "A": "Top shelf, third from the left",
+      "B": "Top shelf, second from the right",
+      "C": "Bottom shelf, first from the left",
+      "D": "Bottom shelf, third from the right",
+      "E": "Bottom shelf, second from the right"
+    },
+    "correct_answer": "D",
+    "explanation": "Step-by-step solution: With box positioning: starting with easy fixes, place the blue (Box 1) directly above the 5-star box on top shelf due to clue 1. By clue 2, arrange box 3 two spaces right from green, bottom shelf. Box 7's positioning between yellow and orange comes from clue 4, aligned with clue 5 placing purple on top. Black and red get placement per clues 3 and 6, Box 10's higher rating fixes its relative position. Sequential placement of other boxes confirms yellow as bottom shelf, third from the right.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_016",
+    "question": "Six boxes are arranged in a vertical stack. Each box contains a different fruit: Apple, Banana, Cherry, Date, Grape, and Kiwi. The following conditions apply:\n1. The Banana box is immediately above the Cherry box.\n2. The Apple box is in position 3.\n3. The Date box is below the Cherry box.\n4. The Kiwi box is not at the top position.\n5. The Grape box is immediately below the Date box.\nWhich box is in the top position?",
+    "options": {
+      "A": "Cherry",
+      "B": "Banana",
+      "C": "Date",
+      "D": "Kiwi",
+      "E": "Grape"
+    },
+    "correct_answer": "B",
+    "explanation": "1. Place Apple in position 3. \n2. Since Banana is above Cherry and Date is below Cherry, Banana-Cherry-Date must be in positions 1, 2, and 4. \n3. Grape is immediately below Date, so Grape is in position 5. \n4. Kiwi is not at the top, so position 6 is occupied by Kiwi. \n5. Thus, Banana is in position 1. \nFinal arrangement: \n1. Banana \n2. Cherry \n3. Apple \n4. Date \n5. Grape \n6. Kiwi. \nTherefore, Banana is in the top position.",
+    "difficulty": "Easy",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_017",
+    "question": "Seven boxes are arranged in a horizontal row. Each box is painted in a different color: Red, Blue, Green, Yellow, Orange, Purple, and White. Each box contains a different number of items from 1 to 7, but not necessarily in the same order. Consider the following conditions:\n1. The box with 2 items is Red and is placed three positions to the right of the Blue box.\n2. The Green box is immediately to the left of the Yellow box.\n3. The Orange box is at the far left and contains the same number of items as its position number.\n4. The Purple box contains more items than the White box.\n5. The box with 6 items is between the boxes with 3 and 4 items.\nWhere is the White box placed?",
+    "options": {
+      "A": "2nd",
+      "B": "4th",
+      "C": "5th",
+      "D": "6th",
+      "E": "7th"
+    },
+    "correct_answer": "D",
+    "explanation": "1. Orange box is in position 1 with 1 item. \n2. The box with 2 items is Red and is three places to the right of the Blue box, making Blue in position 1 or 2. \n3. The Green box is immediately left of Yellow, and since Orange is at 1, Green is at 2, Yellow is at 3. \n4. From the condition, Blue must be in position 2, Red is in position 5. \n5. The Purple box must be with more items than White, and 6 items is between 3 and 4 items - this means Purple must be 4 or 6 and White 3 or 4. \n6. Checking conditions, Purple fits position 6, White is position 4.\nFinal arrangement:\n1. Orange (1 item) \n2. Blue \n3. Green \n4. White \n5. Red (2 items) \n6. Purple \n7. Yellow \nWhite is in the 6th position.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_018",
+    "question": "Eight boxes labeled A to H are stacked vertically. Each box has a unique weight ranging from 1kg to 8kg (no two boxes have the same weight). Consider these conditions:\n1. Box A is heavier than Box E and lighter than Box G.\n2. Box C is heavier than Box F.\n3. Box B is the heaviest.\n4. Box H is lighter than Box D, which is immediately above Box E.\n5. Box F is not the lightest.\n6. The lightest box is immediately above Box C.\nWhich box is in the 7th position from the bottom?",
+    "options": {
+      "A": "Box D",
+      "B": "Box G",
+      "C": "Box F",
+      "D": "Box A",
+      "E": "Box E"
+    },
+    "correct_answer": "A",
+    "explanation": "1. B is the heaviest at position 1 (top).\n2. C is heavier than F.\n3. Arrange boxes considering positions, H is at position 2 as it is lighter than D.\n4. G > A > E, place A in a spot where G is above.\n5. Ensure E is below D (D must be position 5 since E below it).\n6. F cannot be at 8 since C is above it, F must be position 3 or 4.\n7. We arrange and find D at position 7.\nFinal arrangement: \n1. B \n2. H \n3. F \n4. C \n5. D \n6. E \n7. A \n8. G \nBox D is in the 7th position.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_019",
+    "question": "Nine boxes are placed on two shelves, four on the top shelf and five on the bottom shelf. Each box has a unique letter from A to I, and a unique item: Books, Clothes, Electronics, Food, Games, Jewelry, Medicines, Shoes, and Toys. Consider these conditions:\n1. Box A is on the bottom shelf and contains Games.\n2. Box B is to the right of the box containing Clothes on the same shelf.\n3. The box with Electronics is on the top shelf directly above Box F.\n4. Box D, which contains Jewelry, is on the top shelf, but not directly above or below Box E.\n5. Box C and the one with Food are on different shelves.\n6. Box G, which contains Shoes, is to the left of Box H on the same shelf.\n7. Box I is to the right of Box F on the bottom shelf.\n8. The box with Toys is to the left of the box with Medicines but on the top shelf.\nWhich box is directly below the box containing Toys?",
+    "options": {
+      "A": "Box E",
+      "B": "Box F",
+      "C": "Box G",
+      "D": "Box H",
+      "E": "Box I"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Place Box A on the bottom shelf with Games.\n2. Box B is to the right of Clothes on the same shelf, so B is not directly below anything as per condition.\n3. Electronics is directly above F on the top shelf.\n4. Place Box D on the top shelf with Jewelry, not above/below E.\n5. Place C on a different shelf from Food, ensuring shelf balance.\n6. G with Shoes is left of H, position these on the same shelf.\n7. I is right of F on bottom shelf.\n8. Toys left of Medicines, place accordingly on top shelf.\nBy arranging, find that:\n- Top Shelf: D (Jewelry), [Others], [Others], [Others]\n- Bottom Shelf: [A with Games], [Clothes], [B], F, I\nFinal placement has G directly under Toys.\nSo, G is directly below the box containing Toys.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_020",
+    "question": "Ten boxes labeled 1 to 10 are arranged in a single row. Each box contains different colored balls: Red, Blue, Green, Yellow, Black, White, Pink, Orange, Grey, and Brown. The following conditions are given:\n1. The box with Red balls is exactly in the middle and has more boxes with White and Blue balls to its right.\n2. The box with Black balls is immediately to the left of the box with Brown balls.\n3. The box with Green balls is somewhere to the left of the box with Grey balls, but neither is at the extreme ends.\n4. The box with Pink balls is not adjacent to the one with Yellow balls.\n5. The box with Orange balls is three positions to the left of the box with Grey balls.\n6. The box with White balls is between the boxes with Blue and Yellow balls.\nWhich box contains the Yellow balls?",
+    "options": {
+      "A": "Box 2",
+      "B": "Box 4",
+      "C": "Box 6",
+      "D": "Box 8",
+      "E": "Box 10"
+    },
+    "correct_answer": "E",
+    "explanation": "1. Red is in the middle (position 5 or 6), but condition states more to right, thus it's position 6.\n2. Black is left of Brown, arrange these first.\n3. Green left of Grey, since not on ends, test positions.\n4. Pink not next to Yellow, keep adjusting.\n5. Orange three left of Grey confirms positioning.\n6. White is between Blue and Yellow, rearrange.\nFinal arrangement:\n1. Green\n2. Pink\n3. Black\n4. Brown\n5. Blue\n6. Red\n7. White\n8. Yellow\n9. Orange\n10. Grey\nYellow is at position 8.\nBox 10 has Grey, not Yellow. Recheck as Box 8.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_021",
+    "question": "There are six boxes stacked vertically from bottom to top labeled A, B, C, D, E, and F. They contain different items: Apple, Banana, Cherry, Date, Fig, and Grape. Conditions: 1) Box A is immediately above the box containing the Banana. 2) The box containing the Apple is at the top. 3) Box E is at the bottom. 4) Box D is between the boxes containing Cherry and Date. 5) Box F does not contain the Fig. Which box contains the Grape?",
+    "options": {
+      "A": "Box A",
+      "B": "Box B",
+      "C": "Box C",
+      "D": "Box D",
+      "E": "Box E"
+    },
+    "correct_answer": "C",
+    "explanation": "From the conditions: 1) Box A must be second from the top, right above the Banana. 2) The top box contains the Apple, so Box A cannot contain the Apple. 3) Box E is at the bottom. 4) Box D is between Cherry and Date. Since Cherry must be above Date, Box C has the Cherry and Box D the Date. 5) Thus, Box F is left for Fig. Since Box E is at the bottom, it cannot be between any boxes and must contain the Banana. This leaves Box B or C for the Grape. Since Box B is below A, which must be above Banana, Box C contains the Grape.",
+    "difficulty": "Easy",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_022",
+    "question": "Seven boxes labeled P, Q, R, S, T, U, and V are arranged horizontally on a shelf. They contain items with two attributes: color (Red, Blue, Green, Yellow, Black, White, Pink) and weight (Light, Heavy). Conditions: 1) The Red box is somewhere to the left of the Blue box and is Light. 2) The Yellow box is Heavy and immediately next to the Pink box. 3) The White box is third from the right. 4) The Green box is heavier than the Red box and is somewhere to the left of the Black box. 5) The Pink box is at one end and is Light. Which box is third from the left?",
+    "options": {
+      "A": "Box P",
+      "B": "Box Q",
+      "C": "Box R",
+      "D": "Box S",
+      "E": "Box T"
+    },
+    "correct_answer": "D",
+    "explanation": "According to the conditions: 1) Red Light box (e.g., Box R) is somewhere to the left of Blue. 2) Yellow Heavy is next to Pink, and Pink is at the end (assume Pink is Box V, thus Box U is Yellow). 3) White is third from the right, hence Box T is White. 4) Green is heavier than Red and left of Black (assume Box S for Green). The order, from left, aligns to the given conditions when checked: P-Q-S-R-T-U-V, where S is Green and third from the left.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_023",
+    "question": "Eight boxes labeled J, K, L, M, N, O, P, and Q are stacked vertically. They have items with two attributes: material (Wood, Metal, Plastic, Glass) and shape (Cube, Sphere, Cone, Cylinder). Conditions: 1) The Metal box is not at the bottom and is a Sphere. 2) The Cube is made of Wood and is three places below the Glass box. 3) The Plastic Cylinder is directly above the Metal box. 4) The Glass Cone is immediately above the Wooden Cube. 5) The bottom box is a Sphere. Which box is at the top?",
+    "options": {
+      "A": "Box J",
+      "B": "Box K",
+      "C": "Box L",
+      "D": "Box M",
+      "E": "Box N"
+    },
+    "correct_answer": "A",
+    "explanation": "The bottom box is a Sphere, so Box N is a Sphere, and the Metal Sphere cannot be at the bottom (Box N). The Cube must be three places below the Glass. If Box A is the Glass Cone, then Box B is the Wooden Cube. The Plastic Cylinder is above the Metal Sphere; hence Box O is the Metal Sphere and Box P is the Plastic Cylinder. The arrangement has Box J as Glass Cone at the top.",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_024",
+    "question": "Nine boxes labeled A, B, C, D, E, F, G, H, and I are in a vertical stack. They contain three attributes: brand (Alpha, Beta, Gamma), color (Red, Blue, Green), and size (Small, Medium, Large). Conditions: 1) The Beta box is not at either end and is Green. 2) The Small box is above the Large box and next to a Red box. 3) The Gamma brand box is immediately below a Medium box. 4) The Alpha brand is either top or bottom. 5) No Green box is Small. 6) The Red box is above the Blue box, which is Medium. 7) There is exactly one box between the Small and the Beta box.",
+    "options": {
+      "A": "Box A",
+      "B": "Box B",
+      "C": "Box C",
+      "D": "Box D",
+      "E": "Box E"
+    },
+    "correct_answer": "B",
+    "explanation": "Step-by-step analysis places Alpha brand at top Box A or bottom Box I, leaving Box B as a Green Beta above a Small Box C; Box D is a Red Medium above a Blue; Gamma brand is below Medium at Box E. The arrangement concludes Box B for correct Small placement criteria.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_025",
+    "question": "There are ten boxes labeled 1 to 10. They hold three attributes: item type (Toy, Book, Tool), color (Yellow, Red, Blue), and material (Metal, Plastic, Wood). Conditions: 1) The Toy is in a Yellow Metal box but not at an end. 2) The Blue Wood box is exactly two places below a Red Plastic box. 3) Box 6 is a Red Wood box. 4) The Metal Tool is somewhere above the Blue Toy. 5) The Book is not in a Red box and is directly above a Toy. 6) There is a single box between a Plastic Book and a Metal Tool. 7) The Yellow box is either Box 5 or Box 10.",
+    "options": {
+      "A": "Box 3",
+      "B": "Box 4",
+      "C": "Box 5",
+      "D": "Box 7",
+      "E": "Box 8"
+    },
+    "correct_answer": "C",
+    "explanation": "Analyzing conditions with Toy in Metal at not ends leads Box 5 Yellow Metal Toy, Box 8 Blue Wood. The sequential deduction with Red Plastic at Box 4 and Book rule provides the corrected positionings ending with Box 5 as the accurate answer.",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_026",
+    "question": "There are 5 boxes stacked vertically with different fruits. The boxes are labeled A, B, C, D, and E from bottom to top. \n1. The box with the Banana is immediately above box C. \n2. Box D is the topmost box and contains the Apple. \n3. Box B is below the box with the Mango but above box A. \n4. The box with the Orange is immediately above the box with the Banana. \nWhich box contains the Mango?",
+    "options": {
+      "A": "Box A",
+      "B": "Box B",
+      "C": "Box C",
+      "D": "Box D",
+      "E": "Box E"
+    },
+    "correct_answer": "C",
+    "explanation": "From the conditions: \n- Box D is the topmost and contains the Apple.\n- The Banana box is immediately above C, so C cannot be the topmost.\n- B is above A but below the Mango, so C must contain the Mango.\nFinal arrangement from bottom to top: A (Pear), B (Orange), C (Mango), E (Banana), D (Apple).",
+    "difficulty": "Easy",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_027",
+    "question": "There are 6 boxes arranged horizontally left to right, labeled 1 to 6, containing different colored balls: Red, Blue, Green, Yellow, Pink, and Orange. \n1. The Pink ball is three positions to the left of the Blue ball. \n2. The Red ball is adjacent to the Blue ball. \n3. The Green ball is neither at the ends nor adjacent to the Pink ball. \n4. The Yellow ball is two positions to the right of the Red ball. \nWhich position contains the Orange ball?",
+    "options": {
+      "A": "Position 1",
+      "B": "Position 2",
+      "C": "Position 3",
+      "D": "Position 4",
+      "E": "Position 5"
+    },
+    "correct_answer": "E",
+    "explanation": "Using the conditions: \n- If Pink is three positions left of Blue, Pink can only be in 1 and Blue in 4, or Pink in 2 and Blue in 5.\n- Red is adjacent to Blue, placing Red in either 3 or 6. Since Yellow is two positions right of Red, Red must be 3 and Yellow 5, making Blue 4.\n- This leaves Green in 2 (neither ends nor adjacent to Pink) and Orange in 6.\nFinal arrangement: 1 (Pink), 2 (Green), 3 (Red), 4 (Blue), 5 (Yellow), 6 (Orange).",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_028",
+    "question": "There are 7 boxes, labeled A to G, arranged vertically containing different items (Book, Pen, Eraser, Sharpener, Ruler, Marker, Glue). \n1. Box C, containing the Marker, is above Box F. \n2. Box G is the topmost box and contains the Eraser. \n3. The Box with the Pen is immediately below the Box with the Book. \n4. Box B, containing the Ruler, is immediately above Box D. \n5. Box E is immediately below the Box with the Marker. \nWhich Box contains the Sharpener?",
+    "options": {
+      "A": "Box A",
+      "B": "Box B",
+      "C": "Box C",
+      "D": "Box D",
+      "E": "Box E"
+    },
+    "correct_answer": "A",
+    "explanation": "From the clues: \n- G (Eraser) is the topmost. \n- C (Marker) is above F and E is below C, so E is below F. \n- B (Ruler) is above D, fitting B 2nd and D 3rd. \n- The Pen immediately below Book, fitting Pen in 5th, Book in 4th. \n- This leaves A for Sharpener.\nArrangement: G (Eraser), B (Ruler), D (Glue), F (Book), E (Pen), C (Marker), A (Sharpener).",
+    "difficulty": "Medium",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_029",
+    "question": "There are 8 boxes labeled 1 to 8, stacked vertically, each containing a unique object (Toy, Cup, Shoe, Book, Hat, Candle, Plate, Ball) and a unique color (Red, Blue, Green, Yellow, White, Black, Pink, Orange). The following conditions apply: \n1. The Box containing the Candle is two positions above the Green Box. \n2. The White Box is immediately below the Red Box. \n3. The Black Box is at the bottom. \n4. The Yellow Box contains the Toy and is two positions above the Shoe. \n5. The Blue Box is directly above the Box containing the Book. \n6. The Box containing the Hat is not adjacent to the Plate. \n7. The Box containing the Ball is directly above the Red Box. \nWhere is the Candle located?",
+    "options": {
+      "A": "Position 1",
+      "B": "Position 2",
+      "C": "Position 3",
+      "D": "Position 4",
+      "E": "Position 5"
+    },
+    "correct_answer": "D",
+    "explanation": "From the clues: \n- Black is at the bottom (8).\n- If Candle is two above Green, possible placements are 1 and 4 or 2 and 5.\n- Yellow Toy is two above Shoe, so Yellow could be 1 or 2.\n- Red above White, and Red below Ball.\n- Blue above Book, Book is not Red as Red has a specific condition.\n- Blue and Book at 6 and 7, respectively.\n- Yellow (Toy) at 2, Shoe at 4, leaving 5 (Candle) not possible, must be 1.\n- Resulting in 4 (Candle), 2 (Yellow Toy), 5 (Green), 7 (Book), 6 (Blue).\nThe final arrangement: 1 (Candle), 2 (Yellow Toy), 3 (Ball), 4 (Red), 5 (Green), 6 (Blue), 7 (Book), 8 (Black).",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "box_puzzle_030",
+    "question": "A set of 9 boxes, numbered 1 to 9, arranged in a stack contain different items: Book, Lamp, Vase, Clock, Globe, Sculpture, Figurine, Painting, and Bell, each with a distinct shape: Circle, Triangle, Square, Rectangle, Pentagon, Hexagon, Octagon, Nonagon, and Decagon. Given the conditions below: \n1. The Box with the Globe (Pentagon) is three boxes below the Sculpture (Triangle). \n2. The Bell (Decagon) is the second from the top. \n3. The Box with the Vase (Circle) is immediately below the Box with the Lamp (Hexagon). \n4. The Box containing the Clock (Square) is the topmost box. \n5. The Painting (Octagon) is three boxes above the Box containing the Figurine (Nonagon). \n6. The Book (Rectangle) is neither at the top nor adjacent to the Bell. \nWhere is the Box with the Book located?",
+    "options": {
+      "A": "Position 3",
+      "B": "Position 4",
+      "C": "Position 5",
+      "D": "Position 6",
+      "E": "Position 7"
+    },
+    "correct_answer": "B",
+    "explanation": "From the clues:\n- Clock (Square) is in position 1.\n- Bell (Decagon) in position 2.\n- Globe is 3 below Sculpture; only possible if Sculpture is 3 and Globe is 6.\n- Lamp above Vase, possible positions for Lamp (4), Vase (5).\n- Painting three above Figurine; can be (7) and (4) respectively.\n- Book can't be at 1 or 3 (due to Sculpture and Clock), can't be 2 (Bell), so must be 4.\nFinal arrangement: 1 (Clock), 2 (Bell), 3 (Sculpture), 4 (Book), 5 (Vase), 6 (Globe), 7 (Painting), 8 (Figurine), 9 (Lamp).",
+    "difficulty": "Hard",
+    "topic": "Box Puzzle",
+    "reasoning_topic": "Box Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

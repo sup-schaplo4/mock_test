@@ -1,0 +1,547 @@
+{
+  "topic": "Syllogisms",
+  "total_questions": 18,
+  "questions": [
+    {
+      "id": "2017_Q131",
+      "question_number": 131,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. No star is an astronaut II. All astronauts are planets",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If both conclusions I and II are true",
+        "C": "If either conclusion I or II is true",
+        "D": "If only conclusion II is true",
+        "E": "If neither conclusion I nor II true"
+      },
+      "correct_answer": "A",
+      "explanation": "The least possible diagram for the given statements are below: Conclusions: I. No star is an astronaut → It is true. Hence, conclusion I follows. II. All astronauts are planets → It is possible but not definite. Hence, conclusion II does not follows. Hence, only conclusion I follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00021",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253998"
+      }
+    },
+    {
+      "id": "2017_Q132",
+      "question_number": 132,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. Some planets being astronauts is a possibility. II. At least some comets are planets.",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If both conclusions I and II are true",
+        "C": "If either conclusion I or II is true",
+        "D": "If only conclusion II is true",
+        "E": "If neither conclusion I nor II true"
+      },
+      "correct_answer": "B",
+      "explanation": "The least possible diagram for the given statements are below: Conclusions: I. Some planets being astronauts is a possibility → The possibility is true as shown below: II. At least some comets are planets → It is true. Hence, conclusion II follows. Hence, both conclusion I and II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00022",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253999"
+      }
+    },
+    {
+      "id": "2017_Q133",
+      "question_number": 133,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. All trains are rickshaws. II. All plains being trains is a possibility.",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If both conclusions I and II are true",
+        "C": "If either conclusion I or II is true",
+        "D": "If only conclusion II is true",
+        "E": "If neither conclusion I nor II true"
+      },
+      "correct_answer": "A",
+      "explanation": "The least possible diagram is shown as below: Conclusions: I. All trains are rickshaws → It is true. Hence, conclusion I follows. II. All plains being trains is a possibility → This is not possible. Hence, conclusion II does not follow. Hence, only conclusion I follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00023",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254000"
+      }
+    },
+    {
+      "id": "2017_Q151",
+      "question_number": 151,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. B= A II. B> A",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If only conclusions II is true",
+        "C": "If either conclusion I or II is true",
+        "D": "If neither conclusion I nor II is true",
+        "E": "If both conclusion I and II are true"
+      },
+      "correct_answer": "C",
+      "explanation": "B R U S H Y O U A B R U A           Conclusions: I. B A Either conclusion II. B A I or II is true =    Hence, either conclusion I or II is true.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00039",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254018"
+      }
+    },
+    {
+      "id": "2017_Q152",
+      "question_number": 152,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Conclusions: I. S ≥ O; II. R< Y",
+      "options": {
+        "A": "If only conclusion I is true",
+        "B": "If only conclusions II is true",
+        "C": "If either conclusion I or II is true",
+        "D": "If neither conclusion I nor II is true",
+        "E": "If both conclusion I and II are true"
+      },
+      "correct_answer": "C",
+      "explanation": "B R U S H Y O U A B R U O Y O U S H               Conclusions: I. S O False  → II. R Y False  → Hence, neither conclusion I nor II is true.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00040",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254019"
+      }
+    },
+    {
+      "id": "2018_Q72",
+      "question_number": 72,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statements: Some jacket is shirt. Some shirts are trouser. No shoes are t-shirt. All trousers are shoes. All pants are t-shirt. Conclusions: I. All shirts being t-shirt is a possibility. II. Some shoes are trouser. III. Some jackets are t-shirt. IV. Some shirts being t-shirt is a possibility.",
+      "options": {
+        "A": "Only II and III follow.",
+        "B": "Only II and IV follow",
+        "C": "Only I follows",
+        "D": "All follow",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00100",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254092",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q73",
+      "question_number": 73,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statement: No colour is paper. Some paper is book. All books are eraser. All pens are colour. Conclusions: I. Some papers are eraser. II. All pens being eraser is a possibility. III. Some pens are eraser. IV. Some pens are not eraser.",
+      "options": {
+        "A": "I and II follow",
+        "B": "I and II and either III or IV follows",
+        "C": "I and IV follow",
+        "D": "All follow",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00101",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254093",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q75",
+      "question_number": 75,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statement: All schools are college. Some college are hostel. All hostels are building. No building is land. Conclusion: I. Some land being hostel is a possibility. II. Some hostel is school. III. Some buildings are college. IV. All buildings are school.",
+      "options": {
+        "A": "II and IV follow",
+        "B": "I and III follow",
+        "C": "Only IV follows",
+        "D": "Only III follows",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00102",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254094",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q76",
+      "question_number": 76,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Statement: All watch are time. All time are clock. Some watch is period. Some late is period. Conclusion: I. Some clocks are period. II. Some time is watch. III. Some late are time. IV. All watch are clock.",
+      "options": {
+        "A": "II and III follow",
+        "B": "Only I follows",
+        "C": "I, II and IV follow",
+        "D": "All follow",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00103",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254095",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q11",
+      "question_number": 11,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: Only a few Men are Boys. All Boys are Kids. No Kids are Children. Conclusions: I. Some Men are not Children. II. Some Men are not Boys.",
+      "options": {
+        "A": "If only conclusion II follows",
+        "B": "If either conclusion I or conclusion II follows",
+        "C": "If both conclusions I and II follow",
+        "D": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "C",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: Conclusions: I. Some men are not children – Its sure. Hence, true. II. Some men are not boys – Its sure. Because it is given in the statement that only a few Men are boys, hence true. Hence, both conclusions I and II follow.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00128",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254124"
+      }
+    },
+    {
+      "id": "2019_Q12",
+      "question_number": 12,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: Some Fruits are Mangos. Only Mangos are Tasty. Only a few Mangos are Guavas. Conclusions: I. All Guavas are Mangos. II. No Tasty being Fruit is a possibility.",
+      "options": {
+        "A": "If only conclusion I follows",
+        "B": "If only conclusion II follows",
+        "C": "If either conclusion I or conclusion II follows",
+        "D": "If both conclusions I and II follow",
+        "E": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "B",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: Conclusions: I. All Guavas are Mangos – We can say that but it’s not sure. Hence, false. II. No Tasty being Fruit is a possibility – It’s possible, hence true. The least possible Venn diagram for the given statements is as follows: Conclusions: I. All Guavas are Mangos – We can say that but it’s not sure. Hence, false. II. No Tasty being Fruit is a possibility – It’s possible, hence true.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00129",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254125"
+      }
+    },
+    {
+      "id": "2019_Q13",
+      "question_number": 13,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: Only a few Dairy Milk is Milky Bar. Some Milky Bar is Munch. Only Munch is Perk. Conclusions: I. All Dairy Milk can be Milky Bar II. Some Munch is Milky Bar.",
+      "options": {
+        "A": "If only conclusion I follows",
+        "B": "If only conclusion II follows",
+        "C": "If either conclusion I or conclusion II follows",
+        "D": "If both conclusions I and II follow",
+        "E": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "B",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: Conclusions: 1. All Dairy Milk can be Milky Bar → It’s not possible, because here given in the statement that only a few Dairy Milk is Milky Bar, hence false. 2. Some Munch is Milky Bar → It’s sure, because here given in the statement that some Milky Bar is Munch, hence true. Thus, only conclusion II follow.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00130",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254126"
+      }
+    },
+    {
+      "id": "2019_Q14",
+      "question_number": 14,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: All Trees are Plants. Some Plants are Bushes. Only a few Bushes are Grass. Conclusions: I. No Plant is Grass. II. All Bushes can be Grass.",
+      "options": {
+        "A": "If only conclusion I follows",
+        "B": "If only conclusion II follows",
+        "C": "If either conclusion I or conclusion II follows",
+        "D": "If both conclusions I and II follow",
+        "E": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "E",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: I. No Plants are Grass → It’s a doubtful case, so its false. II. All Bushes can be Grass → It’s not possible, because only a few bushes are grass that means all is not possible, hence false. Thus, neither conclusion I nor conclusion II follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00131",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254127"
+      }
+    },
+    {
+      "id": "2019_Q15",
+      "question_number": 15,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statements: Only a few Dinners are Cake. No Dinner is Apple. Only a few Apples are figures. Conclusions: I. Some apples are not figures. II. No Apple is Cake.",
+      "options": {
+        "A": "If only conclusion I follows",
+        "B": "If only conclusion II follows",
+        "C": "If either conclusion I or conclusion II follows",
+        "D": "If both conclusions I and II follow",
+        "E": "If neither conclusion I nor conclusion II follows"
+      },
+      "correct_answer": "A",
+      "explanation": "The least possible Venn diagram for the given statements is as follows: I. Some apples are not figures → It’s true because it is given that only a few Apples are figures. II. No Apple is Cake → It’s doubtful, hence false. Thus, only conclusion I follows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00132",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254128"
+      }
+    },
+    {
+      "id": "2023_Q148",
+      "question_number": 148,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Conclusion: I. Some Briefcase are not Umbrella. II. Some Umbrella not being Charger is a possibility. III. Some Truck can never be Charger.",
+      "options": {
+        "A": "Some Umbrella are Truck. All Truck are Briefcase. No Briefcase is Umbrella. Some Umbrella are Charger. All Glass are Charger.",
+        "B": "All Briefcase is Umbrella. Some Umbrella are Charger. Some Charger are Truck. All Truck are Glass. No Glass is Water.",
+        "C": "Some Truck are Water. All Water are Umbrella. No Umbrella is Charger. Some Charger are Briefcase. All Briefcase are Glass.",
+        "D": "Only Water are Truck. Some Glass are Briefcase. No Umbrella is Glass. Some Water are Umbrella. All Briefcase are Charger.",
+        "E": "Some Briefcase are Umbrella. All Umbrella are Charger. No Charger is Truck. All Truck are Glass. Some Glass are not Water."
+      },
+      "correct_answer": "D",
+      "explanation": "Option B gets eliminated because it says 'All Briefcase is Umbrella' whereas in the conclusion it is given 'Some Briefcase are not Umbrella'. Option C is also eliminated because it says 'No Umbrella is Charger' which is a definite conclusion. So the conclusion 'Some Umbrella not being Charger is a possibility' does not follow because 'no umbrella is charger' is a definite conclusion and hence not a possibility. Option E is also eliminated because it contains 'All umbrella are charger' whereas in the conclusion it is given 'Some Umbrella not being Charger is a possibility.' Option A is also eliminated as it is not possible to make a diagram of it. So, option D should be the answer. The basic diagram of it is as follows: Since only water are truck, so truck cannot be anything else except water. So, all the three conclusion follows from statements in Option D.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00236",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254244",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q149",
+      "question_number": 149,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Conclusion: I. Some football can never be Chess. II. Some Volleyball not being Boxing is a possibility. III. Some Boxing can be Cricket.",
+      "options": {
+        "A": "All Cricket are Football. No Football is Volleyball. Some Boxing are Chess. No Chess is Cricket.",
+        "B": "Some Cricket are Football. All Football are Volleyball. Some Chess are Boxing. No Boxing is Volleyball. No Chess is Cricket.",
+        "C": "Only Football are Cricket. Some Football are Chess. No chess is Volleyball. All Volleyball are Boxing.",
+        "D": "Some Cricket are Football. All Football are Chess. Some Chess are Boxing. Some Boxing are Volleyball.",
+        "E": "No Cricket is Football. Some Football are Volleyball. All Boxing are Chess. No Chess is Cricket."
+      },
+      "correct_answer": "A",
+      "explanation": "Option B is eliminated because it says 'No Boxing is Volleyball' which makes the conclusion 'Some Volleyball not being Boxing is a possibility' false because 'no boxing is volleyball' is a definite statement and hence we cannot get a possible conclusion between volleyball and boxing. Option C is eliminated because it contains 'all volleyball are boxing' which makes the conclusion 'some volleyball not being boxing is a possibility' false. Option D is eliminated because it says 'All football are chess' which makes the conclusion 'some football can never be chess' false. Option E is eliminated because it says 'All Boxing are Chess. No Chess is Cricket' which implies 'No boxing is Cricket' which makes the conclusion 'Some boxing can be cricket' false. The basic diagram for Option A is as follows: We can draw possible diagrams for option A to check for possible conclusions.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00237",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254246",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q150",
+      "question_number": 150,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Conclusion: I. Some N are R. II. All O which are N is also S is a possibility. III. Some Z are R.",
+      "options": {
+        "A": "Some M are R. Only a few R are O. No O is N. Some N is S. All S are Z.",
+        "B": "Some M are O. Only a few O are R. No R is S. Some S is N. All N are Z.",
+        "C": "Some M are O. Only a few O are R. No N are R. Some N are S. All S are Z.",
+        "D": "Some O are R. Some M are O. Some R are N. Some N are S. All N are Z.",
+        "E": "All Follows."
+      },
+      "correct_answer": "D",
+      "explanation": "Option C is eliminated because it contains 'No N are R' whereas conclusion I contains 'some N are R'. So, Option E is also eliminated. Option A is also eliminated because it contains 'No O is N' which makes conclusion II false. Option B is also eliminated because 'some N are R' and 'some Z are R' does not always follow. This is because option B contains 'No R is S'. So, option D is the answer and its basic diagram is as follows:",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00238",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254247",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q151",
+      "question_number": 151,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Conclusion: I. Some Red are not Carrot. II. Some Chili being not Garlic is not a possibility. III. Some Green are not Tomato.",
+      "options": {
+        "A": "Some Garlic are not Chili. All Garlic are Red. No Red is Carrot. Some Carrot are Green. All Green are Tomato.",
+        "B": "All Red are Tomato. Some Tomato are Green. No Green is Chili. All Chili are Carrot. Some Garlic are Carrot.",
+        "C": "All Red are Chili. All Tomato are Garlic. Some Garlic are Carrot. No Chili is Carrot. Some Green are Chili. No Green is Garlic.",
+        "D": "All Carrot are Chili. Some Chili are Tomato. No tomato is Green. Some Green are Garlic. No Garlic is Red.",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "Option A is eliminated because it contains 'all green are tomato' which makes conclusion III false. From option B, we can draw the below possible diagram which makes conclusion I false. So, Option B is also eliminated. From Option C, Conclusion II is true because in option C, some chili being not garlic is a definite conclusion and not a possibility. So, Option C is the answer as all the conclusions follow from Option C. Option D is also eliminated because conclusion I does not hold true.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Syllogisms",
+      "topic": "Syllogisms",
+      "question_id": "REASONING_00239",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254248",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

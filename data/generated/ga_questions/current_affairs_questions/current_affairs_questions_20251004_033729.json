@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "title": "RBI Grade B - Current Affairs Questions",
+    "source": "Current Affairs Compilation",
+    "period": "October 2024 - September 2025",
+    "generation_type": "Current_Affairs_RAG",
+    "model": "gemini-2.5-pro",
+    "total_questions": 10,
+    "creation_date": "2025-10-04T03:37:29.584238",
+    "difficulty_distribution": {
+      "Hard": 3,
+      "Medium": 4,
+      "Easy": 3
+    },
+    "topic_distribution": {
+      "Appointments": 1,
+      "Budget_Fiscal": 2,
+      "Summits_Conferences": 1,
+      "Banking_News": 1,
+      "Government_Initiatives": 1,
+      "Economic_Developments": 1,
+      "Regulatory_Changes": 1,
+      "Technology_Innovation": 1,
+      "International_Relations": 1
+    },
+    "target_questions": 10,
+    "difficulty_weights": {
+      "Hard": 0.3,
+      "Medium": 0.4,
+      "Easy": 0.3
+    }
+  },
+  "questions": [
+    {
+      "question": "Who was appointed as the new Governor of the Reserve Bank of India in December 2024, succeeding Shaktikanta Das?",
+      "options": {
+        "A": "Ajay Seth",
+        "B": "Sanjay Malhotra",
+        "C": "Michael Patra",
+        "D": "T. Rabi Sankar",
+        "E": "Dinesh Kumar Khara"
+      },
+      "correct_answer": "B",
+      "explanation": "In December 2024, Sanjay Malhotra was appointed as the new Governor of the Reserve Bank of India, taking over from the incumbent Shaktikanta Das.",
+      "source_document": "current_affairs.txt",
+      "event_date": "December 2024",
+      "difficulty": "Easy",
+      "topic": "Appointments",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582740",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "In May 2025, India's Goods and Services Tax (GST) collection reached its highest-ever monthly figure. What was this record collection amount?",
+      "options": {
+        "A": "₹1.5 lakh crore",
+        "B": "₹1.6 lakh crore",
+        "C": "₹1.7 lakh crore",
+        "D": "₹1.8 lakh crore",
+        "E": "₹2.0 lakh crore"
+      },
+      "correct_answer": "D",
+      "explanation": "According to the provided data for June 2025, India's GST collection for the month of May 2025 crossed ₹1.8 lakh crore, marking the highest ever monthly collection.",
+      "source_document": "current_affairs.txt",
+      "event_date": "May 2025",
+      "difficulty": "Easy",
+      "topic": "Budget_Fiscal",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582830",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "What was the official theme of the World Economic Forum's Annual Meeting held in Davos, Switzerland, in January 2025?",
+      "options": {
+        "A": "The Great Reset",
+        "B": "Cooperation in a Fragmented World",
+        "C": "Rebuilding Trust",
+        "D": "History at a Turning Point",
+        "E": "Stakeholders for a Cohesive and Sustainable World"
+      },
+      "correct_answer": "C",
+      "explanation": "The World Economic Forum's annual meeting in Davos in January 2025 was held under the theme 'Rebuilding Trust', where India's Prime Minister highlighted the country's growth story.",
+      "source_document": "current_affairs.txt",
+      "event_date": "January 2025",
+      "difficulty": "Easy",
+      "topic": "Summits_Conferences",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582834",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "In its monetary policy review of February 2025, the Reserve Bank of India increased the repo rate to combat inflation. By how many basis points was the rate increased, and what did it become?",
+      "options": {
+        "A": "Increased by 50 basis points to 7.00%",
+        "B": "Increased by 25 basis points to 6.75%",
+        "C": "Increased by 35 basis points to 6.85%",
+        "D": "Increased by 25 basis points to 6.50%",
+        "E": "Increased by 50 basis points to 6.75%"
+      },
+      "correct_answer": "B",
+      "explanation": "The RBI, in its February 2025 policy review, hiked the repo rate by 25 basis points as a measure to control rising inflation, taking the new policy rate to 6.75%.",
+      "source_document": "current_affairs.txt",
+      "event_date": "February 2025",
+      "difficulty": "Medium",
+      "topic": "Banking_News",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582837",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "The Government of India launched the PM Vishwakarma scheme in November 2024 to support traditional artisans and craftspeople. What was the total financial outlay allocated for this scheme?",
+      "options": {
+        "A": "₹10,000 crore",
+        "B": "₹13,000 crore",
+        "C": "₹15,000 crore",
+        "D": "₹19,744 crore",
+        "E": "₹25,000 crore"
+      },
+      "correct_answer": "B",
+      "explanation": "The PM Vishwakarma scheme, launched in November 2024, was introduced with a substantial financial allocation of ₹13,000 crore to uplift traditional artisans.",
+      "source_document": "current_affairs.txt",
+      "event_date": "November 2024",
+      "difficulty": "Medium",
+      "topic": "Government_Initiatives",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582840",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "In a significant economic milestone reported in May 2025, India became the world's 3rd largest economy. Which country did India surpass to achieve this rank?",
+      "options": {
+        "A": "Germany",
+        "B": "United Kingdom",
+        "C": "France",
+        "D": "Japan",
+        "E": "Russia"
+      },
+      "correct_answer": "D",
+      "explanation": "In May 2025, India's economy, valued at a GDP of $4.5 trillion, overtook Japan to become the third-largest economy in the world, behind the USA and China.",
+      "source_document": "current_affairs.txt",
+      "event_date": "May 2025",
+      "difficulty": "Medium",
+      "topic": "Economic_Developments",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582843",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "As per a regulatory update in February 2025, the Insurance Regulatory and Development Authority of India (IRDAI) increased the Foreign Direct Investment (FDI) limit in the insurance sector. What is the new revised FDI limit?",
+      "options": {
+        "A": "From 49% to 100%",
+        "B": "From 26% to 49%",
+        "C": "From 49% to 74%",
+        "D": "From 74% to 100%",
+        "E": "From 26% to 74%"
+      },
+      "correct_answer": "C",
+      "explanation": "In February 2025, the IRDAI implemented a significant policy change by increasing the FDI limit in the Indian insurance sector from the previous 49% to a new ceiling of 74%.",
+      "source_document": "current_affairs.txt",
+      "event_date": "February 2025",
+      "difficulty": "Medium",
+      "topic": "Regulatory_Changes",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582845",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "Based on the Union Budget 2025-26 presented in January 2025, what were the respective figures for the capital expenditure allocation as a percentage of GDP and the targeted fiscal deficit as a percentage of GDP for FY 2025-26?",
+      "options": {
+        "A": "10% of GDP and 5.1% fiscal deficit",
+        "B": "11% of GDP and 4.9% fiscal deficit",
+        "C": "9% of GDP and 5.0% fiscal deficit",
+        "D": "11% of GDP and 5.2% fiscal deficit",
+        "E": "12% of GDP and 4.5% fiscal deficit"
+      },
+      "correct_answer": "B",
+      "explanation": "The Union Budget for 2025-26 announced a capital expenditure of ₹11.11 lakh crore, which constituted 11% of the GDP. The budget also set a fiscal deficit target of 4.9% of GDP for the fiscal year 2025-26.",
+      "source_document": "current_affairs.txt",
+      "event_date": "January 2025",
+      "difficulty": "Hard",
+      "topic": "Budget_Fiscal",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582847",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "The RBI has been progressively rolling out its Central Bank Digital Currency (CBDC). After launching the retail pilot (e₹-R) in 13 cities in March 2025, what was the subsequent major pilot project launched in August 2025 to expand its functionality?",
+      "options": {
+        "A": "A wholesale CBDC pilot for inter-bank settlements",
+        "B": "A cross-border CBDC remittance pilot with Sri Lanka",
+        "C": "A pilot project for offline CBDC transactions in remote areas",
+        "D": "Integration of CBDC with the UPI platform",
+        "E": "A pilot for programmable payments for government subsidies"
+      },
+      "correct_answer": "C",
+      "explanation": "This question requires connecting two events. Following the initial retail pilot launch of e₹-R in March 2025, the RBI took the next step in August 2025 by launching a pilot project specifically for offline CBDC transactions to test its viability in remote areas with limited internet connectivity.",
+      "source_document": "current_affairs.txt",
+      "event_date": "August 2025",
+      "difficulty": "Hard",
+      "topic": "Technology_Innovation",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582850",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    },
+    {
+      "question": "In August 2025, India signed the Regional Comprehensive Economic Partnership (RCEP) after securing certain modifications. This move came five months after another landmark trade agreement was finalized in March 2025. Which major agreement was this?",
+      "options": {
+        "A": "Comprehensive Economic Partnership Agreement with Canada",
+        "B": "Free Trade Agreement with the United Kingdom",
+        "C": "Bilateral Investment Treaty with 15 countries",
+        "D": "Comprehensive Free Trade Agreement with the European Union",
+        "E": "Economic and Technology Cooperation Agreement (ECTA) with Australia"
+      },
+      "correct_answer": "D",
+      "explanation": "This question assesses the ability to connect major international policy shifts. India's decision to join the RCEP in August 2025 followed the significant achievement of signing a Comprehensive Free Trade Agreement with the European Union in March 2025, indicating a broader strategic engagement in multilateral trade pacts.",
+      "source_document": "current_affairs.txt",
+      "event_date": "March 2025",
+      "difficulty": "Hard",
+      "topic": "International_Relations",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582852",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1"
+    }
+  ]
+}

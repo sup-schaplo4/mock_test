@@ -1,0 +1,323 @@
+[
+  {
+    "question_id": "ARITH_PROFIT_LOSS__DISCOUNT_001",
+    "question": "A shopkeeper buys an article for Rs. 500 and sells it for Rs. 650. What is the profit percentage?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "30%",
+      "D": "35%",
+      "E": "15%"
+    },
+    "correct_answer": "C",
+    "explanation": "Profit = Selling Price (SP) - Cost Price (CP) = 650 - 500 = Rs. 150. \nProfit Percentage = (Profit / CP) * 100 = (150 / 500) * 100 = 30%.",
+    "difficulty": "Easy",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Basic profit calculations",
+    "concept_tags": [
+      "profit percentage",
+      "basic calculations"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0036845000000000003,
+      "question_number": 1
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS__DISCOUNT_002",
+    "question": "A retailer marks up the price of an article by 40% above its cost price. If he offers a discount of 20% on the marked price, what is his profit percentage?",
+    "options": {
+      "A": "12%",
+      "B": "14%",
+      "C": "20%",
+      "D": "16%",
+      "E": "10%"
+    },
+    "correct_answer": "A",
+    "explanation": "Let the cost price be Rs. 100. \nMarked price = 100 + 40% of 100 = Rs. 140. \nSelling price after 20% discount = 140 - 20% of 140 = 140 - 28 = Rs. 112. \nProfit = SP - CP = 112 - 100 = Rs. 12. \nProfit Percentage = (12 / 100) * 100 = 12%.",
+    "difficulty": "Medium",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Marked price and discount",
+    "concept_tags": [
+      "markup",
+      "discount",
+      "profit percentage"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0036845000000000003,
+      "question_number": 2
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS__DISCOUNT_003",
+    "question": "A trader offers a successive discount of 10% and 20% on the marked price of an article. If the final selling price is Rs. 720, what was the original marked price?",
+    "options": {
+      "A": "Rs. 1000",
+      "B": "Rs. 900",
+      "C": "Rs. 800",
+      "D": "Rs. 850",
+      "E": "Rs. 750"
+    },
+    "correct_answer": "A",
+    "explanation": "Let the marked price be Rs. x. \nAfter a 10% discount, price = x - 10% of x = 0.9x. \nAfter a 20% discount on 0.9x, price = 0.9x - 20% of 0.9x = 0.72x. \nGiven, 0.72x = 720. \nThus, x = 720 / 0.72 = Rs. 1000.",
+    "difficulty": "Medium",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Successive discounts",
+    "concept_tags": [
+      "successive discounts",
+      "calculation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0036845000000000003,
+      "question_number": 3
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS__DISCOUNT_004",
+    "question": "A dishonest dealer claims to sell his goods at cost price but uses a false weight of 900 grams instead of 1 kg. What is his profit percentage?",
+    "options": {
+      "A": "10%",
+      "B": "11.11%",
+      "C": "12.5%",
+      "D": "9.09%",
+      "E": "15%"
+    },
+    "correct_answer": "B",
+    "explanation": "The dealer sells 900 grams as 1000 grams, gaining 100 grams profit on every 900 grams sold. \nProfit percentage = (Profit/Cost) * 100 = (100/900) * 100 = 11.11%.",
+    "difficulty": "Hard",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Dishonest dealer problems",
+    "concept_tags": [
+      "dishonest dealing",
+      "profit calculation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0036845000000000003,
+      "question_number": 4
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS__DISCOUNT_005",
+    "question": "A company sells a product for Rs. 1200 including 20% tax. If the cost price of the product is Rs. 900, what is the profit percentage excluding tax?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "11.11%",
+      "D": "33.33%",
+      "E": "50%"
+    },
+    "correct_answer": "C",
+    "explanation": "Let the selling price excluding tax be X. \nSP including tax = X + 20% of X = 1.2X. \n1.2X = 1200, so X = 1200 / 1.2 = Rs. 1000. \nProfit = SP - CP = 1000 - 900 = Rs. 100. \nProfit percentage = (100 / 900) * 100 = 11.11%.",
+    "difficulty": "Hard",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Profit/loss with GST or tax",
+    "concept_tags": [
+      "tax calculation",
+      "profit percentage"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0036845000000000003,
+      "question_number": 5
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS_DISCOUNT_001",
+    "question": "A shopkeeper buys an article for Rs. 400 and sells it for Rs. 460. What is the profit percentage?",
+    "options": {
+      "A": "10%",
+      "B": "12%",
+      "C": "15%",
+      "D": "18%",
+      "E": "20%"
+    },
+    "correct_answer": "C",
+    "explanation": "Profit = Selling Price (SP) - Cost Price (CP) = 460 - 400 = Rs. 60. \nProfit Percentage = (Profit/CP) × 100 = (60/400) × 100 = 15%.",
+    "difficulty": "Easy",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Basic profit/loss calculations",
+    "concept_tags": [
+      "profit_percentage",
+      "basic_calculation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0036485000000000003,
+      "question_number": 11
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS_DISCOUNT_002",
+    "question": "A trader marks his goods 20% above the cost price and offers a discount of 10% on the marked price. Find the profit percentage.",
+    "options": {
+      "A": "8%",
+      "B": "10%",
+      "C": "12%",
+      "D": "15%",
+      "E": "20%"
+    },
+    "correct_answer": "A",
+    "explanation": "Let the Cost Price (CP) be Rs. 100. \nMarked Price (MP) = CP + 20% of CP = 100 + 20 = Rs. 120. \nDiscount = 10% of MP = 10% of 120 = Rs. 12. \nSelling Price (SP) = MP - Discount = 120 - 12 = Rs. 108. \nProfit = SP - CP = 108 - 100 = Rs. 8. \nProfit Percentage = (Profit/CP) × 100 = (8/100) × 100 = 8%.",
+    "difficulty": "Medium",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Marked price and discount",
+    "concept_tags": [
+      "marked_price",
+      "discount"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0036485000000000003,
+      "question_number": 12
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS_DISCOUNT_003",
+    "question": "A shopkeeper gives two successive discounts of 15% and 10% on the marked price of an item. If the marked price is Rs. 1000, what is the final selling price?",
+    "options": {
+      "A": "Rs. 765",
+      "B": "Rs. 765.50",
+      "C": "Rs. 765.75",
+      "D": "Rs. 770",
+      "E": "Rs. 775"
+    },
+    "correct_answer": "A",
+    "explanation": "First discount = 15% of 1000 = Rs. 150. \nPrice after first discount = 1000 - 150 = Rs. 850. \nSecond discount = 10% of 850 = Rs. 85. \nFinal Selling Price = 850 - 85 = Rs. 765.",
+    "difficulty": "Medium",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Successive discounts",
+    "concept_tags": [
+      "successive_discounts",
+      "marked_price"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0036485000000000003,
+      "question_number": 13
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS_DISCOUNT_004",
+    "question": "A dishonest dealer professes to sell his goods at cost price but uses a false weight of 900 grams instead of 1 kg. Find his profit percentage.",
+    "options": {
+      "A": "10%",
+      "B": "11.11%",
+      "C": "12.5%",
+      "D": "15%",
+      "E": "20%"
+    },
+    "correct_answer": "B",
+    "explanation": "The dealer sells 900 grams as 1 kg. \nProfit = (Weight not given/Actual weight) × 100 = (1000 - 900)/900 × 100 = 100/900 × 100 = 11.11%.",
+    "difficulty": "Hard",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Dishonest dealer problems",
+    "concept_tags": [
+      "dishonest_dealer",
+      "false_weight"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0036485000000000003,
+      "question_number": 14
+    }
+  },
+  {
+    "question_id": "ARITH_PROFIT_LOSS_DISCOUNT_005",
+    "question": "A product is sold at a 30% profit. If the cost price increases by 10% and the selling price remains constant, what will be the new profit percentage?",
+    "options": {
+      "A": "16.67%",
+      "B": "18.18%",
+      "C": "20%",
+      "D": "21.82%",
+      "E": "25%"
+    },
+    "correct_answer": "B",
+    "explanation": "Let the original CP = Rs. 100. \nOriginal SP = CP + 30% of CP = 100 + 30 = Rs. 130. \nNew CP = 100 + 10% of 100 = Rs. 110. \nNew profit = SP - New CP = 130 - 110 = Rs. 20. \nNew profit percentage = (20/110) × 100 = 18.18%.",
+    "difficulty": "Hard",
+    "topic": "Profit, Loss & Discount",
+    "sub_topic": "Profit/loss with cost variation",
+    "concept_tags": [
+      "profit_loss",
+      "cost_variation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0036485000000000003,
+      "question_number": 15
+    }
+  }
+]

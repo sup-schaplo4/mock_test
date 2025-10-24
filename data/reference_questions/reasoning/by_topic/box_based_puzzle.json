@@ -1,0 +1,165 @@
+{
+  "topic": "Box Based Puzzle",
+  "total_questions": 5,
+  "questions": [
+    {
+      "id": "2018_Q31",
+      "question_number": 31,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the questions that follow. Eight boxes A, B, C, D, E, F, G and H are kept one above another. These boxes are of different colours namely, Orange, White, Violet, Green, Black, Grey, Red and Yellow but not respectively in the same order. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. Box E is orange and kept immediately below Box B. Two boxes are kept between D and B. Box D is kept at the topmost position. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Grey colour box is above red colour box. Box H is placed above Box A. Box C is of green colour. Which box is kept at the fourth position from the top?",
+      "options": {
+        "A": "The box which is yellow in colour",
+        "B": "A",
+        "C": "G",
+        "D": "The box which is red in colour",
+        "E": "None of these"
+      },
+      "correct_answer": "A",
+      "explanation": "1. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. 2. Box D is kept at the topmost position. Two boxes are kept between D and B. Box E is orange and kept immediately below Box B. 3. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. 4. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Box H is placed above Box A. Grey colour box is above red colour box. 5. Box C is of green colour, therefore CASE II is not true. Box D is of Violet colour.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Box Based Puzzle",
+      "topic": "Box Puzzle",
+      "question_id": "REASONING_00059",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254045",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q32",
+      "question_number": 32,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the questions that follow. Eight boxes A, B, C, D, E, F, G and H are kept one above another. These boxes are of different colours namely, Orange, White, Violet, Green, Black, Grey, Red and Yellow but not respectively in the same order. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. Box E is orange and kept immediately below Box B. Two boxes are kept between D and B. Box D is kept at the topmost position. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Grey colour box is above red colour box. Box H is placed above Box A. Box C is of green colour. Which Box is White in colour?",
+      "options": {
+        "A": "E",
+        "B": "F",
+        "C": "D",
+        "D": "B",
+        "E": "G"
+      },
+      "correct_answer": "B",
+      "explanation": "1. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. 2. Box D is kept at the topmost position. Two boxes are kept between D and B. Box E is orange and kept immediately below Box B. 3. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. 4. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Box H is placed above Box A. Grey colour box is above red colour box. 5. Box C is of green colour, therefore CASE II is not true. Box D is of Violet colour.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Box Based Puzzle",
+      "topic": "Box Puzzle",
+      "question_id": "REASONING_00060",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254046",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q33",
+      "question_number": 33,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the questions that follow. Eight boxes A, B, C, D, E, F, G and H are kept one above another. These boxes are of different colours namely, Orange, White, Violet, Green, Black, Grey, Red and Yellow but not respectively in the same order. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. Box E is orange and kept immediately below Box B. Two boxes are kept between D and B. Box D is kept at the topmost position. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Grey colour box is above red colour box. Box H is placed above Box A. Box C is of green colour. How many boxes are there between box H and A?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "E": "Five"
+      },
+      "correct_answer": "C",
+      "explanation": "1. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. 2. Box D is kept at the topmost position. Two boxes are kept between D and B. Box E is orange and kept immediately below Box B. 3. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. 4. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Box H is placed above Box A. Grey colour box is above red colour box. 5. Box C is of green colour, therefore CASE II is not true. Box D is of Violet colour.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Box Based Puzzle",
+      "topic": "Box Puzzle",
+      "question_id": "REASONING_00061",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254047",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q34",
+      "question_number": 34,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the questions that follow. Eight boxes A, B, C, D, E, F, G and H are kept one above another. These boxes are of different colours namely, Orange, White, Violet, Green, Black, Grey, Red and Yellow but not respectively in the same order. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. Box E is orange and kept immediately below Box B. Two boxes are kept between D and B. Box D is kept at the topmost position. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Grey colour box is above red colour box. Box H is placed above Box A. Box C is of green colour. Four of them are alike in a certain way, which one of the following does not belong to the group?",
+      "options": {
+        "A": "D, F",
+        "B": "B, E",
+        "C": "G, A",
+        "D": "H, C",
+        "E": "F, H"
+      },
+      "correct_answer": "D",
+      "explanation": "1. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. 2. Box D is kept at the topmost position. Two boxes are kept between D and B. Box E is orange and kept immediately below Box B. 3. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. 4. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Box H is placed above Box A. Grey colour box is above red colour box. 5. Box C is of green colour, therefore CASE II is not true. Box D is of Violet colour.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Box Based Puzzle",
+      "topic": "Box Puzzle",
+      "question_id": "REASONING_00062",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254048",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q35",
+      "question_number": 35,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the questions that follow. Eight boxes A, B, C, D, E, F, G and H are kept one above another. These boxes are of different colours namely, Orange, White, Violet, Green, Black, Grey, Red and Yellow but not respectively in the same order. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. Box E is orange and kept immediately below Box B. Two boxes are kept between D and B. Box D is kept at the topmost position. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Grey colour box is above red colour box. Box H is placed above Box A. Box C is of green colour. Which one is true about box D?",
+      "options": {
+        "A": "Box D is kept at third position from top",
+        "B": "Two boxes are there between box D and E",
+        "C": "It is orange in colour",
+        "D": "Violet in colour",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "1. Three boxes are kept between the one whose colour is Yellow and the one whose colour is Green, one of them is at the bottommost position. 2. Box D is kept at the topmost position. Two boxes are kept between D and B. Box E is orange and kept immediately below Box B. 3. Box G is placed in the middle of Box B and Box C and is of Black colour. Three boxes are placed between G and F. Box B is placed above Box C. 4. The Box which is white in colour is placed immediately above Box H. Three boxes are placed between the one which is grey in colour and the one which is red in colour. Box H is placed above Box A. Grey colour box is above red colour box. 5. Box C is of green colour, therefore CASE II is not true. Box D is of Violet colour.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Box Based Puzzle",
+      "topic": "Box Puzzle",
+      "question_id": "REASONING_00063",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254049",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

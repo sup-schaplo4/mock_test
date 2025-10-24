@@ -1,0 +1,1687 @@
+Q.1)
+India’s BSR system needs to be robust, timely, comprehensive and open to change, stated Michael Patra, deputy governor of Reserve Bank of India (RBI). The BSR Code is a seven-digit code that is provided to the registered banks by the RBI. The first three digits in the code identify the bank, while the following four digits identify the bank branch. This code helps banks to keep a clear record of every online payment made towards tax. BSR system has metamorphosed into a sound and comprehensive reporting system, generating a wide array of useful statistics. Combined with bank branch statistics, it has supported the post-nationalisation expansion of the Indian banking system. In October 2022, the BSR completed __ years of its existence. RBI had organized an event to celebrate the anniversary.
+(a) 50 years
+(b) 10 years
+(c) 20 years
+(d) 30 years
+(e) 15 years
+
+Q.2)
+As per the Annual Report of RBI (released in May 2023), the Reserve Bank successfully completed the combined gross market borrowings of the central and the state governments to the tune of Rs 21,79,392 crore during 2022-23, which was 19.2 per cent higher than the previous year. During 202223, securities ranging from 2 to ____ years tenor (original maturity) were issued with the objective of catering to the demand from various investors in different maturity buckets. Floating Rate Bonds (FRBs) of 7-year and 13- year tenors (original maturity) were also reissued during the year. The share of FRBs in total issuances during 2022-23 was 2.5 per cent as compared to 7.8 per cent in the previous year.
+(a) 20
+(b) 15
+(c) 30
+(d) 40
+(e) 10
+
+Q.3)
+The Global Gender Gap Index annually benchmarks the current state and evolution of gender parity across four key dimensions (Economic Participation and Opportunity, Educational Attainment, Health and Survival, and Political Empowerment). It is the longest-standing index tracking the progress of numerous countries’ efforts towards closing these gaps over time since its inception in 2006. This year, the 17th edition of the Global Gender Gap Index benchmarks gender parity across 146 countries, providing a basis for robust cross-country analysis. Further, examining a subset of 102 countries that have been included in every edition of the index since 2006 provides a large constant sample for time-series analysis. Which country achieved the full gender parity in this year’s index? (a) Norway
+(b) Iceland
+(c) Finland
+(d) Denmark
+(e) Sweden
+
+Q.4)
+Recently, a South American country conferred its highest civilian honour to President Droupadi Murmu- The Grand Order of the Chain of Yellow Star, the first Indian to receive this award. The country in question is a small country on the northeastern coast of South America. It’s defined by vast swaths of tropical rainforest, Dutch colonial architecture and a melting-pot culture. It is a tropical country covered in rainforests. Its extensive tree cover is vital to the country’s efforts to mitigate climate change and maintain carbon negativity. Identify it.
+(a) Guyana
+(b) Brazil
+(c) Suriname
+(d) Chile
+(e) Peru
+
+Q.5)
+Towns of Export Excellence is a status provided to those towns which produce and export goods worth a minimum value in a specific sector. Sectors include handicraft, handloom, seafood, pharmaceutical, fisheries, apparels, coir, leather products etc. As per the Foreign Trade Policy, towns that produce goods worth at least ____ can be recognized as towns of export excellence, based on their growth potential for exports. However, for Town of Export Excellence (TEE) in Handloom, Handicraft, Agriculture and Fisheries sector, the threshold limit is____.
+(a) Rs 500 crore; Rs 100 crore
+(b) Rs 250 crore; Rs 50 crore
+(c) Rs 450 crore; Rs 150 crore
+(d) Rs 900 crore; Rs 450 crore
+(e) Rs 750 crores; Rs 150 crores
+
+Q.6)
+According to reports, a trilateral highway connecting Kolkata to ___ will be built and available for use in four years. Commerce ministers from numerous countries explored this possibility at a recent meeting held by the Indian Chamber of Commerce (ICC) and the Ministry of External Affairs (MEA). The highway has immense potential to promote tourism and cultural exchanges among the countries it connects. This road will facilitate the exploration of historical landmarks and cultural assets in the countries it connects. The trilateral highway project was first proposed and approved at a ministerial meeting in April 2002. The 2,800-kilometre-long highway aimed at boosting multilateral trade.
+(a) Hanoi
+(b) Bangkok
+(c) Vientiane
+(d) Naypyidaw
+(e) Phnom Penh
+
+Q.7)
+During the visit of COP 26 President Hon’ble Alok Sharma to India on 21-22 July 2022, NITI Aayog launched two significant initiatives, which are ____ mobile application to raise awareness on electric mobility and the Report on Advanced Chemistry Cell Battery Reuse and Recycling Market in India. To bolster this low carbon infrastructure, NITI Aayog has been collaborating with the UK Government in the areas of e-vehicles, charging infrastructure and battery storage. India is the fifth largest and fastest growing vehicle market in the world, providing massive potential for electric vehicle uptake. The shift to Zero Emission Vehicles (ZEVs) is well underway and accelerating, creating 100,000s of new e-mobility jobs, driving down technology costs, ensuring the air we breathe is cleaner and reducing our reliance on imported fuels.
+(a) e-Amrit
+(b) e-Change
+(c) e-Speed
+(d) e-Mile
+(e) e-Run
+
+Q.8)
+According to the Economic Survey of 2022-23, the Indian economy appears to have moved on after its encounter with the pandemic, staging a full recovery in FY22 ahead of many nations and positioning itself to ascend to the pre-pandemic growth path in FY23. Yet in the current year, India has also faced the challenge of reining in inflation that the European strife accentuated. Measures taken by the government and RBI, along with the easing of global commodity prices, have finally managed to bring retail inflation below the RBI upper tolerance target in November 2022. Despite these, agencies worldwide continue to project India as the fastest growing major economy with a growth rate falling in an average range of _____ and _____ for the year ending ___.
+(a) 6.5-7.0 per cent; March 31, 2023
+(b) 7.0-7.5 per cent; March 31, 2022
+(c) 6.4-6.7 per cent; March 31, 2025
+(d) 8.1-8.5 per cent; March 31, 2023
+(e) 8.2-9.0 per cent; March 31, 2023
+
+Q.9)
+Cruise tourism has seen an immense surge in recent years in India and worldwide. Seeing the potential of this sector, India, on June 5, inaugurated its first international cruise vessel, ____. Flagged off from _____ to Sri Lanka, the cruise will cover three ports during the 5-day cruise. This also means that Indians no longer need to go abroad to board a ship to get international cruise experience. Inaugurating the cruise, Union Minister of Ports, Shipping & Waterways Sarbananda Sonowal called it a historic step for the maritime sector, adding that the initiative will further boost tourism and generate employment.
+(a) MV Kirpan; Bengaluru
+(d) MV Neon; Mumbai
+(b) MV Empress; Chennai
+(e) MV Prestige; Surat
+(c) MV Imperial Blue; Mysore
+
+Q.10)
+TRAI in its endeavour to curb menace of spams through Unsolicited Commercial Communication (UCC) has taken various measures in recent past such as cleaning data in respect of PE Headers and message content templates, tagging variables in message content templates etc. In continuation of above actions, TRAI has now issued a Direction to all the Access Providers to develop and deploy the DCA facility for creating a unified platform and process to register customers consent digitally across all service providers and Principal Entities. What is the full form of DCA?
+(a) Digital Content Amalgamation
+(b) Demand-based Content Acquisition
+(c) Derivative Consent Acquiring
+(d) Digital Consent Acquisition
+(e) Digital Content Admission
+Q.11)
+Mr. Girish Chandra Murmu, the Comptroller and Auditor General of India (CAG), has been re-elected as External Auditor of the ______ for a ____ year term. CAG’s appointment is a recognition of its standing among the international community as well as its professionalism, high standards, global audit experience and strong national credentials. This is the second major international audit assignment for the CAG this year following his selection for the post of External Auditor (2024-2027) of International Labour Organization (ILO) in Geneva earlier this year in March 2023.
+(a) International organization for migrants; 2 years
+(b) World Bank; 2 years
+(c) World Health Organization; 4 years
+(d) International Organization of Supreme Audit Institutions; 5 years
+(e) FATF; 2 years
+Q.12)
+According to Morgan Stanley, India is already the fastest growing economy in the world with three megatrends in the country, global offshoring, digitalization, and energy transition putting the country on the path to unprecedented economic growth and that India will be one of only three economies in the world that can generate more than $400 billion annual economic output growth from 2023 onward which will rise to more than $500 billion after 2028. In light of this, India’s participation in various international forums renders an opportunity to the South Asian nation to put forth its interest and participate in the decision making processes of these forums. India is a member of various international organizations; it is still endeavouring to become member of other forums. Name the forum which does not have India as its member (a) SAARC
+(b) IPEF
+(c) SC.O
+(d) OECD
+(e) WEF
+Q.13)
+According to the data collated by Department for Promotion of Industry and Internal Trade (DPIIT), incentives have been given to PLI beneficiaries of the 14 sectors. Of the 14 sectors, only 8 have performed well and six have not. Which is not amongst six non-performing sectors?
+(a) Telecommunications
+(b) Steel
+(c) Textile
+(d) White Goods
+(e) Battery
+Q.14)
+What makes a country worth living is not just economic hegemony and achievements of the state, it is the wealth of the culture of the people, accumulated over centuries of wisdom about how to conduct life. The ancient Indian civilisation is the source of all the extensions of what we call as the Indian subcontinent. The geographic spread covered under this banner stretches far towards the Gulf on one side and towards the expanse of Indo-Pacific on the other. In the present scenario, countries like India and China are jostling for influence over the ports and island nations of the Indian Ocean. The pivot of a major chunk of economics in the extended neighbourhood is the Indian Ocean because many resources like oil, gas, raw materials and goods pass through it. Over a period of time, for political, economic and security reasons, various blocks and groupings were formed for cooperation on several fronts. The two main groupings we have in the Indo-Pacific region are ASEAN and BIMSTEC. Which of the following countries are common members of these two regional blocs? 1)Thailand 2)Cambodia 3)Myanmar 4)Laos 5)Vietnam
+(a) 1 and 2 Only
+(b) 2 and 3 Only
+(c) 1 and 3 Only
+(d) 3 and 4 Only
+(e) 4 and 5 Only
+Q.15)
+Since the implementation of monetary policy framework in 2016, the inflation rate has crossed upper threshold limit various times. The RBI informs central government if the inflation rate crosses upper threshold limit of ……………….. for ………………… quarters?
+(a) 4%, 2 Quarters
+(b) 6%, 3 Quarters
+(c) 3%, 2 Quarters
+(d) 5%, 3 Quarters
+(e) 6%, 2 Quarters
+Q.16)
+Major private sector banks continued to expand branch network in the financial year ended March 2023, while public sector banks (PSB) saw a decline in number of branches. Which of the following scheduled commercial banks has the highest increase in the number of branches in FY 2022-23?
+(a) Kotak Mahindra
+(b) ICICI
+(c) HDFC
+(d) Bandhan Bank
+(e) SBI
+Q.17)
+The Digital Payment Index (DPI) is a metric used to measure the adoption and growth of digital payments within a country. It provides an assessment of the digital payment ecosystem, taking into account various parameters such as the number of digital transactions, the value of digital payments, the availability of digital payment infrastructure, and the level of consumer awareness and confidence in using digital payment methods. What is the base period of the digital payment index?
+(a) March 2018
+(b) March 2017
+(c) September 2018
+(d) September 2017
+(e) March 2019
+Q.18)
+RBI has been organizing various public awareness campaigns for promoting financial literacy and safe banking practices. Which of the following mascots are used by RBI for public awareness campaigns? 1)Money Kumar 2)Ms. Money 3)Mr. Money 4)Mrs. Paisa 5)Ms. Paisa
+(a) Only 1 and 4
+(b) Only 2, 3 and 4
+(c) Only 1, 2 and 4
+(d) Only 1 and 2
+(e) Only 3 and 4
+Q.19)
+e-way bill is a document required to be carried by a person in charge of the conveyance carrying any consignment of goods of value exceeding ______ as mandated by the Government in terms of section 68 of the Goods and Services Tax Act read with rule 138 of the rules framed thereunder. It is generated from the GST Common Portal by the registered persons or transporters who causes movement of goods of consignment before commencement of such movement.
+(a) 25000
+(b) 50000
+(c) 12500
+(d) 75000
+(e) 35000
+Q.20)
+According to union budget 2023-24, 50-years interest free loans is given to states for ……………… In budget 2023-24, the total amount sanctioned has been increased to Rs.1.3 Lakh Crores from ………………… in the previous year.
+(a) CAPEX, 1 Lakh Crore
+(b) Investment, 50K Crore
+(c) Subsidy, 1 Lakh Crore
+(d) Credit Guarantee, 35000 Crore
+(e) CAPEX, 50000 Crore
+Q.21)
+Finastra has partnered with a bank to support the latter’s new integrated corporate banking portal, ‘FYN’, using Finastra’s Unified Corporate Portal solution. The Unified Corporate Portal harnesses the power of Finastra’s Corporate Channels framework, enabling banks to build a seamless experience for their corporate clients spanning account services, payments, trade, supply chain finance and lending. Banks can unify data across multiple, productspecific portals and back-office systems to create a single view of transactions, positions and balances, enabling self-service and driving operational efficiency. The data is presented via persona-based dashboards, with insightful widgets and the ability for users to tailor their experience. Which bank has launched this ‘FYN’ portal?
+(a) HDCF
+(b) Kotak Mahindra Bank
+(c) Bandhan Bank
+(d) ICICI
+(e) SBI
+Q.22)
+Prudential guidelines aim to address credit risk concentration in non-banking financial companies (NBFCs). These guidelines focus on identifying and managing large exposures, which refer to the sum of all exposure values of an NBFC-UL (an NBFC placed in the upper layer) to a counterparty or group of connected counterparties. The guidelines outline the limits on exposure of Non-Banking Financial Companies – Upper Layer (NBFC-UL) to single counterparties and groups of connected counterparties. For single counterparties, the sum of all exposure values of an NBFC-UL must not be higher than ___ percent of the NBFC-UL’s eligible capital base at all times.
+(a) 15%
+(b) 8%
+(c) 20%
+(d) 15%
+(e) 12%
+Q.23)
+The Indian Council of Agricultural Research (ICAR) and an e-commerce platform have signed a Memorandum of Understanding (MoU) to combine strengths and create synergy between the two organizations for guiding farmers on scientific cultivation of different crops for optimum yield and income. Under the MoU, ICAR will provide technological backstopping to the farmers through the network of the e-commerce platform. This will help improve farmers’ livelihood and boost crop yield. Identify the platform.
+(a) Amazon
+(b) Flipkart
+(c) Reliance
+(d) Snap Deal
+(e) E-Biz
+Q.24)
+The European Central Bank (ECB) is the central bank for the eurozone, the group of nineteen countries who use the euro common currency. Its mandate is to maintain price stability by setting key interest rates and controlling the union’s money supply. The 1992 Maastricht Treaty created the European System of Central Banks (ESCB), which comprises the ECB and the twenty-eight national central banks of the European Union (EU), including those from countries that do not use the euro. Under the ESCB sits the Euro system, which comprises the ECB and the national central banks of eurozone countries. The ECB took over responsibility for monetary policy in the euro area in 1999, two years before the euro was introduced into circulation. Recently, the ECB, which is headquartered in ___, celebrated its ___ anniversary.
+(a) Geneva, 50th
+(b) Lyon, 25th
+(c) Frankfurt, 25th
+(d) Madrid, 75th
+(e) Barcelona, 60th
+Q.25)
+A bull market is a period of time in financial markets when the price of an asset or security rises continuously. The commonly accepted definition of a bull market is when stock prices rise by 20%. Traders employ a variety of strategies, such as increased buy and hold and retracement, to profit off bull markets. The opposite of a bull market is a bear market, when prices trend downward. Recently, the Indian stock market also witnessed a bull run, whereby an Indian company’s stock price per share has crossed the Rs 1 Lakh valuation, for the first time in the history of Indian stock market. Identify the company.
+(a) Titan
+(b) Reliance
+(c) Adani
+(d) HDFC
+(e) MRF
+Q.26)
+The goals and vision of the RBI are categorized in the Payments Vision 2025 documents into five anchor goalposts – Integrity, Inclusion, Innovation, Institutionalization and Internationalization. The theme of Payment Vision 2025 was “E-Payments for …………………., Everywhere and ………………”
+(a) Everyone, Every time
+(b) Every time, Everyone
+(c) Everyday, Everyone
+(d) Every day, Every year
+(e) Every Year, Every Day
+Q.27)
+In June 2023, a financial inclusion dashboard named ‘Antardrishti’ was launched. The dashboard, as its name suggests, provides the necessary knowledge to evaluate and track the development of financial inclusion by recording relevant data. This tool also makes it possible to assess the degree of financial exclusion at a local level across the nation so that such places may be addressed. Which of the following organizations has launched the dashboard?
+(a) NABARD
+(b) RBI
+(c) SIDBI
+(d) SEBI
+(e) NHB
+Q.28)
+El Niño and La Niña are opposite phases of what is known as the El Niño-Southern Oscillation (ENSO) cycle. Indian Ocean ________, sometimes referred to as the Indian Nino, is similar to the El Nino phenomenon, occurring in the relatively smaller area of the Indian Ocean between the Indonesian and Malaysian coastline in the east and the African coastline near Somalia in the west.
+(a) Current
+(b) Dipole
+(c) Springs
+(d) Nino
+(e) Nina
+Q.29)
+The Union Minister Education, Skill Development and Entrepreneurship, Shri Dharmendra Pradhan released the India Rankings 2023 in June 2023. Which of the following statements is incorrect with respect to the NIRF rankings?
+(a) Indian Institute of Technology Madras retains its 1st position in Overall Category for fifth consecutive year
+(b) Indian Institute of Science, Bengaluru tops the Universities Category
+(c) All India Institute of Medical Sciences (AIIMS), New Delhi occupies the top slot in Medical
+(d) National Law School of India University, Bengaluru retains its first position in Law
+(e) St. Stephens is the best college among all colleges
+Q.30)
+The Reserve Bank of India publishes half-yearly reports on management of foreign exchange reserves as part of its efforts towards enhanced transparency and levels of disclosure. These reports are prepared half yearly with reference to the position as at end-March and endSeptember each year. The present report (40th in the series) is with reference to the position as at end-March 2023. Among other topics, the report identifies the risks associated with the deployment of foreign exchange reserves. Identify the risk which affect the forex deployment. 1)Operational 2)Internal 3)Market 4)Currency 5)Liquidity
+(a) 1, 2, and 4
+(b) 2, 3, and 5
+(c) 1, 3, and 4
+(d) 3 and 4
+(e) 1, 3, 4, and 5
+Q.31)
+Which of the following companies’ majority of assets under management (AUM) are invested in central government securities, followed by equities and state government securities? Out of the total, 37.45 percent, or Rs 14.81 trillion are invested in central government securities as of September. Around 24.77 percent of the AUM, or Rs 9.80 trillion, have been invested in equities as of September while in FY21 total equity investment was worth Rs 7.97 trillion, or 21.67 percent of its total AUM.
+(a) LIC
+(b) NHB
+(c) SIDBI
+(d) SBI
+(e) HDFC
+Q.32)
+Foreign Trade Policy (2023) is a policy document which is based on continuity of time-tested schemes facilitating exports as well as a document which is nimble and responsive to the requirements of trade. It is based on principles of ‘trust’ and ‘partnership’ with exporters. Which of the following are the Pillars of India’s Foreign Trade Policy 2023? 1)Incentives to Remission 2)Export promotion through collaboration 3)Ease of Doing Business 4)Emerging areas
+(a) Only 1, 3 and 4
+(b) Only 3 and 4
+(c) All 1, 2, 3 and 4
+(d) Only 1, 2 and 4
+(e) Only 1, 2 and 3
+Q.33)
+Under SEBI (Mutual Funds) Regulations, 1996, Mutual Funds are permitted to charge certain operating expenses for managing a mutual fund scheme – such as sales & marketing / advertising expenses, administrative expenses, transaction costs, investment management fees, registrar fees, custodian fees, audit fees – as a percentage of the fund’s daily net assets. All such costs for running and managing a mutual fund scheme are collectively referred to as ‘Total Expense Ratio’ (TER). It is calculated as a percentage of scheme’s average ………………….?
+(a) Net Asset Value
+(b) Net owned fund
+(c) Liabilities
+(d) Operational Expenses
+(e) Investment
+Q.34)
+Household savings play a vital role in India’s financial sector for multiple reasons. Firstly, they provide a stable and reliable source of funds for the banking sector. Banks utilize these savings as deposits, which they can lend to businesses and individuals, promoting economic activities and investments. Secondly, household savings contribute to the overall liquidity and stability of the financial system, reducing the dependence on external sources of funding. The accumulation of household savings can lead to increased domestic savings rates, which is vital for reducing reliance on foreign capital and achieving sustainable economic development. The Annual Report of the RBI describes the landscape of the household sector’s savings in detail. Which of the following financial instruments constituted the highest share in the household sector’s savings in 2022-23?
+(a) Currency
+(b) Deposits
+(c) Shares and Debentures
+(d) Insurance Funds
+(e) Provident and Pension
+funds
+Q.35)
+CBDC has the potential to bring significant changes to the economy and the financial sector. It can enhance financial inclusion by providing access to digital payment services for unbanked populations. Additionally, CBDCs can streamline payment systems, reduce transaction costs, increase transparency, and enable central banks to implement monetary policies more effectively. Which of the following statements is correct regarding pilot launch of CBDC in India?
+(a) Pilot of whole sale segment was launched on 1st December 2022
+(b) Pilot of whole sale segment was launched on 1st November 2022
+(c) Pilot of both whole sale and retail segment was launched on 1st December 2022
+(d) Pilot of retail segment was launched on 1st January 2023
+(e) Pilot of retail segment was launched on 1st November 2022
+Q.36)
+Small savings schemes are of significant importance in India due to several reasons. They promote a savings culture among individuals, fostering financial stability. These schemes offer safe and accessible investment options, especially for small investors in rural and semi-urban areas. Additionally, they provide attractive interest rates and secure returns, making them a popular choice for risk-averse investors. Which of the following small savings scheme is providing highest interest rate (8.2%) for quarter starting from 1st July and ending on 30th September?
+(a) Senior Citizen Savings Scheme
+(b) Kisan Vikas Patra
+(c) National Savings Certificate
+(d) PPF
+(e) Post office time deposit
+Q.37)
+MAVEN is a NASA spacecraft orbiting Mars to study the loss of that planet’s atmospheric gases to space, providing insight into the history of the planet’s climate and water. What does “V” stand for in MAVEN?
+(a) Visible
+(b) Viable
+(c) Volatile
+(d) Visibility
+(e) Volatility
+Q.38)
+The Atlantic Declaration and accompanying Action Plan form the basis of a new type of innovative partnership across the full spectrum of ___ and ___ counties’ economic, technological, commercial and trade relations; a first of its kind, and which demands the joint leadership and imagination to realize in full. It will constitute a new economic security framework covering ever-closer cooperation on critical and emerging technologies and stronger protective toolkits. And it will also strengthen our alliance across defense, science, health security, and space.
+(a) USA and UK
+(b) Netherlands and USA
+(c) USA and India
+(d) Australia and USA
+(e) Australia and Japan
+Q.39)
+Net Owned Funds (NOF) is a term commonly used in the context of financial institutions, particularly non-banking financial companies (NBFCs) in India. It refers to the difference between the total assets and the outside liabilities of an institution. In simple terms, NOF represents the net worth or capital of the financial institution, including the shareholders’ equity and accumulated reserves. It indicates the financial strength and stability of the institution and is an important parameter for regulatory compliance and risk assessment. The Reserve Bank of India (RBI) had fixed the minimum Net Owned Fund (NOF) size for housing finance companies to ___?
+(a) 25 Crores
+(b) 50 Crores
+(c) 100 Crores
+(d) 100 Lakhs
+(e) 25 Lakhs
+
+Q.40)
+B20 refers to the Business 20, which is an engagement group that brings together business leaders from the G20 member countries. It serves as a platform for dialogue between the business community and G20 policymakers to discuss global economic challenges and provide recommendations for policy formulation. The B20 plays a crucial role in representing the interests of the private sector and providing valuable insights on key issues such as trade, investment, infrastructure, digitalization, and sustainable development. Who chaired the B20 grouping under India’s G20 Presidency?
+(a) Mukesh Ambani
+(b) Suresh Kotak
+(c) N. Chandrasekharan
+(d) Anil Pradhan
+(e) Amitabh Bhattacharya
+Q.41)
+Union Cabinet has approved constitution and empowerment of Inter-Ministerial Committee under the Chairpersonship of Minister of Cooperation for facilitation of the “World’s Largest Grain Storage Plan in Cooperative Sector”. This facilitation will be achieved by convergence of various schemes of which of the following ministries? 1) Ministry of Agriculture and Farmers Welfare 2) Ministry of Commerce and Industry 3) Ministry of Consumer Affairs, Food and Public Distribution 4) Ministry of Chemicals and Fertilizers 5) Ministry of Food Processing Industries
+(a) 1, 2 and 3 Only
+(b) 2, 3 and 4 Only
+(c) 3, 4 and 5 Only
+(d) 2, 3 and 5 Only
+(e) 1, 3 and 5 Only
+Q.42)
+The significant expansion of digital lending in India drove RBI to issue the Digital Lending guidelines (DL guidelines) in September 2022. The DL guidelines struck a balance between the need for an innovative and inclusive system of lending and protecting the customer’s interest. The DL guidelines focused on three main areas: Customer protection and conduct requirements; Technology and data requirement; and Regulatory framework. Now, in 2023, the RBI has released the guidelines on DLG in digital lending. Identify the correct statement with regards to the DLG guidelines. 1) RBI has allowed default loss guarantee (DLG) arrangement among banks, NBFCs, and lending service providers in the digital lending space 2) The FLDG is an arrangement whereby a third party such as a financial technology (fintech) player (LSP) compensates lenders if the borrower defaults. 3) The RBI has allowed banks to accept DLG in digital lending only if the guarantee is in the form of a cash deposit, or fixed deposits in a bank with a lien in favour of the RE, or a bank guarantee in favour of the RE. 4) Banks and NBFCs should ensure that the total amount of DLG cover on any outstanding portfolio does not exceed 5% of the amount of that loan portfolio. 5) The guidelines segregate the entities working in the digital lending sector into five categories based on their FLDG exposures.
+(a) Only 1, 2 and 5
+(b) Only 2, 4, and 5
+(c) Only 1, 2, 3 and 4
+(d) Only 2, 4 and 5
+(e) Only 1, 3, 4, and 5
+Q.43)
+As per the RBI’s Annual Report, _____ witnessed an improvement, reflecting the higher degree of transmission of monetary policy to lending rates than to deposit rates in the rising interest rate cycle.
+(a) CASA
+(b) LCR
+(c) PCR
+(d) CRAR
+(e) NIM
+Q.44)
+Macroeconomic indicators are of utmost importance as they serve as essential barometers for understanding the overall economic health and performance of a country. These indicators, such as GDP growth rate, inflation rate, unemployment rate, and trade balance, provide valuable insights into the state of the economy, helping policymakers and analysts make informed decisions. In this regard, the Reserve Bank has been conducting the survey of professional forecasters (SPF) on macroeconomic indicators since September 2007. The latest survey has kept the real gross domestic product (GDP) growth forecast for 2023-24 has been retained at ____ per cent; it is expected to grow by ____ per cent in 2024-25.
+(a) 6% and 6.4%
+(b) 5.7% and 6.2%
+(c) 4.9% and 7.2%
+(d) 7% and 6.4%
+(e) 6.9% and 7.3%
+Q.45)
+
+The legislative assembly holds immense importance in a federal structure as it serves as a representative body that reflects the will and aspirations of the people within a particular state or region. Through elected representatives, it provides a platform for citizens to voice their concerns and interests, ensuring their representation in the decisionmaking process. The legislative assembly plays a crucial role in enacting laws and regulations, which govern various aspects of the state or region. It acts as a forum for debates and discussions, facilitating the formulation of policies that address the diverse needs and challenges faced by the population. Which state’s term of legislative assembly will not end till January 2024?
+(a) Rajasthan
+(b) Chhattisgarh
+(c) Madhya Pradesh
+(d) Haryana
+(e) Telangana
+Q.46)
+NHB RESIDEX, India’s first official housing price index, was an initiative of the National Housing Bank (NHB) undertaken at the behest of the Ministry of Finance, Government of India. The index was formulated under the guidance of a Technical Advisory Committee (TAC) comprising of stakeholders from the housing market. The scope has been widened under NHB RESIDEX brand, to include housing price indices (HPI), land price indices (LPI) and building materials price indices (BMPI), and also housing rental index (HRI). What is the latest base year for calculating the housing price index?
+(a) 2015-16
+(b) 2008-09
+(c) 2012-13
+(d) 2011-12
+(e) 2017-18
+Q.47)
+Planned urbanization is necessary to accommodate population growth, promote economic development, and ensure sustainable and inclusive cities. It allows for efficient allocation of resources, proper infrastructure, and improved quality of life for urban residents. Without planned urbanization, cities can face challenges such as overcrowding, inadequate services, and environmental degradation. In this regard, the Government of India has launched a host of schemes to work towards planned urbanization. Identify the schemes which were launched, in this regard, in the year 2015. 1)AMRUT 2)Smart Cities 3)PMAY-Urban 4)Swachh Bharat Mission 5)DAY-NULM
+(a) Only 1, 2, and 3
+(b) Only 2, 4, and 5
+(c) Only 1 and 3
+(d) Only 2 and 5
+(e) Only 2, 3, and 5
+Q.48)
+Recently, the capital markets regulator Sebi proposed to tweak the current definition of unpublished price sensitive information (UPSI) to bring regulatory certainty and uniformity in compliance for the listed companies in respect of the identification of certain events as UPSI. The regulator suggested that the current definition of UPSI be amended, and the disclosures as required under Regulation 30 of LODR (Listing Obligations and Disclosure Requirements) be brought under it. Which of the following information will be deemed as ‘material information’ once the regulation 30 of LODR is applied on UPSI? 1)merger and acquisition 2)fraud or default by promoters 3)change in director and key managerial personnel 4)board meeting pertaining to dividends and financial results 5)initiation of forensic auditing
+(a) Only 1 and 2
+(b) Only 2 and 3
+(c) Only 1, 2, 3, 4, and 5
+(d) Only 1, 2, 3, and 4
+(e) Only 2, 3, and 4
+Q.49)
+Indian-origin professor Joyeeta Gupta is among the two scientists who have been named for the prestigious Spinoza Prize, also known as the Dutch Nobel Prize, given by the Dutch Research Council. Gupta, the faculty professor of Sustainability and professor of Environment and Development in the Global South at the University of Amsterdam, received the prize for her outstanding, pioneering, and inspiring scientific work in which she focuses on a just and sustainable world. Name the award.
+(a) Spinoza Prize
+(b) Wolf Prize
+(c) Breakthrough Prize
+(d) Fields Medal
+(e) Turing Award
+Q.50)
+The 2023 Malaysia Masters was a badminton tournament that took place at the Axiata Arena, Kuala Lumpur, Malaysia, from 23 to 28 May 2023 and had a total prize of US $420,000. What is the category of this tournament?
+(a) Super 500
+(b) Super 1000
+(c) Super 750
+(d) Super 300
+(e) Super 100
+Q.51)
+FSSAI has developed State Food Safety Index to measure the performance of states on various parameters of Food Safety. This index is based on performance of State/ UT on five significant parameters, namely, Human Resources and Institutional Data, Compliance, Food Testing – Infrastructure and Surveillance, Training & Capacity Building and Consumer Empowerment. The Index is a dynamic quantitative and qualitative benchmarking model that provides an objective framework for evaluating food safety across all States/UTs. Name the top 3 states in the larger category in this index.
+(a) Tamil Nadu, Odisha, and Haryana
+(b) Haryana, Punjab and Uttar Pradesh
+(c) Gujarat, Assam, and Maharashtra
+(d) Kerala, Punjab, and Tamil Nadu
+(e) Maharashtra, Telangana, and Karnataka
+Q.52)
+The National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI) published the Provisional Estimates (PE) of National Income for 2022- 23 and Quarterly Estimates of Gross Domestic Product (GDP) for the quarter January-March of 2022-23 (Q4 2022-23). What is the share of agriculture and allied sector in the Gross Value Added of the entire country in 2022-23?
+(a) 2.3%
+(b) 4%
+(c) 5.4%
+(d) 3.8%
+(e) 8.1%
+Q.53)
+India’s Services exports set a new record of USD 254.4 Billion in the financial year 2021-2022. The new record achieved in 2021-22 beats the previous high of USD 213.2 Billion in 2019-20. Also, Services exports hit an all-time monthly high of USD 26.9 Billion in March 2022. Which of the following is the top contributor in Services exports during April-December 2021?
+(a) Telecommunications
+(b) Business Process Outsourcing
+(c) Freight
+(d) Air transport
+(e) Travel
+Q.54)
+According to the data released by the Department for Promotion of Industry and Internal Trade (DPIIT), the foreign direct equity investments into India in fiscal 2023 shrank 21.67% from the previous year to $46.03 billion. The FDI equity inflows were $58.77 in 2021-22. Which are top three source countries of FDI for India?
+(a) Singapore, Mauritius, and US
+(b) Ireland, UK, and Denmark
+(c) UK, Saudi Arabia, and Oman
+(d) UAE, Mauritius, and Cayman Islands
+(e) US, Ireland, and Cayman Islands
+Q.55)
+The Twenty Points Program was a significant policy initiative introduced by the Government of India in 1975. It aimed to address various socio-economic challenges and promote social justice and equality. The program included twenty specific points that covered a wide range of areas, including agriculture, industry, employment, education, housing, and healthcare. Some key objectives of the program were to alleviate poverty, reduce income inequalities, provide employment opportunities, improve access to basic amenities, and empower marginalized sections of society. Recently, the Ministry of Statistics and Programme Implementation (MoSPI) has released the latest progress report of the Twenty Points Program. Of the 14 parameters tracked quarterly under the Twenty Point Programme, the government achieved a more than ____ percent target completion (“very good”) in six parameters.
+(a) 90%
+(b) 70%
+(c) 65%
+(d) 40%
+(e) 55%
+Q.56)
+Sovereign Gold Bonds are the government securities denominated in grams of gold. They are substitutes for holding physical gold. Investors have to pay the issue price in cash and the bonds will be redeemed in cash on maturity. The Bond is issued by Reserve Bank on behalf of Government of India. The quantity of gold for which the investor pays is protected, since he receives the ongoing market price at the time of redemption/ premature redemption. Identify the incorrect statement regarding the SGB scheme.
+(a) Person resident in India as defined under Foreign Exchange Management Act, 1999 are eligible to invest in SGB
+(b) Eligible investors include individuals, HUFs, trusts, universities and charitable institutions
+(c) An investor/trust can buy 4 Kg/20 Kg worth of gold every year as the ceiling has been fixed on a fiscal year (AprilMarch) basis.
+(d) The Bonds bear interest at the rate of 5.50 per cent (fixed rate) per annum on the amount of initial investment.
+(e) Bonds are sold through offices or branches of Nationalised Banks, Scheduled Private Banks, Scheduled Foreign Banks, designated Post Offices, Stock Holding Corporation of India Ltd. (SHCIL) and the authorised stock exchanges either directly or through their agents
+Q.57)
+Which of the following organization celebrates its foundation day on July 1st?
+(a) ICAI
+(b) ICAR
+(c) ICSI
+(d) IARI
+(e) IRRI
+Q.58)
+The US is set to rejoin ______ after a four-year absence from the global body that the country abandoned during the Donald Trump presidency over what his administration called “anti-Israeli bias”. The US has left the organization in 2018.
+(a) IMF
+(b) World Bank
+(c) UNESCO
+(d) WEF
+(e) WIPO
+Q.59)
+A petaflop is a unit of measurement used to quantify the processing speed of a computer or supercomputer. It represents one quadrillion floating-point operations per second (FLOPS). In simple terms, a petaflop means a computer or supercomputer can perform one quadrillion calculations or mathematical operations in a single second. It is a measure of computational power and represents a significant milestone in the advancement of technology and computing capabilities. Supercomputers that can achieve petaflop speeds are capable of tackling complex scientific simulations, data analysis, and high-performance computing tasks that require massive computational power. What is the numerical representation of a petaflop?
+(a) 10^10
+(b) 10^5
+(c) 10^15
+(d) 10^12
+(e) 10^9
+Q.60)
+Prime Minister Narendra Modi in May 2023 released a special commemorative Rs 75 coin to mark the inauguration of the new parliament building at the inauguration event held at the Lok Sabha chamber. Commemorative coins are often released to commemorate significant events and showcase unique designs that reflect the occasion they represent. These coins hold great value for coin collectors, serving as treasured collectables. This coin is a made up of an alloy of four different metals. Which of the following is not among its constituent metals?
+(a) Silver
+(b) Gold
+(c) Zinc
+(d) Nickel
+(e) Copper
+Q.61)
+The National Pension Scheme (NPS) is a voluntary and contributory pension scheme introduced by the Government of India. It is designed to provide individuals with a sustainable income after retirement. The scheme is open to both the employed and self-employed segments of the population and offers two types of accounts: Tier-I and TierII. The NPS has gained popularity due to its transparent and regulated framework, low-cost structure, and potential for wealth accumulation over the long term. It provides individuals with a systematic and structured approach to retirement planning, promoting financial security and independence during their post-employment years. As per the Economic Survey of 2022-23, the average monthly net subscriptions increased from 61.9 thousand in 2021 to ____ thousand in 2022 for the April-October period.
+(a) 71.8
+(b) 63.2
+(c) 45.9
+(d) 55.7
+(e) 89.6
+Q.62)
+Foreign reserves, also known as foreign exchange reserves or forex reserves, are assets held by a country’s central bank, typically in the form of foreign currencies and other internationally accepted instruments. These reserves play a crucial role in maintaining economic stability and safeguarding a nation’s financial system. India’s forex reserves comprise of gold, foreign currency, reserve tranche, and special drawing rights. Where is the 437-metric tonne gold held overseas by RBI? 1) Bank of England 2) Bank of international settlement 3) Federal reserve 4) European Central Bank
+(a) 1 and 2
+(b) 2 and 3
+(c) 3 and 4
+(d) 2 and 4
+(e) 1 and 3
+Q.63)
+To facilitate transparency and informed decision-making among the investors, markets regulator Sebi mandated additional requirements for the issuance and listing of ____ bonds. This is one of the sub-categories of ‘green debt security’. These bonds are generally used for raising funds for transitioning to a more sustainable form of operations in line with India’s intended nationally determined contributions.
+(a) masala
+(b) transition
+(c) muni
+(d) agency
+(e) convertible
+Q.64)
+NBFC-MFI stands for Non-Banking Financial CompanyMicrofinance Institution. It refers to a type of financial institution that operates as a non-bank entity and provides microfinance services to low-income individuals and underserved communities. The Reserve Bank of India (RBI) regulates and supervises NBFC-MFIs to ensure their adherence to responsible lending practices, client protection principles, and overall financial stability in the microfinance sector. RBI has mandated Minimum Net Owned Funds of ____ for the NBFC-MFIs operating in the North-East region.
+(a) Rs 2 crore
+(b) Rs 1 crore
+(c) Rs 5 crore
+(d) Rs 3 crore
+(e) Rs 4 crore
+Q.65)
+The DRS is a technology-based system used in cricket to assist the match officials in their decision-making. DRS was preceded by a system to allow on-field umpires to refer some decisions to the third umpire to be decided using TV replays, in place since November 1992. What is the full form of DRS?
+(a) Decision Review System
+(b) Data Recovery System
+(c) Direct Registration System
+(d) Digital Radio System
+(e) Designated Representative Service
+Q.66)
+SWAMIH was announced on 6th November 2019 by the Finance Minister Smt. Nirmala Sitharaman. The Union Cabinet cleared a proposal to set up a ‘Special Window’ in the form of AIF to provide priority debt financing for completion of stalled housing projects. SBICAP Ventures was assigned the role of Investment Manager for this special window. Who is the chief investment officer of SWAMIH fund?
+(a) Ashish Chandak
+(b) Adwait Kasbekar
+(c) Irfan Kazi
+(d) Girish Sarwate
+(e) Yashni Parikh
+Q.67)
+PM-KUSUM scheme stands for Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan. It is a government initiative launched in 2019 in India. The scheme aims to support farmers in installing solar-powered agriculture pumps and promote the use of renewable energy in the agricultural sector. The PM-KUSUM scheme plays a vital role in rural development, improving farmer income, and contributing to the overall goal of achieving a clean and green energy future in India. Identify the correct statement with regards to the scheme. 1) The Scheme consists of three components. Component A of the scheme aims at developing 10,000 MW of solar capacity through installation of small Solar Power Plants of individual plants of capacity up to 2 MW. 2) The scheme is implemented till 31.03.2026 3) Solar energy-based power plants (SEPP) of capacity 500 kW to 2 MW will be setup by individual farmers/ group of farmers/ cooperatives/ panchayats/ Farmer Producer Organisations (FPO)/Water User associations (WUA)
+(a) Only 1
+(b) Only 2 and 3
+(c) Only 1, 2, and 3
+(d) Only 3
+(e) Only 1 and 3
+Q.68)
+The Smart Cities Mission was launched by the Hon’ Prime Minister on 25 June, 2015. The main objective of the Mission is to promote cities that provide core infrastructure, clean and sustainable environment and give a decent quality of life to their citizens through the application of ‘smart solutions’. 100 cities have been selected to be developed as Smart Cities through a two-stage competition. Identify the correct statement with regards to the scheme. 1) The Mission is operated as a Centrally Sponsored Scheme. Central Government will give financial support to the extent of Rs. 48,000 crores over 5 years i.e., on an average Rs.100 crore per city per year. 2) Additional finances for this scheme are raised through convergence, from ULBs’ own funds, grants under Finance Commission, innovative finance mechanisms such as Municipal Bonds, other government programs and borrowings. 3) The Smart Cities Mission has conceptualized ‘DataSmart Cities’-Strategy to leverage the potential of data to address complex urban challenges in 100 Mission Cities.
+(a) Only 1 and 3
+(b) Only 3
+(c) Only 1 and 2
+(d) Only 2 and 3
+(e) Only 1, 2, and 3
+Q.69)
+The SAI20 Summit of the SAI20 Engagement Group under India’s G20 Presidency was organized in Goa. Shri Girish Chandra Murmu, the Comptroller and Auditor General (CAG) of India and the Chair of the Supreme Audit Institutions-20 (SAI20) Engagement Group, delivered the concluding remarks. Which of the following were the themes of discussion of the meeting?
+(a) Trade & Investment and Energy
+(b) Blue Economy and Artificial Intelligence
+(c) Transport & Communication and Tourism
+(d) Technology and Public Health
+(e) Fisheries and Agriculture
+Q.70)
+A climate clock refers to a visual representation or digital display that provides real-time information about the impacts of climate change. It typically shows various climate-related statistics, such as greenhouse gas emissions, temperature rise, sea-level rise, deforestation rates, and other indicators. Where is the climate clock located?
+(a) New York
+(b) Stockholm
+(c) Dublin
+(d) Glasgow
+(e) Cardiff
+Q.71)
+UPI stands for Unified Payments Interface. It is a real-time payment system in India that enables instant and seamless fund transfers between different banks and payment service providers. With its simple and interoperable nature, UPI has revolutionized digital payments in India, facilitating personto-person transfers, merchant payments, bill payments, and other financial services through a single platform. It has played a crucial role in promoting financial inclusion and digital adoption, contributing to the growth of a cashless economy in the country. Which of the following statement(s) is/are correct with regards to the UPI? 1) UPI was launched in 2016 in India 2) Immediate money transfer through mobile device round the clock 247 and 365 days is available 3) Virtual address of the customer for Pull & Push provides for incremental security with the customer is not required to enter the details such as Card no, Account number; IFSC etc. 4) In the UPI system, a Pay Request is a transaction where the initiating customer is pushing funds to the intended beneficiary. Payment Addresses include Mobile Number & MMID, Account Number & IFSC and Virtual ID.
+(a) Only 1 and 3
+(b) Only 1, 2, 3, and 4
+(c) Only 2, 3, and 4
+(d) Only 2 and 3
+(e) Only 1, 3, and 4
+Q.72)
+The Payments Infrastructure Development Fund (PIDF) Scheme is an initiative introduced by the Reserve Bank of India (RBI) to promote the development of digital payments infrastructure in the country. Under this scheme, the RBI provides financial support and grants to eligible entities, such as banks, non-bank payment system operators, and other eligible stakeholders, to enhance the acceptance and accessibility of digital payments. Identify the correct statement with regards to the PIDF. 1) PIDF is governed by an ex-officio Advisory Council 2) The tenor of the PIDF scheme is three years from January 01, 2021, extendable by two further years, if necessary 3) Increasing payments acceptance infrastructure by adding 30 lakh touch points – 10 lakh physical and 20 lakh digital payment acceptance devices every year
+(a) Only 1, 2, and 3
+(b) Only 2 and 3
+(c) Only 1
+(d) Only 1 and 2
+(e) Only 3
+Q.73)
+Gross Domestic Saving (GDS) refers to the total amount of savings generated within a country over a specific period, typically a year. It is a key macroeconomic indicator that reflects the portion of national income not consumed but instead saved by households, businesses, and the government. GDS includes savings in various forms, such as personal savings, corporate profits set aside for investment, and government savings from budget surpluses. It is expressed as a percentage of ____.
+(a) Total Savings
+(b) Private Final Consumption Expenditure
+(c) Private Income
+(d) National Income
+(e) Gross Domestic Product
+Q.74)
+A clearing corporation, also known as a clearinghouse, is an entity that acts as an intermediary in financial markets to facilitate the clearing and settlement of trades. Its primary function is to ensure the smooth and efficient completion of transactions between buyers and sellers. Which of the following entities is not recognized by SEBI?
+(a) Indian Clearing Corporation Ltd.
+(b) Metropolitan Clearing Corporation of India Ltd
+(c) Multi Commodity Exchange Clearing Corporation Ltd
+(d) National Commodity Clearing Ltd
+(e) Kotak Clearing Corporation Ltd
+Q.75)
+The Bharat Bill payment system is a Reserve Bank of India (RBI) conceptualised system driven by National Payments Corporation of India (NPCI). It is a one-stop ecosystem for payment of all bills providing an interoperable and accessible “Anytime Anywhere” Bill payment service to all customers across India with certainty, reliability and safety of transactions. Which of the following statement(s) is/are a feature of the BBPS? 1) Bharat BillPay transaction can be initiated through multiple payment channels like Internet, Internet Banking, Mobile, Mobile-Banking, Mobile Wallets, Kiosk, ATM, Bank Branch, Agents and Business Correspondents, by just looking at the Bharat BillPay logo 2) Bharat BillPay is an integrated ecosystem connecting banks and non-banks in bills aggregation business, Billers, payment service providers and retail Bill outlets. 3) Bharat BillPay facilitates seamless payment of bills through any channel: digital and physical.
+(a) Only 1
+(b) None of those given as options
+(c) Only 2
+(d) Only 2 and 3
+(e) Only 1 and 3
+Q.76)
+Which of the following Article of the Indian Constitution has described the division of powers between Union and State governments with respect to the Union, State, and Concurrent lists?
+(a) Article 246
+(b) Article 134
+(c) Article 108
+(d) Article 55
+(e) Article 113
+Q.77)
+This Country Partnership Strategy (CPS), 2023-2027 for India is well aligned with India’s national development priorities to be achieved by 2047, when the country marks 100 years of independence. Economic and sector reforms and national flagship programs embody the national priorities. The CPS will advance Strategy 2030’s seven operational priorities. As it aims to help India return to its development trajectory, it will support better health, education, and social protection and improved urban livability and rural development while ensuring gender empowerment. Which multilateral development agency has released the strategy?
+(a) WEF
+(b) IMF
+(c) WB
+(d) OECD
+(e) ADB
+Q.78)
+Which of the following is the top gold producing countries in the world?
+(a) China
+(b) India
+(c) UAE
+(d) Oman
+(e) Bahrain
+Q.79)
+Trade Receivables electronic Discounting System (TReDS) is an online electronic platform and an institutional mechanism for factoring of trade receivables of MSME sellers. It enables discounting of invoices through an auction mechanism to ensure prompt realisation of trade receivables. How many parties are involved in the TReDS system?
+(a) Four
+(b) Seven
+(c) Five
+(d) Three
+(e) Two
+Q.80)
+Domestic Systemically Important Insurers (D-SIIs) refer to insurers of such size, market importance, and domestic and global interconnectedness, whose distress or failure would cause a significant dislocation in the domestic financial system. Therefore, the continued functioning of D-SIIs is critical for the uninterrupted availability of insurance services to the national economy. In March 2023, IRDAI released the list of domestic-systematically important insurers. Identify the insurers from the list.
+(a) Life Insurance Corporation of India
+(b) General Insurance Corporation of India
+(c) New India Assurance Co. Ltd
+(d) Only A and B
+(e) Only A, B, and C
+
+Q.81)  
+Four statements have been mentioned below. One or more statements may contain an error. It may contain a grammatical and/or a contextual error. Identify the INCORRECT statement. 1) The Neoclassical style refers to a movement in art, architecture, and design that emerging in the 18th and early 19th centuries to revive and emulate the ideals of classical antiquity. 2) Restoration comedies were known for their wit, satire, and social commentary. They often portrayed the manners and social mores of the upper class and were characterized by their clever wordplay, risqué humor, and intricate plots. 3) Miracle plays, also known as mystery plays, were a form of medieval drama that emerged in Europe during the Middle Ages. These plays were religious in nature and were performed by members of the clergy and local communities. 4) The term “Dark Ages” is generally used to refer to a period of cultural, intellectual, and economic decline or stagnation. It is often characterized by a decline in centralized authority, political instability, economic hardships, and a relative lack of cultural and intellectual progress compared to earlier and later periods.  
+(a) Only 1  
+(b) Only 2 and 3  
+(c) Only 1, 2, and 4  
+(d) Only 2 and 4  
+(e) Only 3  
+
+Q.82)  
+In the question below, a sentence has been divided into different parts. Rearrange the parts to form a meaningful sentence. P) In the intricate tapestry of human history, traversing vast epochs marked by triumphs and tribulations, the interplay of diverse cultures, ideologies, and Q) knowledge, technological advancements, and collective aspirations continually shape the tapestry of our existence, R) forging intricate connections between past, present, and future, as we navigate the perennial quest for progress, harmony, and understanding amidst the ebb and flow of the human experience S) socio-political systems has engendered multifaceted narratives replete with paradigm shifts, oscillating power dynamics, and profound transformations, wherein the ceaseless pursuit of  
+(a) RPQS  
+(b) SQPR  
+(c) RPSQ  
+(d) PSQR  
+(e) QSRP  
+
+
+Q.83)  
+In the question below, a sentence has been divided into different parts. Rearrange the parts to form a meaningful sentence. (P) through telescopes that pierce the cosmic veil, conducting experiments at particle colliders that reveal the fundamental building blocks of matter, and venturing into the depths of the ocean where ancient (Q) lifeforms hold the keys to understanding our planet’s past and its potential future, as we strive to grasp the essence of our place in the cosmos and the meaning that lies hidden within the fabric of reality. (R) Amidst the vast expanse of the universe, with its swirling galaxies, cosmic phenomena, and enigmatic celestial bodies dancing to the symphony of gravity, electromagnetic forces, and the mysterious dark energy, (S) humanity, driven by an insatiable curiosity and thirst for knowledge, has embarked on a relentless quest to unravel the secrets of existence, delving into the intricate realms of quantum mechanics, exploring the cosmos  
+(a) PRQS  
+(b) RSPQ  
+(c) QSPR  
+(d) SPQR  
+(e) SQPR  
+
+
+Q.84)  
+In the question mentioned below, a paragraph is divided into different sentences. Rearrange the sentences to form a coherent paragraph. 1) With each passing moment, we teeter on the precipice of irreversible consequences, where the ravenous appetite for energy conspires with the existential threat of climate change. The dexterous choreography of this transition demands not only the orchestration of technological advancements and innovative solutions but also the harmonization of political will, economic viability, and societal engagement. 2) As we navigate the treacherous terrain strewn with vested interests, formidable barriers, and divergent perspectives, we must rise above complacency and rally behind the transformative potential that lies dormant within this audacious endeavor. 3) The labyrinthine challenge of shifting from fossil fuels to renewable energy sources requires meticulous planning, colossal investments, and the fortitude to disrupt long-established systems entrenched in the annals of industrialization. 4) The road to an energy transition is arduous, fraught with complexities, but it is through our unwavering resilience and unwavering commitment that we shall pave the path towards a sustainable future, forging a legacy that transcends time, and kindles the embers of hope for generations yet unborn. 5) In the relentless pursuit of a sustainable future, the imperative for an energy transition emerges as an unwavering mandate, demanding audacious action and resolute determination.  
+(a) 14235  
+(b) 25431  
+(c) 53124  
+(d) 43215  
+(e) 54123  
+
+
+Q.85)  
+In the question mentioned below, a paragraph is divided into different sentences. Rearrange the sentences to form a coherent paragraph. 1) Challenging this entrenched paradigm necessitates a paradigm shift in urban planning and design, recognizing the multifaceted dimensions of gender and embracing an inclusive approach that fosters safety, accessibility, and empowerment for all individuals. 2) To forge equitable societies, we must dismantle the gendered infrastructure, rebalancing the scales of spatial justice, and championing an era where every person, irrespective of gender, can flourish and thrive within the architectural fabric of our shared world. 3) The manifestation of gendered infrastructure materializes in the subtle design choices that shape our urban landscapes, reinforcing power dynamics and further marginalizing certain communities. 4) The built environment, often an embodiment of patriarchal norms, has historically perpetuated gender inequities, perpetuating spatial biases and engendering disparities. 5) Gendered infrastructure, a subject of profound socio-cultural significance, demands rigorous examination within the intricate tapestry of societal systems. 6) As the framework of cities and public spaces fails to accommodate diverse needs, it perpetuates a systemic exclusion of women, exacerbating their vulnerability and hindering their access to essential services and opportunities.  
+(a) 123654  
+(b) 543612  
+(c) 654321  
+(d) 412356  
+(e) 543126  
+
+Q.86)  
+In the question below, two sentences have been mentioned with a blank in each sentence. Use one of the phrases given in the options to fill in the blanks. 1) Despite his notable contributions to the project, John’s colleagues often felt overshadowed as his penchant for self-promotion and desire to _____ during presentations and discussions undermined the collaborative spirit and overshadowed the collective efforts of the team. 2) Amidst the intricate dance of egos and aspirations within the creative industry, certain individuals unabashedly _____, their insatiable hunger for attention overshadowing the collective brilliance of their peers, stifling collaboration, and perpetuating a culture of self-centeredness.  
+(a) Hue and Cry  
+(b) Dragging a crate  
+(c) Hog the limelight  
+(d) Burn the bridge  
+(e) Sleeping like a log  
+
+Q.87)  
+In the question below, two sentences have been mentioned with a blank in each sentence. Use one of the phrases given in the options to fill in the blanks. 1) In the realm of economic policy, policymakers strive to strike a delicate balance between allocating resources efficiently and maximizing the ________, wherein the optimal utilization of available funds yields the greatest impact and value for the desired outcomes, navigating the fine line between cost-effectiveness, equitable distribution, and long-term sustainability. 2) As consumers increasingly seek value and efficiency in their purchasing decisions, businesses must constantly innovate and refine their offerings to provide a compelling __________, leveraging competitive pricing strategies, product differentiation, and exceptional customer experiences to maximize perceived value and establish long-term customer loyalty.  
+(a) Bang for the buck  
+(b) Fish rots from the head  
+(c) To bite the dust  
+(d) Elephant in the room  
+(e) Slay your dragon  
+
+Q.88)  
+In the question below, two sentences have been mentioned with a blank in each sentence. Use one of the phrases given in the options to fill in the blanks. 1) Despite the severity of the crime committed, the lenient sentencing of a mere community service order for a repeat offender can be seen as nothing more than a _______, failing to serve as an adequate deterrent or impart a sense of justice to the victims and society at large. 2) The regulatory agency’s decision to impose a nominal fine on the corporation found guilty of gross negligence and environmental violations is seen by many as nothing more than a symbolic _______, lacking the teeth to truly hold the company accountable for its actions and ensure meaningful change in their practices.  
+(a) A Taste of Your Own Medicine  
+(b) Slap on the wrist  
+(c) Back to the Drawing Board  
+(d) All Greek to me  
+(e) Baker’s Dozen  
+
+Q.89) 
+Passage: Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self-determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting women’s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for women’s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Women’s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy.From the passage: What are some of the challenges related to population growth and urbanization in third world countries?  
+(a) Limited access to education and healthcare  
+(b) Overcrowded cities and inadequate infrastructure  
+(c) Political instability and inadequate governance  
+(d) Exploitation of natural resources by colonial powers  
+(e) Strong economic growth and technological advancements  
+
+Q.90)  
+Passage: Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self-determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting women’s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for women’s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Women’s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy.From the passage, Why is the empowerment and inclusion of women crucial for the development of third world countries?  
+(a) It perpetuates gender inequality and social disparities  
+(b) It leads to overcrowded cities and inadequate housing  
+(c) It fosters inclusive growth and unlocks human capital  
+(d) It exacerbates income inequality and poverty  
+(e) It promotes corruption and political instability  
+
+Q.91)  
+Passage:Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self-determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting women’s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for women’s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Women’s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy.From the passage, What role do partnerships with international organizations and developed countries play in the development of third world countries?  
+(a) They contribute to corruption in the government  
+(b) They promote economic dependency and hinder growth  
+(c) They provide valuable financial and technological support  
+(d) They exacerbate progress in the socio-economic sectors  
+(e) They discourage innovation and entrepreneurship  
+
+Q.92)  
+Passage:Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self-determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting women’s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for women’s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Women’s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy.From the passage, What are the key factors for the way forward in third world countries?  
+(a) Exploitation of resources and colonial power dynamics  
+(b) Promoting technological advancements, digital literacy, preservation of cultural and its promotion  
+(c) Inciting a downtrend in governance structures  
+(d) Limited access to education and healthcare  
+(e) Reduction in foreign investments and trade opportunities  
+
+Q.93)  
+Passage:Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self-determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting women’s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for women’s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Women’s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy.From the passage, What are some of the ways in which the third world countries can address environmental risks and climate change?  1) By investing in sustainable agriculture and renewable energy 2) By exploiting natural resources for economic growth 3) By depending on international aid and funding  
+
+(a) Only 1  
+(b) Only 1 and 3  
+(c) Only 2  
+(d) Only 1 and 2  
+(e) Only 1, 2, and 3  
+
+Q.94)  
+Passage: Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self-determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting women’s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for women’s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Women’s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy.From the passage, Inclusive and sustainable development is a holistic approach that seeks to address social, economic, and environmental challenges while ensuring that no one is left behind. In light of this, what is the importance of inclusive and sustainable development for third world countries? 1) It promotes corruption and political instability 2) It improves governance structures and transparency 3) It hinders economic growth and innovation 4) It exacerbates income inequality and poverty 5) It fosters equitable growth and improves quality of life  
+
+(a) Only 1, 3, and 5  
+(b) Only 2 and 5  
+(c) Only 2, 4, and 5  
+(d) Only 1 and 3  
+(e) Only 2 and 4  
+
+Q.95)  
+Passage: Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self-determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting women’s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for women’s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Women’s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy.From the passage, Which of the following is not a challenge faced by third world countries? 
+(a) Income inequality and poverty 
+(b) Lack of access to basic services 
+(c) Political instability and inadequate governance 
+(d) Climate change and environmental degradation 
+(e) Strong economic growth and technological advancements  
+
+Q.96)  
+Passage: Third world countries, a term that originated during the Cold War era, refer to the developing nations that faced economic, social, and political challenges in the aftermath of colonialism and globalization. These countries have diverse histories and trajectories, shaped by colonization, post-colonial struggles, and attempts at development. The history of third world countries is marked by the exploitation of resources, cultural suppression, and political subjugation by colonial powers. The aftermath of independence brought hopes of progress and self-determination, but many nations grappled with the daunting task of nation-building and overcoming deep-rooted socio-economic disparities. Despite the challenges, third world countries possess considerable growth prospects. Several nations have made significant strides in areas such as education, healthcare, and infrastructure. Economic reforms, investments in human capital, and advancements in technology have opened doors for innovation, entrepreneurship, and foreign investments. The emergence of regional cooperation and trade blocs has also fostered economic integration and increased market opportunities. However, third world countries continue to face a myriad of challenges. Poverty, income inequality, and lack of access to basic services remain persistent issues. Political instability, corruption, and inadequate governance hinder progress and create hurdles for sustainable development. Environmental degradation, climate change, and natural disasters pose additional threats to these nations, affecting their agricultural productivity, water resources, and overall resilience. To overcome these challenges and pave the way forward, third world countries must prioritize inclusive and sustainable development. Strengthening governance structures, promoting transparency, and combating corruption are essential for creating an enabling environment for growth. Investment in education and skills development can empower the workforce and foster innovation. Enhanced access to healthcare, clean water, and sanitation is critical for improving the quality of life. Furthermore, third world countries must leverage technological advancements to bridge the digital divide and foster digital literacy. Sustainable agricultural practices, renewable energy initiatives, and climate resilience strategies should be prioritized to mitigate environmental risks. Collaboration and partnerships with international organizations, developed countries, and the private sector can provide valuable support in terms of finance, technology transfer, and capacity-building. In summary, the history, growth prospects, challenges, and the way forward for third world countries are complex and multifaceted. Achieving sustainable development requires addressing systemic issues, embracing innovation, and fostering inclusive growth. It necessitates a global commitment to promoting equity, justice, and shared prosperity. In addition to economic and social challenges, third world countries also face issues related to population growth and urbanization. Rapid population growth puts immense pressure on limited resources and infrastructure, leading to overcrowded cities, inadequate housing, and strained public services. Urbanization presents both opportunities and challenges, as it can drive economic growth and innovation but also exacerbate income inequality and social disparities if not properly managed. Effective urban planning, investment in sustainable urban infrastructure, and social welfare programs are crucial for creating inclusive and livable cities. Another critical aspect in the development of third world countries is the empowerment and inclusion of women. Gender inequality remains a significant obstacle, limiting women’s access to education, healthcare, and economic opportunities. By ensuring equal rights, addressing cultural norms, and providing support for women’s empowerment, third world countries can unlock the full potential of their human capital and foster inclusive growth. Women’s participation in decision-making processes, entrepreneurship, and leadership roles is key to driving sustainable development and social progress. The way forward for third world countries also necessitates a focus on cultural preservation and promotion. Indigenous knowledge, traditions, and cultural heritage play a vital role in identity formation and community cohesion. Integrating cultural preservation efforts into development strategies can enhance social cohesion, promote cultural diversity, and foster a sense of pride and belonging. Embracing cultural tourism, supporting local artisans and craftsmen, and preserving historical sites contribute to sustainable development while safeguarding cultural heritage for future generations. Moreover, international cooperation and fair global trade are essential for the progress of third world countries. Addressing trade imbalances, promoting fair trade practices, and reducing barriers to market access can create opportunities for economic growth and poverty reduction. Access to affordable finance and technology transfer are crucial for developing industries and fostering innovation. Multilateral institutions and global partnerships should strive to create a level playing field, providing support and resources to ensure the equitable participation of third world countries in the global economy.From the passage, Which of the following best describes the term “third world countries”?  
+(a) Developed nations that faced economic challenges during the Cold War era  
+(b) Nations that emerged after the end of colonial rule  
+(c) Developing countries that struggled with economic, social, and political issues   
+(d) Countries that were aligned with the Soviet Union during the Cold War  
+(e) Nations that experienced rapid economic growth in the post-colonial period  
+
+Q.97)  
+In the question below, a phrase has been mentioned. The phrase has been used in following sentences. One of the sentences is using the phrase inappropriately. Identify the sentence with the incorrect usage. “Give a big hand” 1) As the curtains drew to a close on the awe-inspiring performance, the audience, captivated by the breathtaking display of talent, collectively rose to their feet, unleashing a resounding applause that reverberated through the auditorium, an exultant gesture to give a big hand to the exceptional artists who had left an indelible mark on their hearts and minds with their extraordinary skill and artistry. 2) In the ever-evolving landscape of technological advancements, the field of artificial intelligence has made tremendous strides, progressing by giving a big hand as cutting-edge algorithms, sophisticated machine learning models, and massive datasets enable unprecedented breakthroughs, revolutionizing industries and reshaping the way we live, work, and interact, propelling humanity into a future where the boundaries of possibility continue to expand at an astonishing pace. 3) Amidst the tense atmosphere of the boardroom, the formidable CEO, known for her uncompromising demeanour, unleashed a torrent of scathing criticism, meticulously dissecting each member’s performance with a meticulously articulated barrage of words, effectively giving them a big hand and leaving no room for doubt about her dissatisfaction, as she sought to instil a sense of accountability and drive for excellence within the team, albeit through a confrontational and no-holds-barred approach.
+(a) Only 2 and 3  
+(b) Only 1  
+(c) Only 1 and 3  
+(d) Only 2  
+(e) Only 3  
+
+Q.98)  
+In the question below, a phrase has been mentioned. The phrase has been used in following sentences. One of the sentences is using the phrase inappropriately. Identify the sentence with the incorrect usage. “Thrash out” 1) In the midst of competing priorities and resource constraints, the ambitious project that had once held great promise and garnered significant attention found itself thrust into the background, as shifting circumstances and pressing urgencies necessitated a difficult decision to thrash out, temporarily setting it aside in favor of more immediate and critical endeavors, with the hope that it would regain prominence and receive the attention it deserved once the current challenges had been adequately addressed and resources became available. 2) In the crucible of heated debates and intense negotiations, the stakeholders, representing diverse perspectives and conflicting interests, engaged in an arduous process of discourse and deliberation, meticulously analyzing each issue, exploring alternative solutions, and persistently seeking common ground to thrash out a comprehensive agreement that would not only reconcile their differences but also chart a path forward, effectively resolving the complex challenges that had hindered progress and cooperation for far too long 3) As the midnight hour approached and exhaustion settled in, the negotiating parties, driven by a shared determination to find common ground and overcome seemingly insurmountable differences, immersed themselves in an intense marathon of deliberation, engaging in rigorous debates, passionately advocating their positions, and meticulously dissecting each contentious issue, as they endeavored to thrash out a mutually acceptable agreement, recognizing that only through persistent dialogue, compromise, and a genuine commitment to finding middle ground could they transcend the impasse that had stymied progress and forge a path towards a collaborative and sustainable future.
+
+(a) Only 2  
+(b) Only 1  
+(c) Only 3  
+(d) Only 2 and 3  
+(e) Only 1 and 2  
+
+Q.99) 
+The oil dependency of European countries on Russia has emerged as a complex and multifaceted issue, ___(1)___ woven into the geopolitical dynamics and energy landscapes of the region. The vast reserves and strategic geographical positioning of Russia have enabled it to become a major supplier of oil to numerous European nations, creating intricate interdependencies that carry both benefits and risks. At the heart of the matter lies the ___(2)___ fact that several European countries heavily rely on Russian oil imports to meet their energy demands. This heavy dependence exposes them to potential vulnerabilities, as disruptions in the supply chain or ___(3)___ in oil prices can have significant economic and political ramifications. The concentration of oil imports from a single supplier raises concerns about energy security, diversification, and the ability to respond effectively to changing global dynamics. Furthermore, the oil dependency on Russia also creates intricate webs of political and economic ___(4)___. Fill in blank (2):  
+(a) Contestable  
+(b) Disputable  
+(c) Undeniable  
+(d) Doubtable  
+(e) Refutable  
+
+
+Q.100) 
+The oil dependency of European countries on Russia has emerged as a complex and multifaceted issue, ___(1)___ woven into the geopolitical dynamics and energy landscapes of the region. The vast reserves and strategic geographical positioning of Russia have enabled it to become a major supplier of oil to numerous European nations, creating intricate interdependencies that carry both benefits and risks. At the heart of the matter lies the ___(2)___ fact that several European countries heavily rely on Russian oil imports to meet their energy demands. This heavy dependence exposes them to potential vulnerabilities, as disruptions in the supply chain or ___(3)___ in oil prices can have significant economic and political ramifications. The concentration of oil imports from a single supplier raises concerns about energy security, diversification, and the ability to respond effectively to changing global dynamics. Furthermore, the oil dependency on Russia also creates intricate webs of political and economic ___(4)___. Fill in blank (1):  
+(a) Intricately  
+(b) Complex  
+(c) Elaborate  
+(d) Deliberately  
+(e) Complicatedly  
+
+Q.101) 
+The oil dependency of European countries on Russia has emerged as a complex and multifaceted issue, ___(1)___ woven into the geopolitical dynamics and energy landscapes of the region. The vast reserves and strategic geographical positioning of Russia have enabled it to become a major supplier of oil to numerous European nations, creating intricate interdependencies that carry both benefits and risks. At the heart of the matter lies the ___(2)___ fact that several European countries heavily rely on Russian oil imports to meet their energy demands. This heavy dependence exposes them to potential vulnerabilities, as disruptions in the supply chain or ___(3)___ in oil prices can have significant economic and political ramifications. The concentration of oil imports from a single supplier raises concerns about energy security, diversification, and the ability to respond effectively to changing global dynamics. Furthermore, the oil dependency on Russia also creates intricate webs of political and economic ___(4)___. Fill in blank (3):  
+(a) Stability  
+(b) Fluctuations  
+(c) Consistency  
+(d) Steadiness  
+(e) Sturdiness  
+
+Q.102) 
+The oil dependency of European countries on Russia has emerged as a complex and multifaceted issue, ___(1)___ woven into the geopolitical dynamics and energy landscapes of the region. The vast reserves and strategic geographical positioning of Russia have enabled it to become a major supplier of oil to numerous European nations, creating intricate interdependencies that carry both benefits and risks. At the heart of the matter lies the ___(2)___ fact that several European countries heavily rely on Russian oil imports to meet their energy demands. This heavy dependence exposes them to potential vulnerabilities, as disruptions in the supply chain or ___(3)___ in oil prices can have significant economic and political ramifications. The concentration of oil imports from a single supplier raises concerns about energy security, diversification, and the ability to respond effectively to changing global dynamics. Furthermore, the oil dependency on Russia also creates intricate webs of political and economic ___(4)___. Fill in blank (4):  
+(a) Disconnection  
+(b) Isolation  
+(c) Separation  
+(d) Interplay  
+(e) Unrelatedness  
+
+Q.103)  
+Four statements have been mentioned below. One or more statements may contain an error. It may contain a grammatical and/or a contextual error. Identify the CORRECT statement. In case, all the statements are incorrect, then, mark option E, ‘None of the above’ as the answer.
+(a) “The Chimney Sweeper” is a poignant poem written by William Blake during the Romantic era, which delves into the harsh realities of child labour and societal indifference.
+(b) One of the prominent themes in “The Chimney Sweeper” is the exploitation and suffering endured by young chimney sweepers, who were often impoverished children forced into hazardous labour.
+(c) From a social commentary perspective, Blake critiques the oppressive societal structures and the dehumanization of individuals within industrialized societies
+(d) The poem serves as a call to action, urging readers to question and challenge the unjust systems that perpetuate such suffering.
+(e) None of the above
+
+Q.104)  
+Five statements have been mentioned below. One or more statements may contain an error. It may contain a grammatical and/or a contextual error. Identify the CORRECT statement.
+
+(a) Coleridge did employed rich and sensory imagery throughout the poem, creating a vivid and immersive experience for the reader. The descriptive language, with its cascading waterfalls, exotic gardens, and sacred rivers, evokes a sense of awe and wonder.
+(b) The fragmented structure of “Kubla Khan” is notable. Coleridge famously will claimed that the poem was a result of an opium-induced dream, and that he was unable to complete it due to an interruption.
+(c) Coleridge will being portrayed the Khan’s pleasure-dome as a symbol of an idealized, utopian world, where nature and human creativity coexist harmoniously. The poem explores the boundaries between reality and the imaginative realm, blurring the lines between the conscious and unconscious mind.
+(d) “Kubla Khan” is a complex and evocative poem that delves into the themes of imagination, nature, creativity, and the boundaries of human experience. Through its mesmerizing imagery, dreamlike structure, and exploration of the power of the mind, Coleridge invites readers to embark on a journey through the realms of imagination, challenging conventional boundaries and opening up new vistas of thought and inspiration.
+(e) “Kubla Khan” is an transformative power of imagination and its ability to transport the reader to fantastical realms.
+
+
+Q.105)  
+Which of the following sentences from the options given below is not coherent with the central idea of the other sentences?
+(a) The rewriting of history is a phenomenon that occurs when the narratives, interpretations, and accounts of past events are revised or altered to align with particular ideologies, political agendas, or societal perspectives.
+(b) This process involves reevaluating and reinterpreting historical events, figures, and narratives through new lenses, often aiming to highlight previously marginalized voices or challenge dominant narratives.
+(c) The act of rewriting history can be a contentious and complex endeavor. It raises questions about the subjective nature of historical interpretation and the power dynamics that influence the shaping of historical narratives.
+(d) Those who engage in rewriting history often seek to challenge existing power structures, rectify historical injustices, or provide a more inclusive representation of diverse experiences. However, it also raises concerns about the potential manipulation of historical facts and the erosion of objective truth.
+(e) The Mughal Period witnessed its highest peak during the reign of Akbar – The Great. As far as the most intolerant king is concerned in the history of Mughal Empire, Aurangzeb tops the charts.
+
+Q.106)
+Which of the following sentences from the options given below is not coherent with the central idea of the other sentences? 
+(a) Culture repatriation, also known as cultural restitution or cultural heritage repatriation, refers to the return of artifacts, artworks, and cultural objects to their countries of origin. It is a complex and often contentious process that involves the reclaiming of cultural treasures that were acquired or removed during colonialism, imperialism, or illicit trade.
+(b) The movement of highly-skilled people is called the brain drain. It refers to the migration of highly skilled and talented individuals from their home countries to seek better opportunities abroad. This phenomenon has significant implications for both the source and destination countries.
+(c) Culture repatriation is driven by the recognition of the cultural and symbolic significance of these objects to their original communities and nations. Many countries and indigenous communities have advocated for the repatriation of cultural artifacts as a means to restore their cultural identity, reconnect with their heritage, and rectify historical injustices.
+(d) The repatriation process typically involves legal, ethical, and diplomatic considerations. It requires extensive research, documentation, and negotiations between the parties involved, including the governments, museums, collectors, and indigenous communities.
+(e) Advocates argue that culture repatriation promotes cultural diversity, fosters healing and reconciliation, and supports the self-determination of communities in determining their cultural heritage.
+
+Q.107)
+In the question given below, a sentence has been divided into different segments. Some of these segments contain grammatical errors. Identify the part which contains the errors. Ignore the errors of punctuation, if any. The persisting issue of the gender pay gap, characterizing by the disparity in earnings between men and women in the workforce, (1) / is a complex and multifaceted phenomenon that encompasses a multitude of interconnected factors, including societal norms (2) /, occupational segregation, discrimination, limited access to career advancement opportunities, and the undervaluation (3)/ of traditionally female-dominated industries, all of which contribute to the perpetuation of an unjust (4)/ and inequitable system that undermine gender equality and hinders the realization of true economic and social progress (5).
+(a) 1 and 5
+(b) 2 and 3
+(c) 3 and 4
+(d) 2 and 5
+(e) 1 and 3
+
+Q.108)
+In the question given below, a sentence has been divided into different segments. Some of these segments contain grammatical errors. Identify the part which contains the errors. Ignore the errors of punctuation, if any. Rural development, a multifaceted and intricate process, entails the comprehensive and sustainable improvement of social, economic, and environmental conditions in rural areas, encompassing strategies and interventions (1) / that addressing the unique challenges and opportunities specific to rural contexts, such as agricultural productivity, access to basic services, infrastructure development, employment generation, poverty alleviation, (2) /land and natural resource management, social inclusion, and the empowerment of marginalized communities, all of which necessitating integrated and participatory approaches that engage local stakeholders, leverage local knowledge and resources, foster collaboration between government, (3) / civil society, and the private sector, and prioritize the principles of sustainability, equity, and resilience, with the ultimate goal of enhancing the quality of life, promoting balanced regional development, (4)/ and realizing the full potential of rural areas as vibrant and self- sustaining centers of economic growth, social well-being, and cultural heritage preservation (5).
+(a) 1 and 2
+(b) 2 and 4
+(c) 2 and 3
+(d) 4 and 5
+(e) 1 and 5
+
+Q.109)
+Artificial intelligence (AI), a rapidly evolving and complex field at the intersection of computer science, mathematics, and cognitive science, encompasses a diverse range of technologies, algorithms, and methodologies that aim to mimic or simulate human intelligence, (1) / enabling machines to perform tasks traditionally requiring human cognitive capabilities, such as learning, problem-solving, pattern recognition, and decision- making, through the utilizing of advanced machine learning models, neural networks, natural language processing, and data analytics (2) /, with profound implications across numerous domains and sectors, including healthcare, finance, transportation, manufacturing, and entertainment, as it holds the potential to revolutionize (3) / industries, enhance efficiency, accelerate innovation, and being address complex societal challenges, while also posing ethical, privacy, and policy considerations regarding data governance, algorithmic bias, human-machine interactions (4)/, and the future of work, necessitating robust regulations, responsible development, interdisciplinary collaboration, and ongoing dialogue to ensure that AI is deployed for the greater good, amplifying human capabilities, promoting inclusivity, and upholding human values and ethical standards (5).
+(a) 2 and 4
+(b) 1 and 2
+(c) 1 and 3
+(d) 2 and 5
+(e) 4 and 5
+
+Q.110)
+In the question given below, a sentence has been divided into different segments. Some of these segments contain grammatical errors. Identify the part which contains the errors. Ignore the errors of punctuation, if any. Climate change, drived by the accumulation of greenhouse gases in the atmosphere due to human activities, is an intricate and multifaceted global issue that has led to a wide array of consequences, (1)/ including rising global temperatures, altered weather patterns, increased frequency and intensity of extreme events, disruptions (2) / to ecosystems and biodiversity, shifting agricultural landscapes, water scarcity, and threats to human health and livelihoods, necessitating a comprehensive and coordinated response (3) / has encompassing mitigation efforts to reduce emissions, adaptation strategies to address the impacts, international cooperation, sustainable development practices, and the engagement (4) / of diverse stakeholders across sectors and regions to ensure a sustainable and resilient future for generations to come (5).
+(a) 2 and 3
+(b) 1 and 4
+(c) 1 and 2
+(d) 3 and 4
+(e) 2 and 4
+
+Q.111)  
+Average number of laptops sold by E, B, C and D is_____ times of average of number of laptops sold by A, D, E and C together.  
+(a) 5/6  
+(b) 4/5  
+(c) 7/8  
+(d) 8/9  
+(e) can’t be determined  
+ 
+
+Q.112)  
+If total laptops sold by K is 150% of that of E and out of the total laptops sold by K, 33.33% are gaming laptops and rest are non-gaming laptops. Find the number of non-gaming laptops sold by K.  
+(a) 39  
+(b) 26  
+(c) 21  
+(d) 13  
+(e) 30  
+
+
+Q.113)  
+Find the central angle(in degrees) for store A.  
+(a) 120  
+(b) 144  
+(c) 72  
+(d) 108  
+(e) 54  
+
+
+Q.114)  
+Assume the total number of laptops sold by these 5 stores in May 2022 is 400. The percentage share of B and E is interchanged while for the rest it is the same as given. Find the difference between the number of laptops sold by store B and C in May 2022.  
+(a) 32  
+(b) 28  
+(c) 8  
+(d) 36  
+(e) 40  
+
+
+Q.115)  
+In the next month, the number of laptops sold by store C increased by 25% and the number of laptops sold by store D reduced by one-fifth. What is the average of total number of laptops sold by all the five stores together in the next month?  
+(a) 39  
+(b) 41  
+(c) 42  
+(d) 40  
+(e) 44  
+
+
+Q.116)  
+Consider the below series: 12, 21, 46, 95, 176, X, Y What is the sum of X and Y?  
+(a) 737  
+(b) 805  
+(c) 798  
+(d) 712  
+(e) 763  
+
+ 
+
+Q.117)  
+Below are given two series which follow certain pattern. There are two missing values X and Y. Series I: 158, 78, 38, 18, 8, X Series II: 9, Y, 46, 84, 135, 199 Which of the following statements is/are true? 1) X= 7Y 2) 3< X< Y< 21 3) 4(Y+ 3.5)= 11(X)² – 1  
+(a) Both 1 and 2  
+(b) Both 1 and 3  
+(c) Only 3  
+(d) All 1, 2 and 3  
+(e) None  
+ 
+
+Q.118)  
+Consider the below two quadratic equations: I. 4x² – 16x+ C= 0 II. 2y² – 3y+ 1= 0 One of the roots of equation I is 1.5. Find the sum of the largest roots of equation I and II.  
+(a) 3.5  
+(b) 4.5  
+(c) 3  
+(d) 4  
+(e) 5.5  
+
+ 
+
+Q.119)  
+Consider the below two quadratic equations: I. 4x² – 16x+ C= 0 II. 2y² – 3y+ 1= 0 One of the roots of equation I is 1.5. Find the sum of the digits of C.  
+(a) 5  
+(b) 4  
+(c) 8  
+(d) 6  
+(e) 7  
+
+
+Q.120) 
+Certain students comprising of boys and girls are studying in an institute which has three sections A, B and C. The ratio of boys and girls is 3: 5. 50% students are in section A. The number of girls in section B is equal to the number of boys in section C. The number of boys in section A is equal to the number of students in section B. 30% of the girls are in section C. Let P= number of girls in section B and let Q= number of boys in section A. Which of the following statements are correct? I) P is approximately 67% of Q II) 33 1/3% of total number of girls= 20% of total boys= P III) 3P= 2Q  
+(a) Only II and III  
+(b) Only I  
+(c) All I, II and III  
+(d) Only III  
+(e) Only I and III  
+
+ 
+
+Q.121) 
+Certain students comprising of boys and girls are studying in an institute which has three sections A, B and C. The ratio of boys and girls is 3: 5. 50% students are in section A. The number of girls in section B is equal to the number of boys in section C. The number of boys in section A is equal to the number of students in section B. 30% of the girls are in section C. Let P= number of girls in section B and let Q= number of boys in section A. What percent boys are in section B?  
+(a) 33.33%  
+(b) 16.67%  
+(c) 25%  
+(d) 15%  
+(e) 20%  
+
+ 
+
+Q.122)  
+Ansh borrowed 80 books from library A and 120 from library B. Some books are of English language while some are of regional languages. X% of total books were in English language. Number of books in regional language are equal to 1.25 times the books in library B. What is the value of X?  
+(a) 50  
+(b) 33.33  
+(c) 25  
+(d) 20  
+(e) 40  
+
+ 
+
+Q.123)  
+Consider the below given two equations. You are given two quantities below the equations namely QI and QII. You are required to calculate both the quantities and then compare them. Y: ax² – bx+ 1= 0; where 4< a< b< 8 and ‘a’ and ‘b’ are distinct whole numbers Z: d/e+ c/f – 1= 3; where 1< e, c, f< d< 7 and ‘d’, ‘e’, ‘c’ and ‘f’ are all distinct whole numbers Quantity I: Value of smallest root of Y Quantity II: Value of reciprocal of smallest number among d, c, e and f  
+(a) QI> QII  
+(b) QI< QII  
+(c) QI ≤ QII  
+(d) QI ≥ QII  
+(e) QI= QII or no relation can be established  
+
+ 
+
+Q.124)  
+Below are given two expressions and then two quantities (QI and QII) below it. Compare the two quantities and mark your answer accordingly. Expression 1: 1/a+ 1/b+ 1 Expression 2: a³ – b² – 4 3< a< b< 10 And a and b are integers Quantity I: Maximum value of expression 1+ Minimum value of expression 2 Quantity II: (- 9)  
+(a) QI> QII  
+(b) QI< QII  
+(c) QI ≤ QII  
+(d) QI ≥ QII  
+(e) QI= QII or no relation can be established  
+
+ 
+
+Q.125)  
+Anshu invested Rs. P in scheme X for 3 years at Compound Interest@ 20% per annum and Ronit invested 36 2/5% of P for T years in scheme Y at Simple Interest@ 10% per annum. Interest earned is equal in both the schemes. Which of the following statement(s) is/are correct? I. P is greater than 3000. II. T is greater than 19. III. P is certainly a multiple of 250. IV. T is less than 25.  
+(a) I, II and IV only  
+(b) II, III and IV only  
+(c) II only  
+(d) II and IV only  
+(e) All I, II, III and IV  
+
+ 
+
+Q.126)  
+Consider the below statements and then answer the question accordingly: I. X is a two digit number in which the tenth digit is ‘B’ and the unit digit is ‘A’; where A is greater than 1 and A< B. II. Unit digits of A², A³, A⁴ are same, where A is unit digit of given number. III. Multiplication of both ‘A’ and ‘B’ is a multiple of 7. If Y is the number obtained on interchanging the digits of X, then, Y is closest to,  
+(a) 69  
+(b) 58  
+(c) 76  
+(d) 64  
+(e) 74  
+
+ 
+
+Q.127)  
+P litres of mixture contains milk and water, in which water is 25%. Which of the following statements is/are true? 1) If P/4 litres of water is added to the mixture, then water becomes 40% of the total mixture. 2) If 9P/44 litres of milk is removed from the mixture and replaced with same quantity of water, then the ratio of milk and water becomes 6:5. 3) 20% of the mixture is removed and replaced with water. This process is repeated one more time. The ratio of milk and water now is 24:25.  
+(a) Only 1  
+(b) Only 1 and 2  
+(c) Only 2 and 3  
+(d) Only 1 and 3  
+(e) None of these  
+
+ 
+
+Q.128)  
+A circle of radius “r” metre is inscribed in a rectangle of length Y metre such that the circle touches both the sides of the rectangle. The cost of fencing the circle and rectangle is Rs 4620 and Rs 8820 respectively. The cost of fencing per metre is the same for both circle and rectangle. Find the perimeter of a square inscribed inside the circle.  
+(a) 2√2Y metres  
+(b) √2Y/3 metres  
+(c) 3Y/√2 metres  
+(d) √2Y metres  
+(e) 2Y metres  
+
+
+Q.129)  
+In which of the following statements, profit percentage are equal? I. An article with cost price of Rs 2200 and marked price of Rs 3162.50 which is offered at a discount of 20%. II. An article is sold for Rs 8400 whose marked price is Rs 10800 which is 150% of the cost price of the article. III. An article is sold at a discount of Rs 1650 which is equal to 20%. The profit earned is Rs 1100. IV. An article whose cost price is Rs 4200 is sold at a discount of 25% on the list price. The discount offered in Rs 1610.  
+(a) II and III only  
+(b) I and II only  
+(c) II and IV only  
+(d) III and IV only  
+(e) I and IV only  
+
+
+Q.130)  
+Consider the below data about 5 watches as follows: | Watches | Loss | Discount% | Marked Price | | | A |  - | 23 | 1800 | | | B | 140 | 15 |  - | | | C | 228 | 22 |  - | | | D | 142 | 11 | 2200 | | | E |  - |  - | 1200 | | Average loss of B, C, D and E is 183.25 If the cost price of watch A is 80% of the cost price of watch D, then what is the loss incurred on selling watch A? (a) Rs 294  
+(b) Rs 223  
+(c) Rs 284  
+(d) Rs 420  
+(e) Rs (incomplete option)  
+
+ 
+
+Q.131)  
+Consider the below data about 5 watches as follows: | Watches | Loss | Discount% | Marked Price | | | A |  - | 23 | 1800 | | | B | 140 | 15 |  - | | | C | 228 | 22 |  - | | | D | 142 | 11 | 2200 | | | E |  - |  - | 1200 | | Average loss of B, C, D and E is 183.25 Considering the additional information given in the previous question, what is the average loss incurred on all the five watches? (a) Rs 204.4  
+(b) Rs 207.4  
+(c) Rs 203.4  
+(d) Rs 205.4  
+(e) Rs 206.4  
+
+ 
+
+Q.132)  
+Consider the below data about 5 watches as follows: | Watches | Loss | Discount% | Marked Price | | | A |  - | 23 | 1800 | | | B | 140 | 15 |  - | | | C | 228 | 22 |  - | | | D | 142 | 11 | 2200 | | | E |  - |  - | 1200 | | Average loss of B, C, D and E is 183.25 If the loss percentage incurred on watch B is 16%, then the marked price of watch B is approximately how much percent of the marked price of watch E? (a) 75%  
+(b) 64%  
+(c) 72%  
+(d) 61%  
+(e) 84%  
+
+ 
+
+Q.133)  
+Consider the below data about 5 watches as follows: | Watches | Loss | Discount% | Marked Price | | | A |  - | 23 | 1800 | | | B | 140 | 15 |  - | | | C | 228 | 22 |  - | | | D | 142 | 11 | 2200 | | | E |  - |  - | 1200 | | Average loss of B, C, D and E is 183.25 If the average of the marked price of watches B, C and D is Rs 2400 and the ratio of the marked price of watches B and C is 16: 9, then find the sum of the cost price of watches B and C? (a) Rs 4352  
+(b) Rs 4264  
+(c) Rs 5000  
+(d) Rs 4124  
+(e) Rs 4492  
+
+ 
+
+Q.134)  
+Consider the below data about 5 watches as follows: | Watches | Loss | Discount% | Marked Price | | | A |  - | 23 | 1800 | | | B | 140 | 15 |  - | | | C | 228 | 22 |  - | | | D | 142 | 11 | 2200 | | | E |  - |  - | 1200 | | Average loss of B, C, D and E is 183.25 If the ratio of cost price and marked price for watch B is 6: 7, then find the selling price of watch B. (a) Rs 16380  
+(b) Rs 16660  
+(c) Rs 19600  
+(d) Rs 16800  
+(e) Rs 17240  
+
+
+Q.135)  
+Read the given information and answer the below questions. A game is being played consisting of three rounds. Only 4 balls are being played in each round. In round I, on each ball either 2 or 4 points are being scored In round II, on each ball either 3 or 6 points are being scored In round III, on each ball either 1 or 5 points are being scored *   Difference between points scored on 1st ball in round I and II is 4. *   Average points scored on 1st, 2nd and 3rd ball in round I is 3 1/3. *   Points scored on 2nd ball in round II is less than points scored on 2nd ball in rounds I and III individually *   Points scored on 3rd ball in rounds II and III together is 11 *   Points scored on 1st and 4th ball in round III is less than that scored on 2nd and 3rd ball *   Runs scored on 4th ball in rounds I, II and III together is 8 *   Runs scored on all balls on round 3 together is not more than 12. What is the difference between the runs scored on Ball 1 in round II and runs scored on ball 4 in round III? (a) 6  
+(b) 5  
+(c) 4  
+(d) 3  
+(e) 2  
+
+ 
+
+Q.136)  
+Read the given information and answer the below questions. A game is being played consisting of three rounds. Only 4 balls are being played in each round. In round I, on each ball either 2 or 4 points are being scored In round II, on each ball either 3 or 6 points are being scored In round III, on each ball either 1 or 5 points are being scored *   Difference between points scored on 1st ball in round I and II is 4. *   Average points scored on 1st, 2nd and 3rd ball in round I is 3 1/3. *   Points scored on 2nd ball in round II is less than points scored on 2nd ball in rounds I and III individually *   Points scored on 3rd ball in rounds II and III together is 11 *   Points scored on 1st and 4th ball in round III is less than that scored on 2nd and 3rd ball *   Runs scored on 4th ball in rounds I, II and III together is 8 *   Runs scored on all balls on round 3 together is not more than 12. What is the average of runs scored on all balls in round II? (a) 3  
+(b) 3.75  
+(c) 3.5  
+(d) 4.5  
+(e) 5  
+
+ 
+
+Q.137)  
+Read the given information and answer the below questions. A game is being played consisting of three rounds. Only 4 balls are being played in each round. In round I, on each ball either 2 or 4 points are being scored In round II, on each ball either 3 or 6 points are being scored In round III, on each ball either 1 or 5 points are being scored *   Difference between points scored on 1st ball in round I and II is 4. *   Average points scored on 1st, 2nd and 3rd ball in round I is 3 1/3. *   Points scored on 2nd ball in round II is less than points scored on 2nd ball in rounds I and III individually *   Points scored on 3rd ball in rounds II and III together is 11 *   Points scored on 1st and 4th ball in round III is less than that scored on 2nd and 3rd ball *   Runs scored on 4th ball in rounds I, II and III together is 8 *   Runs scored on all balls on round 3 together is not more than 12. On which ball were the highest runs scored taking all the rounds together? (a) Ball 1  
+(b) Ball 2  
+(c) Ball 3  
+(d) Ball 4  
+(e) There are two balls on which same highest number of runs were scored  
+
+ 
+
+Q.138)  
+Read the given information and answer the below questions. A game is being played consisting of three rounds. Only 4 balls are being played in each round. In round I, on each ball either 2 or 4 points are being scored In round II, on each ball either 3 or 6 points are being scored In round III, on each ball either 1 or 5 points are being scored *   Difference between points scored on 1st ball in round I and II is 4. *   Average points scored on 1st, 2nd and 3rd ball in round I is 3 1/3. *   Points scored on 2nd ball in round II is less than points scored on 2nd ball in rounds I and III individually *   Points scored on 3rd ball in rounds II and III together is 11 *   Points scored on 1st and 4th ball in round III is less than that scored on 2nd and 3rd ball *   Runs scored on 4th ball in rounds I, II and III together is 8 *   Runs scored on all balls on round 3 together is not more than 12. Which of the following statements is correct?  
+(a) The maximum runs were scored on ball 3 of round III.  
+(b) The runs scored on ball 4 in round II is more than the runs scored on the same ball in round I.  
+(c) The total runs scored in round III is 8.  
+(d) Average runs scored on ball 3 is 5.  
+(e) The sum of runs scored on ball 3 of round II and ball 2 of round III is 10.  
+
+ 
+
+Q.139)  
+Find the ratio of age of Rahul after 6 years and age of Tina before 2 years. Statement 1: The sum of present ages of Rahul and Tina is 88 years. Statement 2: Tina is 26 years and 16 years younger than Rahul and Anjali respectively. Statement 3: Ratio of present ages of Rahul and Anjali is 7:6. The answer can be calculated by using I. 1 and 2 together II. 2 and 3 together III. 1 and 3 together  
+(a) Only I  
+(b) Both I and II  
+(c) Both I and III  
+(d) Both II and III  
+(e) None of these  
+
+ 
+
+Q.140)  
+A car with speed of x km/hr can cover a distance of 2d km in 8 hrs. Speed of a boat in still water is x km/hr and speed of the current is y km/hr. The boat can travel d km upstream and return to the initial point in 8(1/3) hrs. Time taken by the boat to cover 72 km downstream is 2 hrs more than to cover 24 km upstream. Find the time taken by the boat to cover 108km in still water. i. (2y(x+y))/x ii. {3y(x-y)}/ x iii. {2x(x+y)}/ y  
+(a) Only i and iii  
+(b) Only ii  
+(c) Only i and ii  
+(d) All i, ii and iii  
+(e) None of the above  
+
+Q.141)  
+In the word ‘GLASTONBURY’, change every vowel after k to the third consonant after it...and every consonant to previous letter and then after changing, delete the letters that appear more than once and vowels if left. Which of the following letter will come in the middle of the newly formed word?  
+(a) X  
+(b) R  
+(c) K  
+(d) S  
+(e) M  
+
+ 
+
+Q.142)  
+Consider the following words which have one blank each. You are required to fill the blanks from one of the given options below. I. CUPBOARD : NRMZ : : CUPCAKE : ___ II. LUXURY : OXAV : : BOTTLE : ___ III. MIRROR : ___ : : SPOON : QONPM  
+(a) T and B  
+(b) Q and D  
+(c) C and S  
+(d) P and E  
+(e) All of the above belong to the same city  
+
+
+Q.143)  
+An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. Which of the following is the third element from the right end in step 3 for the above input?  
+(a) 26  
+(b) yatci  
+(c) 19  
+(d) feel  
+(e) 84  
+
+ 
+
+Q.144) 
+An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. The elements ‘bride 77 feel’ come together in the same order in which of the below steps?  
+(a) Step 2  
+(b) Step 4  
+(c) Step 5  
+(d) Step 6  
+(e) Step 3  
+
+ 
+
+Q.145)  
+An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. Which of the following elements is fourth to the left of element which is seventh from the left end of Step 5?  
+(a) mastes  
+(b) traio  
+(c) 62  
+(d) 40  
+(e) nocturnam  
+
+ 
+
+Q.146)  
+An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. Which of the following elements are placed in the middle in step number 6?  
+(a) bride 84  
+(b) 77 feel  
+(c) traio 26  
+(d) yatci 19  
+(e) bridf 85  
+
+ 
+
+Q.147)  
+An input-output arrangement machine, when given an input line of words/numbers, arranges them following a particular rule in each step. The following is an illustration of input and its rearrangement. Input: erase 47 92 wound limbo 36 prove 85 28 hasty 63 cards Step 1: woune erase 47 92 limbo 36 prove 85 hasty 63 cards 29 Step 2: provf woune erase 47 92 limbo 85 hasty 63 cards 29 37 Step 3: limbp provf woune erase 92 85 hasty 63 cards 29 37 48 Step 4: hastz limbp provf woune erase 92 85 cards 29 37 48 64 Step 5: erasf hastz limbp provf woune 92 cards 29 37 48 64 86 Step 6: cardt erasf hastz limbp provf woune 29 37 48 64 86 93 Step 6 is the last step. Find the final output and various steps for the below given input: Input: bride 39 master 77 61 nocturnal yatch 25 feel 84 18 train. What is the sum of the fourth element from the right end in step 3 and eighth element from the left end in step 5?  
+(a) 103  
+(b) 96  
+(c) 168  
+(d) 38  
+(e) 161  
+
+ 
+Q.148)  
+Conclusion: I. Some Briefcase are not Umbrella. II. Some Umbrella not being Charger is a possibility. III. Some Truck can never be Charger.  
+(a) Some Umbrella are Truck. All Truck are Briefcase. No Briefcase is Umbrella. Some Umbrella are Charger. All Glass are Charger.  
+(b) All Briefcase is Umbrella. Some Umbrella are Charger. Some Charger are Truck. All Truck are Glass. No Glass is Water.  
+(c) Some Truck are Water. All Water are Umbrella. No Umbrella is Charger. Some Charger are Briefcase. All Briefcase are Glass.  
+(d) Only Water are Truck. Some Glass are Briefcase. No Umbrella is Glass. Some Water are Umbrella. All Briefcase are Charger.  
+(e) Some Briefcase are Umbrella. All Umbrella are Charger. No Charger is Truck. All Truck are Glass. Some Glass are not Water.  
+
+ 
+
+Q.149)  
+Conclusion: I. Some football can never be Chess. II. Some Volleyball not being Boxing is a possibility. III. Some Boxing can be Cricket.  
+
+(a) All Cricket are Football. No Football is Volleyball. Some Boxing are Chess. No Chess is Cricket.  
+(b) Some Cricket are Football. All Football are Volleyball. Some Chess are Boxing. No Boxing is Volleyball. No Chess is Cricket.  
+(c) Only Football are Cricket. Some Football are Chess. No chess is Volleyball. All Volleyball are Boxing.  
+(d) Some Cricket are Football. All Football are Chess. Some Chess are Boxing. Some Boxing are Volleyball.  
+(e) No Cricket is Football. Some Football are Volleyball. All Boxing are Chess. No Chess is Cricket.  
+
+ 
+
+Q.150)  
+Conclusion: I. Some N are R. II. All O which are N is also S is a possibility. III. Some Z are R.  
+
+(a) Some M are R. Only a few R are O. No O is N. Some N is S. All S are Z.  
+(b) Some M are O. Only a few O are R. No R is S. Some S is N. All N are Z.  
+(c) Some M are O. Only a few O are R. No N are R. Some N are S. All S are Z.  
+(d) Some O are R. Some M are O. Some R are N. Some N are S. All N are Z.  
+(e) All Follows.  
+
+ 
+
+Q.151)  
+Conclusion: I. Some Red are not Carrot. II. Some Chili being not Garlic is not a possibility. III. Some Green are not Tomato.  
+
+(a) Some Garlic are not Chili. All Garlic are Red. No Red is Carrot. Some Carrot are Green. All Green are Tomato.  
+(b) All Red are Tomato. Some Tomato are Green. No Green is Chili. All Chili are Carrot. Some Garlic are Carrot.  
+(c) All Red are Chili. All Tomato are Garlic. Some Garlic are Carrot. No Chili is Carrot. Some Green are Chili. No Green is Garlic.  
+(d) All Carrot are Chili. Some Chili are Tomato. No tomato is Green. Some Green are Garlic. No Garlic is Red.  
+(e) None of these  
+
+
+Q.152)  
+Consider the below symbols and their meaning: ‘A^ B’ means ‘A is either greater than or equal to B’ ‘A% B’ means ‘A is neither greater than nor smaller than B’ ‘A? B’ means ‘A is neither smaller than nor equal to B’ ‘A! B’ means ‘A is neither greater than nor equal to B’ ‘A+ B’ means ‘A is either smaller than or equal to B’. Which of the following symbols should be placed in the blank spaces in order to complete the given expression in such a manner that makes the expressions ‘J^ F’ and ‘K? G’ true?  K? J% H___ G^ F! E  
+(a) ^  
+(b) +  
+(c) %  
+(d) ?  
+(e) Either (a) or (c)  
+
+
+Q.153)  
+Six boxes namely – P, Q, R, S, T and U are kept one above other. Each box contains different article viz. Watch, Card, Radio, Book, Mobile and Laptop. All the information given are not necessary in same order. Box R is kept second from bottom at a gap of two boxes from one contains Card. Which box contains Mobile? I. Box U is kept just below the box which contains Radio. Box T contains Mobile and kept just below the box S. II. Box S is kept at a gap of three boxes from the box which contains Card. Box P is kept just above the box which contains Book.  
+(a) If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.  
+(b) If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.  
+(c) If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.  
+(d) If the data in both the Statements I and II together are not sufficient to answer the question.  
+(e) If the data in both the Statements I and II together are necessary to answer the question.  
+
+ 
+
+Q.154)  
+Seven friends namely – Amar, Rekha, Pinku, Hetal, Romy, Zoya and Monty are sitting in a row facing north but not necessarily in the same order. How many persons sit left of Monty? I) Amar sits second to the left of Pinku. Only two persons sit between Romy and Pinku. Rekha sits immediate left of Amar. Hetal is not an immediate neighbour of Pinku. II) Zoya sits third to the left of Hetal, who sits immediate left of Romy. Neither Zoya nor Hetal sits at end of the row.  
+(a) If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.  
+(b) If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.  
+(c) If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.  
+(d) If the data in both the Statements I and II together are not sufficient to answer the question.  
+(e) If the data in both the Statements I and II together are necessary to answer the question.  
+
+ 
+
+Q.155)  
+Six persons namely – P, Q, R, S, T and U lives in six floored building marked 1 to 6 in such a way that lowermost floor is marked 1 and topmost floor is marked 6. Each person likes different fruits viz. Orange, Guava, Banana, Mango, Apple and Grapes. All the information are not necessary in same order. Who among the following person likes Apple? I) U lives on topmost floor. Person who likes Grapes lives on adjacent floor of one who likes Guava. Person who likes Banana lives on adjacent floor of one who likes Mango. II) One who likes Orange lives on even numbered floor but not adjacent floor of one who likes Banana. T lives on adjacent floor of one who likes Orange. S and one who likes Mango lives on adjacent floor. Only two person lives between one who likes Apple and T.  
+(a) If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.  
+(b) If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.  
+(c) If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.  
+(d) If the data in both the Statements I and II together are not sufficient to answer the question.  
+(e) If the data in both the Statements I and II together are necessary to answer the question.  
+
+ 
+
+Q.156)  
+What is the direction of point O with respect to point I? I) Point A is 5 m to the north of point P. Point D is 4 m to the south of point C. Point P is 6 m to the east of point C. II) Point B is 3 m to the east of point P. Point I is 6 m to the east of point F. Point B is 4 m to the north of point F. III) Point N is 2 m to the north of point M. Point A is 4 m to the west of point M. Point N is 6 m to the east of point O.  
+(a) All I, II and III  
+(b) Both II and III  
+(c) Only II  
+(d) II and either I or III  
+(e) Both I and II  
+
+ 
+
+Q.157)  
+Six persons P, Q, R, S, T, U are sitting around a circular table. Some of them are facing the center while some are facing away from the center. How many persons are facing inside? I) S sits second to the right of Q. R sits second to the left of T, who is not an immediate neighbour of S. P sits second to the left of U. II) T sits immediate left of S. P sits second to the right of U. R is not an immediate neighbour of Q.  
+(a) If the data in Statement I alone is sufficient to answer the question, while the data in Statement II alone is not sufficient to answer the question.  
+(b) If the data in Statement II alone is sufficient to answer the question, while the data in Statement I alone is not sufficient to answer the question.  
+(c) If the data either in Statement I alone or in Statement II alone is sufficient to answer the question.  
+(d) If the data in both the Statements I and II together are not sufficient to answer the question.  
+(e) If the data in both the Statements I and II together are necessary to answer the question.  
+
+ 
+
+Q.158)  
+Below is given a passage followed by certain assumptions. You have to check which of the given assumptions is implicit in the passage. Passage: A diversified brick and mortar company recently hired a well-known business school graduate as its new CEO. The company is hoping that the new CEO's fresh perspective and business acumen will help turn around the company's declining sales and profits. Assumptions: I. The company's previous CEOs were not capable of turning around the company's declining sales and profits. II. The new CEO has the necessary skills and experience to turn around the company's declining sales and profits. III. The company's declining sales and profits are due to factors that can be addressed by the new CEO.
+(a) Only I  
+(b) Only II  
+(c) Only III  
+(d) Both I and II  
+(e) Both II and III  
+
+ 
+
+Q.159)  
+Statement: Studies have shown that lead in drinking water is a significant cause of lung cancer. However, industrial pollution is not the only source of lead in drinking water. Which of the following can be validly inferred from the above statement? Inferences: I) Lead in drinking water is absolutely safe. II) Lung cancer must have causes other than lead in drinking water. III) Lead in drinking water must have sources other than industrial pollution.
+(a) II only  
+(b) III only  
+(c) II or III  
+(d) II or III or both  
+(e) none of the above  
+
+ 
+
+Q.160)  
+Statement: Green marketing is concerned with choosing, modifying, and promoting products and services that are environmentally benign. Which of the following can be validly inferred from the above statement? Inferences: I) All products and services that are environmentally benign are promoted through green marketing. II) Green marketing is only concerned with promoting products and services. III) Products and services that are not environmentally benign are not promoted through green marketing.
+(a) I only  
+(b) II only  
+(c) III only  
+(d) I and III only  
+(e) None of the above  
+
+ 
+Q.161)  
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 25 36 18 49 12 55 22 33 Step I: 12 25 36 18 49 55 22 33 Step II: 12 18 25 36 49 55 22 33 Step III: 12 18 22 25 36 49 55 33 Step IV: 12 18 22 25 33 36 49 55 And Step IV is the last step of the above input. As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input. Input: 42 15 68 29 74 37 51 23. Which number would be at the 5th position from the right end in Step III?  
+(a) 29  
+(b) 37  
+(c) 42  
+(d) 51  
+(e) 68  
+
+ 
+
+Q.162)  
+A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 25 36 18 49 12 55 22 33 Step I: 12 25 36 18 49 55 22 33 Step II: 12 18 25 36 49 55 22 33 Step III: 12 18 22 25 36 49 55 33 Step IV: 12 18 22 25 33 36 49 55 And Step IV is the last step of the above input. As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input. Input: 42 15 68 29 74 37 51 23. Which step number would be the following output?  15 23 29 37 42 51 68 74  
+(a) Step III  
+(b) Step IV  
+(c) Step V  
+(d) Step VI  
+(e) There will be no such step  
+
+ 
+
+Q.163)  
+Statement: For-profit colleges serve far fewer students than either public or private non-profit colleges. At the same time, relative to non-profit colleges, for-profit colleges draw a disproportionate share of federal and state financial aid, such as tuition grants and guaranteed loans, for their students. It must be, then, that for-profit colleges enrol a greater proportion of financially disadvantaged students than do non-profit colleges. Which of the following, if true, most seriously weakens the conclusion drawn above?
+(a) Some students at for-profit colleges are not financially disadvantaged.  
+(b) Public colleges receive more federal and state financial aid than do for-profit colleges.  
+(c) For-profit colleges enrol a greater proportion of students who are older and attend college part-time.  
+(d) The average amount of federal and state financial aid received per student is higher at for-profit colleges than at non-profit colleges.  
+(e) Students at for-profit colleges are less likely to complete their degrees than are students at non-profit colleges.  
+
+ 
+
+Q.164)  
+Statement: In order to reduce the number of accidents on the highways, the government should impose stricter penalties for traffic violations. Which of the following, if true, most seriously weakens the argument above?
+(a) Most drivers already know the existing traffic laws.  
+(b) The current penalties for traffic violations are rarely enforced.  
+(c) Many accidents are caused by factors other than traffic violations.  
+(d) Stricter penalties will lead to an increase in the number of people who drive under the influence.  
+(e) The cost of enforcing stricter penalties will be very high.  
+
+ 
+
+Q.165)  
+Statement: A recent study has shown that people who eat a diet rich in fruits and vegetables are less likely to develop heart disease. Which of the following, if true, most seriously weakens the conclusion drawn above?
+(a) The study was conducted on a small sample size.  
+(b) The people who eat a diet rich in fruits and vegetables also exercise regularly.  
+(c) The study did not control for other factors that may affect heart disease.  
+(d) Some fruits and vegetables are high in sugar.  
+(e) Heart disease is a leading cause of death in developed countries.  
+
+ 
+
+Q.166)  
+Statement: The use of artificial intelligence in the workplace is increasing rapidly. This trend is likely to lead to significant job losses in the coming years. Which of the following, if true, most seriously weakens the conclusion drawn above?
+(a) Artificial intelligence can only perform simple, repetitive tasks.  
+(b) Many new jobs will be created as a result of the development of artificial intelligence.  
+(c) The adoption of artificial intelligence will be gradual.  
+(d) Some workers will be able to adapt to the changing job market.  
+(e) The benefits of artificial intelligence outweigh the potential costs.  
+ 
+
+Q.167)  
+Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Who among the following person lives on floor number 7?  
+(a) The one who was born in 1990  
+(b) The one who was born in 1976  
+(c) The one who was born in 1987  
+(d) The one who was born in 2000  
+(e) Cannot be determined  
+
+ 
+
+Q.168)  
+Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. How many persons are older than the one who lives on floor number 4?  
+(a) Three  
+(b) Four  
+(c) Two  
+(d) One  
+(e) None  
+
+ 
+
+Q.169)  
+Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Four of the five among the following are similar in such a way to form a group, who among the following doesn’t belong to the group?  
+(a) The one who was born in 1965  
+(b) The one who was born in 1972  
+(c) The one who was born in 1989  
+(d) The one who was born in 1998  
+(e) The one who was born in 2003  
+
+ 
+
+Q.170)  
+Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. What is the difference between the ages of F and H?  
+(a) 5  
+(b) 10  
+(c) 15  
+(d) 20  
+(e) 25  
+
+ 
+
+Q.171)  
+Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Who among the following person was born in 1997?  
+(a) A  
+(b) C  
+(c) E  
+(d) G  
+(e) Cannot be determined  
+
+ 
+Q.172)  
+Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. Who among the following person works in the Production department?  
+[a] The one who is 29 years old  
+[b] The one who works along with H  
+[c] The one who works along with F at the same post  
+[d] B  
+[e] Both (a) and (c)  
+
+ 
+
+Q.173)  
+Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. Four of the following five are alike in a certain way and thus form a group. Which among the following one doesn’t belong to that group?  
+(a) A  
+(b) G  
+(c) B  
+(d) E  
+(e) F  
+
+ 
+
+Q.174)  
+Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. Which of the following statement is/are true with respect to the final arrangement?  
+(a) The one who is 24 years old works in the Finance department  
+(b) A works in the Management department  
+(c) G is a manager  
+(d) Both (a) and (e)  
+(e) The sum of the ages of A and C is less than 52  
+
+ 
+
+Q.175)  
+Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. What is the sum of the ages of the persons who work in the Management department?  
+(a) 120  
+(b) 221  
+(c) 117  
+(d) 115  
+(e) None of the above  
+
+ 
+
+Q.176)  
+Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. How many persons’ age is more than H?  
+(a) Four  
+(b) One  
+(c) Six  
+(d) Two  
+(e) Three  
+
+ 
+
+Q.177)  
+Eight persons i.e. A, B, C, D, E, F, G and H are working in three different departments viz. Production, Management and Finance at different posts i.e. manager and general manager. In the finance department, only a manager post is available. They all have different ages. The age of the one who is a general manager is 53 years. The difference between the ages of C and H is 36. The age of A is less than 50 years. Which of the following statements is incorrect?  
+(a) Three persons are working as General Managers whereas five persons are working as Managers.  
+(b) F is elder to C but younger to E.  
+(c) There is no General Manager in the Finance department.  
+(d) The age of D is more than twice the age of E.  
+(e) C is the youngest person whereas D is the eldest person.  
+
+
+Q.178)  
+Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Who among the following person visited in the month of August?  
+(a) B  
+(b) The one who visited immediately after the one who likes Orange  
+(c) K  
+(d) The one who visited immediately before the one who likes Red.  
+(e) None of these  
+
+ 
+
+Q.179)  
+Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Who among the following person likes Yellow?  
+(a) Z  
+(b) The one who visited immediately after the one who likes Orange  
+(c) K  
+(d) The one who visited immediately before the one who likes Red.  
+(e) None of these  
+
+ 
+
+Q.180)  
+Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Who among the following person likes Green?  
+(a) B  
+(b) The one who visited three persons after Q  
+(c) The one who visited two persons before C  
+(d) Either B or C  
+(e) G  
+
+ 
+
+Q.181)  
+Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. As many persons visited between the one who likes Orange and the one who likes Yellow is same as between the one who likes ___ and ___. (a) Red, Green  
+(b) Blue, Black  
+(c) Green, Red  
+(d) Black, Blue  
+(e) None of these  
+
+ 
+
+Q.182)  
+Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Who among the following person likes Red?  
+(a) T  
+(b) The one who visited immediately after the one who likes Black  
+(c) The one who visited immediately before the one who likes Blue  
+(d) Either (a) or (c)  
+(e) None of these  
+
+ 
+
+Q.183)  
+Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Which of the following combination is not true?  
+(a) B – April – Red  
+(b) C – March – Orange  
+(c) G – July – Yellow  
+(d) K – September – Green  
+(e) M – January – Black  
+
+
+Q.184)  
+Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders.Choose the correct option. I) P faces the spouse of R. II) Number of married couples and the number of males are the same. III) Immediate neighbours of F are female.  
+(a) Both I and II follow  
+(b) Only III follows  
+(c) Both II and III follows  
+(d) Only I follows  
+(e) None follows  
+
+ 
+
+Q.185) 
+Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. How many persons are sitting between Q and the one who faces E when counted from the right of Q?  
+(a) One  
+(b) Two  
+(c) Three  
+(d) Four  
+(e) None of these  
+
+ 
+
+Q.186)  
+Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders.Which of the following statement is/are true? I) R is the nephew of C. II) P is the brother-in-law of D. III) S is the aunt of B.  
+
+(a) Only I  
+(b) Only II  
+(c) Only III  
+(d) Both I and II  
+(e) All I, II and III  
+
+ 
+
+Q.187)  
+Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders.Who among the following person faces the spouse of A?  
+(a) P  
+(b) Q  
+(c) R  
+(d) S  
+(e) T  
+
+ 
+
+Q.188)  
+Twelve people A, B, C, D, E, F, P, Q, R, S, T, and U belong to the same family. They were seated in a concentric circle such that persons sitting in the outer circle, i.e. P, Q, R, S, T, and U face inside whereas the persons sitting in the inner circle, i.e. A, B, C, D, E and F face outside. Also the persons in the two circles were sitting opposite to each other. All the information given are not necessarily in the same order. Note: The persons facing each other are not the same gender except for the one who faces B. C is the mother-in-law of T, who sits opposite the one who sits immediate right of the former. The one who sits immediate right of B faces S. D is the unmarried sister-in-law of T and faces her only uncle. B and C belong to the same generation. The son of A is R. Immediate neighbours of C are the opposite genders. Which of the following statement is not true?  
+(a) A is the father of R.  
+(b) B is the sister-in-law of F.  
+(c) C is the grandmother of U.  
+(d) P is sitting second to the left of U.  
+(e) D and R are facing each other.  
+
+
+Q.189)  
+There are 10 people who are sitting in two parallel rows. In row 1, A, B, C, D and E are sitting facing north. In row II, P, Q, R, S, T are sitting facing south. They are facing each other. They live in five different cities amongst Singapore, Berlin, Osaka, Helsinki and Mumbai. One person from each row is living in one of these cities so that exactly two people are living in one city. Who among the following person lives in Mumbai?  
+(a) A  
+(b) The one who sits second to the left of E  
+(c) P  
+(d) The one who sits immediate left of T  
+(e) None of these  
+
+ 
+
+Q.190)  
+There are 10 people who are sitting in two parallel rows. In row 1, A, B, C, D and E are sitting facing north. In row II, P, Q, R, S, T are sitting facing south. They are facing each other. They live in five different cities amongst Singapore, Berlin, Osaka, Helsinki and Mumbai. One person from each row is living in one of these cities so that exactly two people are living in one city. Who among the following person sits second to the right of the one who lives in Singapore?  
+(a) B  
+(b) Q  
+(c) The one who lives in Helsinki  
+(d) The one who lives in Berlin  
+(e) None of these  
+
+ 
+
+Q.191)  
+There are 10 people who are sitting in two parallel rows. In row 1, A, B, C, D and E are sitting facing north. In row II, P, Q, R, S, T are sitting facing south. They are facing each other. They live in five different cities amongst Singapore, Berlin, Osaka, Helsinki and Mumbai. One person from each row is living in one of these cities so that exactly two people are living in one city. Which of the following combination is true?  
+(a) A – Singapore  
+(b) C – Berlin  
+(c) R – Osaka  
+(d) S – Helsinki  
+(e) None of these  
+
+ 
+
+Q.192)  
+There are 10 people who are sitting in two parallel rows. In row 1, A, B, C, D and E are sitting facing north. In row II, P, Q, R, S, T are sitting facing south. They are facing each other. They live in five different cities amongst Singapore, Berlin, Osaka, Helsinki and Mumbai. One person from each row is living in one of these cities so that exactly two people are living in one city. Four of the five among the following are similar in such a way to form a group, who among the following doesn’t belong to the group? (a) A  
+(b) The one who lives in Singapore  
+(c) P  
+(d) The one who lives in Mumbai  
+(e) R  
+
+ 
+
+Q.193)  
+There are 10 people who are sitting in two parallel rows. In row 1, A, B, C, D and E are sitting facing north. In row II, P, Q, R, S, T are sitting facing south. They are facing each other. They live in five different cities amongst Singapore, Berlin, Osaka, Helsinki and Mumbai. One person from each row is living in one of these cities so that exactly two people are living in one city. Who among the following person lives in Osaka?  
+(a) B  
+(b) The one who sits immediate right of Q  
+(c) D  
+(d) The one who sits second to the left of A  
+(e) None of these  
+
+Q.194)  
+Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order.Who among the following person bought Pearl?  
+(a) A  
+(b) B  
+(c) C  
+(d) D  
+(e) Cannot be determined  
+
+ 
+
+Q.195)  
+Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order.Who among the following person sits third to the right of F?  
+(a) A  
+(b) B  
+(c) C  
+(d) D  
+(e) Cannot be determined  
+
+ 
+
+Q.196)  
+Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order. Four of the five among the following are similar in such a way to form a group, who among the following doesn’t belong to the group?  
+(a) The one who bought Jade  
+(b) The one who bought Emerald  
+(c) The one who sits immediate left of G  
+(d) D  
+(e) The one who sits third to the right of A  
+
+ 
+
+Q.197)  
+Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order. Who among the following person sits second to the right of the one who bought Diamond?  
+(a) The one who sits immediate left of E  
+(b) C  
+(c) B  
+(d) The one who sits second to the left of G  
+(e) D  
+
+ 
+
+Q.198)  
+Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order. Which of the following statements is/are true? I) H bought Emerald. II) E sits immediate left of B. III) D does not buy Diamond. IV) C sits opposite to the one who bought pearl.  
+(a) Only I and III  
+(b) Only III and IV  
+(c) Only I and II  
+(d) Only II and III  
+(e) None of the statements is false  
+
+ 
+
+Q.199)  
+Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order. Which of the following statements is not true?  
+(a) The one who bought Garnet sits in the middle of the side of the table.  
+(b) C sits opposite to the one who bought Amethyst.  
+(c) D sits between the one who bought Diamond and Amethyst when counted from the left of Diamond.  
+(d) F bought Topaz.  
+(e) None of these  
+
+ 
+
+Q.200)  
+Eight persons- A, B, C, D, E, F, G, and H are sitting on the square table facing the center. Four of them sit in the corner whereas four of them sit in the middle of the side of the table. They bought different stones- Emerald, Pearl, Topaz, Jade, Zircon, Garnet, Diamond, and Amethyst. All the information is not necessarily in the same order.Who among the following person bought Garnet?  
+(a) A  
+(b) B  
+(c) C  
+(d) D  
+(e) Cannot be determined 

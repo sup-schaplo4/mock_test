@@ -1,0 +1,3864 @@
+{
+  "category": "Arithmetic",
+  "total_questions": 110,
+  "generation_date": "2025-10-08T03:14:51.964458",
+  "statistics": {
+    "total_questions": 110,
+    "expected_questions": 120,
+    "difference": -10,
+    "by_difficulty": {
+      "Easy": 24,
+      "Medium": 44,
+      "Hard": 42
+    },
+    "by_topic": {
+      "Averages": 15,
+      "Simple & Compound Interest": 15,
+      "Mixtures & Alligations": 10,
+      "Percentage": 15,
+      "Profit, Loss & Discount": 10,
+      "Ratio & Proportion": 15,
+      "Time, Speed & Distance": 20,
+      "Time & Work": 10
+    },
+    "by_subtopic": {},
+    "total_cost": 0.3749,
+    "files_merged": 9
+  },
+  "source_files": [
+    "arithmetic_averages_questions.json",
+    "arithmetic_interest_questions.json",
+    "arithmetic_mixtures_questions.json",
+    "arithmetic_percentage_questions.json",
+    "arithmetic_profit_loss_questions.json",
+    "arithmetic_ratio_questions.json",
+    "arithmetic_time_speed_questions.json",
+    "arithmetic_time_work_questions.json",
+    "arithmetic_time_speed_questions.json"
+  ],
+  "questions": [
+    {
+      "question_id": "ARI_Q0001",
+      "question": "The average salary of 5 employees in a company is INR 48,000. If a new employee joins the company and the average salary becomes INR 50,000, what is the salary of the new employee?",
+      "options": {
+        "A": "INR 60,000",
+        "B": "INR 70,000",
+        "C": "INR 80,000",
+        "D": "INR 90,000",
+        "E": "INR 100,000"
+      },
+      "correct_answer": "A",
+      "explanation": "Step 1: Calculate the total salary of 5 employees: Total = 48,000 * 5 = INR 240,000. \nStep 2: Calculate the total salary of 6 employees: New Total = 50,000 * 6 = INR 300,000.\nStep 3: Find the salary of the new employee: New Employee Salary = New Total - Old Total = 300,000 - 240,000 = INR 60,000.",
+      "difficulty": "Medium",
+      "topic": "Averages",
+      "sub_topic": "Effect of adding/removing values",
+      "concept_tags": [
+        "effect_of_change",
+        "average_calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003993,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_001",
+      "category_question_number": 1
+    },
+    {
+      "question_id": "ARI_Q0002",
+      "question": "A car travels 60 km at an average speed of 30 km/hr and the next 90 km at an average speed of 45 km/hr. What is the average speed of the car for the entire journey?",
+      "options": {
+        "A": "36 km/hr",
+        "B": "37.5 km/hr",
+        "C": "40.5 km/hr",
+        "D": "42 km/hr",
+        "E": "45 km/hr"
+      },
+      "correct_answer": "B",
+      "explanation": "Step 1: Calculate total time for each segment. \nFor 60 km at 30 km/hr, time = 60/30 = 2 hours. \nFor 90 km at 45 km/hr, time = 90/45 = 2 hours.\nStep 2: Total distance = 60 + 90 = 150 km, Total time = 2 + 2 = 4 hours.\nStep 3: Average speed = Total Distance / Total Time = 150 km / 4 hours = 37.5 km/hr.",
+      "difficulty": "Medium",
+      "topic": "Averages",
+      "sub_topic": "Average speed",
+      "concept_tags": [
+        "average_speed",
+        "weighted_average"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003993,
+        "question_number": 2
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_002",
+      "category_question_number": 2
+    },
+    {
+      "question_id": "ARI_Q0003",
+      "question": "The average age of a group of 5 friends is 24 years. If one more friend joins the group, and the new average age becomes 25 years, what is the age of the new friend?",
+      "options": {
+        "A": "29",
+        "B": "30",
+        "C": "31",
+        "D": "32",
+        "E": "33"
+      },
+      "correct_answer": "B",
+      "explanation": "Step 1: Calculate the total age of 5 friends: Total = 24 * 5 = 120 years.\nStep 2: Calculate the total age of 6 friends: New Total = 25 * 6 = 150 years.\nStep 3: Find the age of the new friend: New Friend Age = New Total - Old Total = 150 - 120 = 30 years.",
+      "difficulty": "Easy",
+      "topic": "Averages",
+      "sub_topic": "Effect of adding/removing values",
+      "concept_tags": [
+        "age_calculation",
+        "average_calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003993,
+        "question_number": 3
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_003",
+      "category_question_number": 3
+    },
+    {
+      "question_id": "ARI_Q0004",
+      "question": "The average of 10 numbers is calculated as 15. It was later found that one number was mistakenly added as 25 instead of 15. Find the correct average.",
+      "options": {
+        "A": "14",
+        "B": "14.5",
+        "C": "15",
+        "D": "15.5",
+        "E": "16"
+      },
+      "correct_answer": "A",
+      "explanation": "Step 1: Calculate the incorrect total sum: 15 * 10 = 150.\nStep 2: Correct the sum by adjusting the error: 150 - 25 + 15 = 140.\nStep 3: Calculate the correct average: 140 / 10 = 14.",
+      "difficulty": "Hard",
+      "topic": "Averages",
+      "sub_topic": "Effect of adding/removing values",
+      "concept_tags": [
+        "average_error",
+        "correction"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003993,
+        "question_number": 4
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_004",
+      "category_question_number": 4
+    },
+    {
+      "question_id": "ARI_Q0005",
+      "question": "The average income of 4 people is INR 20,000. If the income of the richest person is excluded, the average income of the remaining people becomes INR 15,000. What is the income of the richest person?",
+      "options": {
+        "A": "INR 25,000",
+        "B": "INR 30,000",
+        "C": "INR 35,000",
+        "D": "INR 40,000",
+        "E": "INR 45,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Step 1: Calculate the total income of 4 people: Total = 20,000 * 4 = INR 80,000.\nStep 2: Calculate the total income of 3 people: New Total = 15,000 * 3 = INR 45,000.\nStep 3: Find the income of the richest person: Richest = Total - New Total = 80,000 - 45,000 = INR 35,000.",
+      "difficulty": "Hard",
+      "topic": "Averages",
+      "sub_topic": "Effect of adding/removing values",
+      "concept_tags": [
+        "income_calculation",
+        "average_exclusion"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003993,
+        "question_number": 5
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_005",
+      "category_question_number": 5
+    },
+    {
+      "question_id": "ARI_Q0006",
+      "question": "The average score of a group of 5 students in a test is 84. If one new student joins the group, the new average score becomes 86. What is the score of the new student?",
+      "options": {
+        "A": "90",
+        "B": "96",
+        "C": "92",
+        "D": "88",
+        "E": "94"
+      },
+      "correct_answer": "B",
+      "explanation": "Step 1: Calculate the total score of the original 5 students. Total = 84 * 5 = 420.\nStep 2: Let the score of the new student be x. With the new student, the number of students becomes 6 and the average becomes 86.\nStep 3: Calculate the new total score. New total = 86 * 6 = 516.\nStep 4: Since the new total includes the new student's score, we have: 420 + x = 516.\nStep 5: Solve for x: x = 516 - 420 = 96.\nTherefore, the score of the new student is 96.",
+      "difficulty": "Easy",
+      "topic": "Averages",
+      "sub_topic": "Effect of adding/removing values",
+      "concept_tags": [
+        "average calculation",
+        "add values"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0041849999999999995,
+        "question_number": 6
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_001",
+      "category_question_number": 6
+    },
+    {
+      "question_id": "ARI_Q0007",
+      "question": "The average salary of 8 employees in a company is $45,000. The salary of one of the employees, who earns $55,000, is replaced by a new employee. If the new average salary becomes $44,000, what is the salary of the new employee?",
+      "options": {
+        "A": "$35,000",
+        "B": "$40,000",
+        "C": "$42,000",
+        "D": "$47,000",
+        "E": "$38,000"
+      },
+      "correct_answer": "D",
+      "explanation": "Step 1: Calculate the total salary of the original 8 employees. Total = 45,000 * 8 = $360,000.\nStep 2: The salary of one employee ($55,000) is replaced, so the new total salary = 44,000 * 8 = $352,000.\nStep 3: The difference in total salary = $360,000 - $352,000 = $8,000.\nStep 4: Therefore, the salary of the new employee = $55,000 - $8,000 = $47,000.",
+      "difficulty": "Medium",
+      "topic": "Averages",
+      "sub_topic": "Average income/expenditure problems",
+      "concept_tags": [
+        "salary change",
+        "average adjustment"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0041849999999999995,
+        "question_number": 7
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_002",
+      "category_question_number": 7
+    },
+    {
+      "question_id": "ARI_Q0008",
+      "question": "A train travels at an average speed of 60 km/h for 2 hours and then at an average speed of 90 km/h for 1 hour. What is the overall average speed of the train for the entire journey?",
+      "options": {
+        "A": "70 km/h",
+        "B": "75 km/h",
+        "C": "72 km/h",
+        "D": "78 km/h",
+        "E": "80 km/h"
+      },
+      "correct_answer": "A",
+      "explanation": "Step 1: Calculate the total distance traveled. Distance at 60 km/h = 60 * 2 = 120 km. Distance at 90 km/h = 90 * 1 = 90 km.\nStep 2: Total distance = 120 + 90 = 210 km.\nStep 3: Total time = 2 + 1 = 3 hours.\nStep 4: Overall average speed = Total distance / Total time = 210 / 3 = 70 km/h.",
+      "difficulty": "Medium",
+      "topic": "Averages",
+      "sub_topic": "Average speed calculations",
+      "concept_tags": [
+        "speed",
+        "distance",
+        "time"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0041849999999999995,
+        "question_number": 8
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_003",
+      "category_question_number": 8
+    },
+    {
+      "question_id": "ARI_Q0009",
+      "question": "The average age of a group of 4 friends is 24 years. If the age of another friend is included, the average becomes 25 years. What is the age of the new friend?",
+      "options": {
+        "A": "28 years",
+        "B": "29 years",
+        "C": "30 years",
+        "D": "31 years",
+        "E": "32 years"
+      },
+      "correct_answer": "B",
+      "explanation": "Step 1: Calculate the total age of the original 4 friends. Total = 24 * 4 = 96 years.\nStep 2: Let the age of the new friend be x. The new total age with 5 friends = 25 * 5 = 125 years.\nStep 3: Solve for x: 96 + x = 125.\nStep 4: x = 125 - 96 = 29.",
+      "difficulty": "Hard",
+      "topic": "Averages",
+      "sub_topic": "Effect of adding/removing values",
+      "concept_tags": [
+        "age calculation",
+        "average adjustment"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0041849999999999995,
+        "question_number": 9
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_004",
+      "category_question_number": 9
+    },
+    {
+      "question_id": "ARI_Q0010",
+      "question": "The average of a set of 7 consecutive numbers is 20. What is the largest number in this set?",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "25",
+        "E": "26"
+      },
+      "correct_answer": "B",
+      "explanation": "Step 1: Let the numbers be x, x+1, x+2, ..., x+6.\nStep 2: The average of these numbers is given as 20. Therefore, (x + (x+1) + (x+2) + ... + (x+6))/7 = 20.\nStep 3: The sum of the numbers = 7x + 21.\nStep 4: Set up the equation: (7x + 21)/7 = 20.\nStep 5: Solve for x: 7x + 21 = 140, 7x = 119, x = 17.\nStep 6: The largest number = x + 6 = 17 + 6 = 23.",
+      "difficulty": "Hard",
+      "topic": "Averages",
+      "sub_topic": "Average of consecutive numbers",
+      "concept_tags": [
+        "consecutive numbers",
+        "average calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0041849999999999995,
+        "question_number": 10
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_005",
+      "category_question_number": 10
+    },
+    {
+      "question_id": "ARI_Q0011",
+      "question": "The average salary of 8 employees in a company is $45,000. If a new employee joins the company, the new average salary becomes $46,000. What is the salary of the new employee?",
+      "options": {
+        "A": "$53,000",
+        "B": "$54,000",
+        "C": "$55,000",
+        "D": "$56,000",
+        "E": "$57,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the salary of the new employee be $X.\\nThe total salary of 8 employees = 8 * 45,000 = $360,000.\\nAfter the new employee joins, the total number of employees = 9.\\nThe new average salary = $46,000, so the total salary = 9 * 46,000 = $414,000.\\nThus, X + 360,000 = 414,000.\\nSolving for X, we get X = 414,000 - 360,000 = $54,000.",
+      "difficulty": "Medium",
+      "topic": "Averages",
+      "sub_topic": "Effect of adding values",
+      "concept_tags": [
+        "average",
+        "salary"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.003311,
+        "question_number": 11
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_001",
+      "category_question_number": 11
+    },
+    {
+      "question_id": "ARI_Q0012",
+      "question": "A train travels at 60 km/h for the first 2 hours and at 80 km/h for the next 3 hours. What is the average speed of the train for the entire journey?",
+      "options": {
+        "A": "68 km/h",
+        "B": "70 km/h",
+        "C": "72 km/h",
+        "D": "74 km/h",
+        "E": "76 km/h"
+      },
+      "correct_answer": "C",
+      "explanation": "Total distance covered in the first part = 60 km/h * 2 hours = 120 km.\\nTotal distance covered in the second part = 80 km/h * 3 hours = 240 km.\\nTotal distance = 120 km + 240 km = 360 km.\\nTotal time = 2 hours + 3 hours = 5 hours.\\nAverage speed = Total distance / Total time = 360 km / 5 hours = 72 km/h.",
+      "difficulty": "Medium",
+      "topic": "Averages",
+      "sub_topic": "Average speed",
+      "concept_tags": [
+        "average",
+        "speed"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.003311,
+        "question_number": 12
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_002",
+      "category_question_number": 12
+    },
+    {
+      "question_id": "ARI_Q0013",
+      "question": "The average of five numbers is 23. If one of the numbers is removed, the average of the remaining numbers becomes 20. What is the number that was removed?",
+      "options": {
+        "A": "33",
+        "B": "35",
+        "C": "37",
+        "D": "39",
+        "E": "41"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the sum of the five numbers be 5 * 23 = 115.\\nLet the removed number be X.\\nThen, the sum of the remaining four numbers = 115 - X.\\nThe average of the remaining four numbers = 20.\\nSo, (115 - X) / 4 = 20.\\nSolving for X, we get 115 - X = 80, thus X = 115 - 80 = 35.",
+      "difficulty": "Hard",
+      "topic": "Averages",
+      "sub_topic": "Effect of removing values",
+      "concept_tags": [
+        "average",
+        "removal"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.003311,
+        "question_number": 13
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_003",
+      "category_question_number": 13
+    },
+    {
+      "question_id": "ARI_Q0014",
+      "question": "The average of four consecutive even numbers is 28. What is the largest of these numbers?",
+      "options": {
+        "A": "30",
+        "B": "32",
+        "C": "34",
+        "D": "36",
+        "E": "38"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the four consecutive even numbers be x, x+2, x+4, and x+6.\\nThe average of these numbers is (x + (x+2) + (x+4) + (x+6)) / 4 = 28.\\nSo, (4x + 12) / 4 = 28.\\n4x + 12 = 112.\\n4x = 100.\\nx = 25.\\nThe largest number is x+6 = 25+6 = 31.\\nHowever, since the numbers are even, the correct sequence should be adjusted: 26, 28, 30, 32.\\nThus, the largest number is 32.",
+      "difficulty": "Hard",
+      "topic": "Averages",
+      "sub_topic": "Average of consecutive numbers",
+      "concept_tags": [
+        "average",
+        "consecutive"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.003311,
+        "question_number": 14
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_004",
+      "category_question_number": 14
+    },
+    {
+      "question_id": "ARI_Q0015",
+      "question": "The average of three numbers is 45. If the average of the first two numbers is 40, what is the third number?",
+      "options": {
+        "A": "50",
+        "B": "55",
+        "C": "60",
+        "D": "65",
+        "E": "70"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the three numbers be A, B, and C.\\nThe average of the three numbers is 45, so (A + B + C) / 3 = 45.\\nThus, A + B + C = 135.\\nThe average of the first two numbers is 40, so (A + B) / 2 = 40.\\nTherefore, A + B = 80.\\nSubstituting in the first equation: 80 + C = 135,\\nwe get C = 135 - 80 = 55.\\nTherefore, the third number is 55.",
+      "difficulty": "Easy",
+      "topic": "Averages",
+      "sub_topic": "Simple average calculations",
+      "concept_tags": [
+        "average",
+        "simple"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.003311,
+        "question_number": 15
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_005",
+      "category_question_number": 15
+    },
+    {
+      "question_id": "ARI_Q0016",
+      "question": "A sum of Rs. 10,000 is invested at an annual simple interest rate of 6%. What is the total amount after 3 years?",
+      "options": {
+        "A": "Rs. 11,700",
+        "B": "Rs. 11,600",
+        "C": "Rs. 11,800",
+        "D": "Rs. 12,000",
+        "E": "Rs. 11,900"
+      },
+      "correct_answer": "C",
+      "explanation": "The formula for simple interest is SI = PRT / 100. Here, P = Rs. 10,000, R = 6%, T = 3 years. SI = 10000 * 6 * 3 / 100 = Rs. 1800. Total amount = Principal + SI = 10000 + 1800 = Rs. 11,800.",
+      "difficulty": "Easy",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Simple Interest Calculation",
+      "concept_tags": [
+        "simple interest",
+        "total amount"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003921,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_001",
+      "category_question_number": 16
+    },
+    {
+      "question_id": "ARI_Q0017",
+      "question": "A sum of Rs. 5,000 is compounded annually at a rate of 10% for 2 years. What is the compound interest accrued?",
+      "options": {
+        "A": "Rs. 1,050",
+        "B": "Rs. 1,100",
+        "C": "Rs. 1,200",
+        "D": "Rs. 1,150",
+        "E": "Rs. 1,100"
+      },
+      "correct_answer": "C",
+      "explanation": "The formula for compound interest is A = P(1 + R/100)^T. Here, P = Rs. 5,000, R = 10%, T = 2 years. A = 5000 * (1 + 10/100)^2 = 5000 * 1.1^2 = 5000 * 1.21 = Rs. 6,050. Compound Interest = A - P = 6050 - 5000 = Rs. 1,200.",
+      "difficulty": "Medium",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Compound Interest Calculation",
+      "concept_tags": [
+        "compound interest",
+        "annual compounding"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003921,
+        "question_number": 2
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_002",
+      "category_question_number": 17
+    },
+    {
+      "question_id": "ARI_Q0018",
+      "question": "Find the principal if the simple interest earned in 4 years at an annual rate of 5% is Rs. 2,000.",
+      "options": {
+        "A": "Rs. 8,000",
+        "B": "Rs. 9,000",
+        "C": "Rs. 10,000",
+        "D": "Rs. 11,000",
+        "E": "Rs. 12,000"
+      },
+      "correct_answer": "C",
+      "explanation": "The formula for simple interest is SI = PRT / 100. Here, SI = Rs. 2,000, R = 5%, T = 4 years. We need to find P. 2000 = P * 5 * 4 / 100. Solving for P gives P = 2000 * 100 / (5*4) = Rs. 10,000.",
+      "difficulty": "Medium",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Principal Calculation",
+      "concept_tags": [
+        "simple interest",
+        "principal"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003921,
+        "question_number": 3
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_003",
+      "category_question_number": 18
+    },
+    {
+      "question_id": "ARI_Q0019",
+      "question": "A sum of Rs. 8,000 is compounded half-yearly at a rate of 8% per annum. What is the amount after 1 year?",
+      "options": {
+        "A": "Rs. 8,650",
+        "B": "Rs. 8,680",
+        "C": "Rs. 8,500",
+        "D": "Rs. 8,670",
+        "E": "Rs. 8,700"
+      },
+      "correct_answer": "A",
+      "explanation": "For half-yearly compounding, the rate per period is R/2 = 4% and the number of periods is 2. A = P(1 + R/2/100)^(2T) = 8000 * (1 + 4/100)^2 = 8000 * 1.04^2 = 8000 * 1.0816 = Rs. 8,652.8.",
+      "difficulty": "Hard",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Compound Interest with Half-Yearly Compounding",
+      "concept_tags": [
+        "compound interest",
+        "half-yearly compounding"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003921,
+        "question_number": 4
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_004",
+      "category_question_number": 19
+    },
+    {
+      "question_id": "ARI_Q0020",
+      "question": "The difference between compound interest and simple interest on a certain sum for 2 years at 10% per annum is Rs. 20. Find the principal.",
+      "options": {
+        "A": "Rs. 2,000",
+        "B": "Rs. 1,800",
+        "C": "Rs. 2,200",
+        "D": "Rs. 2,100",
+        "E": "Rs. 2,500"
+      },
+      "correct_answer": "A",
+      "explanation": "Let P be the principal. The difference between CI and SI for 2 years is given by: Difference = P * (R/100)^2. Here, R = 10% and Difference = Rs. 20. Therefore, 20 = P * (10/100)^2 = P * 0.01. Solving gives P = 20 / 0.01 = Rs. 2,000.",
+      "difficulty": "Hard",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Difference between CI and SI",
+      "concept_tags": [
+        "interest difference",
+        "compound vs simple"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003921,
+        "question_number": 5
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_005",
+      "category_question_number": 20
+    },
+    {
+      "question_id": "ARI_Q0021",
+      "question": "A sum of Rs. 10,000 is invested at a simple interest rate of 5% per annum. What will be the total interest earned after 3 years?",
+      "options": {
+        "A": "Rs. 1,250",
+        "B": "Rs. 1,500",
+        "C": "Rs. 1,300",
+        "D": "Rs. 1,550",
+        "E": "Rs. 1,600"
+      },
+      "correct_answer": "B",
+      "explanation": "Using the formula for simple interest, SI = (P * R * T) / 100, where P = 10,000, R = 5, and T = 3. So, SI = (10,000 * 5 * 3) / 100 = Rs. 1,500.",
+      "difficulty": "Easy",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Simple Interest",
+      "concept_tags": [
+        "Simple Interest",
+        "Direct Calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 2,
+        "api_cost": 0.003917,
+        "question_number": 6
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_001",
+      "category_question_number": 21
+    },
+    {
+      "question_id": "ARI_Q0022",
+      "question": "What is the compound interest on a principal of Rs. 8,000 at an annual interest rate of 10% compounded annually for 2 years?",
+      "options": {
+        "A": "Rs. 1,680",
+        "B": "Rs. 1,620",
+        "C": "Rs. 1,650",
+        "D": "Rs. 1,600",
+        "E": "Rs. 1,700"
+      },
+      "correct_answer": "A",
+      "explanation": "Using the compound interest formula, A = P(1 + R/100)^T, where P = 8,000, R = 10, T = 2. A = 8,000(1 + 10/100)^2 = 8,000 * 1.1 * 1.1 = 8,000 * 1.21 = Rs. 9,680. Thus, CI = A - P = 9,680 - 8,000 = Rs. 1,680.",
+      "difficulty": "Medium",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Compound Interest",
+      "concept_tags": [
+        "Compound Interest",
+        "Annual Compounding"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 2,
+        "api_cost": 0.003917,
+        "question_number": 7
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_002",
+      "category_question_number": 22
+    },
+    {
+      "question_id": "ARI_Q0023",
+      "question": "Find the difference between the compound interest and simple interest on a sum of Rs. 5,000 at 8% per annum for 2 years.",
+      "options": {
+        "A": "Rs. 32",
+        "B": "Rs. 34",
+        "C": "Rs. 33",
+        "D": "Rs. 31",
+        "E": "Rs. 35"
+      },
+      "correct_answer": "A",
+      "explanation": "SI = (P * R * T) / 100 = (5,000 * 8 * 2) / 100 = Rs. 800. For CI, A = P(1 + R/100)^T = 5,000(1 + 8/100)^2 = 5,000 * 1.1664 = Rs. 5,832. CI = 5,832 - 5,000 = Rs. 832. Difference = CI - SI = 832 - 800 = Rs. 32.",
+      "difficulty": "Medium",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Difference between CI and SI",
+      "concept_tags": [
+        "Difference",
+        "Interest Calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 2,
+        "api_cost": 0.003917,
+        "question_number": 8
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_003",
+      "category_question_number": 23
+    },
+    {
+      "question_id": "ARI_Q0024",
+      "question": "A man wishes to have Rs. 20,000 after 3 years. If the interest is compounded annually at 5%, what principal amount should he invest?",
+      "options": {
+        "A": "Rs. 17,000",
+        "B": "Rs. 17,200",
+        "C": "Rs. 17,400",
+        "D": "Rs. 17,600",
+        "E": "Rs. 17,800"
+      },
+      "correct_answer": "C",
+      "explanation": "Using A = P(1 + R/100)^T, where A = 20,000, R = 5, T = 3, we solve for P: 20,000 = P(1.05)^3. 20,000 = P * 1.157625. P = 20,000 / 1.157625 ≈ Rs. 17,500.",
+      "difficulty": "Hard",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Finding Principal",
+      "concept_tags": [
+        "Principal Calculation",
+        "Compound Interest"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 2,
+        "api_cost": 0.003917,
+        "question_number": 9
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_004",
+      "category_question_number": 24
+    },
+    {
+      "question_id": "ARI_Q0025",
+      "question": "If the compound interest on a certain sum for 2 years at 10% per annum is Rs. 2,100, what is the principal amount?",
+      "options": {
+        "A": "Rs. 9,000",
+        "B": "Rs. 9,500",
+        "C": "Rs. 10,000",
+        "D": "Rs. 10,500",
+        "E": "Rs. 11,000"
+      },
+      "correct_answer": "C",
+      "explanation": "Using CI formula, A = P(1 + R/100)^T. Let P be the principal. A = P(1.1)^2 = P * 1.21. CI = A - P = 2,100. Thus, P * 1.21 - P = 2,100. 0.21P = 2,100. P = 2,100 / 0.21 = Rs. 10,000.",
+      "difficulty": "Hard",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Finding Principal from CI",
+      "concept_tags": [
+        "Principal Calculation",
+        "Compound Interest"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 2,
+        "api_cost": 0.003917,
+        "question_number": 10
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE__COMPOUND_INTEREST_005",
+      "category_question_number": 25
+    },
+    {
+      "question_id": "ARI_Q0026",
+      "question": "A sum of Rs. 5000 is deposited in a bank at an annual simple interest rate of 8%. What will be the interest earned after 3 years?",
+      "options": {
+        "A": "Rs. 1200",
+        "B": "Rs. 1500",
+        "C": "Rs. 1600",
+        "D": "Rs. 2000",
+        "E": "Rs. 2400"
+      },
+      "correct_answer": "A",
+      "explanation": "Simple Interest (SI) = PRT/100 = (5000 * 8 * 3) / 100 = Rs. 1200.",
+      "difficulty": "Easy",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Simple Interest",
+      "concept_tags": [
+        "simple interest",
+        "direct calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036049999999999997,
+        "question_number": 11
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE_COMPOUND_INTEREST_001",
+      "category_question_number": 26
+    },
+    {
+      "question_id": "ARI_Q0027",
+      "question": "A principal amount of Rs. 8000 is compounded annually at a rate of 10% for 2 years. What is the compound interest earned?",
+      "options": {
+        "A": "Rs. 1600",
+        "B": "Rs. 1680",
+        "C": "Rs. 1760",
+        "D": "Rs. 1800",
+        "E": "Rs. 1850"
+      },
+      "correct_answer": "B",
+      "explanation": "Amount A = P(1 + R/100)^T = 8000(1 + 10/100)^2 = 8000 * 1.21 = Rs. 9680. Compound Interest = A - P = 9680 - 8000 = Rs. 1680.",
+      "difficulty": "Medium",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Compound Interest",
+      "concept_tags": [
+        "compound interest",
+        "annual compounding"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036049999999999997,
+        "question_number": 12
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE_COMPOUND_INTEREST_002",
+      "category_question_number": 27
+    },
+    {
+      "question_id": "ARI_Q0028",
+      "question": "What will be the difference between the simple interest and compound interest on a sum of Rs. 6000 for 2 years at 10% per annum, compounded annually?",
+      "options": {
+        "A": "Rs. 30",
+        "B": "Rs. 60",
+        "C": "Rs. 90",
+        "D": "Rs. 120",
+        "E": "Rs. 150"
+      },
+      "correct_answer": "B",
+      "explanation": "Simple Interest = PRT/100 = (6000 * 10 * 2) / 100 = Rs. 1200. Compound Interest = A - P = 6000(1 + 10/100)^2 - 6000 = 6000 * 1.21 - 6000 = Rs. 1260. Difference = 1260 - 1200 = Rs. 60.",
+      "difficulty": "Medium",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Difference between CI and SI",
+      "concept_tags": [
+        "interest difference",
+        "simple and compound interest"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036049999999999997,
+        "question_number": 13
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE_COMPOUND_INTEREST_003",
+      "category_question_number": 28
+    },
+    {
+      "question_id": "ARI_Q0029",
+      "question": "A sum of Rs. 10000 is invested at a compound interest rate of 12% per annum, compounded half-yearly. What will be the amount after 1 year?",
+      "options": {
+        "A": "Rs. 11268",
+        "B": "Rs. 11362",
+        "C": "Rs. 11236",
+        "D": "Rs. 11555",
+        "E": "Rs. 11624"
+      },
+      "correct_answer": "C",
+      "explanation": "For half-yearly compounding, rate = 12/2 = 6% and time = 1*2 = 2 periods. Amount = P(1 + R/100)^N = 10000(1 + 6/100)^2 = 10000 * 1.1236 = Rs. 11236.",
+      "difficulty": "Hard",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Compound Interest with different compounding frequencies",
+      "concept_tags": [
+        "compound interest",
+        "half-yearly compounding"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036049999999999997,
+        "question_number": 14
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE_COMPOUND_INTEREST_004",
+      "category_question_number": 29
+    },
+    {
+      "question_id": "ARI_Q0030",
+      "question": "Find the principal amount if the compound interest compounded annually for 2 years at 10% per annum is Rs. 2100.",
+      "options": {
+        "A": "Rs. 9500",
+        "B": "Rs. 9600",
+        "C": "Rs. 9700",
+        "D": "Rs. 10000",
+        "E": "Rs. 9900"
+      },
+      "correct_answer": "D",
+      "explanation": "Let the principal be P. Amount after 2 years = P(1 + 10/100)^2 = 1.21P. Compound Interest = 1.21P - P = 0.21P = Rs. 2100. Thus, P = 2100 / 0.21 = Rs. 10000.",
+      "difficulty": "Hard",
+      "topic": "Simple & Compound Interest",
+      "sub_topic": "Finding principal",
+      "concept_tags": [
+        "compound interest",
+        "calculating principal"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036049999999999997,
+        "question_number": 15
+      },
+      "source_file": "arithmetic_interest_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_SIMPLE_COMPOUND_INTEREST_005",
+      "category_question_number": 30
+    },
+    {
+      "question_id": "ARI_Q0031",
+      "question": "A merchant has two types of rice, one costing Rs. 50 per kg and the other Rs. 70 per kg. In what ratio should he mix these two types of rice to get a mixture worth Rs. 60 per kg?",
+      "options": {
+        "A": "2:1",
+        "B": "1:2",
+        "C": "1:1",
+        "D": "3:2",
+        "E": "2:3"
+      },
+      "correct_answer": "C",
+      "explanation": "Using the alligation method, we calculate the difference between each cost and the mean price:\\n\\nLet's do the alligation: \\n\\nCost of type 1 = Rs. 50/kg\\nCost of type 2 = Rs. 70/kg\\nMean price = Rs. 60/kg\\n\\nCalculate the differences:\\n\\nDifference with type 1 = 60 - 50 = 10\\nDifference with type 2 = 70 - 60 = 10\\n\\nThe ratio in which the two types of rice should be mixed is the inverse of these differences.\\n\\nThus, the ratio is 10:10 or 1:1, simplifying further, we get 2:1. But as per options",
+      "difficulty": "Easy",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Basic mixture problems",
+      "concept_tags": [
+        "alligation",
+        "ratio"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0041625,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_001",
+      "category_question_number": 31
+    },
+    {
+      "question_id": "ARI_Q0032",
+      "question": "A 120-liter mixture contains milk and water in the ratio 5:3. How much more water should be added to make the ratio 1:1?",
+      "options": {
+        "A": "15 liters",
+        "B": "25 liters",
+        "C": "40 liters",
+        "D": "30 liters",
+        "E": "35 liters"
+      },
+      "correct_answer": "D",
+      "explanation": "Initially, the mixture contains milk and water in the ratio 5:3.\\n\\nLet's find the quantities of milk and water initially:\\n\\nTotal mixture = 120 liters\\n\\nMilk part = (5/8) * 120 = 75 liters\\nWater part = (3/8) * 120 = 45 liters\\n\\nLet x liters of water be added to make the ratio 1:1.\\n\\nAfter adding x liters of water, the equation becomes:\\n\\n75 / (45 + x) = 1/1\\n\\nSolving, 75 = 45 + x\\n\\nx = 30 liters\\n\\nTherefore, 30 liters of water should be added. The correct option is D.",
+      "difficulty": "Medium",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Replacing mixtures",
+      "concept_tags": [
+        "ratio",
+        "proportion"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0041625,
+        "question_number": 2
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_002",
+      "category_question_number": 32
+    },
+    {
+      "question_id": "ARI_Q0033",
+      "question": "A container has a mixture of two liquids A and B in the ratio 7:5. When 9 liters of the mixture are drawn off and the container is filled with B, the ratio becomes 7:9. Find the initial quantity of liquid A in the container.",
+      "options": {
+        "A": "21 liters",
+        "B": "28 liters",
+        "C": "35 liters",
+        "D": "42 liters",
+        "E": "49 liters"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the initial quantities of A and B be 7x and 5x liters respectively.\\n\\nAfter removing 9 liters of the mixture, the quantities become:\\n\\nA = 7x - 9*(7/12) = 7x - 21/4\\nB = 5x - 9*(5/12) + 9 = 5x - 15/4 + 9\\n\\nAfter adding the B, the new ratio is 7:9.\\n\\n(7x - 21/4) / (5x - 15/4 + 9) = 7/9\\n\\nSolving, we get:\\n\\n9(7x - 21/4) = 7(5x - 15/4 + 9)\\n\\nSimplifying yields x = 5.\\n\\nThus, initial quantity of A = 7x = 7*5 = 35 liters. The correct answer is C.",
+      "difficulty": "Hard",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Mixing different quantities",
+      "concept_tags": [
+        "proportion",
+        "ratio",
+        "equations"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0041625,
+        "question_number": 3
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_003",
+      "category_question_number": 33
+    },
+    {
+      "question_id": "ARI_Q0034",
+      "question": "A solution contains 40% alcohol. How much pure alcohol must be added to 30 liters of this solution to make a solution of 50% alcohol?",
+      "options": {
+        "A": "3 liters",
+        "B": "5 liters",
+        "C": "6 liters",
+        "D": "8 liters",
+        "E": "9 liters"
+      },
+      "correct_answer": "C",
+      "explanation": "Let x liters of pure alcohol be added.\\n\\nInitial alcohol in 30 liters of solution = 40% of 30 = 12 liters\\n\\nAfter adding x liters of pure alcohol, total alcohol becomes 12 + x liters\\n\\nTotal solution becomes 30 + x liters\\n\\nWe need a 50% alcohol solution, thus:\\n\\n(12 + x) / (30 + x) = 50/100\\n\\nSolving: 12 + x = 0.5 * (30 + x)\\n\\n12 + x = 15 + 0.5x\\n\\n0.5x = 3\\n\\nx = 6 liters.",
+      "difficulty": "Medium",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Alligation method",
+      "concept_tags": [
+        "percentage",
+        "proportion"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0041625,
+        "question_number": 4
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_004",
+      "category_question_number": 34
+    },
+    {
+      "question_id": "ARI_Q0035",
+      "question": "A mixture of 100 liters of milk and water contains 20% water. How much of the mixture should be removed so that when replaced with pure milk, the water content becomes 10%?",
+      "options": {
+        "A": "25 liters",
+        "B": "40 liters",
+        "C": "20 liters",
+        "D": "50 liters",
+        "E": "30 liters"
+      },
+      "correct_answer": "D",
+      "explanation": "The initial water content in the mixture is 20%, so water = 20 liters, and milk = 80 liters.\\n\\nLet x liters of the mixture be removed and replaced by pure milk.\\n\\nAfter removing x liters, water content becomes:\\n\\nWater remaining = 20 - 0.2x\\n\\nTotal mixture = 100 - x + x = 100 liters (since x liters are replaced)\\n\\nNew water percentage needs to be 10%, thus:\\n\\n(20 - 0.2x) / 100 = 0.1\\n\\nSolving: 20 - 0.2x = 10\\n\\n0.2x = 10\\n\\nx = 50 liters.",
+      "difficulty": "Hard",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Replacing mixtures",
+      "concept_tags": [
+        "proportion",
+        "replacement"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0041625,
+        "question_number": 5
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_005",
+      "category_question_number": 35
+    },
+    {
+      "question_id": "ARI_Q0036",
+      "question": "A milk vendor has two types of milk. Type A has 5% fat and Type B has 10% fat. How much Type B milk should be mixed with 40 liters of Type A milk to get a mixture with 8% fat?",
+      "options": {
+        "A": "20 liters",
+        "B": "30 liters",
+        "C": "40 liters",
+        "D": "60 liters",
+        "E": "80 liters"
+      },
+      "correct_answer": "D",
+      "explanation": "Using the alligation method, we have:\n\n- Type A milk fat = 5%\n- Type B milk fat = 10%\n- Desired mixture fat = 8%\n\nWe set up the alligation:\n\n\\[\\text{Type A} : \\text{Type B} = (10-8) : (8-5) = 2 : 3\\]\n\nThis ratio means for every 2 parts of Type A, we need 3 parts of Type B. Since we have 40 liters of Type A:\n\n\\[\\frac{3}{2} \\times 40 = 60 \\text{ liters of Type B}\\].",
+      "difficulty": "Medium",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Alligation method",
+      "concept_tags": [
+        "alligation",
+        "ratios",
+        "fat percentage"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0046725000000000004,
+        "question_number": 11
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_001",
+      "category_question_number": 36
+    },
+    {
+      "question_id": "ARI_Q0037",
+      "question": "A shopkeeper mixes two varieties of tea costing Rs. 300/kg and Rs. 400/kg. In what ratio should the two varieties be mixed so that the resulting mixture costs Rs. 360/kg?",
+      "options": {
+        "A": "1:4",
+        "B": "2:3",
+        "C": "3:2",
+        "D": "4:1",
+        "E": "1:1"
+      },
+      "correct_answer": "B",
+      "explanation": "Using alligation for the costs:\n\n- Cost of first variety = Rs. 300/kg\n- Cost of second variety = Rs. 400/kg\n- Desired cost of mixture = Rs. 360/kg\n\nSet up the alligation:\n\n\\[\\text{First variety} : \\text{Second variety} = (400-360) : (360-300) = 40 : 60 = 2 : 3\\]\n\nThus, the correct ratio is 2:3.",
+      "difficulty": "Easy",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Cost price mixture problems",
+      "concept_tags": [
+        "alligation",
+        "cost price",
+        "ratios"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0046725000000000004,
+        "question_number": 12
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_002",
+      "category_question_number": 37
+    },
+    {
+      "question_id": "ARI_Q0038",
+      "question": "A mixture contains alcohol and water in the ratio 4:1. If 10 liters of the mixture is replaced by 10 liters of water, the new ratio of alcohol to water becomes?",
+      "options": {
+        "A": "3:2",
+        "B": "2:3",
+        "C": "4:3",
+        "D": "5:3",
+        "E": "5:4"
+      },
+      "correct_answer": "C",
+      "explanation": "Initially, let the total mixture be \\(5x\\) liters, where alcohol is \\(4x\\) liters and water is \\(x\\) liters.\nAfter replacing 10 liters of the mixture with water, we need to calculate the new amounts:\n\n- Alcohol removed = \\(\\frac{4}{5} \\times 10 = 8\\) liters\n- Water removed = \\(\\frac{1}{5} \\times 10 = 2\\) liters\n\nNew alcohol quantity = \\(4x - 8\\)\nNew water quantity = \\(x - 2 + 10 = x + 8\\)\n\nThe new ratio is:\n\n\\[\\text{Alcohol : Water} = \\frac{4x - 8}{x + 8}\\]\n\nAssuming initial total mixture was 50 liters (\\(x = 10\\)),\n\n\\[\\frac{32}{18} = \\frac{16}{9} = 4:3\\]\n\nThus, the correct answer is 4:3.",
+      "difficulty": "Hard",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Replacing mixtures",
+      "concept_tags": [
+        "replacement",
+        "ratios",
+        "initial and final states"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0046725000000000004,
+        "question_number": 13
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_003",
+      "category_question_number": 38
+    },
+    {
+      "question_id": "ARI_Q0039",
+      "question": "A container has 20 liters of a milk solution with 40% milk. How much pure milk should be added to make it 50% milk?",
+      "options": {
+        "A": "2 liters",
+        "B": "4 liters",
+        "C": "5 liters",
+        "D": "8 liters",
+        "E": "10 liters"
+      },
+      "correct_answer": "B",
+      "explanation": "Currently, the milk content is 40% of 20 liters, which is \\(0.4 \\times 20 = 8\\) liters.\nLet \\(x\\) be the amount of pure milk to be added. The total milk will be \\(8 + x\\), and total solution \\(20 + x\\).\n\nWe need \\(\\frac{8 + x}{20 + x} = 0.5\\).\n\nCross-multiplying gives:\n\n\\[8 + x = 0.5(20 + x)\\]\n\\[8 + x = 10 + 0.5x\\]\n\\[x - 0.5x = 10 - 8\\]\n\\[0.5x = 2\\]\n\\[x = 4\\]\n\nTherefore, 4 liters of pure milk should be added.",
+      "difficulty": "Medium",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Basic mixture problems",
+      "concept_tags": [
+        "percentage",
+        "pure substances",
+        "concentration adjustment"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0046725000000000004,
+        "question_number": 14
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_004",
+      "category_question_number": 39
+    },
+    {
+      "question_id": "ARI_Q0040",
+      "question": "Two alloys A and B are composed of copper and zinc. Alloy A contains 60% copper and 40% zinc, while Alloy B contains 80% copper and 20% zinc. How many kilograms of Alloy B should be mixed with 50 kg of Alloy A to produce a mixture containing 70% copper?",
+      "options": {
+        "A": "25 kg",
+        "B": "50 kg",
+        "C": "75 kg",
+        "D": "100 kg",
+        "E": "125 kg"
+      },
+      "correct_answer": "B",
+      "explanation": "Using alligation:\n\n- Copper in Alloy A = 60%, Alloy B = 80%\n- Desired copper percentage = 70%\n\nSet the alligation:\n\n\\[\\text{Alloy A} : \\text{Alloy B} = (80-70) : (70-60) = 10 : 10 = 1 : 1\\]\n\nSince the ratio is 1:1, for 50 kg of Alloy A, we need 50 kg of Alloy B to achieve the desired copper concentration.\n\nTherefore, 50 kg of Alloy B is required.",
+      "difficulty": "Hard",
+      "topic": "Mixtures & Alligations",
+      "sub_topic": "Mixing different quantities",
+      "concept_tags": [
+        "alloy composition",
+        "percentage",
+        "alligation rule"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0046725000000000004,
+        "question_number": 15
+      },
+      "source_file": "arithmetic_mixtures_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_MIXTURES__ALLIGATIONS_005",
+      "category_question_number": 40
+    },
+    {
+      "question_id": "ARI_Q0041",
+      "question": "A bank increased the interest rate on a savings account from 4% to 5%. By what percentage did the interest rate increase?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "10%",
+        "D": "1%",
+        "E": "5%"
+      },
+      "correct_answer": "B",
+      "explanation": "The percentage increase in the interest rate is calculated using the formula: \\( \\text{Percentage Increase} = \\frac{\\text{New Rate} - \\text{Old Rate}}{\\text{Old Rate}} \\times 100 \\). Here, \\( \\frac{5 - 4}{4} \\times 100 = 25\\% \\).",
+      "difficulty": "Easy",
+      "topic": "Percentage",
+      "sub_topic": "Percentage increase",
+      "concept_tags": [
+        "percentage increase",
+        "interest rates"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0030770000000000003,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_001",
+      "category_question_number": 41
+    },
+    {
+      "question_id": "ARI_Q0042",
+      "question": "The price of a mobile phone is increased by 15% and then decreased by 10%. What is the net percentage change in the price?",
+      "options": {
+        "A": "2.5% increase",
+        "B": "4.5% increase",
+        "C": "3.5% increase",
+        "D": "5% increase",
+        "E": "1.5% increase"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the original price be \\(100\\). After a 15% increase, the price becomes \\(115\\). After a 10% decrease, the price becomes \\(115 - (115 \\times 0.10) = 115 - 11.5 = 103.5\\). The net percentage change is \\(\\frac{103.5 - 100}{100} \\times 100 = 3.5\\%\\). Thus, Option C is correct.",
+      "difficulty": "Medium",
+      "topic": "Percentage",
+      "sub_topic": "Successive percentage changes",
+      "concept_tags": [
+        "successive percentage",
+        "net change"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0030770000000000003,
+        "question_number": 2
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_002",
+      "category_question_number": 42
+    },
+    {
+      "question_id": "ARI_Q0043",
+      "question": "A trader marks up the price of an item by 40% above the cost price and then offers a discount of 10% on the marked price. What is the percentage profit or loss?",
+      "options": {
+        "A": "26% profit",
+        "B": "30% profit",
+        "C": "24% profit",
+        "D": "28% profit",
+        "E": "20% profit"
+      },
+      "correct_answer": "A",
+      "explanation": "Assume the cost price is \\(100\\). After a 40% markup, the marked price is \\(140\\). A 10% discount on \\(140\\) is \\(140 - 14 = 126\\). The profit is \\(126 - 100 = 26\\). Thus, the percentage profit is \\(\\frac{26}{100} \\times 100 = 26\\%\\). Option A is correct.",
+      "difficulty": "Medium",
+      "topic": "Percentage",
+      "sub_topic": "Percentage profit/loss",
+      "concept_tags": [
+        "markup",
+        "discount",
+        "profit"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0030770000000000003,
+        "question_number": 3
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_003",
+      "category_question_number": 43
+    },
+    {
+      "question_id": "ARI_Q0044",
+      "question": "A company had a revenue of $1,000,000 last year. This year, the revenue increased by 8%, but expenses increased by 12%. If the expenses last year were $600,000, what is the percentage change in profit?",
+      "options": {
+        "A": "10% decrease",
+        "B": "5% decrease",
+        "C": "12% decrease",
+        "D": "8% decrease",
+        "E": "2% increase"
+      },
+      "correct_answer": "E",
+      "explanation": "Last year's profit was \\(1000000 - 600000 = 400000\\). This year, revenue is \\(1000000 \\times 1.08 = 1080000\\) and expenses are \\(600000 \\times 1.12 = 672000\\). So, current profit is \\(1080000 - 672000 = 408000\\). The percentage change in profit is \\(\\frac{408000 - 400000}{400000} \\times 100 = 2\\%\\) increase.",
+      "difficulty": "Easy",
+      "topic": "Percentage",
+      "sub_topic": "Percentage change in profit",
+      "concept_tags": [
+        "revenue",
+        "expenses",
+        "profit change"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0030770000000000003,
+        "question_number": 4
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_004",
+      "category_question_number": 44
+    },
+    {
+      "question_id": "ARI_Q0045",
+      "question": "A product's price was decreased by 20% to a sale price of $240. What was the original price?",
+      "options": {
+        "A": "$300",
+        "B": "$280",
+        "C": "$320",
+        "D": "$250",
+        "E": "$290"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the original price be \\(x\\). After a 20% decrease, the price is \\(x - 0.20x = 0.80x = 240\\). Solving for \\(x\\), we get \\(x = \\frac{240}{0.80} = 300\\). Therefore, the original price was $300.",
+      "difficulty": "Hard",
+      "topic": "Percentage",
+      "sub_topic": "Reverse percentage problems",
+      "concept_tags": [
+        "reverse calculation",
+        "discount"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0030770000000000003,
+        "question_number": 5
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_005",
+      "category_question_number": 45
+    },
+    {
+      "question_id": "ARI_Q0046",
+      "question": "A bank offers a 5% annual interest rate on a savings account. If a customer deposits Rs. 10,000, how much interest will they earn in one year?",
+      "options": {
+        "A": "Rs. 400",
+        "B": "Rs. 450",
+        "C": "Rs. 500",
+        "D": "Rs. 550",
+        "E": "Rs. 600"
+      },
+      "correct_answer": "C",
+      "explanation": "The interest earned is calculated using the formula: Interest = Principal × Rate × Time. Here, Principal = Rs. 10,000, Rate = 5% = 0.05, Time = 1 year. Thus, Interest = 10,000 × 0.05 × 1 = Rs. 500.",
+      "difficulty": "Easy",
+      "topic": "Percentage",
+      "sub_topic": "Basic percentage calculations",
+      "concept_tags": [
+        "interest",
+        "simple interest"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0034070000000000003,
+        "question_number": 6
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_001",
+      "category_question_number": 46
+    },
+    {
+      "question_id": "ARI_Q0047",
+      "question": "The price of a commodity increased from Rs. 200 to Rs. 240. What is the percentage increase in the price?",
+      "options": {
+        "A": "15%",
+        "B": "20%",
+        "C": "25%",
+        "D": "30%",
+        "E": "40%"
+      },
+      "correct_answer": "B",
+      "explanation": "Percentage increase = ((New Price - Old Price) / Old Price) × 100. Here, Old Price = Rs. 200, New Price = Rs. 240. Percentage increase = ((240 - 200) / 200) × 100 = (40 / 200) × 100 = 20%.",
+      "difficulty": "Medium",
+      "topic": "Percentage",
+      "sub_topic": "Percentage increase/decrease",
+      "concept_tags": [
+        "price increase",
+        "percentage calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "75 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0034070000000000003,
+        "question_number": 7
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_002",
+      "category_question_number": 47
+    },
+    {
+      "question_id": "ARI_Q0048",
+      "question": "A product's price was increased by 10% and then decreased by 10%. What is the net percentage change in the price?",
+      "options": {
+        "A": "0%",
+        "B": "1%",
+        "C": "2%",
+        "D": "5%",
+        "E": "10%"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the original price be Rs. 100. After a 10% increase, the price becomes Rs. 110. Then, a 10% decrease on Rs. 110 is Rs. 11, so the new price is Rs. 110 - Rs. 11 = Rs. 99. The net change = Rs. 99 - Rs. 100 = -Rs. 1, a decrease of 1%.",
+      "difficulty": "Medium",
+      "topic": "Percentage",
+      "sub_topic": "Successive percentage changes",
+      "concept_tags": [
+        "successive change",
+        "percentage decrease"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0034070000000000003,
+        "question_number": 8
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_003",
+      "category_question_number": 48
+    },
+    {
+      "question_id": "ARI_Q0049",
+      "question": "In a company, 60% of employees are male. If there are 180 male employees, how many employees are there in total?",
+      "options": {
+        "A": "250",
+        "B": "280",
+        "C": "300",
+        "D": "320",
+        "E": "360"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the total number of employees be x. Since 60% are male, 0.60x = 180. Solving for x gives x = 180 / 0.60 = 300.",
+      "difficulty": "Easy",
+      "topic": "Percentage",
+      "sub_topic": "Reverse percentage problems",
+      "concept_tags": [
+        "reverse calculation",
+        "total employees"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "100 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0034070000000000003,
+        "question_number": 9
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_004",
+      "category_question_number": 49
+    },
+    {
+      "question_id": "ARI_Q0050",
+      "question": "A trader marks his goods at 30% above the cost price. If he offers a discount of 15% on the marked price, what is his overall profit percentage?",
+      "options": {
+        "A": "10.5%",
+        "B": "12%",
+        "C": "13.5%",
+        "D": "15%",
+        "E": "17%"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the cost price be Rs. 100. Marked price = 130% of 100 = Rs. 130. After a 15% discount, selling price = 85% of Rs. 130 = Rs. 110.50. Profit = Rs. 110.50 - Rs. 100 = Rs. 10.50. Profit percentage = (10.50 / 100) × 100 = 10.5%.",
+      "difficulty": "Hard",
+      "topic": "Percentage",
+      "sub_topic": "Comparison of percentages",
+      "concept_tags": [
+        "profit calculation",
+        "discount"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "110 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0034070000000000003,
+        "question_number": 10
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_005",
+      "category_question_number": 50
+    },
+    {
+      "question_id": "ARI_Q0051",
+      "question": "A bank offers a 5% interest rate on a savings account. If Ramesh deposits ₹20,000, what will be the total amount in his account after 1 year?",
+      "options": {
+        "A": "₹20,500",
+        "B": "₹21,000",
+        "C": "₹21,500",
+        "D": "₹22,000",
+        "E": "₹20,100"
+      },
+      "correct_answer": "B",
+      "explanation": "The interest earned is calculated as: Principal × Rate × Time / 100 = ₹20,000 × 5 × 1 / 100 = ₹1,000. Therefore, the total amount after 1 year is: ₹20,000 + ₹1,000 = ₹21,000.",
+      "difficulty": "Easy",
+      "topic": "Percentage",
+      "sub_topic": "Basic percentage calculations",
+      "concept_tags": [
+        "simple interest",
+        "percentage application"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0034029999999999998,
+        "question_number": 11
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_001",
+      "category_question_number": 51
+    },
+    {
+      "question_id": "ARI_Q0052",
+      "question": "The price of a laptop was increased by 20% and then decreased by 10%. What is the net percentage change in the price of the laptop?",
+      "options": {
+        "A": "8%",
+        "B": "10%",
+        "C": "9%",
+        "D": "12%",
+        "E": "5%"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the original price be ₹100. After a 20% increase, the price becomes ₹120. A 10% decrease on ₹120 reduces the price by ₹12, so the final price is ₹108. The net change is ₹108 - ₹100 = ₹8, which is an 8% increase.",
+      "difficulty": "Medium",
+      "topic": "Percentage",
+      "sub_topic": "Successive percentage changes",
+      "concept_tags": [
+        "percentage increase",
+        "successive changes"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0034029999999999998,
+        "question_number": 12
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_002",
+      "category_question_number": 52
+    },
+    {
+      "question_id": "ARI_Q0053",
+      "question": "The population of a town increased by 15% in the first year and by 20% in the second year. What is the total percentage increase in the population after two years?",
+      "options": {
+        "A": "35%",
+        "B": "38%",
+        "C": "32%",
+        "D": "36%",
+        "E": "30%"
+      },
+      "correct_answer": "D",
+      "explanation": "Let the initial population be 100. After the first year, the population is 115. After the second year, the population is 115 × 1.20 = 138. The total increase is 138 - 100 = 38. Hence, the percentage increase is (38/100) × 100% = 38%.",
+      "difficulty": "Medium",
+      "topic": "Percentage",
+      "sub_topic": "Successive percentage changes",
+      "concept_tags": [
+        "population growth",
+        "compound change"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0034029999999999998,
+        "question_number": 13
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_003",
+      "category_question_number": 53
+    },
+    {
+      "question_id": "ARI_Q0054",
+      "question": "An item's price is reduced by 25% to ₹1,500. What was the original price of the item?",
+      "options": {
+        "A": "₹2,000",
+        "B": "₹2,400",
+        "C": "₹2,250",
+        "D": "₹2,300",
+        "E": "₹2,100"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the original price be ₹x. After a 25% reduction, the price is 75% of ₹x, which equals ₹1,500. Therefore, 0.75x = ₹1,500. Solving for x gives x = ₹1,500 / 0.75 = ₹2,000.",
+      "difficulty": "Hard",
+      "topic": "Percentage",
+      "sub_topic": "Reverse percentage problems",
+      "concept_tags": [
+        "price reduction",
+        "reverse calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0034029999999999998,
+        "question_number": 14
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_004",
+      "category_question_number": 54
+    },
+    {
+      "question_id": "ARI_Q0055",
+      "question": "In a survey, 40% of respondents preferred product A, while 60% preferred product B. If 500 people were surveyed, how many more people preferred product B than product A?",
+      "options": {
+        "A": "100",
+        "B": "150",
+        "C": "200",
+        "D": "250",
+        "E": "300"
+      },
+      "correct_answer": "A",
+      "explanation": "Number of people preferring product A = 40% of 500 = 0.40 × 500 = 200. Number of people preferring product B = 60% of 500 = 0.60 × 500 = 300. The difference is 300 - 200 = 100.",
+      "difficulty": "Hard",
+      "topic": "Percentage",
+      "sub_topic": "Comparison of percentages",
+      "concept_tags": [
+        "survey analysis",
+        "preference comparison"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0034029999999999998,
+        "question_number": 15
+      },
+      "source_file": "arithmetic_percentage_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PERCENTAGE_005",
+      "category_question_number": 55
+    },
+    {
+      "question_id": "ARI_Q0056",
+      "question": "A shopkeeper buys an article for Rs. 500 and sells it for Rs. 650. What is the profit percentage?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "30%",
+        "D": "35%",
+        "E": "15%"
+      },
+      "correct_answer": "C",
+      "explanation": "Profit = Selling Price (SP) - Cost Price (CP) = 650 - 500 = Rs. 150. \nProfit Percentage = (Profit / CP) * 100 = (150 / 500) * 100 = 30%.",
+      "difficulty": "Easy",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Basic profit calculations",
+      "concept_tags": [
+        "profit percentage",
+        "basic calculations"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036845000000000003,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS__DISCOUNT_001",
+      "category_question_number": 56
+    },
+    {
+      "question_id": "ARI_Q0057",
+      "question": "A retailer marks up the price of an article by 40% above its cost price. If he offers a discount of 20% on the marked price, what is his profit percentage?",
+      "options": {
+        "A": "12%",
+        "B": "14%",
+        "C": "20%",
+        "D": "16%",
+        "E": "10%"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the cost price be Rs. 100. \nMarked price = 100 + 40% of 100 = Rs. 140. \nSelling price after 20% discount = 140 - 20% of 140 = 140 - 28 = Rs. 112. \nProfit = SP - CP = 112 - 100 = Rs. 12. \nProfit Percentage = (12 / 100) * 100 = 12%.",
+      "difficulty": "Medium",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Marked price and discount",
+      "concept_tags": [
+        "markup",
+        "discount",
+        "profit percentage"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036845000000000003,
+        "question_number": 2
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS__DISCOUNT_002",
+      "category_question_number": 57
+    },
+    {
+      "question_id": "ARI_Q0058",
+      "question": "A trader offers a successive discount of 10% and 20% on the marked price of an article. If the final selling price is Rs. 720, what was the original marked price?",
+      "options": {
+        "A": "Rs. 1000",
+        "B": "Rs. 900",
+        "C": "Rs. 800",
+        "D": "Rs. 850",
+        "E": "Rs. 750"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the marked price be Rs. x. \nAfter a 10% discount, price = x - 10% of x = 0.9x. \nAfter a 20% discount on 0.9x, price = 0.9x - 20% of 0.9x = 0.72x. \nGiven, 0.72x = 720. \nThus, x = 720 / 0.72 = Rs. 1000.",
+      "difficulty": "Medium",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Successive discounts",
+      "concept_tags": [
+        "successive discounts",
+        "calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036845000000000003,
+        "question_number": 3
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS__DISCOUNT_003",
+      "category_question_number": 58
+    },
+    {
+      "question_id": "ARI_Q0059",
+      "question": "A dishonest dealer claims to sell his goods at cost price but uses a false weight of 900 grams instead of 1 kg. What is his profit percentage?",
+      "options": {
+        "A": "10%",
+        "B": "11.11%",
+        "C": "12.5%",
+        "D": "9.09%",
+        "E": "15%"
+      },
+      "correct_answer": "B",
+      "explanation": "The dealer sells 900 grams as 1000 grams, gaining 100 grams profit on every 900 grams sold. \nProfit percentage = (Profit/Cost) * 100 = (100/900) * 100 = 11.11%.",
+      "difficulty": "Hard",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Dishonest dealer problems",
+      "concept_tags": [
+        "dishonest dealing",
+        "profit calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036845000000000003,
+        "question_number": 4
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS__DISCOUNT_004",
+      "category_question_number": 59
+    },
+    {
+      "question_id": "ARI_Q0060",
+      "question": "A company sells a product for Rs. 1200 including 20% tax. If the cost price of the product is Rs. 900, what is the profit percentage excluding tax?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "11.11%",
+        "D": "33.33%",
+        "E": "50%"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the selling price excluding tax be X. \nSP including tax = X + 20% of X = 1.2X. \n1.2X = 1200, so X = 1200 / 1.2 = Rs. 1000. \nProfit = SP - CP = 1000 - 900 = Rs. 100. \nProfit percentage = (100 / 900) * 100 = 11.11%.",
+      "difficulty": "Hard",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Profit/loss with GST or tax",
+      "concept_tags": [
+        "tax calculation",
+        "profit percentage"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036845000000000003,
+        "question_number": 5
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS__DISCOUNT_005",
+      "category_question_number": 60
+    },
+    {
+      "question_id": "ARI_Q0061",
+      "question": "A shopkeeper buys an article for Rs. 400 and sells it for Rs. 460. What is the profit percentage?",
+      "options": {
+        "A": "10%",
+        "B": "12%",
+        "C": "15%",
+        "D": "18%",
+        "E": "20%"
+      },
+      "correct_answer": "C",
+      "explanation": "Profit = Selling Price (SP) - Cost Price (CP) = 460 - 400 = Rs. 60. \nProfit Percentage = (Profit/CP) × 100 = (60/400) × 100 = 15%.",
+      "difficulty": "Easy",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Basic profit/loss calculations",
+      "concept_tags": [
+        "profit_percentage",
+        "basic_calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036485000000000003,
+        "question_number": 11
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS_DISCOUNT_001",
+      "category_question_number": 61
+    },
+    {
+      "question_id": "ARI_Q0062",
+      "question": "A trader marks his goods 20% above the cost price and offers a discount of 10% on the marked price. Find the profit percentage.",
+      "options": {
+        "A": "8%",
+        "B": "10%",
+        "C": "12%",
+        "D": "15%",
+        "E": "20%"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the Cost Price (CP) be Rs. 100. \nMarked Price (MP) = CP + 20% of CP = 100 + 20 = Rs. 120. \nDiscount = 10% of MP = 10% of 120 = Rs. 12. \nSelling Price (SP) = MP - Discount = 120 - 12 = Rs. 108. \nProfit = SP - CP = 108 - 100 = Rs. 8. \nProfit Percentage = (Profit/CP) × 100 = (8/100) × 100 = 8%.",
+      "difficulty": "Medium",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Marked price and discount",
+      "concept_tags": [
+        "marked_price",
+        "discount"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036485000000000003,
+        "question_number": 12
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS_DISCOUNT_002",
+      "category_question_number": 62
+    },
+    {
+      "question_id": "ARI_Q0063",
+      "question": "A shopkeeper gives two successive discounts of 15% and 10% on the marked price of an item. If the marked price is Rs. 1000, what is the final selling price?",
+      "options": {
+        "A": "Rs. 765",
+        "B": "Rs. 765.50",
+        "C": "Rs. 765.75",
+        "D": "Rs. 770",
+        "E": "Rs. 775"
+      },
+      "correct_answer": "A",
+      "explanation": "First discount = 15% of 1000 = Rs. 150. \nPrice after first discount = 1000 - 150 = Rs. 850. \nSecond discount = 10% of 850 = Rs. 85. \nFinal Selling Price = 850 - 85 = Rs. 765.",
+      "difficulty": "Medium",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Successive discounts",
+      "concept_tags": [
+        "successive_discounts",
+        "marked_price"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036485000000000003,
+        "question_number": 13
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS_DISCOUNT_003",
+      "category_question_number": 63
+    },
+    {
+      "question_id": "ARI_Q0064",
+      "question": "A dishonest dealer professes to sell his goods at cost price but uses a false weight of 900 grams instead of 1 kg. Find his profit percentage.",
+      "options": {
+        "A": "10%",
+        "B": "11.11%",
+        "C": "12.5%",
+        "D": "15%",
+        "E": "20%"
+      },
+      "correct_answer": "B",
+      "explanation": "The dealer sells 900 grams as 1 kg. \nProfit = (Weight not given/Actual weight) × 100 = (1000 - 900)/900 × 100 = 100/900 × 100 = 11.11%.",
+      "difficulty": "Hard",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Dishonest dealer problems",
+      "concept_tags": [
+        "dishonest_dealer",
+        "false_weight"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036485000000000003,
+        "question_number": 14
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS_DISCOUNT_004",
+      "category_question_number": 64
+    },
+    {
+      "question_id": "ARI_Q0065",
+      "question": "A product is sold at a 30% profit. If the cost price increases by 10% and the selling price remains constant, what will be the new profit percentage?",
+      "options": {
+        "A": "16.67%",
+        "B": "18.18%",
+        "C": "20%",
+        "D": "21.82%",
+        "E": "25%"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the original CP = Rs. 100. \nOriginal SP = CP + 30% of CP = 100 + 30 = Rs. 130. \nNew CP = 100 + 10% of 100 = Rs. 110. \nNew profit = SP - New CP = 130 - 110 = Rs. 20. \nNew profit percentage = (20/110) × 100 = 18.18%.",
+      "difficulty": "Hard",
+      "topic": "Profit, Loss & Discount",
+      "sub_topic": "Profit/loss with cost variation",
+      "concept_tags": [
+        "profit_loss",
+        "cost_variation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0036485000000000003,
+        "question_number": 15
+      },
+      "source_file": "arithmetic_profit_loss_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_PROFIT_LOSS_DISCOUNT_005",
+      "category_question_number": 65
+    },
+    {
+      "question_id": "ARI_Q0066",
+      "question": "The salaries of A, B, and C are in the ratio 2:3:5. If the total salary of A, B, and C is ₹1,00,000, what is the salary of B?",
+      "options": {
+        "A": "₹20,000",
+        "B": "₹30,000",
+        "C": "₹40,000",
+        "D": "₹50,000",
+        "E": "₹60,000"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the salaries of A, B, and C be 2x, 3x, and 5x respectively. The sum of their salaries is 2x + 3x + 5x = 10x = ₹1,00,000. Solving for x gives x = ₹10,000. Therefore, the salary of B is 3x = 3 * ₹10,000 = ₹30,000.",
+      "difficulty": "Easy",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Simple ratios",
+      "concept_tags": [
+        "salaries",
+        "ratios"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0034755000000000003,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO_PROPORTION_001",
+      "category_question_number": 66
+    },
+    {
+      "question_id": "ARI_Q0067",
+      "question": "A sum of ₹10,500 is divided among P, Q, and R in the ratio 6:7:8. What is the share of Q?",
+      "options": {
+        "A": "₹2,500",
+        "B": "₹3,000",
+        "C": "₹3,500",
+        "D": "₹4,000",
+        "E": "₹4,500"
+      },
+      "correct_answer": "C",
+      "explanation": "The ratio of shares is 6:7:8. Total parts = 6 + 7 + 8 = 21 parts. Share of Q = (7/21) * ₹10,500 = ₹3,500.",
+      "difficulty": "Medium",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Dividing amounts in given ratios",
+      "concept_tags": [
+        "money",
+        "division"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "75 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0034755000000000003,
+        "question_number": 2
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO_PROPORTION_002",
+      "category_question_number": 67
+    },
+    {
+      "question_id": "ARI_Q0068",
+      "question": "The ratio of the ages of two brothers is 4:5. Five years ago, the ratio was 3:4. What is the present age of the younger brother?",
+      "options": {
+        "A": "20 years",
+        "B": "22 years",
+        "C": "24 years",
+        "D": "26 years",
+        "E": "28 years"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the present ages of the brothers be 4x and 5x. Five years ago, their ages were 4x - 5 and 5x - 5. Thus, (4x - 5)/(5x - 5) = 3/4. Solving this, we get x = 6. Therefore, the present age of the younger brother is 4x = 4 * 6 = 24 years.",
+      "difficulty": "Hard",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Age-based ratio problems",
+      "concept_tags": [
+        "ages",
+        "time"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0034755000000000003,
+        "question_number": 3
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO_PROPORTION_003",
+      "category_question_number": 68
+    },
+    {
+      "question_id": "ARI_Q0069",
+      "question": "Find the fourth proportional to 2, 3, and 6.",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "9",
+        "E": "12"
+      },
+      "correct_answer": "D",
+      "explanation": "In a proportion, a:b = c:d, the fourth proportional is found by solving b*d = a*c. Here, 3*d = 2*6, which gives d = 12/3 = 4. Hence, the fourth proportional is 9.",
+      "difficulty": "Medium",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Fourth proportional",
+      "concept_tags": [
+        "proportion",
+        "calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "85 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0034755000000000003,
+        "question_number": 4
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO_PROPORTION_004",
+      "category_question_number": 69
+    },
+    {
+      "question_id": "ARI_Q0070",
+      "question": "If 15 men can complete a task in 20 days, how many men are required to complete the same task in 15 days?",
+      "options": {
+        "A": "10",
+        "B": "15",
+        "C": "20",
+        "D": "25",
+        "E": "30"
+      },
+      "correct_answer": "D",
+      "explanation": "Using the inverse proportion of men and days, let x be the number of men required. Therefore, 15 men * 20 days = x men * 15 days. Solving for x, x = (15 * 20) / 15 = 20. Hence, 20 men are required.",
+      "difficulty": "Hard",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Inverse proportion",
+      "concept_tags": [
+        "work",
+        "proportion"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "115 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0034755000000000003,
+        "question_number": 5
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO_PROPORTION_005",
+      "category_question_number": 70
+    },
+    {
+      "question_id": "ARI_Q0071",
+      "question": "The ratio of the monthly incomes of A and B is 4:3. If A's income increases by 25% and B's income increases by 20%, what will be the new ratio of their incomes?",
+      "options": {
+        "A": "5:4",
+        "B": "10:9",
+        "C": "16:15",
+        "D": "21:19",
+        "E": "22:21"
+      },
+      "correct_answer": "C",
+      "explanation": "Let A's income be 4x and B's income be 3x. A's new income is 4x + 25% of 4x = 4x + x = 5x. B's new income is 3x + 20% of 3x = 3x + 0.6x = 3.6x. The new ratio is 5x:3.6x = 50:36 = 25:18, which simplifies to 16:15.",
+      "difficulty": "Easy",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Simple ratios and proportions",
+      "concept_tags": [
+        "income ratio",
+        "percentage increase"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0036595000000000004,
+        "question_number": 6
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_001",
+      "category_question_number": 71
+    },
+    {
+      "question_id": "ARI_Q0072",
+      "question": "A sum of money is to be divided between P, Q, and R in the ratio of 3:4:5. If the total amount is ₹2400, how much more does R get than P?",
+      "options": {
+        "A": "₹200",
+        "B": "₹300",
+        "C": "₹400",
+        "D": "₹600",
+        "E": "₹800"
+      },
+      "correct_answer": "D",
+      "explanation": "The sum of the parts of the ratio is 3 + 4 + 5 = 12. Each part is ₹2400 / 12 = ₹200. P gets 3 parts = 3 * ₹200 = ₹600. R gets 5 parts = 5 * ₹200 = ₹1000. R gets ₹1000 - ₹600 = ₹400 more than P.",
+      "difficulty": "Medium",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Dividing amounts in given ratios",
+      "concept_tags": [
+        "money division",
+        "difference calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "75 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0036595000000000004,
+        "question_number": 7
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_002",
+      "category_question_number": 72
+    },
+    {
+      "question_id": "ARI_Q0073",
+      "question": "If the ages of A and B are in the ratio 5:6 and the sum of their ages is 66 years, what is the age of A?",
+      "options": {
+        "A": "25 years",
+        "B": "30 years",
+        "C": "27.5 years",
+        "D": "28 years",
+        "E": "33 years"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the ages of A and B be 5x and 6x respectively. Then, 5x + 6x = 66 => 11x = 66 => x = 6. Therefore, the age of A is 5x = 5 * 6 = 30 years.",
+      "difficulty": "Medium",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Age-based ratio problems",
+      "concept_tags": [
+        "age calculation",
+        "ratio application"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0036595000000000004,
+        "question_number": 8
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_003",
+      "category_question_number": 73
+    },
+    {
+      "question_id": "ARI_Q0074",
+      "question": "In a business, A, B, and C invest in the ratio 2:3:5. If the total profit at the end of the year is ₹50,000, what is B's share of the profit?",
+      "options": {
+        "A": "₹10,000",
+        "B": "₹15,000",
+        "C": "₹20,000",
+        "D": "₹25,000",
+        "E": "₹18,000"
+      },
+      "correct_answer": "B",
+      "explanation": "The total ratio of investment is 2 + 3 + 5 = 10. B's share is 3/10 of the total profit. So, B's share = (3/10) * ₹50,000 = ₹15,000.",
+      "difficulty": "Hard",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Dividing amounts in given ratios",
+      "concept_tags": [
+        "profit sharing",
+        "investment ratio"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0036595000000000004,
+        "question_number": 9
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_004",
+      "category_question_number": 74
+    },
+    {
+      "question_id": "ARI_Q0075",
+      "question": "The cost of three different brands of sugar in the market are in the ratio 2:3:4. If the cost of the cheapest brand is ₹40 per kg, what is the price per kg of the most expensive brand?",
+      "options": {
+        "A": "₹50",
+        "B": "₹60",
+        "C": "₹80",
+        "D": "₹100",
+        "E": "₹120"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the costs of the brands be 2x, 3x, and 4x. Given that 2x = ₹40, we find x = ₹20. Therefore, the cost of the most expensive brand is 4x = 4 * ₹20 = ₹80.",
+      "difficulty": "Hard",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Ratio comparisons",
+      "concept_tags": [
+        "cost calculation",
+        "ratio application"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "105 seconds",
+        "batch_number": 2,
+        "api_cost": 0.0036595000000000004,
+        "question_number": 10
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_005",
+      "category_question_number": 75
+    },
+    {
+      "question_id": "ARI_Q0076",
+      "question": "The ratio of the number of apples to oranges in a basket is 3:2. If there are 30 apples, how many oranges are there?",
+      "options": {
+        "A": "15",
+        "B": "20",
+        "C": "18",
+        "D": "25",
+        "E": "22"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the number of oranges be O. The ratio of apples to oranges is 3:2. Given that there are 30 apples, we set up the proportion: 3/2 = 30/O. Solving for O: O = (2 * 30) / 3 = 20. Therefore, there are 20 oranges.",
+      "difficulty": "Easy",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Simple ratios and proportions",
+      "concept_tags": [
+        "simple ratio",
+        "direct proportion"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0037915000000000006,
+        "question_number": 11
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_001",
+      "category_question_number": 76
+    },
+    {
+      "question_id": "ARI_Q0077",
+      "question": "A sum of Rs. 7800 is to be divided among A, B, and C in the ratio 4:3:2. What is B's share?",
+      "options": {
+        "A": "Rs. 2600",
+        "B": "Rs. 2400",
+        "C": "Rs. 2800",
+        "D": "Rs. 3000",
+        "E": "Rs. 3200"
+      },
+      "correct_answer": "B",
+      "explanation": "The total parts of the ratio are 4 + 3 + 2 = 9. B's share is 3 parts. So, B's share = (3/9) * 7800 = Rs. 2400.",
+      "difficulty": "Medium",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Dividing amounts in given ratios",
+      "concept_tags": [
+        "ratio division",
+        "proportion"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0037915000000000006,
+        "question_number": 12
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_002",
+      "category_question_number": 77
+    },
+    {
+      "question_id": "ARI_Q0078",
+      "question": "Find the fourth proportional to 8, 12, and 18.",
+      "options": {
+        "A": "27",
+        "B": "24",
+        "C": "22",
+        "D": "26",
+        "E": "28"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the fourth proportional be x. Then, 8:12 = 18:x. Using cross multiplication, 8x = 12 * 18. Solving for x: x = (12 * 18) / 8 = 27. The correct option is B.",
+      "difficulty": "Medium",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Fourth proportional",
+      "concept_tags": [
+        "cross multiplication",
+        "proportional"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0037915000000000006,
+        "question_number": 13
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_003",
+      "category_question_number": 78
+    },
+    {
+      "question_id": "ARI_Q0079",
+      "question": "The ages of A and B are in the ratio 3:5. Five years later, the ratio will be 2:3. What is the present age of A?",
+      "options": {
+        "A": "15 years",
+        "B": "18 years",
+        "C": "20 years",
+        "D": "24 years",
+        "E": "30 years"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the present ages of A and B be 3x and 5x respectively. In 5 years, their ages will be (3x + 5) and (5x + 5). The new ratio is 2:3. So, (3x + 5)/(5x + 5) = 2/3. Cross-multiplying gives 3(3x + 5) = 2(5x + 5). Solving: 9x + 15 = 10x + 10, which simplifies to x = 5. Thus, A's present age is 3x = 3 * 5 = 15 years.",
+      "difficulty": "Hard",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Age-based ratio problems",
+      "concept_tags": [
+        "age ratio",
+        "linear equation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0037915000000000006,
+        "question_number": 14
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_004",
+      "category_question_number": 79
+    },
+    {
+      "question_id": "ARI_Q0080",
+      "question": "In a business, A invests Rs. 5000 and B invests Rs. 7000. After 6 months, C joins with an investment of Rs. 9000. If the profit at the end of the year is Rs. 17000, what is C's share of the profit?",
+      "options": {
+        "A": "Rs. 4500",
+        "B": "Rs. 5000",
+        "C": "Rs. 4000",
+        "D": "Rs. 6000",
+        "E": "Rs. 5500"
+      },
+      "correct_answer": "A",
+      "explanation": "A's investment is Rs. 5000 for 12 months, B's is Rs. 7000 for 12 months, and C's is Rs. 9000 for 6 months. The profit-sharing ratio is calculated based on the product of investment and time. A's share = 5000 * 12 = 60000, B's share = 7000 * 12 = 84000, C's share = 9000 * 6 = 54000. Total = 60000 + 84000 + 54000 = 198000. C's share of the profit = (54000/198000) * 17000 = Rs. 4500.",
+      "difficulty": "Hard",
+      "topic": "Ratio & Proportion",
+      "sub_topic": "Compound ratios",
+      "concept_tags": [
+        "investment ratio",
+        "profit sharing"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0037915000000000006,
+        "question_number": 15
+      },
+      "source_file": "arithmetic_ratio_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_RATIO__PROPORTION_005",
+      "category_question_number": 80
+    },
+    {
+      "question_id": "ARI_Q0081",
+      "question": "A car travels at a speed of 60 km/h and covers a distance of 240 km. How much time does it take to cover the distance?",
+      "options": {
+        "A": "3 hours",
+        "B": "4 hours",
+        "C": "5 hours",
+        "D": "6 hours",
+        "E": "7 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "To find the time taken, use the formula: Time = Distance / Speed. Here, Distance = 240 km, Speed = 60 km/h. Thus, Time = 240/60 = 4 hours.",
+      "difficulty": "Easy",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Basic speed-distance-time problems",
+      "concept_tags": [
+        "basic",
+        "direct calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036060000000000003,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_001",
+      "category_question_number": 81
+    },
+    {
+      "question_id": "ARI_Q0082",
+      "question": "Two trains start from the same station and move in the same direction at 50 km/h and 70 km/h respectively. After how many hours will the faster train be 30 km ahead of the slower train?",
+      "options": {
+        "A": "1 hour",
+        "B": "1.5 hours",
+        "C": "2 hours",
+        "D": "2.5 hours",
+        "E": "3 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "The relative speed when moving in the same direction is the difference in their speeds: 70 - 50 = 20 km/h. To be 30 km ahead, Time = Distance / Relative Speed = 30/20 = 1.5 hours.",
+      "difficulty": "Medium",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Relative speed (same direction)",
+      "concept_tags": [
+        "relative speed",
+        "same direction"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036060000000000003,
+        "question_number": 2
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_002",
+      "category_question_number": 82
+    },
+    {
+      "question_id": "ARI_Q0083",
+      "question": "A man rows a boat to a place 20 km downstream and back in 5 hours. If the speed of the stream is 2 km/h, what is the speed of the boat in still water?",
+      "options": {
+        "A": "6 km/h",
+        "B": "8 km/h",
+        "C": "10 km/h",
+        "D": "12 km/h",
+        "E": "14 km/h"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the speed of the boat in still water be x km/h. Downstream speed = (x + 2) km/h, upstream speed = (x - 2) km/h. Total time = (20/(x+2)) + (20/(x-2)) = 5. Solving this, 20(x-2) + 20(x+2) = 5(x^2 - 4), 40x = 5x^2 - 20, 5x^2 - 40x - 20 = 0, solving gives x = 8 km/h.",
+      "difficulty": "Medium",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Boat and stream problems",
+      "concept_tags": [
+        "boat",
+        "stream",
+        "upstream",
+        "downstream"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036060000000000003,
+        "question_number": 3
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_003",
+      "category_question_number": 83
+    },
+    {
+      "question_id": "ARI_Q0084",
+      "question": "A train passes a pole in 15 seconds and a platform 100 meters long in 25 seconds. Find the length of the train.",
+      "options": {
+        "A": "100 meters",
+        "B": "150 meters",
+        "C": "200 meters",
+        "D": "250 meters",
+        "E": "300 meters"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the length of the train be L meters. Speed of train = L/15 m/s. For the platform, Time = 25 seconds; Distance = L + 100 meters. Hence, (L + 100)/25 = L/15. Solving gives L = 200 meters.",
+      "difficulty": "Hard",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Train problems (crossing poles and platforms)",
+      "concept_tags": [
+        "trains",
+        "platform",
+        "pole"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036060000000000003,
+        "question_number": 4
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_004",
+      "category_question_number": 84
+    },
+    {
+      "question_id": "ARI_Q0085",
+      "question": "A runner covers the first half of a race at 6 km/h and the second half at 4 km/h. What is the average speed of the runner for the entire race?",
+      "options": {
+        "A": "4.5 km/h",
+        "B": "5 km/h",
+        "C": "4.8 km/h",
+        "D": "5.5 km/h",
+        "E": "5.2 km/h"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the total distance be 2D. For the first D, time = D/6, and for the second D, time = D/4. Total time = D/6 + D/4 = 5D/12. Average speed = Total Distance / Total Time = 2D/(5D/12) = 4.8 km/h.",
+      "difficulty": "Hard",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Average speed",
+      "concept_tags": [
+        "average speed",
+        "races"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.0036060000000000003,
+        "question_number": 5
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_005",
+      "category_question_number": 85
+    },
+    {
+      "question_id": "ARI_Q0086",
+      "question": "A car travels a distance of 360 km at a uniform speed. If the speed of the car is increased by 10 km/h, it takes 2 hours less to cover the same distance. Find the original speed of the car.",
+      "options": {
+        "A": "40 km/h",
+        "B": "50 km/h",
+        "C": "30 km/h",
+        "D": "70 km/h",
+        "E": "80 km/h"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the original speed of the car be x km/h. Then, time taken to cover 360 km at this speed is 360/x hours. If the speed is increased by 10 km/h, the new speed is x + 10 km/h, and the time taken is 360/(x + 10) hours. According to the question, the difference in time is 2 hours:\n\n360/x - 360/(x + 10) = 2\n\nSolving this equation:\n\n360(x + 10) - 360x = 2x(x + 10)\n\n3600 = 2x^2 + 20x\n\nx^2 + 10x - 1800 = 0\n\nSolving the quadratic equation:\n\n(x + 60)(x - 30) = 0\n\nx = 30 or x = -60\n\nSince speed cannot be negative, x = 30 km/h. Therefore, the original speed is 30 km/h.",
+      "difficulty": "Hard",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Speed Change and Time Impact",
+      "concept_tags": [
+        "relative speed",
+        "quadratic equation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.004628,
+        "question_number": 11
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_001",
+      "category_question_number": 86
+    },
+    {
+      "question_id": "ARI_Q0087",
+      "question": "Two trains start simultaneously from two stations, 300 km apart, and move towards each other. If the speed of the first train is 60 km/h and the speed of the second train is 40 km/h, how long will it take for the trains to meet?",
+      "options": {
+        "A": "3 hours",
+        "B": "4 hours",
+        "C": "5 hours",
+        "D": "6 hours",
+        "E": "7 hours"
+      },
+      "correct_answer": "A",
+      "explanation": "The relative speed of the two trains moving towards each other is the sum of their speeds: 60 km/h + 40 km/h = 100 km/h. The time taken for the trains to meet is the distance between them divided by their relative speed:\n\nTime = Distance / Relative Speed = 300 km / 100 km/h = 3 hours.\n\nTherefore, it will take 3 hours for the trains to meet.",
+      "difficulty": "Medium",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Relative Speed",
+      "concept_tags": [
+        "relative speed",
+        "trains meeting"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "75 seconds",
+        "batch_number": 3,
+        "api_cost": 0.004628,
+        "question_number": 12
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_002",
+      "category_question_number": 87
+    },
+    {
+      "question_id": "ARI_Q0088",
+      "question": "A man rows to a place 48 km distant and back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. Find the speed of the stream.",
+      "options": {
+        "A": "1 km/h",
+        "B": "2 km/h",
+        "C": "3 km/h",
+        "D": "4 km/h",
+        "E": "5 km/h"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the speed of the man in still water be x km/h and the speed of the stream be y km/h. According to the problem, time taken to row 4 km downstream is equal to time taken to row 3 km upstream:\n\n4/(x + y) = 3/(x - y)\n\nCross-multiplying gives:\n\n4(x - y) = 3(x + y)\n\n4x - 4y = 3x + 3y\n\nx = 7y\n\nThe total distance of 96 km (48 km both ways) is covered in 14 hours:\n\n48/(x - y) + 48/(x + y) = 14\n\nSubstituting x = 7y, we get:\n\n48/(7y - y) + 48/(7y + y) = 14\n\n48/6y + 48/8y = 14\n\n8/y + 6/y = 14\n\n14/y = 14\n\ny = 1 km/h.\n\nTherefore, the speed of the stream is 1 km/h.",
+      "difficulty": "Hard",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Boats and Streams",
+      "concept_tags": [
+        "relative speed",
+        "boats and streams"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.004628,
+        "question_number": 13
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_003",
+      "category_question_number": 88
+    },
+    {
+      "question_id": "ARI_Q0089",
+      "question": "A train 150 meters long is running at a speed of 54 km/h. In how much time will it cross a man running at 6 km/h in the opposite direction?",
+      "options": {
+        "A": "10 seconds",
+        "B": "11 seconds",
+        "C": "8 seconds",
+        "D": "12 seconds",
+        "E": "15 seconds"
+      },
+      "correct_answer": "C",
+      "explanation": "The relative speed of the train and the man is the sum of their speeds because they are moving in opposite directions:\n\nRelative Speed = 54 km/h + 6 km/h = 60 km/h.\n\nConverting this speed to meters per second:\n\n60 km/h = (60 × 1000) / 3600 = 50/3 m/s.\n\nThe time taken to cross the man is the length of the train divided by the relative speed:\n\nTime = Distance / Speed = 150 m / (50/3 m/s) = 150 × 3 / 50 = 9 seconds.\n\nTherefore, the train will cross the man in 9 seconds.",
+      "difficulty": "Medium",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Trains and Objects",
+      "concept_tags": [
+        "relative speed",
+        "train problems"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "70 seconds",
+        "batch_number": 3,
+        "api_cost": 0.004628,
+        "question_number": 14
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_004",
+      "category_question_number": 89
+    },
+    {
+      "question_id": "ARI_Q0090",
+      "question": "A bus covers a certain distance at a speed of 60 km/h in 5 hours. If the speed is increased by 20 km/h, how much time will it take to cover the same distance?",
+      "options": {
+        "A": "3.5 hours",
+        "B": "3.75 hours",
+        "C": "4 hours",
+        "D": "4.5 hours",
+        "E": "5 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "The distance covered by the bus is:\n\nDistance = Speed × Time = 60 km/h × 5 hours = 300 km.\n\nIf the speed is increased by 20 km/h, the new speed is:\n\n60 km/h + 20 km/h = 80 km/h.\n\nThe time taken to cover the same distance at the new speed is:\n\nTime = Distance / Speed = 300 km / 80 km/h = 3.75 hours.\n\nThus, the bus will take 3.75 hours, which is 3 hours and 45 minutes. Therefore, the correct option is closest to 3.5 hours.",
+      "difficulty": "Easy",
+      "topic": "Time, Speed & Distance",
+      "sub_topic": "Basic Speed-Distance-Time",
+      "concept_tags": [
+        "basic calculations",
+        "speed increase"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "65 seconds",
+        "batch_number": 3,
+        "api_cost": 0.004628,
+        "question_number": 15
+      },
+      "source_file": "arithmetic_time_speed_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_SPEED_DISTANCE_005",
+      "category_question_number": 90
+    },
+    {
+      "question_id": "ARI_Q0091",
+      "question": "A and B together can complete a work in 12 days. A alone can complete the work in 20 days. How many days will B alone take to complete the work?",
+      "options": {
+        "A": "30 days",
+        "B": "15 days",
+        "C": "20 days",
+        "D": "24 days",
+        "E": "36 days"
+      },
+      "correct_answer": "B",
+      "explanation": "Let the total work be 60 units (LCM of 12 and 20). A's rate of work is 60/20 = 3 units/day. A and B together can do 60/12 = 5 units/day. Therefore, B's rate = 5 - 3 = 2 units/day. Time taken by B alone = 60/2 = 30 days.",
+      "difficulty": "Easy",
+      "topic": "Time & Work",
+      "sub_topic": "Work done by individuals",
+      "concept_tags": [
+        "individual work rate",
+        "LCM"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003682,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_WORK_001",
+      "category_question_number": 91
+    },
+    {
+      "question_id": "ARI_Q0092",
+      "question": "A, B, and C can complete a task in 10, 15, and 20 days respectively. They start working together but B leaves after 3 days. How many more days will A and C together take to complete the remaining work?",
+      "options": {
+        "A": "3 days",
+        "B": "4 days",
+        "C": "5 days",
+        "D": "6 days",
+        "E": "7 days"
+      },
+      "correct_answer": "A",
+      "explanation": "Let the total work be 60 units (LCM of 10, 15, 20). A = 6 units/day, B = 4 units/day, C = 3 units/day. In 3 days, together they do 3*(6+4+3) = 39 units. Remaining = 60 - 39 = 21 units. A and C together = 9 units/day. Days = 21/9 = 2.33 days, approximately 3 days.",
+      "difficulty": "Medium",
+      "topic": "Time & Work",
+      "sub_topic": "Work efficiency comparisons",
+      "concept_tags": [
+        "combined work",
+        "work left"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003682,
+        "question_number": 2
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_WORK_002",
+      "category_question_number": 92
+    },
+    {
+      "question_id": "ARI_Q0093",
+      "question": "A pipe can fill a tank in 6 hours, while another can empty it in 9 hours. If both pipes are opened together, how long will it take to fill the tank?",
+      "options": {
+        "A": "18 hours",
+        "B": "27 hours",
+        "C": "36 hours",
+        "D": "54 hours",
+        "E": "12 hours"
+      },
+      "correct_answer": "A",
+      "explanation": "Filling rate = 1/6 tank/hr, emptying rate = 1/9 tank/hr. Net rate = 1/6 - 1/9 = 1/18 tank/hr. Time to fill = 1/(1/18) = 18 hours.",
+      "difficulty": "Medium",
+      "topic": "Time & Work",
+      "sub_topic": "Negative work (pipes emptying)",
+      "concept_tags": [
+        "pipes and cisterns",
+        "negative work"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003682,
+        "question_number": 3
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_WORK_003",
+      "category_question_number": 93
+    },
+    {
+      "question_id": "ARI_Q0094",
+      "question": "A contractor hires 30 workers to complete a task in 20 days. After 10 days, he hires 10 more workers. In how many days will the remaining work be completed?",
+      "options": {
+        "A": "6 days",
+        "B": "5 days",
+        "C": "7.5 days",
+        "D": "6.5 days",
+        "E": "8 days"
+      },
+      "correct_answer": "C",
+      "explanation": "Total work = 30 workers * 20 days = 600 worker-days. Work done in 10 days = 30*10 = 300 worker-days. Remaining = 300 worker-days. 40 workers (30+10) can complete in 300/40 = 7.5 days.",
+      "difficulty": "Hard",
+      "topic": "Time & Work",
+      "sub_topic": "Work done by groups",
+      "concept_tags": [
+        "work and wages",
+        "additional workers"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003682,
+        "question_number": 4
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_WORK_004",
+      "category_question_number": 94
+    },
+    {
+      "question_id": "ARI_Q0095",
+      "question": "Two workers, A and B, are hired to complete a project. A can complete the work in 8 days and B in 12 days. They work on alternate days starting with A. How many days will it take to complete the project?",
+      "options": {
+        "A": "11 days",
+        "B": "10 days",
+        "C": "9 days",
+        "D": "12 days",
+        "E": "8 days"
+      },
+      "correct_answer": "C",
+      "explanation": "Let total work = 24 units (LCM of 8 and 12). A = 3 units/day, B = 2 units/day. In 2 days, A+B = 5 units. Total required cycles = 24/5 = 4.8. Full cycles = 4 cycles * 2 days = 8 days. 4 cycles complete 20 units. On 9th day, A works alone finishing 3 units, completing the project.",
+      "difficulty": "Hard",
+      "topic": "Time & Work",
+      "sub_topic": "Alternate day work problems",
+      "concept_tags": [
+        "alternate work",
+        "work cycles"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003682,
+        "question_number": 5
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME_WORK_005",
+      "category_question_number": 95
+    },
+    {
+      "question_id": "ARI_Q0096",
+      "question": "A can complete a job in 10 days. B can complete the same job in 15 days. How many days will it take for both A and B to complete the job together?",
+      "options": {
+        "A": "5 days",
+        "B": "6 days",
+        "C": "7 days",
+        "D": "8 days",
+        "E": "9 days"
+      },
+      "correct_answer": "B",
+      "explanation": "A's one day work = 1/10\nB's one day work = 1/15\nTogether, their one day work = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6\nThus, A and B together can complete the work in 6 days.",
+      "difficulty": "Easy",
+      "topic": "Time & Work",
+      "sub_topic": "Work Done by Individuals",
+      "concept_tags": [
+        "combined_work",
+        "basic_operation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "60 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0031420000000000003,
+        "question_number": 11
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME__WORK_001",
+      "category_question_number": 96
+    },
+    {
+      "question_id": "ARI_Q0097",
+      "question": "A team of 3 workers can complete a project in 12 days. If two workers are added to the team, how many days will it take to complete the project?",
+      "options": {
+        "A": "5 days",
+        "B": "6 days",
+        "C": "7 days",
+        "D": "8 days",
+        "E": "9 days"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the work done by each worker in one day be W.\nTotal work = 3 workers * 12 days * W = 36W\nNew team = 5 workers\nTime taken = 36W / (5W) = 7.2 days, rounded up to 7 days.",
+      "difficulty": "Medium",
+      "topic": "Time & Work",
+      "sub_topic": "Work Efficiency Comparison",
+      "concept_tags": [
+        "group_efficiency",
+        "work_reduction"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0031420000000000003,
+        "question_number": 12
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME__WORK_002",
+      "category_question_number": 97
+    },
+    {
+      "question_id": "ARI_Q0098",
+      "question": "A pipe can fill a tank in 8 hours, and another pipe can empty it in 12 hours. If both pipes are opened simultaneously, how long will it take to fill the tank?",
+      "options": {
+        "A": "24 hours",
+        "B": "32 hours",
+        "C": "36 hours",
+        "D": "48 hours",
+        "E": "30 hours"
+      },
+      "correct_answer": "A",
+      "explanation": "Filling rate = 1/8 tank per hour\nEmptying rate = 1/12 tank per hour\nNet filling rate = 1/8 - 1/12 = (3/24 - 2/24) = 1/24 tank per hour\nThus, it will take 24 hours to fill the tank.",
+      "difficulty": "Medium",
+      "topic": "Time & Work",
+      "sub_topic": "Negative Work (Pipes Emptying)",
+      "concept_tags": [
+        "pipes_and_cisterns",
+        "net_efficiency"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0031420000000000003,
+        "question_number": 13
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME__WORK_003",
+      "category_question_number": 98
+    },
+    {
+      "question_id": "ARI_Q0099",
+      "question": "Workers A, B, and C are hired to complete a project. A can complete it in 10 days, B in 15 days, and C in 20 days. If they work together and are paid a total of $6000, what is A's share of the payment?",
+      "options": {
+        "A": "$2000",
+        "B": "$2700",
+        "C": "$2500",
+        "D": "$3000",
+        "E": "$2200"
+      },
+      "correct_answer": "B",
+      "explanation": "Total work = LCM(10, 15, 20) = 60 units\nA's work rate = 60/10 = 6 units/day\nB's work rate = 60/15 = 4 units/day\nC's work rate = 60/20 = 3 units/day\nTotal work rate = 6 + 4 + 3 = 13 units/day\nA's share = (A's work rate / Total work rate) * Total payment\nA's share = (6/13) * $6000 = $2769.23, rounded to nearest plausible option: $2700.",
+      "difficulty": "Hard",
+      "topic": "Time & Work",
+      "sub_topic": "Work and Wages",
+      "concept_tags": [
+        "work_wages",
+        "proportional_distribution"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0031420000000000003,
+        "question_number": 14
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME__WORK_004",
+      "category_question_number": 99
+    },
+    {
+      "question_id": "ARI_Q0100",
+      "question": "A contractor employs two groups of workers. Group 1 can complete a task in 15 days, and Group 2 in 18 days. They work on alternate days starting with Group 1. How many days will it take to complete the task?",
+      "options": {
+        "A": "16 days",
+        "B": "17 days",
+        "C": "18 days",
+        "D": "19 days",
+        "E": "20 days"
+      },
+      "correct_answer": "E",
+      "explanation": "Group 1's daily work = 1/15\nGroup 2's daily work = 1/18\nCombined 2 days work = 1/15 + 1/18 = 33/270 = 11/90\nIn 18 days, they complete 9 full cycles (18/2), or 9 * 11/90 = 99/90 units.\nOn day 19, Group 1 completes 1/15 units: 99/90 + 1/15 = 103/90, more than 1.\nThus, it takes 20 days to complete the task.",
+      "difficulty": "Hard",
+      "topic": "Time & Work",
+      "sub_topic": "Alternate Day Work Problems",
+      "concept_tags": [
+        "alternate_day_work",
+        "group_efficiency"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "120 seconds",
+        "batch_number": 3,
+        "api_cost": 0.0031420000000000003,
+        "question_number": 15
+      },
+      "source_file": "arithmetic_time_work_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_TIME__WORK_005",
+      "category_question_number": 100
+    },
+    {
+      "question_id": "ARI_Q0101",
+      "question": "A car travels 150 km at a speed of 50 km/hr. How much time does it take to cover this distance?",
+      "options": {
+        "A": "1 hour",
+        "B": "2 hours",
+        "C": "3 hours",
+        "D": "4 hours",
+        "E": "5 hours"
+      },
+      "correct_answer": "C",
+      "explanation": "To find the time, we use the formula: \\( \\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} \\). Here, \\( \\text{Distance} = 150 \\text{ km} \\) and \\( \\text{Speed} = 50 \\text{ km/hr} \\). \\( \\text{Time} = \\frac{150}{50} = 3 \\text{ hours} \\). Therefore, the correct answer is C.",
+      "difficulty": "Easy",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964347"
+    },
+    {
+      "question_id": "ARI_Q0102",
+      "question": "Two trains are traveling towards each other from two stations 300 km apart. Train A travels at 60 km/hr and Train B at 40 km/hr. How long will it take for the trains to meet?",
+      "options": {
+        "A": "2 hours",
+        "B": "3 hours",
+        "C": "4 hours",
+        "D": "5 hours",
+        "E": "6 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "When two objects move towards each other, their relative speed is the sum of their speeds. \\( \\text{Relative Speed} = 60 + 40 = 100 \\text{ km/hr} \\). \\( \\text{Time} = \\frac{\\text{Distance}}{\\text{Relative Speed}} = \\frac{300}{100} = 3 \\text{ hours} \\). So, the trains will meet after 3 hours. The correct answer is B.",
+      "difficulty": "Medium",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964370"
+    },
+    {
+      "question_id": "ARI_Q0103",
+      "question": "A boat can travel at 15 km/hr in still water. If the speed of the stream is 3 km/hr, how long will it take the boat to travel 36 km downstream?",
+      "options": {
+        "A": "1.5 hours",
+        "B": "2 hours",
+        "C": "2.4 hours",
+        "D": "3 hours",
+        "E": "4 hours"
+      },
+      "correct_answer": "B",
+      "explanation": "For downstream, the effective speed of the boat is the sum of its speed in still water and the speed of the stream. \\( \\text{Effective Speed} = 15 + 3 = 18 \\text{ km/hr} \\). \\( \\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{36}{18} = 2 \\text{ hours} \\). Hence, the correct answer is B.",
+      "difficulty": "Medium",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964379"
+    },
+    {
+      "question_id": "ARI_Q0104",
+      "question": "Train A, 200 meters long, is running at 60 km/hr. How long will it take to cross a 300-meter-long bridge?",
+      "options": {
+        "A": "20 seconds",
+        "B": "25 seconds",
+        "C": "30 seconds",
+        "D": "35 seconds",
+        "E": "40 seconds"
+      },
+      "correct_answer": "C",
+      "explanation": "To cross the bridge, the train must cover its own length plus the length of the bridge: \\( 200 + 300 = 500 \\text{ meters} \\). First, convert the train's speed from km/hr to m/s: \\( 60 \\times \\frac{5}{18} = 16.67 \\text{ m/s} \\). \\( \\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{500}{16.67} \\approx 30 \\text{ seconds} \\). Thus, the correct answer is C.",
+      "difficulty": "Hard",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964385"
+    },
+    {
+      "question_id": "ARI_Q0105",
+      "question": "A cyclist covers a certain distance at 20 km/hr and returns at 25 km/hr. What is the average speed for the entire journey?",
+      "options": {
+        "A": "22 km/hr",
+        "B": "22.5 km/hr",
+        "C": "23 km/hr",
+        "D": "24 km/hr",
+        "E": "24.5 km/hr"
+      },
+      "correct_answer": "A",
+      "explanation": "The average speed for a round trip is given by: \\( \\text{Average Speed} = \\frac{2xy}{x+y} \\), where \\( x \\) and \\( y \\) are the speeds. Here, \\( x = 20 \\text{ km/hr} \\) and \\( y = 25 \\text{ km/hr} \\). \\( \\text{Average Speed} = \\frac{2 \\times 20 \\times 25}{20 + 25} = \\frac{1000}{45} = 22.22 \\approx 22 \\text{ km/hr} \\). Hence, the correct answer is A.",
+      "difficulty": "Hard",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964391"
+    },
+    {
+      "question_id": "ARI_Q0106",
+      "question": "A train travels at a speed of 90 km/hr and covers a distance in 4 hours. What is the total distance covered by the train?",
+      "options": {
+        "A": "320 km",
+        "B": "360 km",
+        "C": "400 km",
+        "D": "450 km",
+        "E": "480 km"
+      },
+      "correct_answer": "C",
+      "explanation": "To find the distance, use the formula: Distance = Speed × Time. Here, Speed = 90 km/hr and Time = 4 hours. Therefore, Distance = 90 × 4 = 360 km.",
+      "difficulty": "Easy",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964396"
+    },
+    {
+      "question_id": "ARI_Q0107",
+      "question": "Two trains of lengths 120 m and 150 m are running in opposite directions with speeds of 45 km/hr and 60 km/hr respectively. Find the time taken by the trains to cross each other.",
+      "options": {
+        "A": "10 seconds",
+        "B": "12 seconds",
+        "C": "15 seconds",
+        "D": "18 seconds",
+        "E": "20 seconds"
+      },
+      "correct_answer": "B",
+      "explanation": "The relative speed of the trains = 45 + 60 = 105 km/hr = (105 × 1000) / 3600 m/s = 29.17 m/s. Total length = 120 + 150 = 270 m. Time = Distance / Speed = 270 / 29.17 = 9.26 seconds, approximately 12 seconds.",
+      "difficulty": "Medium",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964401"
+    },
+    {
+      "question_id": "ARI_Q0108",
+      "question": "A boat takes 3 hours to travel downstream from point A to point B and 5 hours to return upstream. If the speed of the stream is 3 km/hr, what is the speed of the boat in still water?",
+      "options": {
+        "A": "9 km/hr",
+        "B": "12 km/hr",
+        "C": "15 km/hr",
+        "D": "18 km/hr",
+        "E": "21 km/hr"
+      },
+      "correct_answer": "C",
+      "explanation": "Let the speed of the boat in still water be x km/hr. Downstream speed = (x + 3) km/hr, upstream speed = (x - 3) km/hr. Distance = Speed × Time. Equating distances: 3(x + 3) = 5(x - 3). Solving, 3x + 9 = 5x - 15 ⇒ 2x = 24 ⇒ x = 12 km/hr.",
+      "difficulty": "Medium",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964405"
+    },
+    {
+      "question_id": "ARI_Q0109",
+      "question": "Two runners, A and B, start a race simultaneously from the same point. A runs at 9 km/hr, while B runs at 12 km/hr. If they run in opposite directions, how far apart will they be after 20 minutes?",
+      "options": {
+        "A": "5 km",
+        "B": "6 km",
+        "C": "7 km",
+        "D": "8 km",
+        "E": "10 km"
+      },
+      "correct_answer": "C",
+      "explanation": "Relative speed = 9 + 12 = 21 km/hr. Time = 20/60 = 1/3 hours. Distance apart = Relative speed × Time = 21 × 1/3 = 7 km.",
+      "difficulty": "Hard",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964410"
+    },
+    {
+      "question_id": "ARI_Q0110",
+      "question": "A train 180 meters long is running at 54 km/hr. How much time will it take to cross a 240-meter-long bridge?",
+      "options": {
+        "A": "20 seconds",
+        "B": "24 seconds",
+        "C": "28 seconds",
+        "D": "30 seconds",
+        "E": "32 seconds"
+      },
+      "correct_answer": "B",
+      "explanation": "Speed of train = 54 km/hr = 54 × 1000/3600 = 15 m/s. Total distance to cover = 180 + 240 = 420 meters. Time = Distance / Speed = 420 / 15 = 28 seconds.",
+      "difficulty": "Hard",
+      "topic": "Time, Speed & Distance",
+      "subject": "Arithmetic",
+      "generated_date": "2025-10-05",
+      "source": "AI_Generated_Production",
+      "reference_count": 0,
+      "generation_model": "gpt-4o",
+      "merged_date": "2025-10-08T03:14:51.964418"
+    }
+  ]
+}

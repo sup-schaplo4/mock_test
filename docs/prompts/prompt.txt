@@ -1,0 +1,358 @@
+# 📋 **QUANTITATIVE APTITUDE GENERATION STRATEGY - MASTER REFERENCE**
+
+**Save this document! Paste it back if context is lost.**
+
+---
+
+## 🎯 **Core Strategy: Approach 1 - Modular Generation**
+
+### **Key Decisions:**
+✅ **Separate generator per question type** (8 total scripts)  
+✅ **One set/batch per API call** (maximum quality & variety)  
+✅ **Cost is NOT a concern** - prioritize quality over efficiency  
+✅ **Generate in small batches** for better control  
+✅ **Difficulty distribution enforced** in every generation  
+
+---
+
+## 📊 **Complete Question Distribution (300 Total)**
+
+### **Data Interpretation: 120 questions (24 sets × 5 questions)**
+| Type | Sets | Questions | Difficulty Distribution per Set Type |
+|------|------|-----------|--------------------------------------|
+| Tabular DI | 5 sets | 25 | 1 Easy set, 2 Medium sets, 2 Hard sets |
+| Bar Graphs | 5 sets | 25 | 1 Easy set, 2 Medium sets, 2 Hard sets |
+| Line Graphs | 5 sets | 25 | 1 Easy set, 2 Medium sets, 2 Hard sets |
+| Pie Charts | 5 sets | 25 | 1 Easy set, 2 Medium sets, 2 Hard sets |
+| Caselet DI | 4 sets | 20 | 1 Easy set, 1 Medium set, 2 Hard sets |
+
+### **Arithmetic: 120 questions (8 topics × 15 questions)**
+| Topic | Questions | Difficulty Distribution |
+|-------|-----------|-------------------------|
+| Percentage | 15 | 3 Easy, 6 Medium, 6 Hard |
+| Profit, Loss & Discount | 15 | 3 Easy, 6 Medium, 6 Hard |
+| Simple & Compound Interest | 15 | 3 Easy, 6 Medium, 6 Hard |
+| Ratio & Proportion | 15 | 3 Easy, 6 Medium, 6 Hard |
+| Time, Speed & Distance | 15 | 3 Easy, 6 Medium, 6 Hard |
+| Time & Work | 15 | 3 Easy, 6 Medium, 6 Hard |
+| Averages | 15 | 3 Easy, 6 Medium, 6 Hard |
+| Mixtures & Alligations | 15 | 3 Easy, 6 Medium, 6 Hard |
+
+### **Miscellaneous: 60 questions**
+| Topic | Questions | Difficulty Distribution |
+|-------|-----------|-------------------------|
+| Number Series | 30 | 6 Easy, 12 Medium, 12 Hard |
+| Quadratic Equations | 30 | 6 Easy, 12 Medium, 12 Hard |
+
+---
+
+## 🏗️ **Project Structure**
+
+```
+generate_quant_questions/
+│
+├── utils/
+│   ├── __init__.py
+│   └── quant_utils.py                 # Shared utilities
+│
+├── prompts/
+│   ├── __init__.py
+│   ├── di_prompts.py                  # All DI type prompts
+│   ├── arithmetic_prompts.py          # All arithmetic prompts
+│   └── misc_prompts.py                # Number Series, Quadratic
+│
+├── generators/
+│   ├── generate_di_tabular.py         # 5 API calls (1 per set)
+│   ├── generate_di_bar.py             # 5 API calls (1 per set)
+│   ├── generate_di_line.py            # 5 API calls (1 per set)
+│   ├── generate_di_pie.py             # 5 API calls (1 per set)
+│   ├── generate_di_caselet.py         # 4 API calls (1 per set)
+│   ├── generate_arithmetic.py         # 8 API calls (1 per topic)
+│   ├── generate_number_series.py      # 3 API calls (10 questions each)
+│   └── generate_quadratic.py          # 3 API calls (10 questions each)
+│
+├── merge_quant_questions.py           # Merge all into master file
+└── run_all_generators.py              # Optional: Master runner
+
+data/
+└── generated/
+    └── quant_questions/
+        ├── di_tabular_questions.json
+        ├── di_bar_questions.json
+        ├── di_line_questions.json
+        ├── di_pie_questions.json
+        ├── di_caselet_questions.json
+        ├── arithmetic_questions.json
+        ├── number_series_questions.json
+        ├── quadratic_questions.json
+        └── quant_master_questions.json     # Final merged file
+```
+
+---
+
+## 🔑 **Generation Strategy - API Call Structure**
+
+### **For DI Sets (24 total sets → 24 API calls)**
+
+#### **Pattern: ONE SET PER API CALL**
+
+**Example: Tabular DI (5 sets)**
+```
+API Call 1 → Generate DI_TABLE_001 (Easy set: 1 easy + 2 easy/med + 2 medium questions)
+API Call 2 → Generate DI_TABLE_002 (Medium set: 1 medium + 3 medium + 1 hard questions)
+API Call 3 → Generate DI_TABLE_003 (Medium set: 1 medium + 3 medium + 1 hard questions)
+API Call 4 → Generate DI_TABLE_004 (Hard set: 2 medium + 2 hard + 1 very hard questions)
+API Call 5 → Generate DI_TABLE_005 (Hard set: 2 medium + 2 hard + 1 very hard questions)
+```
+
+**Each API call generates:**
+- ✅ 1 complete data source (table/graph/caselet)
+- ✅ 5 related questions based on that data
+- ✅ All questions in progressive difficulty within the set
+- ✅ Complete JSON structure for the entire set
+
+**Total DI API Calls: 24**
+- Tabular: 5 calls
+- Bar: 5 calls
+- Line: 5 calls
+- Pie: 5 calls
+- Caselet: 4 calls
+
+---
+
+### **For Arithmetic (8 topics → 8 API calls)**
+
+#### **Pattern: ONE TOPIC (15 questions) PER API CALL**
+
+**Example: Percentage (15 questions)**
+```
+API Call 1 → Generate ALL 15 Percentage questions
+             (3 Easy + 6 Medium + 6 Hard)
+             Each question is independent
+```
+
+**Each API call generates:**
+- ✅ 15 independent questions for ONE topic
+- ✅ 3 Easy, 6 Medium, 6 Hard (enforced in prompt)
+- ✅ All questions follow standard JSON format
+- ✅ Variety within the topic (different sub-concepts)
+
+**Total Arithmetic API Calls: 8**
+- One call per topic (Percentage, Profit/Loss, Interest, etc.)
+
+---
+
+### **For Miscellaneous (2 topics → 6 API calls)**
+
+#### **Pattern: 10 QUESTIONS PER API CALL**
+
+**Example: Number Series (30 questions)**
+```
+API Call 1 → Generate 10 questions (2 Easy + 4 Medium + 4 Hard)
+API Call 2 → Generate 10 questions (2 Easy + 4 Medium + 4 Hard)
+API Call 3 → Generate 10 questions (2 Easy + 4 Medium + 4 Hard)
+```
+
+**Total Miscellaneous API Calls: 6**
+- Number Series: 3 calls (10 questions each)
+- Quadratic Equations: 3 calls (10 questions each)
+
+---
+
+## 📐 **Difficulty Distribution Strategy**
+
+### **Overall Target (300 questions):**
+- **Easy: 20%** → 60 questions
+- **Medium: 40%** → 120 questions
+- **Hard: 40%** → 120 questions
+
+### **DI Sets - Set-Level Difficulty:**
+
+Each DI set has a difficulty label, which determines question distribution within it:
+
+#### **Easy Set (1 per DI type):**
+- Q1: Easy (direct reading)
+- Q2: Easy (simple calculation)
+- Q3: Easy-Medium (basic comparison)
+- Q4: Medium (percentage/ratio)
+- Q5: Medium (multi-step)
+
+#### **Medium Set (2 per DI type):**
+- Q1: Easy-Medium
+- Q2: Medium
+- Q3: Medium
+- Q4: Medium-Hard
+- Q5: Hard
+
+#### **Hard Set (2 per DI type):**
+- Q1: Medium
+- Q2: Medium
+- Q3: Medium-Hard
+- Q4: Hard
+- Q5: Hard (complex multi-step)
+
+### **Arithmetic - Question-Level Difficulty:**
+
+Each topic (15 questions):
+- **3 Easy (20%)**: Direct formula application, single-step
+- **6 Medium (40%)**: Two-step problems, standard variations
+- **6 Hard (40%)**: Multi-concept, tricky scenarios, complex calculations
+
+### **Miscellaneous - Question-Level Difficulty:**
+
+Each batch (10 questions):
+- **2 Easy (20%)**: Simple patterns/equations
+- **4 Medium (40%)**: Standard complexity
+- **4 Hard (40%)**: Complex patterns/multiple solutions
+
+---
+
+## 🎨 **JSON Structure - Two Types**
+
+### **Type 1: DI Set (Nested Structure)**
+
+```json
+{
+  "di_set_id": "DI_TABLE_001",
+  "topic": "Data Interpretation (Table)",
+  "difficulty": "Easy",
+  "data_source": {
+    "type": "table",
+    "title": "Sales Data for Products A, B, C (2022-2024)",
+    "data": {
+      "headers": ["Product", "2022", "2023", "2024"],
+      "rows": [
+        ["Product A", 450, 480, 520],
+        ["Product B", 600, 620, 610],
+        ["Product C", 550, 530, 540]
+      ]
+    }
+  },
+  "questions": [
+    {
+      "question_id": "DI_TABLE_001_Q1",
+      "question": "What was the sales figure for Product B in 2023?",
+      "options": {
+        "A": "600",
+        "B": "610",
+        "C": "620",
+        "D": "630",
+        "E": "640"
+      },
+      "correct_answer": "C",
+      "explanation": "From the table, Product B sales in 2023 = 620.",
+      "difficulty": "Easy",
+      "question_type": "direct_reading"
+    }
+    // ... 4 more questions
+  ],
+  "metadata": {
+    "generated_by": "gpt-4o",
+    "generation_date": "2025-10-05",
+    "exam": "RBI Grade B Phase 1",
+    "reviewed": false,
+    "set_time_estimate": "8-10 minutes"
+  }
+}
+```
+
+### **Type 2: Independent Question (Standard Structure)**
+
+```json
+{
+  "question_id": "ARITH_PERCENTAGE_001",
+  "question": "A number is increased by 20% and then decreased by 20%. What is the net percentage change?",
+  "options": {
+    "A": "No change",
+    "B": "4% increase",
+    "C": "4% decrease",
+    "D": "2% increase",
+    "E": "2% decrease"
+  },
+  "correct_answer": "C",
+  "explanation": "Let original = 100. After 20% increase = 120. After 20% decrease on 120 = 120 - 24 = 96. Net change = 100 - 96 = 4% decrease.",
+  "difficulty": "Medium",
+  "topic": "Percentage",
+  "sub_topic": "Successive Percentage Change",
+  "concept_tags": ["percentage_change", "successive_operations"],
+  "main_category": "Quantitative Aptitude",
+  "subject": "Arithmetic",
+  "exam": "RBI Grade B Phase 1",
+  "metadata": {
+    "generated_by": "gpt-4o",
+    "generation_date": "2025-10-05",
+    "reviewed": false,
+    "estimated_time": "60-90 seconds"
+  }
+}
+```
+
+---
+
+## 🛠️ **Key Functions in `quant_utils.py`**
+
+```python
+# Essential utility functions
+
+def generate_with_openai(prompt, model="gpt-4", max_tokens=3000):
+    """
+    Wrapper for OpenAI API calls
+    Returns: {"success": bool, "data": dict/list, "error": str}
+    """
+    pass
+
+def validate_di_set(di_set, expected_questions=5):
+    """
+    Comprehensive validation for DI sets
+    Checks: structure, question count, options, data consistency
+    Returns: {"valid": bool, "errors": list, "warnings": list}
+    """
+    pass
+
+def validate_arithmetic_question(question):
+    """
+    Validation for individual arithmetic questions
+    Checks: all required fields, 5 options, valid answer, explanation
+    Returns: {"valid": bool, "errors": list}
+    """
+    pass
+
+def save_to_json(data, filepath, indent=2):
+    """Save data to JSON file with pretty printing"""
+    pass
+
+def load_from_json(filepath):
+    """Load data from JSON file"""
+    pass
+
+def calculate_cost(prompt_tokens, completion_tokens, model="gpt-4"):
+    """Calculate approximate API cost"""
+    pass
+
+def get_difficulty_for_set(set_num, total_sets):
+    """
+    Determine difficulty level for a DI set based on its number
+    Pattern: 1 Easy, 2 Medium, 2 Hard (adjust for different totals)
+    """
+    pass
+
+def log_generation_progress(current, total, topic):
+    """Log progress during generation"""
+    pass
+
+Utility module provides a comprehensive set of helper functions for:
+
+API Integration - OpenAI API calls with error handling
+JSON Operations - Parsing, saving, loading, merging JSON files
+Validation - Question and DI set validation functions
+Cost Calculation - Track OpenAI API costs
+Statistics & Reporting - Generate reports and statistics
+Export Utilities - Export to CSV and Markdown formats
+Quality Checks - Run comprehensive quality validation
+Answer Distribution - Check if answers are balanced
+Logging & Progress - Progress tracking and formatted output
+Timing Utilities - Timer context manager for performance tracking
+Batch Processing - Split items into batches
+Retry Logic - Retry failed generations
+Data Cleaning - Clean and format JSON strings
+ID Generation - Generate standardized question/set IDs

@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "blood_relations_001",
+    "question": "A is the father of B. B is the sister of C. How is A related to C?",
+    "options": {
+      "A": "Father",
+      "B": "Uncle",
+      "C": "Grandfather",
+      "D": "Brother",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "A is the father of B, and B is the sister of C, which means A is also the father of C.",
+    "difficulty": "Easy",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_002",
+    "question": "P is the brother of Q. Q is the son of R. R is married to S. How is S related to P?",
+    "options": {
+      "A": "Mother",
+      "B": "Sister",
+      "C": "Aunt",
+      "D": "Grandmother",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "P is the brother of Q, who is the son of R. R is married to S, making S the mother of Q and hence the mother of P.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_003",
+    "question": "A is the mother of B. B has a brother C. D is A's husband. How is C related to D?",
+    "options": {
+      "A": "Son",
+      "B": "Brother",
+      "C": "Father",
+      "D": "Uncle",
+      "E": "Nephew"
+    },
+    "correct_answer": "A",
+    "explanation": "A is married to D, making D the father of A's children. Therefore, C, being B's brother and A's son, is also D's son.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_004",
+    "question": "Pointing to a woman, X says, 'She is the daughter of my father's only daughter.' How is the woman related to X?",
+    "options": {
+      "A": "Mother",
+      "B": "Sister",
+      "C": "Niece",
+      "D": "Cousin",
+      "E": "Aunt"
+    },
+    "correct_answer": "C",
+    "explanation": "X's father's only daughter is X's sister. Therefore, the woman being the daughter of X's sister, is X's niece.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_005",
+    "question": "In a family, there are six members A, B, C, D, E, and F. A and B are a married couple. A is the father of D. E is the son of B but B is not the mother of E. F is the brother of B. How is C related to E?",
+    "options": {
+      "A": "Father",
+      "B": "Mother",
+      "C": "Sister",
+      "D": "Aunt",
+      "E": "Uncle"
+    },
+    "correct_answer": "D",
+    "explanation": "A and B are a married couple, and E is B's son but not with A, suggesting B is the stepmother. D, being A's child with another woman (likely C), makes C the mother of D and aunt to E through marriage.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_006",
+    "question": "A is the father of B. B is the brother of C. How is A related to C?",
+    "options": {
+      "A": "Father",
+      "B": "Grandfather",
+      "C": "Uncle",
+      "D": "Brother",
+      "E": "Son"
+    },
+    "correct_answer": "A",
+    "explanation": "A is B's father and B is C's brother, therefore A is the father of both B and C.",
+    "difficulty": "Easy",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_007",
+    "question": "D is the sister of B. B is married to F. F is the mother of G. How is D related to G?",
+    "options": {
+      "A": "Mother",
+      "B": "Aunt",
+      "C": "Sister",
+      "D": "Cousin",
+      "E": "Niece"
+    },
+    "correct_answer": "B",
+    "explanation": "D is the sister of B. B is the father/mother of G, so D is the aunt of G.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_008",
+    "question": "Pointing to a photograph, X says, 'He is the son of my mother's only son.' How is X related to the person in the photograph?",
+    "options": {
+      "A": "Father",
+      "B": "Uncle",
+      "C": "Cousin",
+      "D": "Brother",
+      "E": "Nephew"
+    },
+    "correct_answer": "A",
+    "explanation": "X's mother's only son is X himself. The person in the photograph is X's son, so X is the father.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_009",
+    "question": "In a family of six members, C, D, E, F, G, and H: C is D's sister. D is F's brother. E is F's mother. G is F's father's only sister. How is G related to D?",
+    "options": {
+      "A": "Aunt",
+      "B": "Mother",
+      "C": "Sister",
+      "D": "Grandmother",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "G is F's father's sister, which makes her D's aunt.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_010",
+    "question": "P is the father of Q. Q is married to R. R is the sister of S. T is the mother of S. How is T related to Q?",
+    "options": {
+      "A": "Mother-in-law",
+      "B": "Sister-in-law",
+      "C": "Aunt",
+      "D": "Grandmother",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "R is Q's wife, making T, who is R's mother, Q's mother-in-law.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_011",
+    "question": "A is the father of B. B is the brother of C. How is A related to C?",
+    "options": {
+      "A": "Father",
+      "B": "Uncle",
+      "C": "Grandfather",
+      "D": "Brother",
+      "E": "Son"
+    },
+    "correct_answer": "A",
+    "explanation": "A is the father of B, and since B is the brother of C, A is also the father of C.",
+    "difficulty": "Easy",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_012",
+    "question": "M is the husband of N. N is the sister of O. O is the father of P. How is M related to P?",
+    "options": {
+      "A": "Uncle",
+      "B": "Father",
+      "C": "Brother-in-law",
+      "D": "Grandfather",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "M is the husband of N, who is O's sister. Thus, M is the brother-in-law of O and therefore P's uncle.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_013",
+    "question": "Pointing to a man, S says, 'He is the son of my mother's only brother.' How is the man related to S?",
+    "options": {
+      "A": "Cousin",
+      "B": "Brother",
+      "C": "Nephew",
+      "D": "Uncle",
+      "E": "Father"
+    },
+    "correct_answer": "A",
+    "explanation": "The man is the son of S's mother's only brother, making him S's cousin.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_014",
+    "question": "In a family of seven members, P, Q, R, S, T, U, and V, there are two married couples. S is the mother of U and V. P is the father of Q. U is the sister of Q. V is the granddaughter of P. How is T related to U?",
+    "options": {
+      "A": "Brother",
+      "B": "Father",
+      "C": "Uncle",
+      "D": "Grandfather",
+      "E": "Aunt"
+    },
+    "correct_answer": "C",
+    "explanation": "From the relationships, P is the father of Q and the grandfather of V. T must be S's brother or brother-in-law, making T U's uncle.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_015",
+    "question": "R, S, T, and U are members of a family. T is the son of R. R has one son and two daughters. S is the daughter-in-law of R. How is U related to T?",
+    "options": {
+      "A": "Sister",
+      "B": "Mother",
+      "C": "Cousin",
+      "D": "Sister-in-law",
+      "E": "Niece"
+    },
+    "correct_answer": "A",
+    "explanation": "R has one son (T) and two daughters. S is the daughter-in-law of R, likely married to T. U must be T's sister.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_016",
+    "question": "A is the mother of B. B is the father of C. How is A related to C?",
+    "options": {
+      "A": "Grandmother",
+      "B": "Mother",
+      "C": "Aunt",
+      "D": "Sister",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "A is the mother of B, making her C's grandmother as B is C's father.",
+    "difficulty": "Easy",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_017",
+    "question": "D is the brother of E. F is the father of D. G is the mother of E. How is G related to F?",
+    "options": {
+      "A": "Wife",
+      "B": "Sister",
+      "C": "Mother",
+      "D": "Daughter",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "Since D and E are siblings and F is their father, G must be F's wife to be E's mother.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_018",
+    "question": "Pointing to a woman, H says, 'She is the daughter of my grandfather's only son.' How is the woman related to H?",
+    "options": {
+      "A": "Sister",
+      "B": "Mother",
+      "C": "Aunt",
+      "D": "Cousin",
+      "E": "Niece"
+    },
+    "correct_answer": "A",
+    "explanation": "H's grandfather's only son would be H's father, thus the woman being the daughter of H's father makes her H's sister.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_019",
+    "question": "In a family of six members A, B, C, D, E, and F, there are two married couples. B is a doctor and the father of E. F is the grandfather of E and is married to A. C is married to B. How is C related to F?",
+    "options": {
+      "A": "Daughter-in-law",
+      "B": "Daughter",
+      "C": "Niece",
+      "D": "Cousin",
+      "E": "Sister"
+    },
+    "correct_answer": "A",
+    "explanation": "F is E's grandfather and is married to A, making F the father-in-law of B. As C is married to B, C is F's daughter-in-law.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_020",
+    "question": "J is the brother of K. L is J's mother. M is L's father. K is married to N. How is M related to N?",
+    "options": {
+      "A": "Grandfather-in-law",
+      "B": "Father-in-law",
+      "C": "Uncle",
+      "D": "Cousin",
+      "E": "Brother"
+    },
+    "correct_answer": "A",
+    "explanation": "M is the father of L, making M K's grandfather. Since K is married to N, M becomes N's grandfather-in-law.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_021",
+    "question": "A is the mother of B. B is the sister of C. How is A related to C?",
+    "options": {
+      "A": "Mother",
+      "B": "Aunt",
+      "C": "Grandmother",
+      "D": "Sister",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "A is the mother of B, and B is the sister of C. Therefore, A is also the mother of C.",
+    "difficulty": "Easy",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_022",
+    "question": "X is Y's father's brother. Z is the son of X. How is Z related to Y?",
+    "options": {
+      "A": "Cousin",
+      "B": "Brother",
+      "C": "Nephew",
+      "D": "Uncle",
+      "E": "Father"
+    },
+    "correct_answer": "A",
+    "explanation": "X is the brother of Y's father, making X Y's uncle. Therefore, Z, the son of X, is Y's cousin.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_023",
+    "question": "Pointing to a photograph, A says, 'His mother is the only daughter of my mother's mother.' How is the boy in the photograph related to A?",
+    "options": {
+      "A": "Brother",
+      "B": "Cousin",
+      "C": "Nephew",
+      "D": "Uncle",
+      "E": "Son"
+    },
+    "correct_answer": "C",
+    "explanation": "A's mother's mother is A's grandmother, and the only daughter of A's grandmother is A's mother. Thus, the boy's mother is A's mother, making the boy A's brother.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_024",
+    "question": "In a family of six, there are two married couples. A is the brother of B. B is married to C. C is the daughter-in-law of D, who is married to E. How is A related to E?",
+    "options": {
+      "A": "Son",
+      "B": "Brother",
+      "C": "Nephew",
+      "D": "Son-in-law",
+      "E": "Grandson"
+    },
+    "correct_answer": "A",
+    "explanation": "C is the daughter-in-law of D, meaning C's spouse (B) is the child of D and E. Since A is B's brother, A is also the son of D and E.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_025",
+    "question": "Pointing to a woman, L says, 'She is the daughter of my grandfather’s only son’s wife.' If L's grandfather has only one child, how is the woman related to L?",
+    "options": {
+      "A": "Sister",
+      "B": "Cousin",
+      "C": "Aunt",
+      "D": "Niece",
+      "E": "Mother"
+    },
+    "correct_answer": "A",
+    "explanation": "L's grandfather's only son is L's father, and the wife of L's father is L's mother. Thus, the woman, being the daughter of L's parents, is L's sister.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_026",
+    "question": "A is the mother of B. B is the sister of C. How is A related to C?",
+    "options": {
+      "A": "Mother",
+      "B": "Aunt",
+      "C": "Grandmother",
+      "D": "Sister",
+      "E": "Cousin"
+    },
+    "correct_answer": "A",
+    "explanation": "A is the mother of B. Since B is the sister of C, A is also the mother of C. Therefore, A is C's mother.",
+    "difficulty": "Easy",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_027",
+    "question": "X is the brother of Y. Y is married to Z. Z is the son of Q. How is Q related to X?",
+    "options": {
+      "A": "Father-in-law",
+      "B": "Brother",
+      "C": "Uncle",
+      "D": "Cousin",
+      "E": "Nephew"
+    },
+    "correct_answer": "A",
+    "explanation": "Y is married to Z, making Z X's brother-in-law. Z is the son of Q, so Q is X's father-in-law.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_028",
+    "question": "Pointing to a picture, A said, 'He is the only son of my father's brother's only son.' How is A related to the person in the picture?",
+    "options": {
+      "A": "Cousin",
+      "B": "Nephew",
+      "C": "Uncle",
+      "D": "Brother",
+      "E": "Son"
+    },
+    "correct_answer": "B",
+    "explanation": "A's father's brother is A's uncle. His uncle's only son is A's cousin, making the person in the picture A's cousin's son. Thus, A is the uncle of the person in the picture.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_029",
+    "question": "In a family of six members A, B, C, D, E, and F, there are two married couples. D is an engineer and the father of E. F is the grandfather of E and is a lawyer. A is married to D. C is D's sister and B is F's daughter. How is C related to E?",
+    "options": {
+      "A": "Aunt",
+      "B": "Mother",
+      "C": "Sister",
+      "D": "Cousin",
+      "E": "Niece"
+    },
+    "correct_answer": "A",
+    "explanation": "D is E's father and A is E's mother. C, being D's sister, is E's aunt.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "blood_relations_030",
+    "question": "In a family, A is married to B. They have two children, C and D. E is C's spouse and they have one child, F. G, who is D's child, has one child, H. How is H related to A?",
+    "options": {
+      "A": "Great-grandchild",
+      "B": "Grandchild",
+      "C": "Son",
+      "D": "Nephew",
+      "E": "Niece"
+    },
+    "correct_answer": "A",
+    "explanation": "A and B are the parents of C and D. C and E have a child F. D has a child G, who has a child H. Hence, H is A's great-grandchild.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

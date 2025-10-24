@@ -1,0 +1,382 @@
+{
+  "tests_validated": 3,
+  "tests_passed": 2,
+  "tests_failed": 1,
+  "test_results": [
+    {
+      "test_id": "RBI_P1_MOCK_01",
+      "test_name": "RBI Grade B - Phase 1 Mock Test #1",
+      "file": "RBI_P1_MOCK_01_generated.json",
+      "passed": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "expected_questions": 200,
+        "actual_questions": 200,
+        "total_sections": 4,
+        "overall_difficulty": {
+          "Easy": 53,
+          "Medium": 90,
+          "Hard": 57,
+          "Unknown": 0
+        },
+        "section_difficulty": {
+          "GA": {
+            "Easy": 20,
+            "Medium": 38,
+            "Hard": 22,
+            "Unknown": 0
+          },
+          "REASONING": {
+            "Easy": 16,
+            "Medium": 28,
+            "Hard": 16,
+            "Unknown": 0
+          },
+          "ENGLISH": {
+            "Easy": 8,
+            "Medium": 16,
+            "Hard": 6,
+            "Unknown": 0
+          },
+          "QUANT": {
+            "Easy": 9,
+            "Medium": 8,
+            "Hard": 13,
+            "Unknown": 0
+          }
+        },
+        "overall_topics": {
+          "Financial_Stability": 5,
+          "Fiscal_Policy": 10,
+          "Government_Schemes": 8,
+          "Economic_Indicators": 6,
+          "Monetary_Policy": 6,
+          "Government_Initiatives": 5,
+          "Current_Affairs": 5,
+          "Inflation": 5,
+          "Banking_Regulation": 6,
+          "Banking_Sector": 6,
+          "RBI_Functions": 5,
+          "Economic_Updates": 8,
+          "Appointments": 5,
+          "Direction Sense": 4,
+          "Circular Seating Arrangement": 8,
+          "Floor Puzzle": 6,
+          "Blood Relations": 5,
+          "Inequalities": 4,
+          "Box Puzzle": 6,
+          "Syllogisms": 6,
+          "Coding-Decoding": 5,
+          "Linear Seating Arrangement": 10,
+          "Day/Month Puzzle": 6,
+          "Fill_in_the_Blanks": 6,
+          "Error_Spotting": 5,
+          "Para_Jumbles": 4,
+          "Reading_Comprehension": 10,
+          "Vocabulary": 5,
+          "Profit, Loss & Discount": 5,
+          "Averages": 5,
+          "Percentage": 5,
+          "Unknown": 10,
+          "Ratio & Proportion": 5
+        },
+        "section_topics": {
+          "GA": {
+            "Financial_Stability": 5,
+            "Fiscal_Policy": 10,
+            "Government_Schemes": 8,
+            "Economic_Indicators": 6,
+            "Monetary_Policy": 6,
+            "Government_Initiatives": 5,
+            "Current_Affairs": 5,
+            "Inflation": 5,
+            "Banking_Regulation": 6,
+            "Banking_Sector": 6,
+            "RBI_Functions": 5,
+            "Economic_Updates": 8,
+            "Appointments": 5
+          },
+          "REASONING": {
+            "Direction Sense": 4,
+            "Circular Seating Arrangement": 8,
+            "Floor Puzzle": 6,
+            "Blood Relations": 5,
+            "Inequalities": 4,
+            "Box Puzzle": 6,
+            "Syllogisms": 6,
+            "Coding-Decoding": 5,
+            "Linear Seating Arrangement": 10,
+            "Day/Month Puzzle": 6
+          },
+          "ENGLISH": {
+            "Fill_in_the_Blanks": 6,
+            "Error_Spotting": 5,
+            "Para_Jumbles": 4,
+            "Reading_Comprehension": 10,
+            "Vocabulary": 5
+          },
+          "QUANT": {
+            "Profit, Loss & Discount": 5,
+            "Averages": 5,
+            "Percentage": 5,
+            "Unknown": 10,
+            "Ratio & Proportion": 5
+          }
+        },
+        "total_question_ids": 200,
+        "duplicate_questions": 0
+      }
+    },
+    {
+      "test_id": "RBI_P1_MOCK_03",
+      "test_name": "RBI Grade B - Phase 1 Mock Test #3",
+      "file": "RBI_P1_MOCK_03_generated.json",
+      "passed": false,
+      "errors": [
+        "Found 1 duplicate question IDs: linear_seating_arrangement_003..."
+      ],
+      "warnings": [],
+      "info": {
+        "expected_questions": 200,
+        "actual_questions": 200,
+        "total_sections": 4,
+        "overall_difficulty": {
+          "Easy": 39,
+          "Medium": 91,
+          "Hard": 70,
+          "Unknown": 0
+        },
+        "section_difficulty": {
+          "GA": {
+            "Easy": 16,
+            "Medium": 40,
+            "Hard": 24,
+            "Unknown": 0
+          },
+          "REASONING": {
+            "Easy": 10,
+            "Medium": 26,
+            "Hard": 24,
+            "Unknown": 0
+          },
+          "ENGLISH": {
+            "Easy": 6,
+            "Medium": 14,
+            "Hard": 10,
+            "Unknown": 0
+          },
+          "QUANT": {
+            "Easy": 7,
+            "Medium": 11,
+            "Hard": 12,
+            "Unknown": 0
+          }
+        },
+        "overall_topics": {
+          "Banking_Regulation": 9,
+          "Economic_Indicators": 10,
+          "Financial_Stability": 6,
+          "Banking_Sector": 7,
+          "RBI_Functions": 6,
+          "Government_Schemes": 7,
+          "Government_Initiatives": 5,
+          "Monetary_Policy": 8,
+          "Fiscal_Policy": 8,
+          "Economic_Updates": 6,
+          "Inflation": 4,
+          "Current_Affairs": 4,
+          "Circular Seating Arrangement": 8,
+          "Inequalities": 5,
+          "Syllogisms": 7,
+          "Floor Puzzle": 10,
+          "Blood Relations": 4,
+          "Box Puzzle": 6,
+          "Direction Sense": 3,
+          "Data Sufficiency": 5,
+          "Input-Output": 3,
+          "Linear Seating Arrangement": 9,
+          "Reading_Comprehension": 10,
+          "Error_Spotting": 5,
+          "Vocabulary": 6,
+          "Para_Jumbles": 4,
+          "Fill_in_the_Blanks": 5,
+          "Simple & Compound Interest": 4,
+          "Ratio & Proportion": 4,
+          "Averages": 4,
+          "Unknown": 10,
+          "Percentage": 4,
+          "Time, Speed & Distance": 4
+        },
+        "section_topics": {
+          "GA": {
+            "Banking_Regulation": 9,
+            "Economic_Indicators": 10,
+            "Financial_Stability": 6,
+            "Banking_Sector": 7,
+            "RBI_Functions": 6,
+            "Government_Schemes": 7,
+            "Government_Initiatives": 5,
+            "Monetary_Policy": 8,
+            "Fiscal_Policy": 8,
+            "Economic_Updates": 6,
+            "Inflation": 4,
+            "Current_Affairs": 4
+          },
+          "REASONING": {
+            "Circular Seating Arrangement": 8,
+            "Inequalities": 5,
+            "Syllogisms": 7,
+            "Floor Puzzle": 10,
+            "Blood Relations": 4,
+            "Box Puzzle": 6,
+            "Direction Sense": 3,
+            "Data Sufficiency": 5,
+            "Input-Output": 3,
+            "Linear Seating Arrangement": 9
+          },
+          "ENGLISH": {
+            "Reading_Comprehension": 10,
+            "Error_Spotting": 5,
+            "Vocabulary": 6,
+            "Para_Jumbles": 4,
+            "Fill_in_the_Blanks": 5
+          },
+          "QUANT": {
+            "Simple & Compound Interest": 4,
+            "Ratio & Proportion": 4,
+            "Averages": 4,
+            "Unknown": 10,
+            "Percentage": 4,
+            "Time, Speed & Distance": 4
+          }
+        },
+        "total_question_ids": 200,
+        "duplicate_questions": 1
+      }
+    },
+    {
+      "test_id": "RBI_P1_MOCK_02",
+      "test_name": "RBI Grade B - Phase 1 Mock Test #2",
+      "file": "RBI_P1_MOCK_02_generated.json",
+      "passed": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "expected_questions": 200,
+        "actual_questions": 200,
+        "total_sections": 4,
+        "overall_difficulty": {
+          "Easy": 54,
+          "Medium": 86,
+          "Hard": 60,
+          "Unknown": 0
+        },
+        "section_difficulty": {
+          "GA": {
+            "Easy": 25,
+            "Medium": 31,
+            "Hard": 24,
+            "Unknown": 0
+          },
+          "REASONING": {
+            "Easy": 13,
+            "Medium": 28,
+            "Hard": 19,
+            "Unknown": 0
+          },
+          "ENGLISH": {
+            "Easy": 6,
+            "Medium": 18,
+            "Hard": 6,
+            "Unknown": 0
+          },
+          "QUANT": {
+            "Easy": 10,
+            "Medium": 9,
+            "Hard": 11,
+            "Unknown": 0
+          }
+        },
+        "overall_topics": {
+          "Economic_Updates": 5,
+          "Government_Initiatives": 5,
+          "Inflation": 5,
+          "Financial_Stability": 6,
+          "Banking_Sector": 7,
+          "Fiscal_Policy": 8,
+          "RBI_Functions": 6,
+          "Economic_Indicators": 8,
+          "Government_Schemes": 7,
+          "Current_Affairs": 5,
+          "Banking_Regulation": 8,
+          "Monetary_Policy": 10,
+          "Blood Relations": 5,
+          "Linear Seating Arrangement": 8,
+          "Inequalities": 5,
+          "Data Sufficiency": 5,
+          "Complex Puzzle": 8,
+          "Syllogisms": 6,
+          "Statement & Assumption": 3,
+          "Circular Seating Arrangement": 10,
+          "Box Puzzle": 6,
+          "Coding-Decoding": 4,
+          "Reading_Comprehension": 10,
+          "Fill_in_the_Blanks": 5,
+          "Error_Spotting": 6,
+          "Vocabulary": 5,
+          "Sentence_Correction": 4,
+          "Time, Speed & Distance": 5,
+          "Simple & Compound Interest": 5,
+          "Unknown": 10,
+          "Mixtures & Alligations": 5,
+          "Time & Work": 5
+        },
+        "section_topics": {
+          "GA": {
+            "Economic_Updates": 5,
+            "Government_Initiatives": 5,
+            "Inflation": 5,
+            "Financial_Stability": 6,
+            "Banking_Sector": 7,
+            "Fiscal_Policy": 8,
+            "RBI_Functions": 6,
+            "Economic_Indicators": 8,
+            "Government_Schemes": 7,
+            "Current_Affairs": 5,
+            "Banking_Regulation": 8,
+            "Monetary_Policy": 10
+          },
+          "REASONING": {
+            "Blood Relations": 5,
+            "Linear Seating Arrangement": 8,
+            "Inequalities": 5,
+            "Data Sufficiency": 5,
+            "Complex Puzzle": 8,
+            "Syllogisms": 6,
+            "Statement & Assumption": 3,
+            "Circular Seating Arrangement": 10,
+            "Box Puzzle": 6,
+            "Coding-Decoding": 4
+          },
+          "ENGLISH": {
+            "Reading_Comprehension": 10,
+            "Fill_in_the_Blanks": 5,
+            "Error_Spotting": 6,
+            "Vocabulary": 5,
+            "Sentence_Correction": 4
+          },
+          "QUANT": {
+            "Time, Speed & Distance": 5,
+            "Simple & Compound Interest": 5,
+            "Unknown": 10,
+            "Mixtures & Alligations": 5,
+            "Time & Work": 5
+          }
+        },
+        "total_question_ids": 200,
+        "duplicate_questions": 0
+      }
+    }
+  ]
+}

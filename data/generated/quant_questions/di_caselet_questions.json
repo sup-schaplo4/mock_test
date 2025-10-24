@@ -1,0 +1,457 @@
+[
+  {
+    "di_set_id": "DI_CASELET_001",
+    "topic": "Caselet - Sales & Revenue Analysis",
+    "difficulty": "Easy",
+    "data_source": {
+      "type": "caselet",
+      "title": "XYZ Electronics Sales Summary",
+      "text": "XYZ Electronics operates in three segments: Mobile Phones, Laptops, and Accessories. In the first half of 2023, Mobile Phones generated ₹150 crore in revenue with a cost of ₹90 crore. Laptops accounted for ₹120 crore in revenue with a cost of ₹80 crore. The Accessories division, though smaller, made ₹30 crore with a cost of ₹18 crore. Administrative expenses totaled ₹20 crore, equally divided across all segments. Marketing expenses were 10% of total revenue. The company aims to increase revenue by 15% in the next half year. XYZ Electronics sold 5 lakh units of Mobile Phones, 3 lakh units of Laptops, and 2 lakh units of Accessories. The average selling price per unit was ₹30,000 for Mobile Phones, ₹40,000 for Laptops, and ₹15,000 for Accessories."
+    },
+    "questions": [
+      {
+        "question_id": "DI_CASELET_001_Q1",
+        "question": "What was the total revenue for XYZ Electronics in the first half of 2023?",
+        "options": {
+          "A": "₹300 crore",
+          "B": "₹320 crore",
+          "C": "₹280 crore",
+          "D": "₹350 crore",
+          "E": "₹270 crore"
+        },
+        "correct_answer": "A",
+        "explanation": "Total revenue = Revenue from Mobile Phones + Laptops + Accessories = ₹150 crore + ₹120 crore + ₹30 crore = ₹300 crore.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_CASELET_001_Q2",
+        "question": "What percentage of the total cost was attributed to the Accessories segment?",
+        "options": {
+          "A": "15%",
+          "B": "20%",
+          "C": "10%",
+          "D": "12%",
+          "E": "18%"
+        },
+        "correct_answer": "C",
+        "explanation": "Total cost = ₹90 crore (Mobile) + ₹80 crore (Laptops) + ₹18 crore (Accessories) = ₹188 crore. Percentage for Accessories = (₹18 crore / ₹188 crore) × 100% = 9.57%, approximately 10%.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_CASELET_001_Q3",
+        "question": "If marketing expenses were 10% of total revenue, how much did XYZ Electronics spend on marketing?",
+        "options": {
+          "A": "₹30 crore",
+          "B": "₹28 crore",
+          "C": "₹32 crore",
+          "D": "₹35 crore",
+          "E": "₹25 crore"
+        },
+        "correct_answer": "A",
+        "explanation": "Marketing expenses = 10% of ₹300 crore = 0.10 × ₹300 crore = ₹30 crore.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_CASELET_001_Q4",
+        "question": "What is the average cost per unit for Mobile Phones?",
+        "options": {
+          "A": "₹18,000",
+          "B": "₹15,000",
+          "C": "₹20,000",
+          "D": "₹16,000",
+          "E": "₹19,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Total cost for Mobile Phones = ₹90 crore. Units sold = 5 lakh. Average cost per unit = ₹90 crore / 5 lakh units = ₹18,000.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_CASELET_001_Q5",
+        "question": "If XYZ Electronics aims to increase revenue by 15% in the next half year, what will be the expected revenue?",
+        "options": {
+          "A": "₹345 crore",
+          "B": "₹360 crore",
+          "C": "₹330 crore",
+          "D": "₹315 crore",
+          "E": "₹390 crore"
+        },
+        "correct_answer": "A",
+        "explanation": "Current revenue = ₹300 crore. Expected increase = 15% of ₹300 crore = 0.15 × ₹300 crore = ₹45 crore. Expected revenue = ₹300 crore + ₹45 crore = ₹345 crore.",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:59:48.309112",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012625,
+      "tokens_used": 2053
+    }
+  },
+  {
+    "di_set_id": "DI_CASELET_002",
+    "topic": "Caselet - Banking & Finance",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "caselet",
+      "title": "XYZ Bank's Annual Financial Summary",
+      "text": "XYZ Bank operates in three regions: North, South, and West. In the fiscal year 2023, the North region generated a revenue of ₹150 crore with a profit margin of 12%. The South region reported ₹180 crore in revenue with a profit margin of 10%, while the West region achieved ₹160 crore in revenue with a profit margin of 15%. The bank's total operating costs stood at ₹120 crore, distributed across the regions in the ratio of 3:4:3 respectively for North, South, and West. Additionally, the bank invested 5% of its total revenue in technological upgrades, and 3% of the total revenue was spent on employee training programs. The bank aims to increase its total revenue by 20% in the next fiscal year."
+    },
+    "questions": [
+      {
+        "question_id": "DI_CASELET_002_Q1",
+        "question": "What is the total profit earned by the XYZ Bank from all three regions in the fiscal year 2023?",
+        "options": {
+          "A": "₹49 crore",
+          "B": "₹50 crore",
+          "C": "₹60 crore",
+          "D": "₹52 crore",
+          "E": "₹53 crore"
+        },
+        "correct_answer": "C",
+        "explanation": "Calculate profit for each region: North = ₹150 crore * 12% = ₹18 crore, South = ₹180 crore * 10% = ₹18 crore, West = ₹160 crore * 15% = ₹24 crore. Total profit = ₹18 crore + ₹18 crore + ₹24 crore = ₹60 crore.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_CASELET_002_Q2",
+        "question": "What percentage of the total revenue was allocated to technological upgrades by XYZ Bank?",
+        "options": {
+          "A": "4%",
+          "B": "5%",
+          "C": "6%",
+          "D": "7%",
+          "E": "8%"
+        },
+        "correct_answer": "B",
+        "explanation": "Total revenue = ₹150 crore + ₹180 crore + ₹160 crore = ₹490 crore. Amount allocated to technology = 5% of ₹490 crore = ₹24.5 crore, which is 5% of total revenue.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_CASELET_002_Q3",
+        "question": "What is the ratio of operating costs between the South and West regions?",
+        "options": {
+          "A": "3:4",
+          "B": "4:3",
+          "C": "5:4",
+          "D": "4:5",
+          "E": "6:5"
+        },
+        "correct_answer": "B",
+        "explanation": "Total operating costs = ₹120 crore. Costs are distributed in ratio 3:4:3. South = 4/10 * ₹120 crore = ₹48 crore, West = 3/10 * ₹120 crore = ₹36 crore. Ratio South:West = 48:36 = 4:3.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_CASELET_002_Q4",
+        "question": "If the bank achieves its target of a 20% increase in total revenue next year, what will be the new total revenue?",
+        "options": {
+          "A": "₹588 crore",
+          "B": "₹590 crore",
+          "C": "₹588.8 crore",
+          "D": "₹598 crore",
+          "E": "₹600 crore"
+        },
+        "correct_answer": "A",
+        "explanation": "Current total revenue = ₹490 crore. With a 20% increase: New revenue = ₹490 crore + 20% of ₹490 crore = ₹490 crore + ₹98 crore = ₹588 crore.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_CASELET_002_Q5",
+        "question": "How much was spent on employee training programs?",
+        "options": {
+          "A": "₹12.7 crore",
+          "B": "₹13 crore",
+          "C": "₹14.7 crore",
+          "D": "₹15 crore",
+          "E": "₹14.9 crore"
+        },
+        "correct_answer": "C",
+        "explanation": "Total revenue = ₹490 crore. Amount spent on training = 3% of ₹490 crore = ₹14.7 crore.",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:59:58.241243",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0131,
+      "tokens_used": 2108
+    }
+  },
+  {
+    "di_set_id": "DI_CASELET_003",
+    "topic": "Caselet - Population & Demographics",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "caselet",
+      "title": "Population Analysis of City X",
+      "text": "City X has a population of 2 million people as of 2023. The city consists of three main districts: North, South, and Central. The North district holds 35% of the total population, while the South district accounts for 40%. The Central district, although smaller in area, is densely populated with the remaining 25%. Over the past 5 years, the North district has seen a population increase of 10%, whereas the South district's population grew by 5%. The Central district's population remained constant. City X has a birth rate of 1.2% per annum and a death rate of 0.8% per annum. The migration rate into City X is recorded at 0.5% of the total population annually. The average family size in the North district is 4.5, in the South district 4.2, and in the Central district 3.8."
+    },
+    "questions": [
+      {
+        "question_id": "DI_CASELET_003_Q1",
+        "question": "What is the current population of the Central district?",
+        "options": {
+          "A": "500,000",
+          "B": "600,000",
+          "C": "700,000",
+          "D": "750,000",
+          "E": "800,000"
+        },
+        "correct_answer": "A",
+        "explanation": "The Central district holds 25% of City X's total population. 25% of 2,000,000 is 500,000.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_CASELET_003_Q2",
+        "question": "How many people have migrated into City X annually?",
+        "options": {
+          "A": "9,000",
+          "B": "10,000",
+          "C": "12,000",
+          "D": "15,000",
+          "E": "20,000"
+        },
+        "correct_answer": "B",
+        "explanation": "The migration rate is 0.5% of the total population annually. 0.5% of 2,000,000 is 10,000.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_CASELET_003_Q3",
+        "question": "What is the average annual net population growth in City X over the past 5 years?",
+        "options": {
+          "A": "8,000",
+          "B": "9,000",
+          "C": "10,000",
+          "D": "12,000",
+          "E": "15,000"
+        },
+        "correct_answer": "C",
+        "explanation": "The net growth is birth rate (1.2%) + migration rate (0.5%) - death rate (0.8%) = 0.9%. 0.9% of 2,000,000 is 18,000 annually.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_CASELET_003_Q4",
+        "question": "What is the population increase in the North district over the past 5 years?",
+        "options": {
+          "A": "70,000",
+          "B": "75,000",
+          "C": "77,000",
+          "D": "80,000",
+          "E": "85,000"
+        },
+        "correct_answer": "A",
+        "explanation": "The North district's population increased by 10% over 5 years. Its initial population was 35% of 2,000,000 = 700,000. 10% of 700,000 is 70,000.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_CASELET_003_Q5",
+        "question": "If the average family size in the South district is 4.2, how many families reside in the South district?",
+        "options": {
+          "A": "180,952",
+          "B": "190,476",
+          "C": "200,000",
+          "D": "210,000",
+          "E": "220,000"
+        },
+        "correct_answer": "B",
+        "explanation": "South district has 40% of the total population, which is 800,000. Dividing by the average family size, 800,000 / 4.2 ≈ 190,476 families.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T03:00:08.571444",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0129325,
+      "tokens_used": 2092
+    }
+  },
+  {
+    "di_set_id": "DI_CASELET_004",
+    "topic": "Caselet - Production & Manufacturing",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "caselet",
+      "title": "XYZ Industries Manufacturing Overview",
+      "text": "XYZ Industries operates four key manufacturing units located in Chennai, Kolkata, Hyderabad, and Pune. In 2023, the Chennai unit produced 60,000 units at a cost of ₹500 per unit, selling them at ₹700 per unit. The Kolkata unit manufactured 50,000 units with a production cost of ₹520 per unit and sold them at ₹750 per unit. The Hyderabad unit's output was 55,000 units, costing ₹480 per unit and selling at ₹720 per unit. Pune, the smallest unit, produced 40,000 units with a production cost of ₹530 per unit and a selling price of ₹780 per unit. XYZ Industries' total administrative expenses were ₹120 lakhs, distributed proportionally to production volume. Additionally, the company invested 10% of its total revenue on research and development. The company aims to increase production by 20% next year with a 5% reduction in production costs across all units."
+    },
+    "questions": [
+      {
+        "question_id": "DI_CASELET_004_Q1",
+        "question": "What was the total profit made by the Hyderabad unit in 2023?",
+        "options": {
+          "A": "₹13,200,000",
+          "B": "₹14,000,000",
+          "C": "₹13,500,000",
+          "D": "₹12,500,000",
+          "E": "₹14,500,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Profit per unit for Hyderabad is ₹720 - ₹480 = ₹240. Total profit = 55,000 units × ₹240 = ₹13,200,000.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_CASELET_004_Q2",
+        "question": "What percentage of the total production cost was attributed to the Kolkata unit in 2023?",
+        "options": {
+          "A": "27.1%",
+          "B": "29.4%",
+          "C": "25.8%",
+          "D": "30.2%",
+          "E": "28.6%"
+        },
+        "correct_answer": "E",
+        "explanation": "Total production cost for Kolkata = 50,000 × ₹520. Total production cost for all units = (60,000×₹500) + (50,000×₹520) + (55,000×₹480) + (40,000×₹530). Percentage = (₹520×50,000) / Total production cost × 100 = 28.6%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_CASELET_004_Q3",
+        "question": "If the production cost reduces by 5% next year, what will be the new cost per unit for the Pune unit?",
+        "options": {
+          "A": "₹503.5",
+          "B": "₹506.5",
+          "C": "₹504",
+          "D": "₹501.5",
+          "E": "₹505.5"
+        },
+        "correct_answer": "A",
+        "explanation": "Current cost per unit for Pune = ₹530. New cost = ₹530 - (5% of ₹530) = ₹530 - ₹26.5 = ₹503.5.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_CASELET_004_Q4",
+        "question": "Determine the total percentage increase in profit if production increases by 20% next year with the same cost and selling price structure.",
+        "options": {
+          "A": "25%",
+          "B": "24%",
+          "C": "22%",
+          "D": "20%",
+          "E": "26%"
+        },
+        "correct_answer": "B",
+        "explanation": "Profit is directly proportional to production. A 20% increase in production leads to a 20% increase in profit. Thus, percentage increase in profit = 20%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_CASELET_004_Q5",
+        "question": "What was the total revenue from all units in 2023?",
+        "options": {
+          "A": "₹137,100,000",
+          "B": "₹139,800,000",
+          "C": "₹141,200,000",
+          "D": "₹142,500,000",
+          "E": "₹140,000,000"
+        },
+        "correct_answer": "B",
+        "explanation": "Total revenue = (60,000×₹700) + (50,000×₹750) + (55,000×₹720) + (40,000×₹780) = ₹139,800,000.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T03:00:20.494971",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.013667499999999999,
+      "tokens_used": 2179
+    }
+  },
+  {
+    "di_set_id": "DI_CASELET_005",
+    "topic": "Caselet - Import & Export",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "caselet",
+      "title": "Trade Analysis of XYZ Ltd.",
+      "text": "XYZ Ltd. is involved in the import and export of electronics and textiles across four countries: USA, Germany, Japan, and India. In 2022, the company imported goods worth $15 million from the USA, $12 million from Germany, and $18 million from Japan. The export figures for textiles were $10 million to the USA, $8 million to Germany, and $7 million to Japan. For electronics, the exports were $5 million to the USA, $10 million to Germany, and $12 million to Japan. The company aims to increase its total exports by 20% in 2023 while maintaining the same import levels. Additionally, 10% of the total import value is spent on customs duties, and 5% of total revenue is allocated for logistics. The current exchange rate is 1 USD = 75 INR."
+    },
+    "questions": [
+      {
+        "question_id": "DI_Caselet_005_Q1",
+        "question": "What is the total import value in INR for XYZ Ltd. in 2022?",
+        "options": {
+          "A": "3,375,000,000",
+          "B": "3,750,000,000",
+          "C": "3,975,000,000",
+          "D": "4,125,000,000",
+          "E": "4,500,000,000"
+        },
+        "correct_answer": "A",
+        "explanation": "The total import value is $15M + $12M + $18M = $45M. In INR, this is $45M * 75 = 3,375,000,000.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Caselet_005_Q2",
+        "question": "What is the total customs duty paid by XYZ Ltd. in 2022?",
+        "options": {
+          "A": "₹33,750,000",
+          "B": "₹37,500,000",
+          "C": "₹39,750,000",
+          "D": "₹41,250,000",
+          "E": "₹45,000,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Customs duty is 10% of total import value. Total import in USD is $45M, which is ₹3,375,000,000 in INR. Customs duty is 10% of ₹3,375,000,000 = ₹337,500,000.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Caselet_005_Q3",
+        "question": "If XYZ Ltd. wants to increase its total exports by 20% in 2023, what will be the total exports value in USD?",
+        "options": {
+          "A": "$56 million",
+          "B": "$60 million",
+          "C": "$62 million",
+          "D": "$72 million",
+          "E": "$75 million"
+        },
+        "correct_answer": "C",
+        "explanation": "Total exports in 2022 are $10M + $8M + $7M + $5M + $10M + $12M = $52M. A 20% increase means $52M * 1.2 = $62.4M.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Caselet_005_Q4",
+        "question": "What percentage of the total revenue is spent on logistics in 2022?",
+        "options": {
+          "A": "4.76%",
+          "B": "5.00%",
+          "C": "5.26%",
+          "D": "6.25%",
+          "E": "6.50%"
+        },
+        "correct_answer": "B",
+        "explanation": "Logistics is 5% of total revenue. Revenue includes imports and exports: $45M + $52M = $97M. Logistics cost is 5% of $97M = $4.85M.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Caselet_005_Q5",
+        "question": "What is the net trade balance (exports - imports) for XYZ Ltd. in 2022 in USD?",
+        "options": {
+          "A": "$7 million",
+          "B": "$8 million",
+          "C": "$9 million",
+          "D": "$6 million",
+          "E": "$5 million"
+        },
+        "correct_answer": "A",
+        "explanation": "Net trade balance = Total Exports - Total Imports = $52M - $45M = $7M.",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T03:00:29.775068",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0134975,
+      "tokens_used": 2162
+    }
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "statement_inference_001",
+    "question": "Statement: A recent survey conducted among 1000 residents of City X revealed that 60% of respondents prefer public transportation over personal vehicles for daily commutes due to environmental concerns.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. More than half of the residents of City X are concerned about the environment.\nII. Environmental concerns are the only reason for preferring public transportation.\nIII. At least 600 residents surveyed prefer public transportation.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and III are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) Summary: 60% of 1000 residents prefer public transportation because of environmental concerns. (2) Evaluation: I is valid as it directly follows from 60% preference. II is invalid as it suggests exclusivity, which is unsupported. III is valid since 60% of 1000 is 600. (3) Conclusion: Inferences I and III are valid.",
+    "difficulty": "Easy",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_002",
+    "question": "Statement: According to a study, students who engage in regular physical exercise exhibit better academic performance compared to those who don't. The study also suggests that exercise helps in improving concentration and reduces stress levels.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Regular exercise causes better academic performance.\nII. Lack of exercise may lead to lower concentration levels.\nIII. Reducing stress can contribute to improved academic performance.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "D",
+    "explanation": "Analysis: (1) Summary: Study links exercise to better academic performance and improved concentration. (2) Evaluation: I is invalid as 'causes' implies a causal relationship not explicitly stated. II is valid as lack of exercise implies potential for lower concentration. III is valid as the study associates stress reduction with benefits. (3) Conclusion: Inferences II and III are valid.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_003",
+    "question": "Statement: A company reported a 20% increase in profits in the last quarter, attributing this growth to the successful launch of a new product line and cost-cutting measures implemented company-wide.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. The company launched a new product line in the last quarter.\nII. The increase in profits is solely due to the new product line.\nIII. The company implemented cost-cutting measures in the last quarter.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference III is valid",
+      "C": "Only inferences I and III are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) Summary: Profit increase attributed to new product line and cost-cutting. (2) Evaluation: I is valid since the new product line is explicitly mentioned as a factor. II is invalid as 'solely' excludes cost-cutting, which is also stated. III is valid as cost-cutting is part of the profit attribution. (3) Conclusion: Inferences I and III are valid.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_004",
+    "question": "Statement: During an international climate summit, it was highlighted that countries investing in renewable energy sources experienced a noticeable reduction in carbon emissions over the past decade. The report further emphasized that these countries also saw significant economic growth.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Economic growth in these countries is a result of investment in renewable energy.\nII. Renewable energy investment correlates with reduced carbon emissions.\nIII. Countries not investing in renewable energy did not experience economic growth.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences II and III are valid",
+      "D": "Only inferences I and II are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "B",
+    "explanation": "Analysis: (1) Summary: Renewable energy investment linked with emission reduction and economic growth. (2) Evaluation: I is invalid as it implies causation not directly stated. II is valid, as the statement shows a correlation between renewable investment and emissions reduction. III is invalid as there's no information about countries not investing. (3) Conclusion: Only inference II is valid.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_005",
+    "question": "Statement: In a recent study on urban wildlife, it was observed that the population of certain bird species in metropolitan areas has increased due to the rise in green spaces and urban gardens. However, the study also notes that noise pollution remains a significant challenge for these birds.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Urban gardens and green spaces positively affect bird populations.\nII. Noise pollution in metropolitan areas is decreasing.\nIII. The increase in bird populations is solely due to the availability of green spaces.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences I and II are valid",
+      "E": "None of the inferences are valid"
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Summary: Bird population increase linked to green spaces; noise pollution remains an issue. (2) Evaluation: I is valid as green spaces are stated to increase bird populations. II is invalid as the statement suggests noise is still a problem. III is invalid as the word 'solely' is not supported; other factors might contribute. (3) Conclusion: Only inference I is valid.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_006",
+    "question": "Statement: A recent survey revealed that 60% of the participants prefer working remotely, while 40% prefer working in the office. The survey also indicated that participants under 30 are more likely to prefer remote work compared to those over 30. \n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. A majority of all participants prefer working remotely.\nII. Age plays a role in the preference for remote work.\nIII. More than half of participants over 30 prefer working in the office.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) Key facts: 60% prefer remote work, those under 30 are more likely to prefer remote work than those over 30. (2) Inference I is valid because 60% indicates a majority prefer remote work. (3) Inference II is valid since there is a correlation between age and work preference stated. (4) Inference III is unprovable since it is not explicitly stated what percentage of those over 30 prefer office work. (5) Conclusion: Only inferences I and II are valid.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_007",
+    "question": "Statement: An international study found that countries with higher education expenditures tend to have higher literacy rates. However, literacy rates did not increase in countries that spent more on higher education but lacked quality educational infrastructure.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Spending on education is not the only factor affecting literacy rates.\nII. Countries with good educational infrastructure and high expenditures are likely to have high literacy rates.\nIII. Higher education spending directly increases literacy rates.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) Key facts: Education spending is correlated with literacy rates, but quality infrastructure is necessary. (2) Inference I is valid as spending is mentioned as a factor but not the sole determinant. (3) Inference II is valid because the statement implies that good infrastructure is important along with spending. (4) Inference III is invalid since the statement mentions no direct causal relationship without infrastructure. (5) Conclusion: Only inferences I and II are valid.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_008",
+    "question": "Statement: A tech company reported that their new software update reduces app crashes by 30% and improves speed by 20%. However, some users reported no noticeable change in app performance.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. The software update is effective for all users.\nII. The majority of users experience improved app performance after the update.\nIII. Some users did not benefit from the software update.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) Key facts: The update claims to reduce crashes and improve speed, but not all users noticed changes. (2) Inference I is invalid because not all users reported improvements. (3) Inference II is unprovable as the statement does not specify the percentage of users experiencing improvements. (4) Inference III is valid as it's explicitly mentioned that some users saw no change. (5) Conclusion: Only inference III is valid.",
+    "difficulty": "Easy",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_009",
+    "question": "Statement: Studies show that regular physical exercise significantly reduces stress levels. However, individuals with chronic conditions found only a slight reduction in stress through exercise.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Regular exercise always effectively reduces stress.\nII. Exercise is less effective in reducing stress for individuals with chronic conditions.\nIII. Physical exercise is a means to reduce stress.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "D",
+    "explanation": "Analysis: (1) Key facts: Regular exercise reduces stress, but it's less effective for those with chronic conditions. (2) Inference I is invalid since exercise is not always effective, especially for chronic conditions. (3) Inference II is valid as explicitly stated in the passage. (4) Inference III is valid as the passage confirms exercise reduces stress. (5) Conclusion: Only inferences II and III are valid.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_010",
+    "question": "Statement: According to a recent financial report, Company X's profits increased by 15% in the last quarter. This is attributed to an increase in sales in the domestic market, despite a reduction in international sales.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Company X's domestic sales have increased.\nII. The increase in profits is due to international sales.\nIII. The domestic market contributed positively to Company X's profitability.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences I and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "D",
+    "explanation": "Analysis: (1) Key facts: Profits increased due to domestic sales, while international sales decreased. (2) Inference I is valid because the increase in profits is attributed to domestic sales. (3) Inference II is invalid as international sales actually decreased. (4) Inference III is valid since domestic sales were responsible for the profit increase. (5) Conclusion: Only inferences I and III are valid.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_011",
+    "question": "Statement: The company announced that all employees who have worked for more than ten years will receive a special bonus as a token of appreciation for their loyalty. Which of the following inference(s) can be definitely drawn from the above statement? I. Employees who have not completed ten years are not eligible for the bonus. II. The company values long-term employee loyalty. III. Every employee will receive the bonus.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "(1) The statement explicitly mentions the criteria for receiving the bonus, which is working more than ten years. (2) Inference I is valid as it directly follows the exclusion criterion given. (3) Inference II is valid as announcing a bonus for loyalty suggests valuing it. (4) Inference III is not valid as the statement specifies only those who have completed ten years, not all employees.",
+    "difficulty": "Easy",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_012",
+    "question": "Statement: A recent study indicates that individuals who exercise at least 30 minutes a day are less likely to develop chronic illnesses compared to those who do not engage in regular physical activity. Which of the following inference(s) can be definitely drawn from the above statement? I. Exercising for 30 minutes daily prevents all chronic illnesses. II. Not exercising regularly may increase the risk of chronic illnesses. III. Regular physical activity is beneficial for health.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences II and III are valid",
+      "D": "Only inferences I and II are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "(1) The statement provides data showing a correlation between regular exercise and lower likelihood of chronic illnesses. (2) Inference I is invalid as the statement does not claim complete prevention of illnesses. (3) Inference II is valid because the absence of exercise is linked to higher risk. (4) Inference III is valid as the data supports the health benefits of regular physical activity.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_013",
+    "question": "Statement: The new policy mandates that all new hires must undergo a comprehensive training program to improve work efficiency and reduce errors. Which of the following inference(s) can be definitely drawn from the above statement? I. Current employees are not required to undergo the training program. II. The company has experienced issues with work efficiency and errors. III. Only new hires will benefit from the training program.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "B",
+    "explanation": "(1) The statement specifies the policy for new hires but does not mention current employees, so inference I is unprovable. (2) Inference II is valid as the policy aims to improve efficiency and reduce errors, indicating existing issues. (3) Inference III is not valid since the statement does not exclude others from potentially benefiting.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_014",
+    "question": "Statement: An analysis of global economic data from the past decade shows that countries with high levels of technological innovation tend to have higher GDP growth rates. Which of the following inference(s) can be definitely drawn from the above statement? I. Technological innovation directly causes GDP growth. II. Countries with low technological innovation have lower GDP growth rates. III. There is a correlation between technological innovation and GDP growth.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences II and III are valid",
+      "D": "Only inference III is valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "D",
+    "explanation": "(1) The statement identifies a correlation but does not prove causation, making inference I invalid. (2) While the analysis suggests a trend, inference II is not definitively supported without specific data on low innovation. (3) Inference III is valid as the statement explicitly states a correlation between the factors.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_015",
+    "question": "Statement: A report on urban traffic patterns concludes that cities which have invested heavily in public transportation infrastructure face fewer traffic congestions during peak hours compared to those that have not made such investments. Which of the following inference(s) can be definitely drawn from the above statement? I. Public transportation is a solution to traffic congestion. II. Cities without investments in public transportation always face traffic congestion. III. Investing in public transportation can reduce traffic congestion during peak hours.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and III are valid",
+      "D": "Only inference III is valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "(1) The statement indicates a correlation between investment in public transportation and reduced congestion, supporting inference I. (2) Inference II is not valid as the statement does not claim that cities always face congestion without investment. (3) Inference III is valid as it is directly supported by the statement's correlation between investment and reduced congestion.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_016",
+    "question": "Statement: A recent survey revealed that 70% of urban residents prefer online shopping over visiting physical stores. However, 60% of rural residents still favor physical shopping due to limited internet access and trust issues with online platforms.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Urban residents generally have better internet access than rural residents.\nII. Trust issues are a significant factor in rural residents' preference for physical shopping.\nIII. The majority of the population prefers online shopping.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "(1) The statement highlights the preference trends in urban versus rural populations regarding shopping methods. (2) Inference I is valid as the statement implies that internet access is a differentiating factor. Inference II is supported by the statement as it explicitly mentions trust issues. Inference III is incorrect as the statement does not provide conclusive data about the majority of the entire population, only urban and rural splits. (3) Therefore, inferences I and II are definitely true based on the statement.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_017",
+    "question": "Statement: The city council implemented a policy requiring all new commercial buildings to include solar panels. Within two years, the city's carbon emissions from these buildings dropped by 15%.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. The installation of solar panels directly led to the reduction in carbon emissions.\nII. The policy was effective in reducing the carbon footprint of commercial buildings.\nIII. Other factors, besides solar panels, could have contributed to the decrease in emissions.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "B",
+    "explanation": "(1) The statement provides a correlation between the policy and the reduction in emissions. (2) Inference I is not valid as the statement does not establish a direct causal link, only a correlation. Inference II is valid as the policy's effectiveness is evident through the measurable reduction in emissions. Inference III is plausible, but not definitely true from the information provided; it is an assumption about possible other factors. (3) Thus, only inference II is a valid deduction from the statement.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_018",
+    "question": "Statement: A study found that students who study late at night score higher in exams than those who study early in the morning. However, this study only considered students from a single university and did not account for differences in subject matter difficulty or individual student habits.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Studying late at night is more effective for academic performance than studying in the morning.\nII. The results of the study cannot be generalized to all students.\nIII. Factors other than study time could influence academic performance.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "D",
+    "explanation": "(1) The statement presents a specific study with limitations. (2) Inference I is invalid since the study lacks comprehensive data and does not account for various influencing factors; thus, the effectiveness of study time cannot be definitively concluded. Inference II is valid as the study's scope is limited to one university, preventing generalization. Inference III is valid because the study's acknowledgment of not considering other factors implies their potential impact on results. (3) Therefore, only inferences II and III are definitely true.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_019",
+    "question": "Statement: The company's quarterly financial report indicated a 20% increase in revenue compared to the previous quarter. The report attributes this growth to the successful launch of a new product line, despite an overall downturn in the industry.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. The new product line has been well-received in the market.\nII. The company is outperforming the industry trend.\nIII. The increased revenue is solely due to the new product line.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "(1) The statement provides specific details about the company's financial performance and the industry context. (2) Inference I is valid as the product's success is mentioned as a key factor for increased revenue. Inference II is also valid because the company has grown despite industry downturns, indicating outperformance. Inference III is invalid as the statement does not claim the new product line is the sole reason for revenue increase, only a contributing factor. (3) Thus, inferences I and II are definitely true.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_020",
+    "question": "Statement: The local park recently introduced a fitness trail that includes various workout stations. Since its inauguration, park attendance has increased by 25%.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. The fitness trail is the main reason for the increase in park attendance.\nII. More people are engaging in fitness activities in the park.\nIII. The park was less attractive to visitors before the fitness trail was added.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "B",
+    "explanation": "(1) The statement notes an increase in park attendance following the introduction of a fitness trail. (2) Inference I is invalid as the statement does not specify the trail as the sole reason for increased attendance. Inference II is valid because the presence of workout stations implies increased engagement in fitness activities. Inference III is an assumption not supported by the statement; increased attractiveness is not necessarily implied. (3) Thus, only inference II can be definitely concluded from the statement.",
+    "difficulty": "Easy",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_021",
+    "question": "Statement: A recent survey reports that 70% of urban residents prefer online shopping over traditional shopping due to convenience and variety, while 20% still prefer the personal experience of visiting stores. 10% have no preference.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. A majority of urban residents find online shopping more convenient.\nII. Traditional shopping is considered less convenient by the surveyed urban residents.\nIII. Some urban residents do not have a preference for either shopping method.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences I and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "D",
+    "explanation": "Analysis: (1) The key fact is that 70% prefer online shopping for convenience, 20% prefer traditional shopping for the experience, and 10% have no preference. (2) Evaluation: I is true because 70% (majority) find it more convenient. II is not definitely true because the statement doesn't confirm what is less convenient, just why they prefer online shopping. III is true because 10% have no preference. (3) Therefore, inferences I and III are valid.",
+    "difficulty": "Easy",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_022",
+    "question": "Statement: According to a study, companies that implemented a four-day workweek reported a 20% increase in productivity, while employee satisfaction ratings improved by 30%. However, some businesses noted challenges in maintaining customer service levels.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. A four-day workweek can lead to increased employee satisfaction.\nII. All companies that adopted a four-day workweek saw improved customer service.\nIII. Some companies may face issues with customer service under a four-day workweek.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and III are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) Key facts include a 20% productivity increase, 30% satisfaction improvement, and some companies facing customer service challenges. (2) Evaluation: I is valid due to the 30% satisfaction increase. II is invalid as the statement mentions some companies facing challenges, indicating not all improved. III is valid as 'some businesses noted challenges' implies issues exist. (3) Inferences I and III are valid.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_023",
+    "question": "Statement: In the latest financial quarter, Company X reported a 10% increase in revenues but a 5% decrease in net profits compared to the previous quarter. The management attributed this to higher operating expenses during the period.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Company X's operating expenses increased in the latest quarter.\nII. Despite increased revenues, Company X's profitability declined.\nIII. The decrease in net profits was due to factors other than operating expenses.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) Key facts are revenue increase, profit decrease, and high operating expenses. (2) Evaluation: I is valid because management directly attributed profit decline to higher operating expenses. II is valid as increased revenues are mentioned alongside decreased profitability. III is not supported as the statement attributes the profit decline to operating expenses. (3) Inferences I and II are valid.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_024",
+    "question": "Statement: A comprehensive study on climate change showed that regions experiencing more than a 2-degree increase in average temperature saw a 15% decline in agricultural yield, while regions with less than a 2-degree rise reported stable agricultural outputs.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. A rise in temperature above 2 degrees adversely affects agricultural yield.\nII. Stable agricultural outputs are guaranteed if temperature rises are below 2 degrees.\nIII. Temperature increases have no effect on agriculture if under 2 degrees.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and II are valid",
+      "D": "Only inference III is valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) The study details a 15% decline in yield with over 2-degree rises, and stability under 2 degrees. (2) Evaluation: I is valid as the decline directly correlates with >2-degree rises. II is not valid because 'stable' does not guarantee unchangeable outputs, only that they haven't changed, and there is no guarantee for the future. III is invalid because 'stable' doesn't confirm no effect, merely no change was observed. (3) Only inference I is valid.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_025",
+    "question": "Statement: An experiment conducted on nocturnal animals showed that a decrease in night light intensity by 30% resulted in increased foraging activity. However, the study also noted an increase in predation risks for these animals under reduced lighting.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Nocturnal animals forage more when it is darker.\nII. Reduced lighting always increases predation risks for nocturnal animals.\nIII. Increased foraging activity in low light is linked with higher predation risks.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference III is valid",
+      "C": "Only inferences I and III are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) Key points are increased foraging with reduced light and linked predation risks. (2) Evaluation: I is valid as increased foraging was observed with reduced light. II is invalid because the statement doesn't claim 'always', only observed increased risk in this study. III is valid as the study notes an increase in predation risks associated with increased foraging under reduced light conditions. (3) Inferences I and III are valid.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_026",
+    "question": "Statement: A recent study found that 60% of people who regularly exercise have lower stress levels compared to those who do not engage in any physical activity.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Regular exercise contributes to lower stress levels.\nII. People who do not exercise regularly are always stressed.\nIII. More than half of regular exercisers have lower stress levels.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inferences I and III are valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) The study provides data showing a correlation between regular exercise and lower stress levels, indicating a significant portion of regular exercisers experience reduced stress. (2) Inference I is supported by the data as it states a correlation shown by the study. (3) Inference II is invalid because the statement does not claim that all non-exercisers are stressed, just that they are less likely to have lower stress levels. (4) Inference III is valid because the study explicitly states that 60% of regular exercisers have lower stress levels.",
+    "difficulty": "Easy",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_027",
+    "question": "Statement: According to a government report, the unemployment rate fell by 2% last year, and the job market for technology professionals grew by 5% in the same period.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. The decline in unemployment is solely due to the growth of technology jobs.\nII. The overall job market improved last year.\nIII. Technology jobs contributed to reducing the unemployment rate.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "D",
+    "explanation": "Analysis: (1) The statement provides data on unemployment rates and the growth of technology jobs. (2) Inference I is invalid as the statement does not claim technology jobs are the sole cause of the decline. (3) Inference II is valid because a reduction in unemployment generally indicates an improvement in the job market. (4) Inference III is valid as technology jobs are part of the employment landscape and their growth likely contributed to the decrease in unemployment.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_028",
+    "question": "Statement: A survey conducted among urban residents showed that 70% prefer online shopping due to convenience, while 30% still favor physical stores due to the ability to physically assess the products.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. A significant majority of urban residents find online shopping more convenient.\nII. Online shopping is universally considered better than physical shopping.\nIII. A minority of the respondents appreciate the tactile experience offered by physical stores.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences I and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "D",
+    "explanation": "Analysis: (1) The statement describes preferences of urban residents regarding shopping methods. (2) Inference I is valid since 70% is a significant majority. (3) Inference II is invalid because the statement only indicates preference percentages, not universal superiority. (4) Inference III is valid as 30% represent a minority who value the tactile experience, in line with the survey results.",
+    "difficulty": "Medium",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_029",
+    "question": "Statement: An analysis of financial records of multiple companies reveals that those investing in employee well-being programs saw a 15% increase in productivity, while others saw a static productivity rate.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Employee well-being programs are linked to increased productivity.\nII. Companies not investing in well-being programs will never see a productivity increase.\nIII. Investment in employee well-being is the only factor contributing to increased productivity.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference III is valid",
+      "D": "Only inferences I and II are valid",
+      "E": "None of the inferences are valid"
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) The statement provides data correlating well-being programs with productivity increases. (2) Inference I is valid as the data explicitly links the two. (3) Inference II is invalid because the data doesn’t indicate future possibilities for companies without such programs. (4) Inference III is invalid because the statement does not claim well-being programs are the only factor.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_inference_030",
+    "question": "Statement: Despite the introduction of electric buses, the city's overall carbon emissions did not decrease last year due to an increase in private car usage.\n\nWhich of the following inference(s) can be definitely drawn from the above statement?\n\nI. Electric buses alone are insufficient to reduce overall carbon emissions.\nII. The increase in private car usage offset the reduction achieved by electric buses.\nIII. Other factors besides private car usage contributed to stable carbon emissions.",
+    "options": {
+      "A": "Only inference I is valid",
+      "B": "Only inference II is valid",
+      "C": "Only inference I and II are valid",
+      "D": "Only inference II and III are valid",
+      "E": "All inferences are valid"
+    },
+    "correct_answer": "C",
+    "explanation": "Analysis: (1) The statement explains why carbon emissions did not decrease despite electric buses. (2) Inference I is valid as the unchanged emissions indicate electric buses alone were not enough. (3) Inference II is valid because the statement directly attributes the lack of emission reduction to increased private car usage. (4) Inference III is invalid as the statement does not mention any other factors impacting emissions.",
+    "difficulty": "Hard",
+    "topic": "Statement & Inference",
+    "reasoning_topic": "Statement & Inference",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

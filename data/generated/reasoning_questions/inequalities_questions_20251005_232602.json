@@ -1,0 +1,602 @@
+[
+  {
+    "question_id": "inequalities_001",
+    "question": "Statements: A > B, B > C. Which of the following is definitely true?",
+    "options": {
+      "A": "A > C",
+      "B": "B = C",
+      "C": "A < C",
+      "D": "A = B",
+      "E": "C > A"
+    },
+    "correct_answer": "A",
+    "explanation": "Using transitive property: From A > B and B > C, it follows that A > C.",
+    "difficulty": "Easy",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_002",
+    "question": "Statements: P > Q, R < S, Q > T. Which conclusion(s) follow?\nI. P > T\nII. R = S\nIII. P < R",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only III follows",
+      "D": "I and II follow",
+      "E": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "From P > Q and Q > T, by transitive property, P > T. R < S and P > Q do not provide enough information to conclude R = S or P < R.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_003",
+    "question": "Statements: X ≥ Y, Y < Z, Z ≤ W. Which conclusion(s) follow?\nI. X > Z\nII. Y < W\nIII. X ≥ W",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only III follows",
+      "D": "I and II follow",
+      "E": "II and III follow"
+    },
+    "correct_answer": "B",
+    "explanation": "From Y < Z and Z ≤ W, Y < W. X ≥ Y and Y < Z provide insufficient data to deduce X > Z or X ≥ W directly.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_004",
+    "question": "Statements: M ≥ N, N ≠ O, O < P, P = Q. Which conclusion(s) follow?\nI. N < Q\nII. M > O\nIII. P > N",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only III follows",
+      "D": "I and II follow",
+      "E": "None of these"
+    },
+    "correct_answer": "E",
+    "explanation": "N ≠ O does not determine the relationship between N and O conclusively in comparison to Q. M ≥ N and N ≠ O do not logically support that M > O. P = Q indicates that P = Q, not necessarily that P > N.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_005",
+    "question": "Statements: A ≥ B, B = C, C > D, D ≠ E. Which of the following is/are definitely false?\nI. A < D\nII. C > E\nIII. B = E",
+    "options": {
+      "A": "Only I is definitely false",
+      "B": "Only II is definitely false",
+      "C": "Only III is definitely false",
+      "D": "I and II are definitely false",
+      "E": "All are definitely false"
+    },
+    "correct_answer": "C",
+    "explanation": "A ≥ B and B = C implies A ≥ C. C > D gives no information about E compared to C directly. D ≠ E only shows inequality, not enough to state C > E is false. B = C and D ≠ E indicates B = E cannot be true.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_006",
+    "question": "Statements: P > Q, Q > R\nWhich of the following is definitely true?",
+    "options": {
+      "A": "P > R",
+      "B": "P < R",
+      "C": "P = R",
+      "D": "Q > P",
+      "E": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "Using transitive property: P > Q and Q > R implies P > R.",
+    "difficulty": "Easy",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_007",
+    "question": "Statements: A > B, B ≤ C, C < D\nConclusions: I. A > D II. B < D III. A = C\nWhich conclusion(s) follow?",
+    "options": {
+      "A": "Only I",
+      "B": "Only II",
+      "C": "Only II and III",
+      "D": "Only I and II",
+      "E": "None follow"
+    },
+    "correct_answer": "B",
+    "explanation": "From B ≤ C and C < D, we infer B < D. A > D cannot be concluded directly since A > B and B ≤ C allows for both possibilities of A being greater or equal to C, which is not directly comparable to D without more information. Similarly, A = C cannot be directly concluded.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_008",
+    "question": "Statements: X ≥ Y, Y < Z, Z = W\nConclusions: I. X > W II. X = W III. X ≥ Z\nWhich conclusion(s) follow?",
+    "options": {
+      "A": "Only I",
+      "B": "Only III",
+      "C": "I and II",
+      "D": "Only II and III",
+      "E": "None follow"
+    },
+    "correct_answer": "B",
+    "explanation": "Z = W allows substitution such that Y < W. Since X ≥ Y and Y < Z, we can derive X ≥ Z through transitivity, but X > W or X = W cannot be directly concluded.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_009",
+    "question": "Statements: M ≤ N, N < O, O ≠ P\nWhich of the following is/are definitely true?\nI. M < O II. N = P III. O > M",
+    "options": {
+      "A": "Only I",
+      "B": "Only III",
+      "C": "I and III",
+      "D": "None follow",
+      "E": "Only II"
+    },
+    "correct_answer": "C",
+    "explanation": "From N < O and M ≤ N, we infer M < O. Also, since M ≤ N and N < O, it follows that O > M. O ≠ P does not provide enough information to conclude N = P.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_010",
+    "question": "Statements: P > Q, Q ≥ R, S ≠ R, P = T\nWhich of the following is/are definitely false?\nI. T < S II. Q < S III. P ≥ R",
+    "options": {
+      "A": "Only I",
+      "B": "Only II",
+      "C": "Only III",
+      "D": "None",
+      "E": "Only I and III"
+    },
+    "correct_answer": "D",
+    "explanation": "P > Q and Q ≥ R allow us to infer that P > R, therefore P ≥ R is true. Since P = T, T < S cannot be determined directly because S ≠ R doesn't provide a comparison between T and S. Without additional information, Q < S and T < S can't be definitively declared false.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_011",
+    "question": "Statements: 1. A > B 2. B > C. Which of the following is definitely true?",
+    "options": {
+      "A": "A > C",
+      "B": "C > A",
+      "C": "A = C",
+      "D": "B = C",
+      "E": "C = A"
+    },
+    "correct_answer": "A",
+    "explanation": "Using the transitive property: If A > B and B > C, then A > C is a definite conclusion.",
+    "difficulty": "Easy",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_012",
+    "question": "Statements: 1. P ≥ Q 2. Q > R 3. R < S. Which conclusions are definitely true? I. P > R II. Q < S III. P ≥ S",
+    "options": {
+      "A": "Only I",
+      "B": "Only II",
+      "C": "Only III",
+      "D": "I and II",
+      "E": "I and III"
+    },
+    "correct_answer": "D",
+    "explanation": "From P ≥ Q and Q > R, we have P > R (conclusion I is true). Since Q > R and R < S, we deduce Q < S (conclusion II is true). Conclusion III is uncertain as we cannot determine a definite relation between P and S from the given statements.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_013",
+    "question": "Statements: 1. X ≤ Y 2. Y < Z 3. Z ≥ W. Which conclusions are definitely true? I. X < Z II. Y = W III. X ≤ W",
+    "options": {
+      "A": "Only I",
+      "B": "Only II",
+      "C": "Only III",
+      "D": "I and III",
+      "E": "None"
+    },
+    "correct_answer": "D",
+    "explanation": "Using the transitive property, from X ≤ Y and Y < Z, we deduce X < Z (I is true). From Z ≥ W and X ≤ Y with Y < Z, X ≤ W can be inferred (III is true). II is false as no equality is implied.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_014",
+    "question": "Statements: 1. A > B 2. B ≥ C 3. C = D 4. D ≠ E 5. E < A. Which of the following is definitely false?",
+    "options": {
+      "A": "A > C",
+      "B": "B = E",
+      "C": "C > E",
+      "D": "D = A",
+      "E": "E > C"
+    },
+    "correct_answer": "B",
+    "explanation": "From A > B and E < A, it is not possible for B to be equal to E, making option B definitely false. Other options are consistent with the given inequalities.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_015",
+    "question": "Statements: 1. M ≠ N 2. N ≥ O 3. O < P 4. P = Q 5. Q ≤ M. Which of the following is definitely true?",
+    "options": {
+      "A": "M > O",
+      "B": "N < Q",
+      "C": "O = Q",
+      "D": "M > N",
+      "E": "Q = O"
+    },
+    "correct_answer": "A",
+    "explanation": "From N ≥ O and O < P, which is equal to Q, and since Q ≤ M, we can deduce M > O as M is not equal to N. Hence, M must be greater than O.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_016",
+    "question": "Statements: A > B, B > C, C = D. Question: Which of the following is definitely true?",
+    "options": {
+      "A": "A > D",
+      "B": "B < A",
+      "C": "C > A",
+      "D": "D < B",
+      "E": "B = D"
+    },
+    "correct_answer": "A",
+    "explanation": "From the statements: A > B, B > C, and C = D, we can deduce A > B > C = D. Thus, A > D is definitely true.",
+    "difficulty": "Easy",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_017",
+    "question": "Statements: W ≤ X, Y > Z, X < Y. Conclusions: I. W < Y II. X ≤ Z III. W ≤ Z Which conclusion(s) follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only III follows",
+      "D": "Both I and III follow",
+      "E": "None of them follow"
+    },
+    "correct_answer": "A",
+    "explanation": "From W ≤ X and X < Y, we can deduce W < Y. We cannot conclude anything about Z in relation to W or X directly.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_018",
+    "question": "Statements: M > N, O < P, N ≥ O. Conclusions: I. M > P II. P > N III. M > O Which conclusion(s) follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only III follows",
+      "C": "Both II and III follow",
+      "D": "Both I and III follow",
+      "E": "None of them follow"
+    },
+    "correct_answer": "B",
+    "explanation": "From M > N and N ≥ O, we know M > O. P > N cannot be concluded, nor can M > P be definitively concluded.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_019",
+    "question": "Statements: U = V, W ≤ X, V > X, Y ≠ Z. Which of the following is definitely false?",
+    "options": {
+      "A": "U > W",
+      "B": "V < X",
+      "C": "W ≥ Z",
+      "D": "Y = W",
+      "E": "U < Z"
+    },
+    "correct_answer": "B",
+    "explanation": "From the statement V > X, the conclusion V < X is definitely false. U = V > X indicates U > W, so option A is possibly true. Other conclusions cannot be determined from the given statements.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_020",
+    "question": "Statements: A ≥ B, B < C, C ≥ D, D ≠ A. Which of the following pairs is definitely true?",
+    "options": {
+      "A": "A > C",
+      "B": "B = D",
+      "C": "C ≤ A",
+      "D": "A > D",
+      "E": "B < A"
+    },
+    "correct_answer": "C",
+    "explanation": "From A ≥ B and B < C, we cannot definitely say A > C, but C ≤ A is definitely true as B < C and A ≥ B implies C cannot be greater than A.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_021",
+    "question": "Statements: P > Q, Q > R. Question: Which of the following is definitely true?",
+    "options": {
+      "A": "P > R",
+      "B": "R > P",
+      "C": "Q = R",
+      "D": "P = Q",
+      "E": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "From the transitive property, if P > Q and Q > R, then P > R is definitely true.",
+    "difficulty": "Easy",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_022",
+    "question": "Statements: A ≥ B, B > C, D = C. Conclusions: I. A > C II. D < A III. B = D Which conclusion(s) follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and II follow",
+      "D": "Only III follows",
+      "E": "None of the conclusions follow"
+    },
+    "correct_answer": "C",
+    "explanation": "From A ≥ B and B > C, we can conclude A > C (hence I follows). Since D = C and B > C, B cannot be equal to D (hence III does not follow). From A > C and D = C, we can also conclude D < A (hence II follows).",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_023",
+    "question": "Statements: W > X, Y ≥ X, X = Z. Conclusions: I. W > Z II. W > Y III. Z ≥ Y Which conclusion(s) follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Only I and III follow",
+      "D": "Only III follows",
+      "E": "None of the conclusions follow"
+    },
+    "correct_answer": "A",
+    "explanation": "From W > X and X = Z, we have W > Z (I follows). W > Y cannot be concluded directly since Y ≥ X; thus II does not follow. Z = X and Y ≥ X does not lead to a definite Z ≥ Y, thus III does not follow.",
+    "difficulty": "Medium",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_024",
+    "question": "Statements: K ≠ L, L < M, M ≥ N, N = O. Which of the following is definitely false?",
+    "options": {
+      "A": "O > L",
+      "B": "K = M",
+      "C": "N < L",
+      "D": "K > L",
+      "E": "O = M"
+    },
+    "correct_answer": "C",
+    "explanation": "From L < M and N = O, O > L, so option A is true. Since K ≠ L, K cannot be M unless more information is given, but it cannot be definitely false without further information. N < L is false because L < M, M ≥ N and N = O implies N cannot be less than L (C is false).",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "inequalities_025",
+    "question": "Statements: P ≤ Q, Q < R, R > S, S ≠ T. Which of the following is definitely true?",
+    "options": {
+      "A": "P < R",
+      "B": "Q > S",
+      "C": "R = T",
+      "D": "T < R",
+      "E": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "Since P ≤ Q and Q < R, we know P < R is definitely true (using transitive property). Q > S cannot be concluded directly from the given statements. R = T is not confirmed because S ≠ T provides no direct relationship, and T < R cannot be directly inferred due to lack of direct comparison.",
+    "difficulty": "Hard",
+    "topic": "Inequalities",
+    "reasoning_topic": "Inequalities",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

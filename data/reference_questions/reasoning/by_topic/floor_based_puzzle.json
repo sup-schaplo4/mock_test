@@ -1,0 +1,630 @@
+{
+  "topic": "Floor Based Puzzle",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": "2017_Q124",
+      "question_number": 124,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people A, B, C, D, E, F, G and H lives on eight different floors of a building but not necessarily in the same order. The lowermost floor of the building is numbered one, the one above that is numbered two and so on till the topmost floor is numbered eight. Each one of them ran for a different distance in a marathon – 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m but not necessarily in the same order. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. The one who lives immediately below D ran for a distance more than that of B, but not the most. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. If M ran for 2000 m more than B, than for how many meters did M run?",
+      "options": {
+        "A": "5200 m",
+        "B": "5800 m",
+        "C": "4900 m",
+        "D": "70000 m",
+        "E": "4300 m"
+      },
+      "correct_answer": "E",
+      "explanation": "Persons- A, B, C, D, E, F, G and H Distance- 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m 1. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. Case 1: The one who ran for 5000m lives on 6th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||| | 2 |G || | 1 ||| Case 2: The one who ran for 5000m lives on 8th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||5000 m | | 7 ||| | 6 ||| | 5 ||| | 4 |G || | 3 ||| | 2 ||| | 1 ||| 2. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. Hence, the person who lives on 6th floor ran for 5000m and the person who lives on 3rd floor ran for 6400. | Floor |Person |Distance | | ---|---|---| | Floor |Person |Distance | | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||6400 m | | 2 |G || | ||| 1 3. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |A || | 4 ||| | 3 ||6400 m | | 2 |G |9100 m | | 1 |E || Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | 1 |A || 4. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. This is not possible in case 1. So, case 2 is correct. Case 1: | Floor |Person |Distance || | ---|---|---|---| | Floor |Person |Distance || | 8 ||6300 m || | 7 ||3800 m || | 6 ||5000 m || | 5 |B ||| | 4 ||9100 m || | 3 |E |6400 m || | 2 |G ||| | 1 |A ||| Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | 5. The one who lives immediately below D ran for a distance more than that of B, but not the most. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. Hence, G ran for 10,000. This is not possible in case 1. So, case 2 is correct. | Floor |Person |Distance | | ---|---|---| | 8 |G |10000 m | | 7 |D |7200 m | | 6 |H |5000 m | | 5 |B |2300 m | | 4 |F |9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | ||| 1 A 3800 m Hence, M run for 4300 m.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00014",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253990",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q125",
+      "question_number": 125,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people A, B, C, D, E, F, G and H lives on eight different floors of a building but not necessarily in the same order. The lowermost floor of the building is numbered one, the one above that is numbered two and so on till the topmost floor is numbered eight. Each one of them ran for a different distance in a marathon – 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m but not necessarily in the same order. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. The one who lives immediately below D ran for a distance more than that of B, but not the most. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. Which of the following statements is true with respect to the given arrangement?",
+      "options": {
+        "A": "D lives on the topmost floor.",
+        "B": "Only two people live between G and F",
+        "C": "None of the given option is true",
+        "D": "The one who ran for 2300m lives immediately above F.",
+        "E": "A ran for 9100 m"
+      },
+      "correct_answer": "D",
+      "explanation": "Persons- A, B, C, D, E, F, G and H Distance- 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m 1. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. Case 1: The one who ran for 5000m lives on 6th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||| | 2 |G || | 1 ||| Case 2: The one who ran for 5000m lives on 8th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||5000 m | | 7 ||| | 6 ||| | 5 ||| | 4 |G || | 3 ||| | 2 ||| | 1 ||| 2. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. Hence, the person who lives on 6th floor ran for 5000m and the person who lives on 3rd floor ran for 6400. | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||6400 m | | 2 |G || | 1 ||| 3. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |A || | 4 ||| | 3 ||6400 m | | 2 |G |9100 m | | 1 |E || Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | 1 |A || 4. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. This is not possible in case 1. So, case 2 is correct. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||6300 m | | 7 ||3800 m | | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | 1 |A || Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | 5. The one who lives immediately below D ran for a distance more than that of B, but not the most. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. Hence, G ran for 10,000. This is not possible in case 1. So, case 2 is correct. | Floor |Person |Distance | | ---|---|---| | 8 |G |10000 m | | 7 |D |7200 m | | 6 |H |5000 m | | 5 |B |2300 m | | 4 |F |9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | Hence, the one who ran for 2300m lives immediately above F is the correct statement.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00015",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253991",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q126",
+      "question_number": 126,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people A, B, C, D, E, F, G and H lives on eight different floors of a building but not necessarily in the same order. The lowermost floor of the building is numbered one, the one above that is numbered two and so on till the topmost floor is numbered eight. Each one of them ran for a different distance in a marathon – 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m but not necessarily in the same order. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. The one who lives immediately below D ran for a distance more than that of B, but not the most. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. Who amongst the following lives immediately above the one who ran for 7200 m?",
+      "options": {
+        "A": "The one who ran for 10000 m",
+        "B": "H",
+        "C": "F",
+        "D": "The one who ran for 3800 m",
+        "E": "A"
+      },
+      "correct_answer": "A",
+      "explanation": "Persons- A, B, C, D, E, F, G and H Distance- 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m 1. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. Case 1: The one who ran for 5000m lives on 6th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||| | 2 |G || | 1 ||| Case 2: The one who ran for 5000m lives on 8th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||5000 m | | 7 ||| | 6 ||| | 5 ||| | 4 |G || | 3 ||| | 2 ||| | 1 ||| 2. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. Hence, the person who lives on 6th floor ran for 5000m and the person who lives on 3rd floor ran for 6400. | Floor |Person |Distance |Distance | | ---|---|---|---| | 8 |||| | 7 |||| | 6 ||5000 m || | 5 |||| | 4 |||| | 3 ||6400 m || | 2 |G ||| | 1 |||| 3. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |A || | 4 ||| | ---|---|---| | 3 ||6400 m | | 2 |G |9100 m | | 1 |E || Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | 1 |A || 4. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. This is not possible in case 1. So, case 2 is correct. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||6300 m | | 7 ||3800 m | | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | ||| 1 A Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | 5. The one who lives immediately below D ran for a distance more than that of B, but not the most. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. Hence, G ran for 10,000. This is not possible in case 1. So, case 2 is correct. | Floor |Person |Distance | | ---|---|---| | 8 |G |10000 m | | 7 |D |7200 m | | 6 |H |5000 m | | 5 |B |2300 m | | 4 |F |9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | Hence, the one who ran for 10000 m lives immediately above the one who ran for 7200 m.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00016",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253992",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q127",
+      "question_number": 127,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people A, B, C, D, E, F, G and H lives on eight different floors of a building but not necessarily in the same order. The lowermost floor of the building is numbered one, the one above that is numbered two and so on till the topmost floor is numbered eight. Each one of them ran for a different distance in a marathon – 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m but not necessarily in the same order. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. The one who lives immediately below D ran for a distance more than that of B, but not the most. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. Which of the given combinations is correct as per the given arrangement?",
+      "options": {
+        "A": "Floor number 7- 3800 m",
+        "B": "Floor number 3- E",
+        "C": "C- 9100 m",
+        "D": "D- 5000 m",
+        "E": "Floor number 2-7200 m"
+      },
+      "correct_answer": "B",
+      "explanation": "Persons- A, B, C, D, E, F, G and H Distance- 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m 1. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. Case 1: The one who ran for 5000m lives on 6th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||| | 2 |G || | 1 ||| Case 2: The one who ran for 5000m lives on 8th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||5000 m | | 7 ||| | 6 ||| | 5 ||| | 4 |G || | 3 ||| | ---|---|---| | 2 ||| | 1 ||| 2. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. Hence, the person who lives on 6th floor ran for 5000m and the person who lives on 3rd floor ran for 6400. | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||6400 m | | 2 |G || | 1 ||| 3. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |A || | 4 ||| | 3 ||6400 m | | 2 |G |9100 m | | 1 |E || Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | 1 |A || 4. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. This is not possible in case 1. So, case 2 is correct. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||6300 m | | 7 ||3800 m | | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | 1 |A || Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | 5. The one who lives immediately below D ran for a distance more than that of B, but not the most. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. Hence, G ran for 10,000. This is not possible in case 1. So, case 2 is correct. | Floor |Person |Distance | | ---|---|---| | 8 |G |10000 m | | 7 |D |7200 m | | 6 |H |5000 m | | 5 |B |2300 m | | 4 |F |9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | Hence, Floor number 3 – E is the correct combination.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00017",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253993",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q128",
+      "question_number": 128,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the given information carefully to answer the given questions. Eight people A, B, C, D, E, F, G and H lives on eight different floors of a building but not necessarily in the same order. The lowermost floor of the building is numbered one, the one above that is numbered two and so on till the topmost floor is numbered eight. Each one of them ran for a different distance in a marathon – 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m but not necessarily in the same order. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. The one who lives immediately below D ran for a distance more than that of B, but not the most. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. How many metres did F and A together run?",
+      "options": {
+        "A": "16200 m",
+        "B": "7300 m",
+        "C": "12900 m",
+        "D": "15300 m",
+        "E": "11400 m"
+      },
+      "correct_answer": "C",
+      "explanation": "Persons- A, B, C, D, E, F, G and H Distance- 2300 m, 3800 m, 5000 m, 6400 m, 7200 m, 6300 m, 9100 m and 10000 m 1. The one who ran for 5000 m lives on an even numbered floor above floor number 5. Only three people live between the one who ran for 5000 m and G. Case 1: The one who ran for 5000m lives on 6th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||| | 2 |G || | ||| 1 Case 2: The one who ran for 5000m lives on 8th floor. | Floor |Person |Distance | | ---|---|---| | 8 ||5000 m | | 7 ||| | 6 ||| | 5 ||| | 4 |G || | 3 ||| | 2 ||| | 1 ||| 2. The total distance run by people living on floor number 3 and floor number 6 is 11400 m. Hence, the person who lives on 6th floor ran for 5000m and the person who lives on 3rd floor ran for 6400. | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||| | 3 ||6400 m | | 2 |G || | 1 ||| 3. The one who ran for 9100 m lives immediately above E. Only two people live between the one who ran for 9100 m and A. A does not live on the topmost floor. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |A || | 4 ||| | 3 ||6400 m | | 2 |G |9100 m | | 1 |E || Case 2: | Floor |Person |Distance | | ---|---|---| | Floor |Person |Distance | | 8 ||| | 7 ||| | 6 ||5000 m | | 5 ||| | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | ||| 1 A 4. The one who ran for 6300 m, lives immediately above the one who ran for 3800 m. Neither E nor A ran for 6300 m. Only two people live between B and the one who ran for 6300 m. This is not possible in case 1. So, case 2 is correct. Case 1: | Floor |Person |Distance | | ---|---|---| | 8 ||6300 m | | 7 ||3800 m | | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G || | ||| 1 A Case 2: | Floor |Person |Distance | | ---|---|---| | 8 ||| | 7 ||| | 6 ||5000 m | | 5 |B || | 4 ||9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | 5. The one who lives immediately below D ran for a distance more than that of B, but not the most. The one who ran for 10000 m lives immediately above D. C and G together ran for 16,300 m. C ran more than G. No one lives between H and the one who ran for 7200 m. E did not ran for 7200 m. Hence, G ran for 10,000. This is not possible in case 1. So, case 2 is correct. | Floor |Person |Distance | | ---|---|---| | 8 |G |10000 m | | 7 |D |7200 m | | 6 |H |5000 m | | 5 |B |2300 m | | 4 |F |9100 m | | 3 |E |6400 m | | 2 |G |6300 m | | 1 |A |3800 m | Hence. F and A together run for 12900 m.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00018",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253995",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q41",
+      "question_number": 41,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC. Who among the following works in IOC?",
+      "options": {
+        "A": "The one, who lives just below W",
+        "B": "The one, who lives on sixth floor",
+        "C": "The one, who lives between V and X",
+        "D": "The one, who lives two floors above X",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option D is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00158",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254156",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q42",
+      "question_number": 42,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC. If V is related to Tata motors and T is related to HPCL then in the same way, Z is related to__.",
+      "options": {
+        "A": "RIL",
+        "B": "SBI",
+        "C": "BPCL",
+        "D": "ONGC",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option D is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00159",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254157",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q43",
+      "question_number": 43,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC.How many persons are living above the one, who works in BPCL?",
+      "options": {
+        "A": "Three",
+        "B": "Two",
+        "C": "Five",
+        "D": "Four",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option C is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00160",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254158",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q44",
+      "question_number": 44,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC. Find the odd one.",
+      "options": {
+        "A": "W, RIL",
+        "B": "T, BPCL",
+        "C": "Z, Tata motors",
+        "D": "V, SBI",
+        "E": "Y, HPCL"
+      },
+      "correct_answer": "D",
+      "explanation": "1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option D is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00161",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254159",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q45",
+      "question_number": 45,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following data carefully and answer the questions accordingly. W, X, Y, T, U, V and Z are seven colleagues, who live in a seven-storey building. The ground floor is numbered 1; the floor above it is numbered 2; and so on, until the topmost floor is numbered 7. Each of them works in different companies i.e. IOC, RIL, BPCL, SBI, Tata Motors, ONGC and HPCL but not necessarily in the same order. Z and X don’t work in SBI. The one, who works in Tata motors, lives just above X. The one, who works in HPCL, lives above T. Z lives on the fifth floor. Neither X nor Z works in RIL. There are two floors between the floors on which X and V lives. The one, who works in ONGC, lives on the topmost floor. V lives on an even- numbered floor. Y works in BPCL. There is only one floor between U and the one, who works in RIL. There are three floors between T and the one, who works in IOC. Find the correct statement.",
+      "options": {
+        "A": "Y works in BPCL and lives just above X",
+        "B": "Four persons are living between W and the one, who works in SBI",
+        "C": "U works in Tata motors and lives two floors away from T",
+        "D": "V lives three floors away from the one, who works in HPCL",
+        "E": "None is correct"
+      },
+      "correct_answer": "D",
+      "explanation": "1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option D is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00162",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254161",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q155",
+      "question_number": 155,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "There are four floors in a given hall such that floor 2 is above floor 1 and floor 3 is above floor 2 and so on. There are three flats in each floor such that flat 3 is in the east of Flat 2 and Flat 2 is in the east of Flat 1. In each flat, a certain number of persons live and the same number of persons do not live in two flats at the same time. There are six persons on an even number of flat and even number of floor. The number of persons living in flat 3 of floor 2 is a multiple of 4 but less than 10. There are four persons on either flat 1 or flat 2 of floor 4. The number of persons living in flat 1 of floor 2 is a multiple of 6 but less than 18. There are 10 people living in flat 3 on floor 1. The total number of persons living on floor 2 is 26. There are 11 persons in an even-numbered floor of flat 1. The total number of persons on floor 4 is 29. The sum of the number of persons on flat 3 comprising all the floor is 37. One of the odd-numbered flats of floor 3 contains 7 persons. The number of persons available on flat 1 of floor 1 is the difference in the total number of persons available on flat 3 on floor 2 and flat 3 of floor 3. The number of people living on flat 2 of floor 3 is a square of the number of persons available on flat 1 of floor 1. The total number of persons on flat 2 comprising all floor is 32. How many persons are in flat 3 in 2nd floor?",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "10",
+        "D": "Data inadequate",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "| Floors | Flat 1 | Flat 2 | Flat 3 | | --- | --- | --- | --- | | Floor 4 | 11 | 4 | 14 | | Floor 3 | 7 | 9 | 5 | | Floor 2 | 12 | 6 | 8 | | Floor 1 | 3 | 13 | 10 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00189",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254192",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q156",
+      "question_number": 156,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "There are four floors in a given hall such that floor 2 is above floor 1 and floor 3 is above floor 2 and so on. There are three flats in each floor such that flat 3 is in the east of Flat 2 and Flat 2 is in the east of Flat 1. In each flat, a certain number of persons live and the same number of persons do not live in two flats at the same time. There are six persons on an even number of flat and even number of floor. The number of persons living in flat 3 of floor 2 is a multiple of 4 but less than 10. There are four persons on either flat 1 or flat 2 of floor 4. The number of persons living in flat 1 of floor 2 is a multiple of 6 but less than 18. There are 10 people living in flat 3 on floor 1. The total number of persons living on floor 2 is 26. There are 11 persons in an even-numbered floor of flat 1. The total number of persons on floor 4 is 29. The sum of the number of persons on flat 3 comprising all the floor is 37. One of the odd-numbered flats of floor 3 contains 7 persons. The number of persons available on flat 1 of floor 1 is the difference in the total number of persons available on flat 3 on floor 2 and flat 3 of floor 3. The number of people living on flat 2 of floor 3 is a square of the number of persons available on flat 1 of floor 1. The total number of persons on flat 2 comprising all floor is 32. How many total persons are there in flat 1 in all floor?",
+      "options": {
+        "A": "32",
+        "B": "29",
+        "C": "33",
+        "D": "Data inadequate",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "| Floors | Flat 1 | Flat 2 | Flat 3 | | --- | --- | --- | --- | | Floor 4 | 11 | 4 | 14 | | Floor 3 | 7 | 9 | 5 | | Floor 2 | 12 | 6 | 8 | | Floor 1 | 3 | 13 | 10 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00190",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254193",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q157",
+      "question_number": 157,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "There are four floors in a given hall such that floor 2 is above floor 1 and floor 3 is above floor 2 and so on. There are three flats in each floor such that flat 3 is in the east of Flat 2 and Flat 2 is in the east of Flat 1. In each flat, a certain number of persons live and the same number of persons do not live in two flats at the same time. There are six persons on an even number of flat and even number of floor. The number of persons living in flat 3 of floor 2 is a multiple of 4 but less than 10. There are four persons on either flat 1 or flat 2 of floor 4. The number of persons living in flat 1 of floor 2 is a multiple of 6 but less than 18. There are 10 people living in flat 3 on floor 1. The total number of persons living on floor 2 is 26. There are 11 persons in an even-numbered floor of flat 1. The total number of persons on floor 4 is 29. The sum of the number of persons on flat 3 comprising all the floor is 37. One of the odd-numbered flats of floor 3 contains 7 persons. The number of persons available on flat 1 of floor 1 is the difference in the total number of persons available on flat 3 on floor 2 and flat 3 of floor 3. The number of people living on flat 2 of floor 3 is a square of the number of persons available on flat 1 of floor 1. The total number of persons on flat 2 comprising all floor is 32. 12 persons are on which floor?",
+      "options": {
+        "A": "floor 1",
+        "B": "floor 2",
+        "C": "floor 3",
+        "D": "floor 4",
+        "E": "Data inadequate"
+      },
+      "correct_answer": "B",
+      "explanation": "| Floors | Flat 1 | Flat 2 | Flat 3 | | --- | --- | --- | --- | | Floor 4 | 11 | 4 | 14 | | Floor 3 | 7 | 9 | 5 | | Floor 2 | 12 | 6 | 8 | | Floor 1 | 3 | 13 | 10 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00191",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254195",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q158",
+      "question_number": 158,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "There are four floors in a given hall such that floor 2 is above floor 1 and floor 3 is above floor 2 and so on. There are three flats in each floor such that flat 3 is in the east of Flat 2 and Flat 2 is in the east of Flat 1. In each flat, a certain number of persons live and the same number of persons do not live in two flats at the same time. There are six persons on an even number of flat and even number of floor. The number of persons living in flat 3 of floor 2 is a multiple of 4 but less than 10. There are four persons on either flat 1 or flat 2 of floor 4. The number of persons living in flat 1 of floor 2 is a multiple of 6 but less than 18. There are 10 people living in flat 3 on floor 1. The total number of persons living on floor 2 is 26. There are 11 persons in an even-numbered floor of flat 1. The total number of persons on floor 4 is 29. The sum of the number of persons on flat 3 comprising all the floor is 37. One of the odd-numbered flats of floor 3 contains 7 persons. The number of persons available on flat 1 of floor 1 is the difference in the total number of persons available on flat 3 on floor 2 and flat 3 of floor 3. The number of people living on flat 2 of floor 3 is a square of the number of persons available on flat 1 of floor 1. The total number of persons on flat 2 comprising all floor is 32. Four of the following five are alike in a certain way, based on their position. Which of the following does not belong to that group?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "8",
+        "D": "5",
+        "E": "14"
+      },
+      "correct_answer": "D",
+      "explanation": "| Floors | Flat 1 | Flat 2 | Flat 3 | | --- | --- | --- | --- | | Floor 4 | 11 | 4 | 14 | | Floor 3 | 7 | 9 | 5 | | Floor 2 | 12 | 6 | 8 | | Floor 1 | 3 | 13 | 10 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00192",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254196",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q159",
+      "question_number": 159,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "There are four floors in a given hall such that floor 2 is above floor 1 and floor 3 is above floor 2 and so on. There are three flats in each floor such that flat 3 is in the east of Flat 2 and Flat 2 is in the east of Flat 1. In each flat, a certain number of persons live and the same number of persons do not live in two flats at the same time. There are six persons on an even number of flat and even number of floor. The number of persons living in flat 3 of floor 2 is a multiple of 4 but less than 10. There are four persons on either flat 1 or flat 2 of floor 4. The number of persons living in flat 1 of floor 2 is a multiple of 6 but less than 18. There are 10 people living in flat 3 on floor 1. The total number of persons living on floor 2 is 26. There are 11 persons in an even-numbered floor of flat 1. The total number of persons on floor 4 is 29. The sum of the number of persons on flat 3 comprising all the floor is 37. One of the odd-numbered flats of floor 3 contains 7 persons. The number of persons available on flat 1 of floor 1 is the difference in the total number of persons available on flat 3 on floor 2 and flat 3 of floor 3. The number of people living on flat 2 of floor 3 is a square of the number of persons available on flat 1 of floor 1. The total number of persons on flat 2 comprising all floor is 32. Choose the correct option:",
+      "options": {
+        "A": "7 persons are in flat 2’s row 2.",
+        "B": "Total 20 persons are in row 3.",
+        "C": "Difference between total no. of persons between flat 1 and flat 3 is 4.",
+        "D": "14 persons are in Row 2’s flat 3.",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "| Floors | Flat 1 | Flat 2 | Flat 3 | | --- | --- | --- | --- | | Floor 4 | 11 | 4 | 14 | | Floor 3 | 7 | 9 | 5 | | Floor 2 | 12 | 6 | 8 | | Floor 1 | 3 | 13 | 10 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00193",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254197",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q196",
+      "question_number": 196,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven friends namely – Anand, Balaji, Chakor, Darpak, Easharjot, Falak and Girik are living in a building of seven floors, ground floor numbered 1, first floor numbered 2 and so on till the top-most floor which is numbered 7. Each person lives on a single floor. Total number of members in their family including themselves is – one, six, one, two, four, three and two but not necessarily in the same order. Girik’s family has 1 more person than Anand’s family. Chakor does not live on 6th floor. Balaji with his family lives exactly below one of the couples but above the two people who live alone. There is only one floor between the two people who live alone. There are three floors between Chakor and Girik. Chakor lives above Girik. Easharjot lives on 3rd floor with his wife only. There are total 4 persons in Balaji’s family including him. Which one of the following lives on fifth floor?",
+      "options": {
+        "A": "Chakor",
+        "B": "Darpak",
+        "C": "Falak",
+        "D": "Girik",
+        "E": "None of these"
+      },
+      "correct_answer": "A",
+      "explanation": "| Floor Number | Person | Number of members | |--------------|--------|-------------------| | 7            | Anand  | 2                 | | 6            | Balaji | 4                 | | 5            | Chakor | 6                 | | 4            | Darpak/Falak | ?          | | 3            | Easharjot | 2                | | 2            | Darpak/Falak | ?          | | 1            | Girik  | 3                 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00224",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254231",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q197",
+      "question_number": 197,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven friends namely – Anand, Balaji, Chakor, Darpak, Easharjot, Falak and Girik are living in a building of seven floors, ground floor numbered 1, first floor numbered 2 and so on till the top-most floor which is numbered 7. Each person lives on a single floor. Total number of members in their family including themselves is – one, six, one, two, four, three and two but not necessarily in the same order. Girik’s family has 1 more person than Anand’s family. Chakor does not live on 6th floor. Balaji with his family lives exactly below one of the couples but above the two people who live alone. There is only one floor between the two people who live alone. There are three floors between Chakor and Girik. Chakor lives above Girik. Easharjot lives on 3rd floor with his wife only. There are total 4 persons in Balaji’s family including him. How many members are there in Anand’s family?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "6",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "| Floor Number | Person | Number of members | |--------------|--------|-------------------| | 7            | Anand  | 2                 | | 6            | Balaji | 4                 | | 5            | Chakor | 6                 | | 4            | Darpak/Falak | ?          | | 3            | Easharjot | 2                | | 2            | Darpak/Falak | ?          | | 1            | Girik  | 3                 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00225",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254233",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q198",
+      "question_number": 198,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven friends namely – Anand, Balaji, Chakor, Darpak, Easharjot, Falak and Girik are living in a building of seven floors, ground floor numbered 1, first floor numbered 2 and so on till the top-most floor which is numbered 7. Each person lives on a single floor. Total number of members in their family including themselves is – one, six, one, two, four, three and two but not necessarily in the same order. Girik’s family has 1 more person than Anand’s family. Chakor does not live on 6th floor. Balaji with his family lives exactly below one of the couples but above the two people who live alone. There is only one floor between the two people who live alone. There are three floors between Chakor and Girik. Chakor lives above Girik. Easharjot lives on 3rd floor with his wife only. There are total 4 persons in Balaji’s family including him. Whose family consists of total three members?",
+      "options": {
+        "A": "Anand",
+        "B": "Chakor",
+        "C": "Easharjot",
+        "D": "Girik",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "| Floor Number | Person | Number of members | |--------------|--------|-------------------| | 7            | Anand  | 2                 | | 6            | Balaji | 4                 | | 5            | Chakor | 6                 | | 4            | Darpak/Falak | ?          | | 3            | Easharjot | 2                | | 2            | Darpak/Falak | ?          | | 1            | Girik  | 3                 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00226",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254234",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q199",
+      "question_number": 199,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven friends namely – Anand, Balaji, Chakor, Darpak, Easharjot, Falak and Girik are living in a building of seven floors, ground floor numbered 1, first floor numbered 2 and so on till the top-most floor which is numbered 7. Each person lives on a single floor. Total number of members in their family including themselves is – one, six, one, two, four, three and two but not necessarily in the same order. Girik’s family has 1 more person than Anand’s family. Chakor does not live on 6th floor. Balaji with his family lives exactly below one of the couples but above the two people who live alone. There is only one floor between the two people who live alone. There are three floors between Chakor and Girik. Chakor lives above Girik. Easharjot lives on 3rd floor with his wife only. There are total 4 persons in Balaji’s family including him. How many person(s) live(s) between Easharjot and Girik?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "4",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "Easharjot is on floor 3, Girik is on floor 1. One person lives between them (on floor 2).",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00227",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254235",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q200",
+      "question_number": 200,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Seven friends namely – Anand, Balaji, Chakor, Darpak, Easharjot, Falak and Girik are living in a building of seven floors, ground floor numbered 1, first floor numbered 2 and so on till the top-most floor which is numbered 7. Each person lives on a single floor. Total number of members in their family including themselves is – one, six, one, two, four, three and two but not necessarily in the same order. Girik’s family has 1 more person than Anand’s family. Chakor does not live on 6th floor. Balaji with his family lives exactly below one of the couples but above the two people who live alone. There is only one floor between the two people who live alone. There are three floors between Chakor and Girik. Chakor lives above Girik. Easharjot lives on 3rd floor with his wife only. There are total 4 persons in Balaji’s family including him. Which one of the following combinations of ‘floor number-person- family members’ is the correct one?",
+      "options": {
+        "A": "2- Girik- 1",
+        "B": "3- Easharjot – 5",
+        "C": "6- Chakor- 4",
+        "D": "7- Anand- 2",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "| Floor Number | Person | Number of members | |--------------|--------|-------------------| | 7            | Anand  | 2                 | | 6            | Balaji | 4                 | | 5            | Chakor | 6                 | | 4            | Darpak/Falak | ?          | | 3            | Easharjot | 2                | | 2            | Darpak/Falak | ?          | | 1            | Girik  | 3                 | The combination \"7- Anand- 2\" is correct.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Floor Based Puzzle",
+      "topic": "Floor Puzzle",
+      "question_id": "REASONING_00228",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254236",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

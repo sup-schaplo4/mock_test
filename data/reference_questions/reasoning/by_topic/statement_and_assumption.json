@@ -1,0 +1,254 @@
+{
+  "topic": "Statement & Assumption",
+  "total_questions": 8,
+  "questions": [
+    {
+      "id": "2018_Q62",
+      "question_number": 62,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Direction: In the question given below, one statement is followed by three assumptions numbered I, II, and III. Read the statement carefully and decide which of the given assumptions are implicit in the statement. Statement: Overwhelmed with grief and anger, families have been returning to what is left of their homes in the Old City of Mosul, following its liberation from Isis, the terrorist organization. Assumptions: I. The terrorist organization, Isis, destroyed the Old City of Mosul before they left. II. Most of the residents of Mosul had left/ been driven away when Isis took over their city. III. None of the residents of Mosul supported Isis, which is why they left the city.",
+      "options": {
+        "A": "If only assumption I is implicit",
+        "B": "If only assumption II is implicit",
+        "C": "If only assumption III is implicit",
+        "D": "If both assumptions I and II are implicit",
+        "E": "If none of the assumptions are implicit"
+      },
+      "correct_answer": "D",
+      "explanation": "Both assumptions I and II are valid. The statement says that people are returning to “what is left of their homes”, from which we can assume that their homes were almost destroyed. Similarly, because the families are returning to the city, we can assume that they were driven away or left when Isis took over their city. However, assumption III is not valid as we cannot assume if all of the residents had left and none of them supported Isis from the given statement. Hence, option D is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Assumption",
+      "topic": "Statement & Assumption",
+      "question_id": "REASONING_00090",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254079",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q87",
+      "question_number": 87,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions: 6 persons P, Q, R, S, T and V travel to Delhi either on 2nd or 30th of 4 different months, each having exactly 30 days. Each of them drives a different car - Alto, Breeza, Creta, Ferrari, Mercedes and Swift but not necessarily in the same order. There are 2 days on which no person travels to Delhi. T travels to Delhi on 30th of a month by Swift. Both P and V travels in a same month. Only 3 persons travel on each particular date (i.e. 3 persons travel on 2nd and 3 persons travel on 30th). Only 4 persons can travel between T and Q. Person who drives Breeza travels on 30th . P travels to Delhi before T but after Q. No one travels between V and T. S drives Breeza but not in April. Number of persons travelling before T are same as that of travelling after the one who is driving Alto. One who drives Mercedes travels immediately after Creta. Direction: In the following question is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement. Statement:\"You are hereby appointed as a curriculum developer with a period of probation that shall last for 6 months; at the end of which you will be confirmed or let go as per your performance evaluation\"- A line in an offer letter. Assumptions: I. The performance of any professional can usually not be measured at the time of offering the job. II. The probation period is for the professional to prove his capabilities.",
+      "options": {
+        "A": "If only assumption I is implicit",
+        "B": "If only assumption II is implicit",
+        "C": "If either I or II is implicit",
+        "D": "If neither I nor II is implicit",
+        "E": "If both I and II are implicit"
+      },
+      "correct_answer": "E",
+      "explanation": "The professional who has just been recruited needs to be evaluated over a period of time to know if he/she suits the work environment of the company. So, I is implicit. The statement mentions that the individual's capabilities shall be judged before confirmation. Hence, II is implicit as well.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Assumption",
+      "topic": "Statement & Assumption",
+      "question_id": "REASONING_00114",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254108",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q46",
+      "question_number": 46,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statement: \"You are hereby appointed as a curriculum developer with a period of probation that shall last for 6 months; at the end of which you will be confirmed or let go as per your performance evaluation\"- A line in an offer letter. Assumptions: I. The performance of any professional can usually not be measured at the time of offering the job. II. The probation period is for the professional to prove his capabilities.",
+      "options": {
+        "A": "If only assumption I is implicit",
+        "B": "If only assumption II is implicit",
+        "C": "If either I or II is implicit",
+        "D": "If neither I nor II is implicit",
+        "E": "If both I and II are implicit"
+      },
+      "correct_answer": "E",
+      "explanation": "The professional who has just been recruited needs to be evaluated over a period of time to know if he/she suits the work environment of the company. So, I is implicit. The statement mentions that the individual's capabilities shall be judged before confirmation. Hence, II is implicit as well.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Assumption",
+      "topic": "Statement & Assumption",
+      "question_id": "REASONING_00163",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254162",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q47",
+      "question_number": 47,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statement: Overwhelmed with grief and anger, families have been returning to what is left of their homes in the Old City of Mosul, following its liberation from Isis, the terrorist organization. Assumptions: I. The terrorist organization, Isis, destroyed the Old City of Mosul before they left. II. Most of the residents of Mosul had left/ been driven away when Isis took over their city. III. None of the residents of Mosul supported Isis, which is why they left the city.",
+      "options": {
+        "A": "If only assumption I is implicit",
+        "B": "If only assumption II is implicit",
+        "C": "If only assumption III is implicit",
+        "D": "If both assumptions I and II are implicit",
+        "E": "If none of the assumptions are implicit"
+      },
+      "correct_answer": "D",
+      "explanation": "Both assumptions I and II are valid. The statement says that people are returning to “what is left of their homes”, from which we can assume that their homes were almost destroyed. Similarly, because the families are returning to the city, we can assume that they were driven away or left when Isis took over their city. However, assumption III is not valid as we cannot assume if all of the residents had left and none of them supported Isis from the given statement. Hence, option D is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Assumption",
+      "topic": "Statement & Assumption",
+      "question_id": "REASONING_00164",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254163",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q151",
+      "question_number": 151,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Passage: The sense that justice requires punishment for wrongs runs deep and is not the same as a mere thirst for revenge or a desire to get even. On the contrary, punishment plays an important role in any healthy moral ecosystem. Statements: (A) Healthy moral ecosystem is desirable. (B) Forgiving is a bad practice. (C) Punishment at times is to be given to the wrong people. Which of the above three statements is an assumption implicit in the passage?",
+      "options": {
+        "A": "Only A",
+        "B": "Both A and B",
+        "C": "Only B",
+        "D": "Both A and C",
+        "E": "Both B and C"
+      },
+      "correct_answer": "A",
+      "explanation": "A is an implicit assumption because the last line talks about the role of punishment in a healthy moral ecosystem which implies that a healthy moral ecosystem is desirable. Although the passage talks about the importance of punishment, it does not imply that forgiving is a bad practice as nothing has been mentioned about it. So, B is not an implicit assumption. C is also not an implicit assumption because it contains the word 'at times' which becomes conditional. Also, punishment is mentioned for wrong doings and not wrong persons. The concept of wrong persons has not been mentioned.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Assumption",
+      "topic": "Statement & Assumption",
+      "question_id": "REASONING_00186",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254189"
+      }
+    },
+    {
+      "id": "2022_Q160",
+      "question_number": 160,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statements: The COVID-19 pandemic is reaching a peak and the economy of the world is suffering a lot because of it. Assumptions: I) Some pandemics are capable of destroying the world’s economy. II) The economy of the world can never be affected no matter how big a threat is.",
+      "options": {
+        "A": "Only I is implicit",
+        "B": "Only II is implicit",
+        "C": "Either I or II is implicit",
+        "D": "None",
+        "E": "Both are implicit"
+      },
+      "correct_answer": "A",
+      "explanation": "Clearly, statement I is implicit because COVID-19 pandemic has destroyed the world economy which implies that some pandemics can do so. Statement II is not implicit because it is a contradictory statement.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Assumption",
+      "topic": "Statement & Assumption",
+      "question_id": "REASONING_00194",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254198",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q182",
+      "question_number": 182,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statement: “If you have obtained 75 per cent or more marks in XII Standard examination, your admission to our coaching class for NEET is guaranteed”, a XYZ coaching institute advertisement. Assumptions: I. Bright students do not generally opt for attending coaching classes. II. The coaching class has adequate capacity to accommodate all such students.",
+      "options": {
+        "A": "Only assumption I is implicit",
+        "B": "Only assumption II is implicit",
+        "C": "Both assumption I and II is implicit",
+        "D": "Either assumption I or II is implicit",
+        "E": "Neither assumption I nor II is implicit"
+      },
+      "correct_answer": "B",
+      "explanation": "Students obtaining more than 75% marks would definitely include bright students. So, I' is not implicit because then why would the institute make such advertisement. 'II' is an implicit assumption because a coaching institute would make such an advertisement only when it has the required capacity.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Assumption",
+      "topic": "Statement & Assumption",
+      "question_id": "REASONING_00215",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254221"
+      }
+    },
+    {
+      "id": "2023_Q158",
+      "question_number": 158,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Below is given a passage followed by certain assumptions. You have to check which of the given assumptions is implicit in the passage. Passage: A diversified brick and mortar company recently hired a well-known business school graduate as its new CEO. The company is hoping that the new CEO's fresh perspective and business acumen will help turn around the company's declining sales and profits. Assumptions: I. The company's previous CEOs were not capable of turning around the company's declining sales and profits. II. The new CEO has the necessary skills and experience to turn around the company's declining sales and profits. III. The company's declining sales and profits are due to factors that can be addressed by the new CEO.",
+      "options": {
+        "A": "Only I",
+        "B": "Only II",
+        "C": "Only III",
+        "D": "Both I and II",
+        "E": "Both II and III"
+      },
+      "correct_answer": "B",
+      "explanation": "Assumption B holds because it has been mentioned in the passage that \"The spurt was caused due to increased orders from digitally literate clients.\" So, it implies that the company assumes similar response for its electronic goods segment as well.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Assumption",
+      "topic": "Statement & Assumption",
+      "question_id": "REASONING_00246",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254255",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

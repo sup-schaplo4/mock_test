@@ -1,0 +1,1185 @@
+{
+  "metadata": {
+    "topic": "Reading_Comprehension",
+    "total_questions": 61,
+    "generation_date": "2025-10-02T16:50:31.386267",
+    "model": "gemini-2.0-flash-exp",
+    "duration_seconds": 175.751623,
+    "target": 61,
+    "difficulty_distribution": {
+      "target": {
+        "Hard": 25,
+        "Medium": 24,
+        "Easy": 12
+      },
+      "actual": {
+        "Hard": 25,
+        "Medium": 25,
+        "Easy": 11
+      }
+    },
+    "processing_note": "Passage and question fields concatenated into single question field",
+    "original_file": "data/generated/english_questions/rc_output/reading_comprehension_20251002_165031.json"
+  },
+  "questions": [
+    {
+      "question": "The Reserve Bank of India, as the central bank, plays a crucial role in managing the nation's money supply and credit. Its primary objective is to maintain price stability while fostering economic growth. The RBI employs various instruments like the repo rate, reverse repo rate, and cash reserve ratio to influence the liquidity in the banking system. Changes in these rates impact the cost of borrowing for banks, which in turn affects lending rates for businesses and individuals. A tight monetary policy, characterized by higher interest rates, aims to curb inflation by reducing demand, while an accommodative policy seeks to stimulate economic activity through lower interest rates. The effectiveness of monetary policy depends on several factors, including the responsiveness of businesses and consumers to interest rate changes and the overall economic outlook.\n\nWhat is the main goal of the RBI according to the passage?",
+      "options": {
+        "A": "To maximize bank profits",
+        "B": "To control government spending",
+        "C": "To maintain price stability and foster economic growth",
+        "D": "To regulate the stock market",
+        "E": "To promote international trade"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that the RBI's primary objective is to maintain price stability while fostering economic growth.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035319",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "Financial inclusion is a critical aspect of economic development, aiming to provide access to affordable financial services to all segments of society, especially the underserved and vulnerable. Digital banking has emerged as a powerful tool for promoting financial inclusion, offering convenient and cost-effective ways to reach remote areas and lower-income populations. Initiatives like Pradhan Mantri Jan Dhan Yojana have played a significant role in expanding access to banking services. However, challenges remain, including low financial literacy, lack of internet access in some regions, and concerns about cybersecurity. Overcoming these hurdles is essential to fully realize the potential of digital banking in furthering financial inclusion and promoting inclusive growth.\n\nWhat is identified as a major challenge to financial inclusion?",
+      "options": {
+        "A": "High interest rates",
+        "B": "Excessive government regulation",
+        "C": "Low financial literacy",
+        "D": "Lack of investment opportunities",
+        "E": "Rapid economic growth"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage mentions low financial literacy as one of the challenges hindering the progress of financial inclusion.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035365",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "Basel III is an international regulatory framework designed to strengthen the resilience of the banking system by enhancing capital adequacy, liquidity, and risk management. It addresses the shortcomings identified during the 2008 financial crisis. The framework introduces stricter capital requirements, including higher minimum capital ratios and a capital conservation buffer. It also establishes liquidity standards, such as the Liquidity Coverage Ratio and the Net Stable Funding Ratio, to ensure that banks have sufficient liquid assets to meet short-term and long-term funding needs. Implementation of Basel III has been phased in over several years, and it continues to shape banking regulations globally.\n\nAccording to the passage, what is the purpose of Basel III?",
+      "options": {
+        "A": "To promote international trade",
+        "B": "To regulate the stock market",
+        "C": "To strengthen the resilience of the banking system",
+        "D": "To encourage lending to small businesses",
+        "E": "To lower interest rates"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage clearly states that Basel III is designed to strengthen the resilience of the banking system.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035370",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "The Consumer Price Index (CPI) is a widely used measure of inflation that tracks the average change in prices paid by urban consumers for a basket of goods and services. It is used to monitor inflation trends and adjust wages, salaries, and government benefits. The CPI is calculated by collecting data on the prices of various items, weighting them according to their importance in the average consumer's budget, and then computing the percentage change in the weighted average price over time. Changes in the CPI can have a significant impact on the economy, influencing interest rates, investment decisions, and consumer spending.\n\nWhat does the CPI measure, according to the passage?",
+      "options": {
+        "A": "Economic growth",
+        "B": "Unemployment rate",
+        "C": "Average change in prices paid by urban consumers",
+        "D": "Stock market performance",
+        "E": "Government debt"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage defines the CPI as a measure of the average change in prices paid by urban consumers.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035373",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "The Insolvency and Bankruptcy Code (IBC) was enacted to streamline the resolution of distressed assets and improve the recovery rate for creditors. Prior to the IBC, India faced significant challenges in resolving insolvency cases, leading to delays and low recovery rates. The IBC provides a time-bound process for resolving insolvency, with a focus on preserving the value of the corporate debtor. It establishes a clear framework for creditors to initiate insolvency proceedings and for resolution professionals to manage the process. The IBC has contributed to a significant improvement in the ease of doing business and has helped to reduce the burden of non-performing assets on the banking system.\n\nWhat problem was the Insolvency and Bankruptcy Code (IBC) designed to address?",
+      "options": {
+        "A": "High inflation",
+        "B": "Low economic growth",
+        "C": "Inefficient resolution of distressed assets",
+        "D": "Excessive government regulation",
+        "E": "Lack of foreign investment"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that the IBC was enacted to streamline the resolution of distressed assets.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035376",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "Quantitative easing (QE) is an unconventional monetary policy tool used by central banks to stimulate economic activity when conventional interest rate policies are ineffective. It involves a central bank injecting liquidity into the money supply by purchasing assets, such as government bonds or mortgage-backed securities, from commercial banks and other institutions. This lowers long-term interest rates, encourages lending, and increases asset prices. QE is typically implemented when inflation is very low or negative and economic growth is stagnant. While QE can be effective in boosting economic activity, it also carries risks, such as inflation and asset bubbles. The effectiveness of QE depends on the specific economic conditions and the credibility of the central bank.\n\nWhat is the primary purpose of quantitative easing (QE)?",
+      "options": {
+        "A": "To increase government spending",
+        "B": "To reduce the money supply",
+        "C": "To stimulate economic activity",
+        "D": "To regulate the stock market",
+        "E": "To control exchange rates"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that QE is used to stimulate economic activity when conventional policies are ineffective.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035378",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "The yield curve is a graphical representation of the relationship between the interest rates (or yields) and the maturity dates of debt securities. It typically plots the yields of government bonds with different maturities, ranging from short-term to long-term. The shape of the yield curve can provide valuable insights into the state of the economy and expectations about future interest rates and inflation. A normal yield curve slopes upward, indicating that longer-term bonds have higher yields than shorter-term bonds. An inverted yield curve, where short-term yields are higher than long-term yields, is often seen as a predictor of a recession.\n\nWhat does an inverted yield curve often indicate, according to the passage?",
+      "options": {
+        "A": "Economic expansion",
+        "B": "High inflation",
+        "C": "A recession",
+        "D": "Stable interest rates",
+        "E": "Increased government spending"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage indicates that an inverted yield curve is often seen as a predictor of a recession.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035381",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "Non-Performing Assets (NPAs) are a major concern for the Indian banking system. They represent loans and advances where borrowers have stopped making interest or principal payments. High levels of NPAs erode bank profitability, reduce lending capacity, and increase the risk of financial instability. Several factors contribute to the accumulation of NPAs, including economic slowdowns, project delays, and poor credit appraisal. The Reserve Bank of India has implemented various measures to address the NPA problem, including stricter provisioning norms, asset reconstruction companies, and the Insolvency and Bankruptcy Code. Resolving the NPA problem is crucial for ensuring the health and stability of the banking sector.\n\nWhat is a key consequence of high levels of Non-Performing Assets (NPAs) for banks?",
+      "options": {
+        "A": "Increased profitability",
+        "B": "Reduced lending capacity",
+        "C": "Lower interest rates",
+        "D": "Higher stock prices",
+        "E": "Increased government regulation"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that high levels of NPAs reduce bank lending capacity.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035384",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "The debate surrounding inflation targeting as a primary objective for central banks is ongoing. Proponents argue that a clear inflation target enhances transparency and accountability, allowing central banks to effectively manage expectations and maintain price stability. They believe that focusing solely on inflation provides a simple and easily understood framework for monetary policy. Critics, however, contend that a rigid inflation target can be too restrictive, particularly in the face of supply shocks or financial instability. They advocate for a more flexible approach that considers other factors, such as employment and economic growth, in addition to inflation.\n\nWhat is a criticism of rigid inflation targeting?",
+      "options": {
+        "A": "It is too complex for the public to understand",
+        "B": "It can be too restrictive in certain situations",
+        "C": "It leads to hyperinflation",
+        "D": "It reduces transparency",
+        "E": "It encourages excessive government spending"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage mentions that critics argue a rigid inflation target can be too restrictive, especially during supply shocks or financial instability.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035386",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "The concept of moral hazard is prevalent in the financial sector. It arises when one party engages in risky behavior knowing that another party will bear the cost of that risk. For example, if a bank knows it will be bailed out by the government if it makes bad loans, it may be more likely to engage in risky lending practices. This can lead to excessive risk-taking and financial instability. Regulators attempt to mitigate moral hazard through various measures, such as capital requirements, supervision, and resolution mechanisms. However, eliminating moral hazard entirely is difficult, as it is often inherent in the structure of financial relationships.\n\nWhat is the definition of moral hazard as it relates to the financial sector?",
+      "options": {
+        "A": "The risk of losing money due to fraud",
+        "B": "The tendency to engage in risky behavior knowing another party will bear the cost",
+        "C": "The failure of a bank due to poor management",
+        "D": "The lack of transparency in financial markets",
+        "E": "The excessive regulation of the banking system"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage defines moral hazard as engaging in risky behavior knowing another party will bear the cost.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:02.035388",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 1
+    },
+    {
+      "question": "The Reserve Bank of India, RBI, plays a crucial role in managing inflation through its monetary policy. The primary objective is to maintain price stability while supporting economic growth. The RBI uses various tools such as the repo rate, reverse repo rate, and cash reserve ratio to control the money supply in the economy. When inflation rises, the RBI typically increases the repo rate, making it more expensive for commercial banks to borrow money. This, in turn, leads to higher lending rates for consumers and businesses, which reduces demand and helps to curb inflation. The effectiveness of the RBI's monetary policy depends on several factors, including the fiscal policy of the government and global economic conditions.\n\nWhat is the main function of the RBI as described in the passage?",
+      "options": {
+        "A": "To promote fiscal policy.",
+        "B": "To control global economic conditions.",
+        "C": "To manage inflation and support economic growth.",
+        "D": "To regulate commercial banks exclusively.",
+        "E": "To set interest rates for consumers directly."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that the RBI's primary objective is to maintain price stability (manage inflation) while supporting economic growth.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432601",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "Financial inclusion is a critical aspect of economic development. It ensures that all individuals and businesses, regardless of their income level, have access to affordable and usable financial services. These services include banking, insurance, and credit facilities. Digital banking plays a significant role in promoting financial inclusion by reducing the cost of delivering financial services and expanding their reach to remote areas. Government initiatives such as the Pradhan Mantri Jan Dhan Yojana have also contributed significantly to increasing the number of people with bank accounts. However, challenges such as low financial literacy and limited access to internet connectivity remain.\n\nAccording to the passage, what is a significant factor contributing to financial inclusion?",
+      "options": {
+        "A": "High interest rates on loans.",
+        "B": "Limited access to financial services.",
+        "C": "Digital banking and government initiatives.",
+        "D": "Exclusion of low-income individuals.",
+        "E": "Focus on urban areas only."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage mentions that digital banking and government initiatives like Pradhan Mantri Jan Dhan Yojana have significantly contributed to financial inclusion.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432643",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "The Indian banking system has undergone significant reforms in recent decades. These reforms aimed to improve the efficiency, stability, and competitiveness of the banking sector. Key reforms include the introduction of stricter capital adequacy norms, the strengthening of regulatory oversight, and the promotion of competition among banks. The implementation of Basel III norms has enhanced the resilience of banks to financial shocks. Furthermore, the adoption of technology has transformed the banking landscape, with the rise of digital banking and fintech companies. However, challenges such as rising non-performing assets and the need for further consolidation remain.\n\nWhat is one of the main goals of the reforms in the Indian banking system according to the passage?",
+      "options": {
+        "A": "To increase non-performing assets.",
+        "B": "To reduce competition among banks.",
+        "C": "To improve the efficiency and stability of the banking sector.",
+        "D": "To weaken regulatory oversight.",
+        "E": "To decrease capital adequacy norms."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that the reforms aimed to improve the efficiency, stability, and competitiveness of the banking sector.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432647",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "Economic indicators provide valuable insights into the health and performance of an economy. Key indicators include gross domestic product, GDP, inflation rate, unemployment rate, and interest rates. GDP measures the total value of goods and services produced in a country. A high GDP growth rate indicates a strong and expanding economy. The inflation rate measures the rate at which prices are rising. High inflation can erode purchasing power and destabilize the economy. The unemployment rate measures the percentage of the labor force that is unemployed. High unemployment can lead to social and economic problems. Central banks use these indicators to make informed decisions about monetary policy.\n\nAccording to the passage, what does a high GDP growth rate indicate?",
+      "options": {
+        "A": "A weak and contracting economy.",
+        "B": "High unemployment rates.",
+        "C": "A strong and expanding economy.",
+        "D": "High inflation rates.",
+        "E": "Economic stagnation."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that a high GDP growth rate indicates a strong and expanding economy.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432650",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "Government schemes play a vital role in addressing various socio-economic challenges in India. These schemes aim to improve the living standards of citizens, promote economic growth, and reduce inequality. Some of the key schemes include the Mahatma Gandhi National Rural Employment Guarantee Act, MGNREGA, which provides employment to rural households, the Pradhan Mantri Awas Yojana, PMAY, which aims to provide affordable housing, and the Ayushman Bharat scheme, which provides health insurance coverage. The success of these schemes depends on effective implementation, adequate funding, and proper monitoring. Challenges such as corruption and leakages can hinder their effectiveness.\n\nWhat is the primary goal of the Pradhan Mantri Awas Yojana (PMAY) as mentioned in the passage?",
+      "options": {
+        "A": "To provide employment to rural households.",
+        "B": "To provide health insurance coverage.",
+        "C": "To provide affordable housing.",
+        "D": "To promote digital literacy.",
+        "E": "To improve agricultural productivity."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that the Pradhan Mantri Awas Yojana (PMAY) aims to provide affordable housing.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432653",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "International banking and finance involve the flow of capital, goods, and services across national borders. This includes activities such as foreign direct investment, international trade, and currency exchange. Multinational corporations play a significant role in international banking and finance by investing in foreign countries and engaging in cross-border transactions. The global financial system is interconnected, and events in one country can have ripple effects on other countries. International financial institutions such as the International Monetary Fund, IMF, and the World Bank play a crucial role in promoting global financial stability and economic development. Fluctuations in exchange rates and interest rates can significantly impact international trade and investment flows.\n\nAccording to the passage, what role do international financial institutions like the IMF play?",
+      "options": {
+        "A": "To regulate domestic banking systems.",
+        "B": "To promote global financial stability and economic development.",
+        "C": "To control exchange rates exclusively.",
+        "D": "To promote protectionist trade policies.",
+        "E": "To manage the fiscal policy of individual countries."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that international financial institutions such as the IMF and the World Bank play a crucial role in promoting global financial stability and economic development.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432657",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "The concept of moral suasion is often employed by central banks, including the Reserve Bank of India, as a tool to influence the behavior of commercial banks. It involves the central bank using persuasive techniques, rather than formal regulations, to encourage banks to comply with its policy objectives. This might include public statements, private meetings, or informal guidance. Moral suasion is most effective when the central bank has a strong reputation and a good relationship with the commercial banks. However, its effectiveness can be limited if banks have conflicting incentives or if the central bank lacks credibility. It is a subtle tool and its impact is often difficult to quantify.\n\nWhat is the central idea behind the use of moral suasion by central banks?",
+      "options": {
+        "A": "Enforcing strict regulations on commercial banks.",
+        "B": "Using persuasive techniques to influence bank behavior.",
+        "C": "Ignoring the policy objectives of commercial banks.",
+        "D": "Quantifying the impact of monetary policy.",
+        "E": "Directly controlling interest rates for all banks."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly states that moral suasion involves the central bank using persuasive techniques, rather than formal regulations, to encourage banks to comply with its policy objectives.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432660",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "The debate surrounding inflation targeting as a monetary policy framework centers on its effectiveness in diverse economic contexts. Proponents argue that it provides clarity and transparency, anchoring inflation expectations and fostering macroeconomic stability. Critics, however, contend that it can be too rigid, especially in the face of supply shocks or financial crises, potentially leading to suboptimal policy responses. Furthermore, the exclusive focus on inflation may neglect other important objectives such as employment or financial stability. The success of inflation targeting depends heavily on the credibility of the central bank and its ability to communicate its policy intentions effectively.\n\nWhat is a potential drawback of inflation targeting as highlighted in the passage?",
+      "options": {
+        "A": "It promotes excessive economic growth.",
+        "B": "It always leads to optimal policy responses.",
+        "C": "It can be too rigid and neglect other economic objectives.",
+        "D": "It simplifies communication of policy intentions.",
+        "E": "It enhances the central bank's credibility in all situations."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that critics contend that inflation targeting can be too rigid, especially in the face of supply shocks or financial crises, potentially leading to suboptimal policy responses and neglecting other important objectives such as employment or financial stability.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432663",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "The ongoing evolution of fintech companies presents both opportunities and challenges for traditional banking institutions. Fintech firms are leveraging technology to offer innovative financial services, often at lower costs and with greater convenience. This increased competition is forcing banks to adapt and innovate themselves, improving their customer experience and efficiency. However, the rapid growth of fintech also raises concerns about regulatory oversight, data security, and systemic risk. Balancing the benefits of innovation with the need for financial stability is a key challenge for policymakers and regulators. The integration of fintech into the existing financial system requires careful consideration and a proactive approach to regulation.\n\nWhat is the primary challenge posed by the rise of fintech companies to traditional banks, according to the passage?",
+      "options": {
+        "A": "A decrease in the need for regulatory oversight.",
+        "B": "Reduced competition in the financial services industry.",
+        "C": "The need to adapt and innovate to remain competitive.",
+        "D": "Elimination of concerns about data security.",
+        "E": "Simplified integration into the existing financial system."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage indicates that increased competition from fintech firms is forcing banks to adapt and innovate themselves, improving their customer experience and efficiency.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432666",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "The effectiveness of macroprudential policies in mitigating systemic risk is a subject of ongoing debate among economists and policymakers. These policies, which aim to address risks to the financial system as a whole, include tools such as countercyclical capital buffers and loan-to-value ratios. While some studies suggest that macroprudential policies can be effective in reducing the likelihood and severity of financial crises, others argue that their impact is limited and difficult to measure. Furthermore, there is concern that these policies may have unintended consequences, such as reducing credit availability or encouraging regulatory arbitrage. The optimal design and implementation of macroprudential policies require careful consideration of the specific characteristics of each financial system.\n\nWhat is a key concern regarding the implementation of macroprudential policies, as mentioned in the passage?",
+      "options": {
+        "A": "They always lead to financial crises.",
+        "B": "Their impact is universally agreed upon and easy to measure.",
+        "C": "They may have unintended consequences, such as reduced credit availability.",
+        "D": "They eliminate the need for regulatory oversight.",
+        "E": "They always increase credit availability without any risks."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that there is concern that these policies may have unintended consequences, such as reducing credit availability or encouraging regulatory arbitrage.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:28.432668",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 2
+    },
+    {
+      "question": "The Reserve Bank of India employs various instruments to manage inflation, primarily through its monetary policy. The repo rate, the rate at which commercial banks borrow money from the RBI, is a key tool. Increasing the repo rate makes borrowing more expensive, reducing the money supply and curbing demand-pull inflation. Conversely, decreasing the repo rate encourages borrowing, increasing the money supply and potentially stimulating economic growth. The cash reserve ratio, the percentage of deposits banks must hold with the RBI, also plays a role. A higher CRR reduces the amount of money banks can lend, while a lower CRR increases their lending capacity. Open market operations, involving the buying and selling of government securities, are another important instrument. Buying securities injects liquidity into the market, while selling securities withdraws liquidity. Effective inflation management requires a delicate balance to avoid stifling economic growth.\n\nWhat is the primary objective of the RBI when adjusting the repo rate?",
+      "options": {
+        "A": "To directly control the fiscal deficit of the government",
+        "B": "To influence the lending behavior of commercial banks and manage inflation",
+        "C": "To regulate the stock market and ensure its stability",
+        "D": "To promote foreign direct investment in the country",
+        "E": "To directly increase the profitability of commercial banks"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly states that the repo rate is used to manage inflation by influencing the lending behavior of commercial banks. Options A, C, D, and E are not related to the repo rate's primary function as described in the passage.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579051",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "Financial inclusion aims to extend banking services to the unbanked and underbanked populations. This involves providing access to basic banking accounts, credit, insurance, and other financial products at an affordable cost. Initiatives like the Pradhan Mantri Jan Dhan Yojana have significantly increased the number of bank accounts, but ensuring their active usage remains a challenge. Digital banking channels, such as mobile banking and internet banking, are playing a crucial role in expanding financial inclusion, particularly in remote areas. However, digital literacy and internet access are essential prerequisites. Furthermore, addressing issues like cybersecurity and fraud prevention is vital to maintain trust in digital financial services. The ultimate goal is to empower individuals and communities by enabling them to participate more fully in the formal financial system.\n\nAccording to the passage, what is a significant challenge in achieving effective financial inclusion despite the increase in bank accounts?",
+      "options": {
+        "A": "The lack of government subsidies for banking services",
+        "B": "The active usage of newly opened bank accounts",
+        "C": "The high interest rates charged by commercial banks",
+        "D": "The limited availability of banking infrastructure in urban areas",
+        "E": "The reluctance of people to open bank accounts"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly mentions that ensuring the active usage of newly opened bank accounts remains a challenge despite the increase in their numbers. The other options are not directly addressed in the passage as primary challenges.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579194",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "The Indian banking sector has undergone significant reforms in recent decades, aimed at improving efficiency, stability, and competitiveness. These reforms include deregulation of interest rates, reduction in statutory reserve requirements, and the introduction of stricter prudential norms. The establishment of asset reconstruction companies has helped to address the issue of non-performing assets. Furthermore, the government has taken steps to consolidate public sector banks to enhance their operational efficiency and financial strength. However, challenges remain, including the need to further improve asset quality, strengthen risk management practices, and adapt to the evolving landscape of digital banking. Continuous innovation and regulatory vigilance are crucial for the sustained growth and stability of the Indian banking system.\n\nWhat is the primary purpose of consolidating public sector banks, as mentioned in the passage?",
+      "options": {
+        "A": "To reduce the number of bank branches in rural areas",
+        "B": "To decrease the overall lending capacity of the banking sector",
+        "C": "To enhance their operational efficiency and financial strength",
+        "D": "To increase the government's control over the banking system",
+        "E": "To promote the privatization of public sector banks"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that the government has taken steps to consolidate public sector banks to enhance their operational efficiency and financial strength. The other options are not the primary reasons for consolidation as described in the passage.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579198",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "The global economy is facing a complex interplay of factors, including rising inflation, supply chain disruptions, and geopolitical uncertainties. Central banks around the world are grappling with the challenge of tightening monetary policy to control inflation without triggering a recession. The war in Ukraine has exacerbated supply chain issues and pushed up energy prices. Furthermore, the resurgence of COVID-19 in some regions continues to disrupt economic activity. These factors are contributing to a slowdown in global growth and increased volatility in financial markets. International cooperation is essential to address these challenges and promote sustainable and inclusive growth.\n\nAccording to the passage, what is a major factor contributing to the slowdown in global growth?",
+      "options": {
+        "A": "Decreasing interest rates by central banks",
+        "B": "Increased government spending on infrastructure projects",
+        "C": "The resurgence of COVID-19 in some regions",
+        "D": "The stabilization of energy prices",
+        "E": "Reduced geopolitical tensions"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly mentions that the resurgence of COVID-19 in some regions continues to disrupt economic activity, contributing to a slowdown in global growth. The other options are not presented as factors contributing to the slowdown.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579202",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "Microfinance institutions play a crucial role in providing financial services to low-income individuals and small businesses, particularly in rural areas. These institutions offer small loans, savings accounts, and other financial products that are often inaccessible through traditional banks. While microfinance has been successful in empowering many people, it also faces challenges such as high interest rates, over-indebtedness, and regulatory oversight. Ensuring the sustainability and ethical practices of microfinance institutions is essential to maximize their positive impact and minimize potential risks. Furthermore, promoting financial literacy among borrowers is crucial to enable them to make informed decisions and manage their finances effectively.\n\nWhat is a significant challenge faced by microfinance institutions, as mentioned in the passage?",
+      "options": {
+        "A": "Low demand for financial services in rural areas",
+        "B": "High interest rates charged by microfinance institutions",
+        "C": "Excessive government regulation of the sector",
+        "D": "Lack of skilled personnel in the banking industry",
+        "E": "Limited access to technology for financial transactions"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage explicitly mentions that high interest rates are a challenge faced by microfinance institutions. The other options are not directly identified as challenges in the passage.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579205",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "The debate surrounding central bank independence is a long-standing one. Proponents argue that an independent central bank, free from political interference, is better equipped to maintain price stability and manage inflation effectively. They believe that politicians may be tempted to pursue short-term economic gains at the expense of long-term price stability, whereas an independent central bank can take a more objective and data-driven approach. Opponents, on the other hand, argue that monetary policy should be aligned with the broader economic goals of the government and that central bank independence can lead to a lack of accountability. They suggest that elected officials should have greater influence over monetary policy decisions. The optimal degree of central bank independence remains a subject of ongoing discussion and varies across countries.\n\nWhat is the main argument in favor of central bank independence, according to the passage?",
+      "options": {
+        "A": "It allows politicians to focus on fiscal policy without worrying about monetary policy",
+        "B": "It ensures that monetary policy is always aligned with the government's economic goals",
+        "C": "It enables the central bank to maintain price stability and manage inflation effectively, free from political interference",
+        "D": "It increases the accountability of central bank officials to the public",
+        "E": "It promotes short-term economic gains at the expense of long-term price stability"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage clearly states that proponents of central bank independence believe it is better equipped to maintain price stability and manage inflation effectively, free from political interference. The other options present arguments that are either against central bank independence or unrelated to the main argument in favor of it.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579208",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "Basel III is a comprehensive set of reform measures, developed by the Basel Committee on Banking Supervision, to strengthen the regulation, supervision, and risk management of banks. It aims to improve the banking sector's ability to absorb shocks arising from financial stress, improve risk management and governance, and strengthen banks' transparency and disclosures. Key elements of Basel III include higher minimum capital requirements, stricter liquidity standards, and measures to reduce procyclicality. The implementation of Basel III has been phased in over several years and has had a significant impact on the global banking landscape. While it has enhanced the stability of the banking system, it has also increased compliance costs for banks and may have contributed to a slight reduction in lending activity.\n\nWhat is the primary goal of Basel III, as described in the passage?",
+      "options": {
+        "A": "To reduce the profitability of the banking sector",
+        "B": "To promote greater competition among banks",
+        "C": "To strengthen the regulation, supervision, and risk management of banks",
+        "D": "To encourage banks to increase their lending activity",
+        "E": "To simplify the accounting standards used by banks"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that Basel III aims to strengthen the regulation, supervision, and risk management of banks. The other options are not the primary goals of Basel III as described in the passage.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579212",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "Fintech companies are disrupting the traditional financial services industry by leveraging technology to offer innovative products and services. These companies are using data analytics, artificial intelligence, and blockchain technology to provide services such as online lending, mobile payments, and robo-advisory. While fintech companies offer convenience and efficiency, they also pose challenges to regulators and traditional financial institutions. Issues such as data privacy, cybersecurity, and regulatory arbitrage need to be addressed to ensure a level playing field and protect consumers. The collaboration between fintech companies and traditional banks is becoming increasingly important to harness the benefits of innovation while managing the associated risks.\n\nWhat is a key challenge posed by fintech companies to regulators, according to the passage?",
+      "options": {
+        "A": "The lack of innovation in the financial services industry",
+        "B": "The excessive regulation of traditional banks",
+        "C": "Issues such as data privacy, cybersecurity, and regulatory arbitrage",
+        "D": "The limited adoption of technology by consumers",
+        "E": "The high cost of providing financial services"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly mentions that issues such as data privacy, cybersecurity, and regulatory arbitrage need to be addressed to ensure a level playing field and protect consumers in the context of fintech companies. The other options are not the primary challenges posed by fintech companies to regulators as described in the passage.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579215",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "The concept of moral hazard is prevalent in the financial sector, particularly in situations where entities are insured or protected from the full consequences of their actions. For example, if a bank knows that it will be bailed out by the government in the event of a crisis, it may be more likely to take on excessive risk. This can lead to a build-up of systemic risk and increase the likelihood of future financial crises. Addressing moral hazard requires a combination of measures, including stricter regulation, enhanced supervision, and credible commitment to avoid bailouts. However, completely eliminating moral hazard is difficult, as it is inherent in any system that provides some form of insurance or protection.\n\nWhat is the primary implication of moral hazard in the financial sector, according to the passage?",
+      "options": {
+        "A": "It encourages banks to lend more money to small businesses",
+        "B": "It reduces the overall level of risk in the financial system",
+        "C": "It may lead banks to take on excessive risk, increasing the likelihood of financial crises",
+        "D": "It promotes greater transparency and accountability in the banking sector",
+        "E": "It discourages government intervention in the financial system"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that moral hazard can lead banks to take on excessive risk, increasing the likelihood of future financial crises. The other options are either incorrect or not directly related to the primary implication of moral hazard as described in the passage.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579218",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "The Yield Curve is a graphical representation of interest rates of similar-quality bonds at different maturities. It is a crucial indicator of future economic activity. A normal yield curve, where longer-term bonds have higher yields than shorter-term bonds, usually signifies a healthy, growing economy. An inverted yield curve, where short-term bonds have higher yields than long-term bonds, is often seen as a predictor of an upcoming recession. A flat yield curve, where yields are similar across all maturities, indicates economic uncertainty. The shape and movement of the yield curve are closely monitored by economists and investors to assess the overall health and direction of the economy.\n\nWhat does an inverted yield curve typically indicate, according to the passage?",
+      "options": {
+        "A": "A period of strong economic growth",
+        "B": "An upcoming recession",
+        "C": "Stable economic conditions",
+        "D": "Decreasing inflation rates",
+        "E": "Increased government spending"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage clearly states that an inverted yield curve is often seen as a predictor of an upcoming recession. The other options describe different economic conditions or indicators.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:48:59.579221",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 3
+    },
+    {
+      "question": "The Reserve Bank of India, RBI, plays a crucial role in managing inflation through its monetary policy. The primary tool used is the manipulation of the repo rate, the rate at which commercial banks borrow money from the RBI. When inflation rises, the RBI typically increases the repo rate. This makes borrowing more expensive for banks, which in turn increases lending rates for businesses and consumers. Consequently, demand decreases, leading to a cooling down of prices. However, this approach can also slow down economic growth. The RBI must carefully balance controlling inflation with supporting economic expansion to maintain overall financial stability. Factors such as global commodity prices and monsoon patterns also influence inflation, making the RBI's task complex and multifaceted. Understanding these dynamics is vital for effective monetary policy implementation.\n\nWhat is the most likely consequence of the RBI increasing the repo rate?",
+      "options": {
+        "A": "Increased economic growth",
+        "B": "Decreased inflation",
+        "C": "Increased lending to businesses",
+        "D": "Decreased borrowing costs for banks",
+        "E": "Higher consumer spending"
+      },
+      "correct_answer": "B",
+      "explanation": "An increased repo rate makes borrowing more expensive, leading to decreased demand and lower inflation. The other options describe the opposite effect or are unrelated.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625379",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "Financial inclusion aims to extend banking services to the unbanked and underbanked populations. This involves providing access to basic banking accounts, credit, insurance, and other financial products at an affordable cost. Technology plays a significant role in promoting financial inclusion, with mobile banking and digital payment systems reaching remote areas. Government initiatives like the Pradhan Mantri Jan Dhan Yojana have also contributed to expanding access to banking services. However, challenges remain, including low financial literacy, lack of awareness, and infrastructure limitations in rural regions. Overcoming these hurdles is essential for ensuring inclusive growth and empowering marginalized communities.\n\nAccording to the passage, what is a major challenge in achieving financial inclusion?",
+      "options": {
+        "A": "High interest rates on loans",
+        "B": "Excessive regulation of banks",
+        "C": "Low financial literacy among the population",
+        "D": "Overdependence on traditional banking methods",
+        "E": "Lack of competition among banks"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly mentions low financial literacy as a challenge to financial inclusion. The other options are not mentioned as challenges in the passage.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625414",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "The Banking Regulation Act of 1949 is a cornerstone of the Indian banking system, providing the legal framework for the regulation and supervision of banks. It empowers the Reserve Bank of India with extensive powers to oversee banking operations, license new banks, and conduct inspections. Amendments to the Act over the years have strengthened regulatory oversight and introduced measures to address emerging challenges such as non-performing assets. The Act aims to ensure the stability and soundness of the banking system, protect depositors' interests, and promote financial stability. Compliance with the Banking Regulation Act is essential for all banks operating in India.\n\nWhat is the primary purpose of the Banking Regulation Act of 1949?",
+      "options": {
+        "A": "To promote competition among banks",
+        "B": "To facilitate international trade",
+        "C": "To regulate and supervise banks in India",
+        "D": "To encourage lending to small businesses",
+        "E": "To provide financial assistance to failing banks"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage clearly states that the Banking Regulation Act provides the legal framework for the regulation and supervision of banks in India. The other options are not the primary purposes of the Act.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625422",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "Non-Performing Assets, NPAs, pose a significant challenge to the Indian banking sector. These are loans where borrowers have stopped making interest or principal payments for a specified period. High levels of NPAs erode bank profitability, reduce lending capacity, and can threaten financial stability. Several factors contribute to the accumulation of NPAs, including economic slowdowns, project delays, and willful loan defaults. The Reserve Bank of India has implemented various measures to address the NPA problem, such as asset quality reviews and restructuring schemes. Effective management of NPAs is crucial for maintaining the health and resilience of the banking system.\n\nWhat is the primary consequence of high levels of Non-Performing Assets for banks?",
+      "options": {
+        "A": "Increased profitability",
+        "B": "Enhanced lending capacity",
+        "C": "Erosion of profitability",
+        "D": "Improved financial stability",
+        "E": "Reduced regulatory oversight"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that high levels of NPAs erode bank profitability. The other options describe the opposite effect or are unrelated.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625427",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "The global financial crisis of 2008 highlighted the interconnectedness of financial markets and the importance of robust risk management practices. The crisis originated in the United States with the collapse of the subprime mortgage market and quickly spread to other countries, causing widespread economic disruption. Banks experienced significant losses, credit markets froze, and many businesses faced bankruptcy. Governments and central banks intervened with massive bailouts and monetary easing measures to stabilize the financial system. The crisis led to increased regulation of the financial industry and a greater focus on preventing future crises. International cooperation is essential for addressing systemic risks and promoting global financial stability.\n\nWhat was a key factor that contributed to the global financial crisis of 2008?",
+      "options": {
+        "A": "Increased government regulation of banks",
+        "B": "A decline in international trade",
+        "C": "The collapse of the subprime mortgage market in the United States",
+        "D": "A decrease in global interest rates",
+        "E": "Increased lending to developing countries"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that the crisis originated in the United States with the collapse of the subprime mortgage market. The other options are not mentioned as key contributing factors.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625433",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "The concept of moral suasion is often employed by central banks, including the Reserve Bank of India, as a tool to influence the behavior of commercial banks. Instead of directly imposing regulations or mandates, the central bank uses persuasion, appeals, and informal guidance to encourage banks to align their actions with the desired policy objectives. This can involve encouraging banks to lend to certain sectors, manage their liquidity prudently, or adopt specific risk management practices. The effectiveness of moral suasion depends on the credibility and influence of the central bank, as well as the willingness of commercial banks to cooperate. While not always as effective as direct regulation, moral suasion can be a valuable tool for promoting financial stability and achieving policy goals.\n\nWhat is the primary characteristic of moral suasion as used by central banks?",
+      "options": {
+        "A": "Enforcement of strict regulations",
+        "B": "Direct control over bank lending",
+        "C": "Use of persuasion and informal guidance",
+        "D": "Imposition of financial penalties",
+        "E": "Nationalization of commercial banks"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage defines moral suasion as the use of persuasion, appeals, and informal guidance by the central bank to influence commercial banks. The other options describe different approaches or are unrelated.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625438",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "Basel III is a set of international regulatory accords designed to strengthen the regulation, supervision, and risk management of banks. Developed in response to the global financial crisis, Basel III aims to improve banks' capital adequacy, leverage, and liquidity. The accords introduce stricter capital requirements, including higher minimum capital ratios and a focus on high-quality capital. They also establish liquidity standards to ensure that banks have sufficient liquid assets to meet their short-term obligations. Furthermore, Basel III addresses systemic risk by requiring banks to hold additional capital buffers. Implementation of Basel III is ongoing in many countries, including India, and is expected to enhance the resilience of the global banking system.\n\nWhat is the main objective of the Basel III accords?",
+      "options": {
+        "A": "To reduce competition among banks",
+        "B": "To promote lending to small businesses",
+        "C": "To strengthen the regulation and risk management of banks",
+        "D": "To decrease capital requirements for banks",
+        "E": "To encourage excessive risk-taking by banks"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that Basel III is designed to strengthen the regulation, supervision, and risk management of banks. The other options describe the opposite effect or are unrelated.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625444",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "Quantitative easing, QE, is an unconventional monetary policy tool used by central banks to stimulate economic activity. It involves a central bank injecting liquidity into the economy by purchasing assets, such as government bonds or mortgage-backed securities, from commercial banks and other financial institutions. This increases the money supply and lowers interest rates, encouraging borrowing and investment. QE is typically employed when conventional monetary policy tools, like lowering the policy interest rate, are no longer effective. While QE can help to boost economic growth and inflation, it also carries risks, such as asset bubbles and currency devaluation. The effectiveness of QE depends on various factors, including the credibility of the central bank and the overall economic environment.\n\nWhat is the primary mechanism through which quantitative easing aims to stimulate the economy?",
+      "options": {
+        "A": "Increasing government spending",
+        "B": "Raising interest rates",
+        "C": "Injecting liquidity by purchasing assets",
+        "D": "Decreasing the money supply",
+        "E": "Imposing stricter regulations on banks"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explains that quantitative easing involves a central bank injecting liquidity into the economy by purchasing assets. The other options describe the opposite effect or are unrelated.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625449",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "The yield curve is a graphical representation of the relationship between the interest rates or borrowing costs of debt instruments, like government bonds, and their time to maturity. Typically, the yield curve slopes upward, indicating that longer-term bonds have higher yields than shorter-term bonds. This reflects the expectation that investors demand a premium for tying up their money for a longer period. However, the yield curve can also flatten or invert, with shorter-term yields exceeding longer-term yields. An inverted yield curve is often seen as a predictor of an economic recession, as it suggests that investors anticipate a slowdown in economic growth and a decline in interest rates in the future. Monitoring the yield curve is an important tool for economists and investors.\n\nWhat is typically indicated by an inverted yield curve?",
+      "options": {
+        "A": "Strong economic growth",
+        "B": "Increased inflation",
+        "C": "An impending economic recession",
+        "D": "Stable interest rates",
+        "E": "Decreased government spending"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that an inverted yield curve is often seen as a predictor of an economic recession. The other options describe the opposite effect or are unrelated.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625455",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "The Financial Stability Board, FSB, is an international body that monitors and makes recommendations about the global financial system. It was established in the wake of the 2008 financial crisis to coordinate at the international level the work of national financial authorities and international standard-setting bodies in order to develop and promote the implementation of effective regulatory, supervisory, and other financial sector policies. The FSB works to strengthen financial systems and increase their stability by coordinating national regulatory policies. It identifies vulnerabilities in the global financial system and proposes actions to address them. The FSB plays a crucial role in promoting international cooperation and ensuring the stability of the global financial system.\n\nWhat is the primary function of the Financial Stability Board?",
+      "options": {
+        "A": "To provide financial assistance to failing banks",
+        "B": "To regulate international trade",
+        "C": "To coordinate international financial regulation and promote stability",
+        "D": "To manage exchange rates",
+        "E": "To promote lending to developing countries"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that the FSB coordinates international financial regulation and promotes stability. The other options are not the primary functions of the FSB.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:26.625460",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 4
+    },
+    {
+      "question": "The Reserve Bank of India Act of 1934 forms the bedrock of India's monetary policy framework. The Act empowers the RBI to regulate the currency and credit system of the country to maintain price stability and foster economic growth. The central bank achieves these objectives through various instruments, including the repo rate, reverse repo rate, cash reserve ratio, and statutory liquidity ratio. Changes in these rates influence the cost and availability of credit, affecting aggregate demand and inflation. The RBI also manages the government's debt and plays a crucial role in maintaining financial stability by supervising banks and other financial institutions. Recent amendments to the Act have further strengthened the RBI's autonomy and accountability in monetary policy decision-making.\n\nWhat is the primary objective of the Reserve Bank of India Act of 1934, according to the passage?",
+      "options": {
+        "A": "To regulate the stock market",
+        "B": "To promote exports and imports",
+        "C": "To maintain price stability and foster economic growth",
+        "D": "To control foreign exchange reserves",
+        "E": "To manage the government's fiscal deficit"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage clearly states that the RBI Act empowers the central bank to regulate the currency and credit system to maintain price stability and foster economic growth.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617725",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "Financial inclusion is a key priority for the Indian government and the Reserve Bank of India. It aims to extend banking services to the unbanked and underbanked segments of the population, thereby promoting inclusive growth. Several initiatives have been launched to achieve this goal, including the Pradhan Mantri Jan Dhan Yojana (PMJDY), which provides access to basic banking accounts, insurance, and credit facilities. The use of technology, such as mobile banking and Aadhaar-enabled payments, has also played a significant role in expanding financial inclusion. Challenges remain, however, including low financial literacy, inadequate infrastructure, and a lack of awareness about financial products and services. Continued efforts are needed to address these challenges and ensure that all citizens have access to affordable and reliable financial services.\n\nAccording to the passage, what is one of the main challenges hindering financial inclusion in India?",
+      "options": {
+        "A": "High interest rates on loans",
+        "B": "Excessive regulation of banks",
+        "C": "Low financial literacy",
+        "D": "Lack of government subsidies",
+        "E": "Limited availability of ATMs"
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly mentions low financial literacy as one of the challenges hindering financial inclusion.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617842",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "Monetary policy transmission refers to the process by which changes in the central bank's policy rate affect aggregate demand and inflation. The transmission mechanism typically involves several channels, including the interest rate channel, the credit channel, the exchange rate channel, and the asset price channel. For example, a decrease in the policy rate may lead to lower borrowing costs for businesses and consumers, stimulating investment and consumption. This increased demand can then lead to higher inflation. However, the effectiveness of monetary policy transmission can be influenced by various factors, such as the state of the economy, the credibility of the central bank, and the structure of the financial system. In some cases, the transmission mechanism may be impaired, leading to a weaker impact on the economy.\n\nWhat is the 'interest rate channel's' effect on investment and consumption when the central bank decreases the policy rate?",
+      "options": {
+        "A": "It leads to higher borrowing costs, decreasing investment and consumption.",
+        "B": "It leads to lower borrowing costs, stimulating investment and consumption.",
+        "C": "It has no effect on investment and consumption.",
+        "D": "It leads to higher exchange rates, decreasing investment and consumption.",
+        "E": "It leads to lower asset prices, stimulating investment and consumption."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that a decrease in the policy rate may lead to lower borrowing costs for businesses and consumers, stimulating investment and consumption.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617847",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "The Basel III accord is a comprehensive set of reform measures, developed by the Basel Committee on Banking Supervision, to strengthen the regulation, supervision, and risk management of banks. It aims to improve the banking sector's ability to absorb shocks arising from financial stress, improve risk management and governance, and strengthen banks' transparency and disclosures. Key elements of Basel III include higher minimum capital requirements, a leverage ratio, and liquidity standards. The implementation of Basel III has been phased in over several years, and it has had a significant impact on banks' capital structures and lending practices. While Basel III has enhanced the resilience of the banking system, it has also been criticized for increasing compliance costs and potentially reducing banks' profitability.\n\nAccording to the passage, what is a key element of the Basel III accord?",
+      "options": {
+        "A": "Lower minimum capital requirements",
+        "B": "A higher leverage ratio",
+        "C": "Reduced liquidity standards",
+        "D": "Higher minimum capital requirements",
+        "E": "Decreased transparency and disclosures"
+      },
+      "correct_answer": "D",
+      "explanation": "The passage mentions higher minimum capital requirements as a key element of Basel III.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617850",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "The Indian economy has witnessed a significant increase in digital payments in recent years, driven by factors such as the increasing adoption of smartphones, the availability of affordable internet, and government initiatives promoting digital transactions. The Unified Payments Interface (UPI) has emerged as a popular platform for digital payments, facilitating seamless and instant money transfers between bank accounts. The growth of digital payments has had several positive effects, including reduced transaction costs, increased transparency, and improved financial inclusion. However, challenges remain, such as cybersecurity risks, digital illiteracy, and the need for robust infrastructure. Further efforts are needed to address these challenges and ensure the continued growth and security of digital payments in India.\n\nWhat factor is NOT mentioned in the passage as contributing to the increase in digital payments in India?",
+      "options": {
+        "A": "Increasing adoption of smartphones",
+        "B": "Availability of affordable internet",
+        "C": "Government initiatives promoting digital transactions",
+        "D": "Decreasing interest rates on savings accounts",
+        "E": "The Unified Payments Interface (UPI)"
+      },
+      "correct_answer": "D",
+      "explanation": "The passage mentions increasing adoption of smartphones, the availability of affordable internet, government initiatives promoting digital transactions, and the Unified Payments Interface (UPI) as factors contributing to the increase in digital payments. Decreasing interest rates on savings accounts is not mentioned.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617853",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "Inflation targeting is a monetary policy framework where the central bank announces an explicit inflation target and commits to using its policy instruments to achieve that target. The primary goal of inflation targeting is to maintain price stability, which is considered essential for sustainable economic growth. The Reserve Bank of India adopted inflation targeting in 2016, with a target of 4% with a tolerance band of +/- 2%. The effectiveness of inflation targeting depends on several factors, including the credibility of the central bank, the accuracy of inflation forecasts, and the responsiveness of the economy to monetary policy changes. While inflation targeting has been successful in many countries, it also has its limitations, such as the potential for neglecting other important macroeconomic objectives.\n\nAccording to the passage, what is the inflation target set by the Reserve Bank of India?",
+      "options": {
+        "A": "2%",
+        "B": "4% with a tolerance band of +/- 2%",
+        "C": "6%",
+        "D": "8%",
+        "E": "10%"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage clearly states that the Reserve Bank of India adopted inflation targeting in 2016, with a target of 4% with a tolerance band of +/- 2%.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617856",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "The Mundell-Fleming model, an extension of the IS-LM model, analyzes the short-run equilibrium of an open economy. It considers the interaction between the goods market, the money market, and the foreign exchange market. A key assumption of the model is perfect capital mobility, meaning that capital can flow freely across borders in response to interest rate differentials. Under a flexible exchange rate regime, monetary policy is more effective in influencing output than fiscal policy. Conversely, under a fixed exchange rate regime, fiscal policy is more effective. The model has been influential in shaping our understanding of the macroeconomic effects of exchange rate regimes and capital flows. However, it has also been criticized for its simplifying assumptions and its inability to fully capture the complexities of real-world economies.\n\nAccording to the Mundell-Fleming model, which policy is more effective under a flexible exchange rate regime?",
+      "options": {
+        "A": "Fiscal policy",
+        "B": "Monetary policy",
+        "C": "Trade policy",
+        "D": "Supply-side policy",
+        "E": "Industrial policy"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that under a flexible exchange rate regime, monetary policy is more effective in influencing output than fiscal policy, according to the Mundell-Fleming model.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617871",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "Non-Performing Assets (NPAs) pose a significant challenge to the Indian banking sector. NPAs are loans or advances where principal or interest payments are overdue for a specified period. High levels of NPAs can erode banks' profitability, reduce their lending capacity, and threaten financial stability. Several factors contribute to the accumulation of NPAs, including economic slowdowns, project delays, and inadequate risk management practices. The Reserve Bank of India has taken various measures to address the NPA problem, such as strengthening asset quality review processes, promoting early recognition of stressed assets, and encouraging banks to resolve NPAs through various mechanisms, including the Insolvency and Bankruptcy Code (IBC). Despite these efforts, the NPA problem remains a persistent concern for the Indian banking sector.\n\nWhat is the primary consequence of high levels of Non-Performing Assets (NPAs) for banks, as mentioned in the passage?",
+      "options": {
+        "A": "Increased government subsidies",
+        "B": "Erosion of profitability",
+        "C": "Higher employee salaries",
+        "D": "Reduced regulatory oversight",
+        "E": "Increased foreign investment"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that high levels of NPAs can erode banks' profitability, reduce their lending capacity, and threaten financial stability.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617880",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "Quantitative easing (QE) is a monetary policy tool used by central banks to stimulate economic activity when conventional interest rate policies are ineffective. It involves the central bank purchasing assets, such as government bonds or mortgage-backed securities, from commercial banks and other institutions. This increases the money supply and lowers long-term interest rates, encouraging borrowing and investment. QE is typically implemented when inflation is very low or negative, and the economy is facing a recession or deflationary pressures. While QE can be effective in boosting economic growth, it also carries risks, such as asset bubbles and inflation. The effectiveness of QE depends on various factors, including the size and duration of the program, the credibility of the central bank, and the state of the economy.\n\nWhat is the main purpose of Quantitative Easing (QE), according to the passage?",
+      "options": {
+        "A": "To decrease the money supply",
+        "B": "To stimulate economic activity",
+        "C": "To increase interest rates",
+        "D": "To reduce government debt",
+        "E": "To control exchange rates"
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that quantitative easing (QE) is a monetary policy tool used by central banks to stimulate economic activity when conventional interest rate policies are ineffective.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617884",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "Sustainable finance is gaining increasing attention as a means of channeling investments towards environmentally and socially responsible projects. It encompasses a range of financial instruments and strategies that aim to promote sustainable development, including green bonds, social bonds, and impact investing. Green bonds are debt instruments used to finance projects with environmental benefits, such as renewable energy and energy efficiency. Social bonds are used to finance projects with positive social outcomes, such as affordable housing and education. Impact investing involves investing in companies and organizations that generate measurable social and environmental impact alongside financial returns. The growth of sustainable finance is being driven by factors such as increasing awareness of environmental and social issues, growing demand from investors for sustainable investment options, and government policies promoting sustainable development.\n\nWhat is the defining characteristic of green bonds, according to the passage?",
+      "options": {
+        "A": "They finance projects with social benefits.",
+        "B": "They are debt instruments used to finance projects with environmental benefits.",
+        "C": "They are equity investments in sustainable companies.",
+        "D": "They generate only financial returns.",
+        "E": "They are used to finance government infrastructure projects."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage clearly states that green bonds are debt instruments used to finance projects with environmental benefits.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:49:53.617888",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 5
+    },
+    {
+      "question": "The Reserve Bank of India, RBI, plays a crucial role in managing the country's monetary policy. One of its primary tools is adjusting the repo rate, the rate at which commercial banks borrow money from the RBI. Lowering the repo rate encourages banks to borrow more, increasing liquidity in the market and stimulating economic activity. Conversely, raising the repo rate makes borrowing more expensive, curbing inflation by reducing the money supply. The RBI also uses tools like the cash reserve ratio, CRR, and statutory liquidity ratio, SLR, to influence the amount of money banks can lend. These measures are carefully calibrated to maintain price stability and promote sustainable economic growth.\n\nWhat is the primary effect of the RBI increasing the repo rate?",
+      "options": {
+        "A": "It encourages banks to borrow more money.",
+        "B": "It increases liquidity in the market.",
+        "C": "It makes borrowing more expensive, curbing inflation.",
+        "D": "It stimulates economic activity.",
+        "E": "It has no effect on the economy."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that raising the repo rate makes borrowing more expensive, which in turn curbs inflation by reducing the money supply. The other options describe the effects of lowering the repo rate or are simply incorrect.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312629",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "Financial inclusion is a key objective for the Indian government and the Reserve Bank of India. It aims to provide access to affordable financial services, such as banking, credit, and insurance, to all sections of society, particularly the underserved and vulnerable groups. Initiatives like the Pradhan Mantri Jan Dhan Yojana, PMJDY, have been instrumental in expanding banking access. However, simply opening bank accounts is not enough. Active usage of these accounts, access to credit facilities, and financial literacy are crucial for meaningful financial inclusion. The challenge lies in ensuring that individuals not only have access to financial services but also understand how to use them effectively to improve their economic well-being.\n\nAccording to the passage, what is a crucial element for meaningful financial inclusion beyond simply opening bank accounts?",
+      "options": {
+        "A": "Reducing the number of bank branches in rural areas.",
+        "B": "Focusing solely on urban populations.",
+        "C": "Active usage of accounts, access to credit, and financial literacy.",
+        "D": "Increasing the interest rates on savings accounts.",
+        "E": "Eliminating government subsidies for financial services."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly mentions that active usage of these accounts, access to credit facilities, and financial literacy are crucial for meaningful financial inclusion. The other options are either irrelevant or contradict the passage.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312659",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "The Indian banking system has undergone significant reforms in recent decades. These reforms have focused on improving efficiency, transparency, and stability. One key area has been the strengthening of prudential norms, such as capital adequacy requirements, to ensure that banks have sufficient capital to absorb potential losses. Another area of focus has been the adoption of technology to enhance customer service and improve operational efficiency. The introduction of core banking solutions, CBS, and mobile banking platforms has revolutionized the way banking services are delivered. Despite these advancements, challenges remain, including the management of non-performing assets, NPAs, and the need to further enhance cybersecurity.\n\nWhat is one of the key areas of focus in the recent reforms of the Indian banking system, as mentioned in the passage?",
+      "options": {
+        "A": "Decreasing capital adequacy requirements.",
+        "B": "Weakening prudential norms.",
+        "C": "Strengthening prudential norms.",
+        "D": "Reducing the adoption of technology.",
+        "E": "Ignoring the management of NPAs."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that one key area has been the strengthening of prudential norms, such as capital adequacy requirements. The other options are the opposite of what is stated in the passage.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312664",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "Inflation is a persistent increase in the general price level of goods and services in an economy over a period of time. It erodes the purchasing power of money, meaning that each unit of currency buys fewer goods and services. The Reserve Bank of India, RBI, aims to keep inflation within a target range, typically around 4% with a tolerance band of plus or minus 2%. Various factors can contribute to inflation, including increased demand, supply chain disruptions, and rising input costs. The RBI uses monetary policy tools, such as adjusting interest rates, to manage inflation and maintain price stability. High inflation can negatively impact economic growth and disproportionately affect low-income households.\n\nAccording to the passage, what is the primary effect of inflation on the purchasing power of money?",
+      "options": {
+        "A": "It increases the purchasing power of money.",
+        "B": "It has no effect on the purchasing power of money.",
+        "C": "It erodes the purchasing power of money.",
+        "D": "It stabilizes the purchasing power of money.",
+        "E": "It doubles the purchasing power of money."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage clearly states that inflation erodes the purchasing power of money. The other options are incorrect and contradict the information provided in the passage.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312667",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "Digital banking has transformed the financial landscape in India, offering convenience and efficiency to customers. Mobile banking, internet banking, and digital payment platforms have become increasingly popular. This shift towards digital channels has reduced the need for physical bank branches and streamlined banking transactions. The government's push for a cashless economy has further accelerated the adoption of digital banking. However, this rapid growth also poses challenges, including cybersecurity risks and the need to bridge the digital divide. Ensuring data privacy and protecting consumers from fraud are crucial for the continued success of digital banking.\n\nWhat is one of the challenges posed by the rapid growth of digital banking in India, as stated in the passage?",
+      "options": {
+        "A": "Increased need for physical bank branches.",
+        "B": "Decreased cybersecurity risks.",
+        "C": "Cybersecurity risks and the need to bridge the digital divide.",
+        "D": "Reduced data privacy concerns.",
+        "E": "Elimination of fraud."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly mentions that cybersecurity risks and the need to bridge the digital divide are challenges posed by the rapid growth of digital banking. The other options are incorrect and contradict the information provided.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312670",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "The concept of moral suasion is often employed by the Reserve Bank of India, RBI, to influence the behavior of commercial banks. It involves the RBI using persuasive communication, rather than direct regulatory action, to encourage banks to adopt certain policies or practices. For instance, the RBI might urge banks to increase lending to priority sectors or to reduce their exposure to risky assets. The effectiveness of moral suasion depends on the credibility and influence of the RBI, as well as the willingness of banks to cooperate. While it can be a useful tool, moral suasion is generally less effective than direct regulatory measures when dealing with systemic issues or non-compliant banks.\n\nAccording to the passage, what does moral suasion involve in the context of the Reserve Bank of India?",
+      "options": {
+        "A": "Direct regulatory action against commercial banks.",
+        "B": "Using persuasive communication to influence banks.",
+        "C": "Imposing strict penalties on non-compliant banks.",
+        "D": "Ignoring the behavior of commercial banks.",
+        "E": "Eliminating lending to priority sectors."
+      },
+      "correct_answer": "B",
+      "explanation": "The passage states that moral suasion involves the RBI using persuasive communication, rather than direct regulatory action, to influence banks. The other options are incorrect and contradict the information provided.",
+      "difficulty": "Easy",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312673",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "The Basel Accords are a set of international banking regulations developed by the Basel Committee on Banking Supervision, BCBS. These accords aim to promote financial stability by setting minimum capital requirements for banks and improving risk management practices. Basel III, the latest version of the accords, introduces stricter capital requirements, including higher levels of common equity and additional capital buffers. It also includes measures to address systemic risk and improve the resilience of the banking system to economic shocks. The implementation of Basel III has been phased in over several years and has had a significant impact on the way banks operate globally.\n\nWhat is the main objective of the Basel Accords, as described in the passage?",
+      "options": {
+        "A": "To reduce capital requirements for banks.",
+        "B": "To promote financial instability.",
+        "C": "To promote financial stability by setting minimum capital requirements.",
+        "D": "To ignore risk management practices.",
+        "E": "To encourage excessive lending."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that the Basel Accords aim to promote financial stability by setting minimum capital requirements for banks and improving risk management practices. The other options are incorrect and contradict the information provided.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312676",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "The debate surrounding central bank digital currencies, CBDCs, is intensifying globally. Proponents argue that CBDCs could enhance payment efficiency, reduce transaction costs, and promote financial inclusion. They also suggest that CBDCs could provide a safer alternative to cryptocurrencies and facilitate the implementation of monetary policy. However, concerns remain regarding the potential impact on commercial banks, data privacy, and cybersecurity risks. The design and implementation of CBDCs would require careful consideration to address these challenges and ensure that they complement, rather than disrupt, the existing financial system. The implications for monetary policy transmission and financial stability are also being closely examined.\n\nWhat is a potential benefit of central bank digital currencies, CBDCs, according to the passage?",
+      "options": {
+        "A": "Increasing transaction costs.",
+        "B": "Reducing payment efficiency.",
+        "C": "Enhancing payment efficiency and promoting financial inclusion.",
+        "D": "Increasing the risk of cyberattacks.",
+        "E": "Disrupting the existing financial system."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage states that proponents argue that CBDCs could enhance payment efficiency and promote financial inclusion. The other options are either negative aspects or incorrect.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312680",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "The implementation of open banking represents a paradigm shift in the financial services industry. Open banking allows third-party providers to access customer banking data, with the customer's consent, through application programming interfaces, APIs. This enables the development of innovative financial products and services, such as personalized financial advice and streamlined payment solutions. However, open banking also raises concerns about data security, privacy, and the potential for misuse of customer information. Establishing robust regulatory frameworks and ensuring strong data protection measures are essential for fostering trust and realizing the full potential of open banking. The competitive landscape of the banking sector is likely to be significantly altered by the widespread adoption of open banking principles.\n\nWhat is the primary inference that can be drawn regarding the future of banking from the adoption of open banking as described in the passage?",
+      "options": {
+        "A": "The banking sector will remain largely unchanged.",
+        "B": "Data security concerns will be completely eliminated.",
+        "C": "The competitive landscape of the banking sector is likely to be significantly altered.",
+        "D": "Traditional banking practices will become obsolete immediately.",
+        "E": "Customers will have less control over their financial data."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that the competitive landscape of the banking sector is likely to be significantly altered by the widespread adoption of open banking principles. This is the most reasonable inference. The other options are either untrue, unsupported by the text, or represent extreme scenarios.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312683",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "Quantitative easing, QE, is a monetary policy tool used by central banks to stimulate economic activity when conventional interest rate cuts are ineffective. It involves a central bank purchasing assets, such as government bonds or mortgage-backed securities, from commercial banks and other institutions. This increases the money supply and lowers long-term interest rates, encouraging borrowing and investment. While QE can be effective in boosting economic growth and preventing deflation, it also carries risks, including potential inflation, asset bubbles, and currency depreciation. The effectiveness of QE depends on various factors, including the credibility of the central bank and the overall state of the economy. The long-term consequences of QE are still being debated among economists.\n\nBased on the information provided, what is the most significant risk associated with the implementation of quantitative easing, QE?",
+      "options": {
+        "A": "Increased effectiveness of conventional interest rate cuts.",
+        "B": "Elimination of the possibility of deflation.",
+        "C": "Potential inflation, asset bubbles, and currency depreciation.",
+        "D": "Strengthening of the currency and decreased asset prices.",
+        "E": "Reduced borrowing and investment."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage explicitly states that QE carries risks, including potential inflation, asset bubbles, and currency depreciation. The other options either contradict the passage or describe the intended positive effects of QE.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:21.312686",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 6
+    },
+    {
+      "question": "The Reserve Bank of India RBI plays a crucial role in managing inflation through its monetary policy framework. The primary objective is to maintain price stability while keeping in mind the objective of growth. The Monetary Policy Committee MPC determines the policy repo rate required to achieve the inflation target. This target is set by the Government of India in consultation with the RBI. The current inflation target is 4 percent with a tolerance band of plus or minus 2 percent. Several instruments are used to implement monetary policy including the repo rate reverse repo rate cash reserve ratio CRR and statutory liquidity ratio SLR. Open market operations OMOs are also employed to manage liquidity in the system. The RBI constantly monitors various economic indicators such as GDP growth inflation trends and global economic developments to make informed decisions about monetary policy. The effectiveness of monetary policy depends on various factors including the transmission mechanism and the credibility of the central bank.\n\nWhat is the primary inference that can be drawn from the passage?",
+      "options": {
+        "A": "The RBI solely focuses on controlling inflation, disregarding economic growth.",
+        "B": "The Government of India independently sets the inflation target without consulting the RBI.",
+        "C": "The RBI uses a combination of policy instruments and economic analysis to manage inflation within a specified target range while also considering economic growth.",
+        "D": "Open market operations are the only effective tool available to the RBI for managing liquidity.",
+        "E": "Monetary policy decisions are made arbitrarily without considering economic data or global trends."
+      },
+      "correct_answer": "C",
+      "explanation": "The passage describes the RBI's dual objective of price stability and growth, the process of setting inflation targets in consultation with the government, and the various instruments and economic indicators used in monetary policy decision-making. Option C accurately reflects this comprehensive approach. Option A is incorrect because the passage states the RBI considers growth. Option B is incorrect because the passage states the government consults with the RBI. Option D is incorrect because the passage mentions multiple tools. Option E is incorrect because the passage states the RBI monitors economic indicators.",
+      "difficulty": "Hard",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T16:50:31.380519",
+      "source": "AI_Generated_RC_Special",
+      "generation_model": "gemini-2.0-flash-exp",
+      "batch_number": 7
+    }
+  ]
+}

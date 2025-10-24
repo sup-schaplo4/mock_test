@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "title": "RBI Grade B - General Awareness Pilot Run",
+    "generation_type": "RAG",
+    "model": "gemini-2.5-pro",
+    "total_questions": 5,
+    "target_questions": 5,
+    "creation_date": "2025-10-02T20:08:58.084420",
+    "difficulty_distribution": {
+      "Hard": 2,
+      "Medium": 2,
+      "Easy": 1
+    },
+    "source_documents": [
+      "Economic_Survey_2024_2023.pdf",
+      "Economic_Survey_2024_2025.pdf"
+    ],
+    "validation_status": "Passed"
+  },
+  "questions": [
+    {
+      "question": "According to the Economic Survey 2023-24, what was the estimated real GDP growth rate for the financial year 2024 (FY24)?",
+      "options": {
+        "A": "7.0%",
+        "B": "7.6%",
+        "C": "8.2%",
+        "D": "9.1%",
+        "E": "6.8%"
+      },
+      "correct_answer": "C",
+      "explanation": "The preface of the Economic Survey 2023-24 states on page 8, 'In May, we learnt that the Indian economy is estimated to have grown 8.2% in real terms in FY24.'",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-02T20:08:58.084002",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "RAG_Pilot"
+    },
+    {
+      "question": "As per the Economic Survey 2023-24, the Gross Non-Performing Assets (GNPA) ratio of Scheduled Commercial Banks (SCBs) reached a 12-year low at the end of March 2024. What was this specific GNPA ratio?",
+      "options": {
+        "A": "3.9%",
+        "B": "3.1%",
+        "C": "2.8%",
+        "D": "5.8%",
+        "E": "1.9%"
+      },
+      "correct_answer": "C",
+      "explanation": "Page 93, paragraph 2.23 of the Economic Survey 2023-24 states, 'The gross non-performing assets (GNPA) ratio of SCBs continued its downward trend, reaching a 12-year low of 2.8 per cent at the end of March 2024 from its peak of 11.2 per cent in FY18.' This is also supported by Chart II.7a on page 94.",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-02T20:08:58.084052",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "RAG_Pilot"
+    },
+    {
+      "question": "The Economic Survey 2023-24 discusses the revamp of the Credit Guarantee Scheme (CGS) for Micro and Small Enterprises. What was the credit limit under this scheme enhanced to, from the previous limit of ₹2 crore?",
+      "options": {
+        "A": "₹3 crore",
+        "B": "₹4 crore",
+        "C": "₹5 crore",
+        "D": "₹7.5 crore",
+        "E": "₹10 crore"
+      },
+      "correct_answer": "C",
+      "explanation": "According to Box II.1 on page 92 of the Economic Survey 2023-24, under the revamp of the CGS for MSEs, 'the credit limit under the said scheme was enhanced from ₹2 crore to ₹ 5 crore, with a minimum annual guarantee fee of as low as 0.37 per cent per annum.'",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Government_Initiatives",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-02T20:08:58.084056",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "RAG_Pilot"
+    },
+    {
+      "question": "The Preface of the Economic Survey 2023-24 describes the composition of private sector Gross Fixed Capital Formation (GFCF) between FY19 and FY23 as 'not a healthy mix'. Which of the following best explains this assessment?",
+      "options": {
+        "A": "GFCF in machinery and equipment grew significantly faster than GFCF in dwellings and structures.",
+        "B": "GFCF in dwellings and structures grew by 105%, significantly outpacing the 35% growth in machinery and equipment, indicating an imbalance.",
+        "C": "Both machinery and dwellings GFCF components experienced a cumulative decline during the period.",
+        "D": "The cumulative growth in general government GFCF was negative, while private sector GFCF remained stagnant.",
+        "E": "The growth in intellectual property products was the sole driver of private sector GFCF, while other components lagged."
+      },
+      "correct_answer": "B",
+      "explanation": "The Preface of the Economic Survey 2023-24 (page 10) states that private sector GFCF in 'machinery and equipment and intellectual property products' grew by only 35% in the four years to FY23, while its GFCF in 'Dwellings, other buildings and structures' increased by 105%. The document explicitly calls this trend 'not a healthy mix,' highlighting the concern that investment in less productive assets (structures) is growing much faster than in more productive ones (machinery).",
+      "source_document": "Economic_Survey_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-02T20:08:58.084059",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "RAG_Pilot"
+    },
+    {
+      "question": "The Economic Survey 2023-24 projected a real GDP growth range for FY25, while the Economic Survey 2024-25 provided the First Advance Estimate for the same year. What is the difference in percentage points between the lower bound of the initial projection and the First Advance Estimate?",
+      "options": {
+        "A": "0.5",
+        "B": "0.1",
+        "C": "0.0",
+        "D": "-0.1",
+        "E": "-0.5"
+      },
+      "correct_answer": "D",
+      "explanation": "The Economic Survey 2023-24 (page 82) projected a real GDP growth of '6.5–7 per cent' for FY25, making the lower bound 6.5%. The Economic Survey 2024-25 (page 46, paragraph 1.22) states that the First Advance Estimate for FY25 real GDP growth is '6.4 per cent'. The difference is the later estimate minus the earlier projection's lower bound: 6.4% - 6.5% = -0.1 percentage points.",
+      "source_document": "Economic_Survey_2024_2023.pdf, Economic_Survey_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Indicators",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-02T20:08:58.084066",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "RAG_Pilot"
+    }
+  ]
+}

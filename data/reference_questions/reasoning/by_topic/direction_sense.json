@@ -1,0 +1,279 @@
+{
+  "topic": "Direction Sense",
+  "total_questions": 9,
+  "questions": [
+    {
+      "id": "2017_Q167",
+      "question_number": 167,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions. Trishaa starts walking from point A, walks 12 m to the south ad reaches point B. She then takes a left turn and walks 7 m to reach point C. She then takes a left, walks 5 m and reaches Point D. From Point D she turns left, walks 11 m and stops at point E. Point P is to the west of Point B. Rishi who is standing at point P walks for a distance equal to the shortest distance between B and E and reaches Point Q. From Point Q he takes a left turn, walks for a certain distance and reaches point E. Point M is 9 m to the north of Point Q. From Point M, which of the following walking directions would lead to point A? A. 12 m towards west, turn right and walk for 2 m, then turn right and walk for 7 m. B. 4 m towards east, turn left and walk for 3 m, then turn right and walk 5 m. C. 3 m towards north, turn left, walk 19 m, turn left and walk 5 m. D. 3 m towards north, turn right and walk for 4 m.",
+      "options": {
+        "A": "Both A and D",
+        "B": "Only D",
+        "C": "Both B and C",
+        "D": "Only C",
+        "E": "Only B"
+      },
+      "correct_answer": "D",
+      "explanation": "Hence, from point M 3m towards north, turn right and walk for 4m leads to point A.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00055",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254037"
+      }
+    },
+    {
+      "id": "2017_Q168",
+      "question_number": 168,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions. Trishaa starts walking from point A, walks 12 m to the south ad reaches point B. She then takes a left turn and walks 7 m to reach point C. She then takes a left, walks 5 m and reaches Point D. From Point D she turns left, walks 11 m and stops at point E. Point P is to the west of Point B. Rishi who is standing at point P walks for a distance equal to the shortest distance between B and E and reaches Point Q. From Point Q he takes a left turn, walks for a certain distance and reaches point E. In which direction is point C with respect to point P?",
+      "options": {
+        "A": "North-East",
+        "B": "West",
+        "C": "East",
+        "D": "South-East",
+        "E": "North-West"
+      },
+      "correct_answer": "C",
+      "explanation": "Hence, point C is in east direction with respect to point P.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00056",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254038",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q169",
+      "question_number": 169,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions. Trishaa starts walking from point A, walks 12 m to the south ad reaches point B. She then takes a left turn and walks 7 m to reach point C. She then takes a left, walks 5 m and reaches Point D. From Point D she turns left, walks 11 m and stops at point E. Point P is to the west of Point B. Rishi who is standing at point P walks for a distance equal to the shortest distance between B and E and reaches Point Q. From Point Q he takes a left turn, walks for a certain distance and reaches point E. Point Z is 9 m to the east of Point A. Arun starts from point Z, walks towards south, takes a right turn and walks for a certain distance to reach Point D. What is the total distance that Arun has to walk in order to reach Point D?",
+      "options": {
+        "A": "20 m",
+        "B": "11 m",
+        "C": "19 m",
+        "D": "9 m",
+        "E": "15 m"
+      },
+      "correct_answer": "B",
+      "explanation": "Hence, Arun walks 11m to reach point D.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00057",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254039",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q60",
+      "question_number": 60,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions given below: Point A is 3m east of point B. Point D 4m north of point of C. Point K 7m west of point J. Point D 4m south of point of A. Point L 4m south of point G who 6m west of point F. Point E 5m east of point C and point B 5m north of point F. Point M 5m south of point E who 4m west of point N. Point K 3m north of Q. Point I is 4m east of point A. Point J is in 6m north of I. If Point W 3m east of point J and point V 4m north of point W. what is shortest distance between point V and point L?",
+      "options": {
+        "A": "m",
+        "B": "m",
+        "C": "√(617) m",
+        "D": "24 m",
+        "E": "m"
+      },
+      "correct_answer": "C",
+      "explanation": "Square root of 192+ 162 √(617)",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00088",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254077",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q61",
+      "question_number": 61,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the questions given below: Point A is 3m east of point B. Point D 4m north of point of C. Point K 7m west of point J. Point D 4m south of point of A. Point L 4m south of point G who 6m west of point F. Point E 5m east of point C and point B 5m north of point F. Point M 5m south of point E who 4m west of point N. Point K 3m north of Q. Point I is 4m east of point A. Point J is in 6m north of I. In which direction point M respect of point Q?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "North east",
+        "D": "south west",
+        "E": "South east"
+      },
+      "correct_answer": "E",
+      "explanation": "point M south east respect of point Q",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00089",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254078",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q21",
+      "question_number": 21,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is the direction of X with respect to R?",
+      "options": {
+        "A": "North",
+        "B": "East",
+        "C": "North – West",
+        "D": "West",
+        "E": "South – West"
+      },
+      "correct_answer": "C",
+      "explanation": "1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, point X is in North – West direction with respect to point R.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00138",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254134"
+      }
+    },
+    {
+      "id": "2019_Q22",
+      "question_number": 22,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. If point A is the point of intersection of line segment RS and UV then which of the following is/ are true about A?",
+      "options": {
+        "A": "Point Y is North of A",
+        "B": "AV+ AU= XW – 6",
+        "C": "A is to the North of U",
+        "D": "All are true",
+        "E": "None is true."
+      },
+      "correct_answer": "B",
+      "explanation": "1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, AV+ AU= XW – 6 is true about A.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00139",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254135"
+      }
+    },
+    {
+      "id": "2019_Q23",
+      "question_number": 23,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is total distance travelled by Raga in west direction?",
+      "options": {
+        "A": "64 m",
+        "B": "35 m",
+        "C": "45 m",
+        "D": "28 m",
+        "E": "56 m"
+      },
+      "correct_answer": "B",
+      "explanation": "1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Total distance travelled in West direction is: 28+ 7= 35 m Hence, 35 m is travelled in West direction.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00140",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254136"
+      }
+    },
+    {
+      "id": "2019_Q24",
+      "question_number": 24,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the question based on it. Raga started walking in East direction from point R. After walking 15 m she reached point S, from there she takes a left turn and walks 10 m to reach point T. From T, she turns left and walk 7 m and reaches point U. Then, she turns left and walks 34 m to reach point V. From point V she turns right and walks 28 m. Now she reached point W and from there she turns right and walks 40 m to reach point X. From point X she turns right and walks 32 m to reach point Y. What is the direction of point T with respect to Y?",
+      "options": {
+        "A": "South",
+        "B": "North – West",
+        "C": "South – East",
+        "D": "South – West",
+        "E": "North – East"
+      },
+      "correct_answer": "C",
+      "explanation": "1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, point T is South – East of point Y.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Direction Sense",
+      "topic": "Direction Sense",
+      "question_id": "REASONING_00141",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254137"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

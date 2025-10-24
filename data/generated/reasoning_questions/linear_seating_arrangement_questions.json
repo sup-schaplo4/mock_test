@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "LSA_001",
+    "question": "Six friends, A, B, C, D, E, and F, are sitting in a row facing North. A is sitting at one of the ends. B is sitting to the immediate right of A. C is sitting two places to the right of B. D is sitting to the immediate left of F. E is not sitting next to C. Who is sitting at the right end?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "F"
+    },
+    "correct_answer": "E",
+    "explanation": "1. A is at one end, and B is to A's right: A B _ _ _ _\n2. C is two places to the right of B: A B _ C _ _\n3. D is to the immediate left of F: A B _ C D F\n4. E cannot be next to C, so E must be in the third position: A B E C D F. Therefore, F is at the right end.",
+    "difficulty": "Easy",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "SBI PO",
+    "metadata": {
+      "generated_by": "Gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "LSA_002",
+    "question": "Eight people – P, Q, R, S, T, U, V, and W – are sitting in a row facing North. R sits third from the left end. Two people sit between R and V. Q sits immediately to the left of W. T does not sit at either end. U sits second to the right of S. Neither S nor U sits next to R. Who sits at the right end?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "W",
+      "D": "V",
+      "E": "Cannot be determined"
+    },
+    "correct_answer": "A",
+    "explanation": "1. R is third from the left: _ _ R _ _ _ _ _\n2. Two people between R and V: _ _ R _ V _ _ _ or _ _ R _ _ _ V _\n3. S and U cannot be next to R, so the second case can be removed: _ _ R _ V _ _ _\n4. U is second to the right of S: _ _ R S V U _ _\n5. T cannot be at either end. T cannot be next to R, S, or V. This means T must be in the second to last spot: _ _ R S V U T _\n6. Q is immediately left of W, so they must be in the first two spots: Q W R S V U T P. Thus, P is at the right end.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "SBI PO",
+    "metadata": {
+      "generated_by": "Gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "LSA_003",
+    "question": "Ten people A, B, C, D, E, F, G, H, I, and J are sitting in a row facing North. C sits fourth from the left end. Three people sit between C and H. B sits to the left of A, but not immediately. Either F and G are immediate neighbors, or D and E are immediate neighbors, but not both. I sits at one of the ends. J does not sit next to I. More people sit between A and E than between B and F. G sits somewhere to the right of D. If B sits second to the left of H, who sits to the immediate right of C?",
+    "options": {
+      "A": "F",
+      "B": "G",
+      "C": "D",
+      "D": "E",
+      "E": "Cannot be determined"
+    },
+    "correct_answer": "A",
+    "explanation": "1. C is fourth from the left: _ _ _ C _ _ _ _ _ _\n2. Three people sit between C and H: _ _ _ C _ _ _ H _ _\n3. B is second to the left of H: _ B _ C _ _ _ H _ _\n4. I sits at one end, and J does not sit next to I. So I must be at the right end since there is only one space available at the left, meaning J would have to sit next to I: _ B _ C _ _ _ H _ I\n5. A must be to the right of B: _ B A C _ _ _ H _ I. \n6. G is to the right of D. F and G are immediate neighbors OR D and E are, but not both. More people are between A and E than B and F. To satisy all conditions: J B A C F G D E _ H I. F and G are immediate neighbors. Therefore, F sits to the immediate right of C.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "SBI PO",
+    "metadata": {
+      "generated_by": "Gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

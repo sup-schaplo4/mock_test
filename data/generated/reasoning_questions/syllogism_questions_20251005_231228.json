@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "syllogism_001",
+    "question": "Premises:\n1. All dogs are animals.\n2. All animals are living beings.\nConclusions:\nI. All dogs are living beings.\nII. Some living beings are dogs.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusion II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follows.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "C",
+    "explanation": "All dogs are animals (A) and all animals are living beings (B), therefore all dogs are living beings (C). Since all dogs are living beings, it is true that some living beings are dogs. Therefore, both conclusions logically follow.",
+    "difficulty": "Easy",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_002",
+    "question": "Premises:\n1. Some cats are mammals.\n2. All mammals are warm-blooded.\nConclusions:\nI. Some cats are warm-blooded.\nII. No cats are warm-blooded.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusion II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follows.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "A",
+    "explanation": "Since some cats are mammals and all mammals are warm-blooded, it logically follows that some cats are warm-blooded. Therefore, conclusion I follows. Conclusion II contradicts the premises.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_003",
+    "question": "Premises:\n1. No birds are reptiles.\n2. All reptiles lay eggs.\nConclusions:\nI. No birds lay eggs.\nII. Some egg-laying creatures are not birds.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusion II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follows.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "B",
+    "explanation": "From the premises, no birds are reptiles and all reptiles lay eggs. However, this does not mean no birds lay eggs, so conclusion I does not follow. Conclusion II follows as all reptiles (egg-laying creatures) are not birds.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_004",
+    "question": "Premises:\n1. Some students are athletes.\n2. No athletes are lazy.\n3. All lazy people are gamers.\nConclusions:\nI. Some students are not lazy.\nII. Some athletes are gamers.\nIII. No students are gamers.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusions I and III follow.",
+      "C": "Only conclusion III follows.",
+      "D": "Only I and II follow.",
+      "E": "None of the conclusions follow."
+    },
+    "correct_answer": "A",
+    "explanation": "Some students are athletes, and no athletes are lazy. Therefore, some students are not lazy (Conclusion I). Since no athletes are lazy and lazy people are gamers, no athletes can be gamers, thus II is incorrect. III does not necessarily follow.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_005",
+    "question": "Premises:\n1. All managers are employees.\n2. Some employees are not happy.\n3. Some happy people are not managers.\nConclusions:\nI. Some managers are not happy.\nII. Some managers are happy.\nIII. All happy people are employees.\nIV. Some non-managers are happy.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I and IV follow.",
+      "B": "Only II and III follow.",
+      "C": "Only I and III follow.",
+      "D": "Only II and IV follow.",
+      "E": "None of the conclusions follow."
+    },
+    "correct_answer": "A",
+    "explanation": "Since all managers are employees and some employees are not happy, it follows that some managers may not be happy (I). From premise 3, some happy people are not managers (IV). The premises do not support conclusions II or III.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_006",
+    "question": "Premises:\n1. All cats are mammals.\n2. All mammals are animals.\nConclusion:\nI. All cats are animals.\nWhich conclusion logically follows?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Conclusion does not follow.",
+      "C": "Both conclusions follow.",
+      "D": "Neither conclusion follows.",
+      "E": "Only conclusion II follows."
+    },
+    "correct_answer": "A",
+    "explanation": "Using the transitive property of logic in syllogisms, since all cats are mammals and all mammals are animals, it follows that all cats are animals. The conclusion is valid according to the Barbara syllogism form (AAA-1).",
+    "difficulty": "Easy",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_007",
+    "question": "Premises:\n1. Some birds are pigeons.\n2. No pigeons are mammals.\nConclusions:\nI. Some birds are not mammals.\nII. All birds are mammals.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusion II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follow.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "A",
+    "explanation": "From the premises, it is clear that some birds are pigeons, and since no pigeons are mammals, some birds that are pigeons cannot be mammals. Therefore, some birds are not mammals follows logically.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_008",
+    "question": "Premises:\n1. All fruits are food.\n2. Some foods are not healthy.\nConclusions:\nI. Some fruits are not healthy.\nII. All foods are healthy.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows.",
+      "B": "Only conclusion II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follow.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "D",
+    "explanation": "The premises do not provide enough information to conclude that some fruits are not healthy, as we do not know if those foods that are not healthy are indeed fruits. Also, the statement \"All foods are healthy\" directly contradicts the premise that some foods are not healthy. Thus, neither conclusion follows.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_009",
+    "question": "Premises:\n1. No dogs are cats.\n2. Some cats are tigers.\n3. All tigers are wild animals.\nConclusions:\nI. Some wild animals are not dogs.\nII. No cats are dogs.\nIII. Some tigers are dogs.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I and II follow.",
+      "B": "Only II and III follow.",
+      "C": "Only I follows.",
+      "D": "All follow.",
+      "E": "None follow."
+    },
+    "correct_answer": "A",
+    "explanation": "Conclusion I follows because, since some cats are tigers and all tigers are wild animals, and no dogs are cats, it is certain that some wild animals (those being tigers) are not dogs. Conclusion II follows directly from the premise that no dogs are cats. Conclusion III does not follow as it contradicts the first premise. Thus, conclusions I and II follow.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_010",
+    "question": "Premises:\n1. All roses are flowers.\n2. Some flowers are white.\n3. No white things are books.\nConclusions:\nI. Some roses are not books.\nII. All flowers are books.\nIII. Some white things are not roses.\nIV. No roses are books.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I and III follow.",
+      "B": "Only II and IV follow.",
+      "C": "Only III follows.",
+      "D": "All follow.",
+      "E": "None follow."
+    },
+    "correct_answer": "A",
+    "explanation": "Conclusion I follows because, as some flowers are white and no white things are books, those flowers that are both roses and white cannot be books. Conclusion III follows directly from the fact that some flowers are white and no white things are books, thus some white things (those that are flowers but not roses) are not roses. Conclusion II is false as it contradicts the third premise. Conclusion IV cannot be concluded as it overextends the logical deduction.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_011",
+    "question": "Premises:\n1. All dogs are animals.\n2. All animals are living beings.\nConclusions:\nI. All dogs are living beings.\n\nWhich conclusion logically follows?",
+    "options": {
+      "A": "Only conclusion I follows",
+      "B": "Neither conclusion follows",
+      "C": "Either conclusion I or II follows",
+      "D": "Both conclusions follow",
+      "E": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "By combining the premises, we form the syllogism: All dogs are animals (A) and All animals are living beings (B), therefore All dogs are living beings (A to B). This is a valid syllogistic form (Barbara). Thus, conclusion I follows.",
+    "difficulty": "Easy",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_012",
+    "question": "Premises:\n1. Some cats are mammals.\n2. All mammals are vertebrates.\nConclusions:\nI. Some cats are vertebrates.\nII. All cats are vertebrates.\n\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows",
+      "B": "Only conclusion II follows",
+      "C": "Both I and II follow",
+      "D": "Neither I nor II follows",
+      "E": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "From the premises: Some cats are mammals (I) and All mammals are vertebrates (A), we can derive that Some cats are vertebrates (I to A → I). Conclusion I follows. Conclusion II does not follow as it would require All cats are mammals, which is not given.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_013",
+    "question": "Premises:\n1. No birds are reptiles.\n2. Some reptiles are amphibians.\nConclusions:\nI. No birds are amphibians.\nII. Some amphibians are not birds.\n\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion I follows",
+      "B": "Only conclusion II follows",
+      "C": "Both I and II follow",
+      "D": "Neither I nor II follows",
+      "E": "None of these"
+    },
+    "correct_answer": "B",
+    "explanation": "From the premises: No birds are reptiles (E) and Some reptiles are amphibians (I), it follows that Some amphibians are not birds (as per the immediate inference rule of conversion, E + I → O). Conclusion II follows. Conclusion I does not follow since the premises do not directly connect birds and amphibians.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_014",
+    "question": "Premises:\n1. All planets are spheres.\n2. No sphere is a triangle.\n3. Some triangles are geometric shapes.\nConclusions:\nI. Some geometric shapes are not spheres.\nII. No planet is a triangle.\nIII. All triangles are not planets.\n\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion II follows",
+      "B": "Only conclusion III follows",
+      "C": "Only I and II follow",
+      "D": "Only II and III follow",
+      "E": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "From premises 1 and 2: All planets are spheres (A) and No sphere is a triangle (E), it follows that No planet is a triangle (A to E → E). Conclusion II follows. Premise 3: Some triangles are geometric shapes does not affect the relationship between planets and spheres, hence conclusions I and III do not directly follow.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_015",
+    "question": "Premises:\n1. Some books are novels.\n2. All novels are stories.\n3. No story is a fiction.\nConclusions:\nI. Some books are not fictions.\nII. No novel is a fiction.\nIII. All stories are books.\nIV. Some stories are books.\nV. Some books are stories.\n\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I and II follow",
+      "B": "Only III and IV follow",
+      "C": "Only II and V follow",
+      "D": "Only IV and V follow",
+      "E": "None of these"
+    },
+    "correct_answer": "C",
+    "explanation": "From premises: 1 and 2, Some books are novels (I) and All novels are stories (A) implies Some books are stories (I to A → I), thus V follows. From premise 2 and 3, All novels are stories (A) and No story is a fiction (E) implies No novel is a fiction (A to E → E), thus II follows. Conclusion I follows indirectly from the overlap of books and stories, but is not necessary. III does not follow as not all stories are books.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_016",
+    "question": "Premises:\n1. All cats are animals.\n2. All animals are living beings.\nConclusion:\nI. All cats are living beings.\nWhich conclusion logically follows?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both I and II follow",
+      "D": "Neither follows",
+      "E": "Either I or II follows"
+    },
+    "correct_answer": "A",
+    "explanation": "Applying the rules of syllogism: From the premises, 'All cats are animals' and 'All animals are living beings', it follows directly that 'All cats are living beings' by connecting the middle term 'animals'. This is a classic example of Barbara syllogism.",
+    "difficulty": "Easy",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_017",
+    "question": "Premises:\n1. Some fruits are apples.\n2. All apples are healthy.\nConclusions:\nI. Some fruits are healthy.\nII. Some healthy things are fruits.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both I and II follow",
+      "D": "Neither follows",
+      "E": "Either I or II follows"
+    },
+    "correct_answer": "C",
+    "explanation": "From the premises, 'Some fruits are apples' and 'All apples are healthy', we can derive that 'Some fruits are healthy' (particular affirmative derived from a specific case) and 'Some healthy things are fruits' (by converting the first premise to its converse form).",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_018",
+    "question": "Premises:\n1. All students are people.\n2. No people are immortal.\nConclusions:\nI. No students are immortal.\nII. Some students are not immortal.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only II follows",
+      "C": "Both I and II follow",
+      "D": "Neither follows",
+      "E": "Either I or II follows"
+    },
+    "correct_answer": "A",
+    "explanation": "From 'All students are people' and 'No people are immortal', we use the form Celarent to deduce 'No students are immortal' as a valid conclusion. 'Some students are not immortal' is logically derived from 'No students are immortal', but 'I' alone suffices to confirm the assertion.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_019",
+    "question": "Premises:\n1. All poets are dreamers.\n2. Some dreamers are philosophers.\n3. No philosopher is practical.\nConclusions:\nI. Some dreamers are not practical.\nII. Some poets are philosophers.\nIII. No poet is practical.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I follows",
+      "B": "Only III follows",
+      "C": "I and III follow",
+      "D": "II and III follow",
+      "E": "None follows"
+    },
+    "correct_answer": "C",
+    "explanation": "From the premises, we deduce that 'Some dreamers are philosophers' and 'No philosopher is practical', hence 'Some dreamers are not practical'. Also, from 'All poets are dreamers' and the practical clause, 'No poet is practical' logically follows. The statement 'Some poets are philosophers' does not necessarily follow from these premises.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_020",
+    "question": "Premises:\n1. Some actors are dancers.\n2. All dancers are artists.\n3. Some artists are painters.\nConclusions:\nI. Some actors are painters.\nII. Some painters are dancers.\nIII. Some actors are artists.\nIV. All dancers are actors.\nWhich conclusion(s) logically follow?",
+    "options": {
+      "A": "Only III follows",
+      "B": "I and III follow",
+      "C": "II and IV follow",
+      "D": "I, II, and IV follow",
+      "E": "None follows"
+    },
+    "correct_answer": "A",
+    "explanation": "From the premises, 'Some actors are dancers' and 'All dancers are artists', it follows that 'Some actors are artists'. This is a straightforward conversion. The conclusions about painters cannot be deduced from the given premises without additional information connecting actors and painters directly. Also, 'All dancers are actors' is not supported.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_021",
+    "question": "Premises: 1. All cats are animals. 2. All animals are living beings. Conclusion: All cats are living beings. Which conclusion logically follows?",
+    "options": {
+      "A": "All cats are living beings.",
+      "B": "Some cats are not living beings.",
+      "C": "No cat is a living being.",
+      "D": "All living beings are cats.",
+      "E": "Some living beings are animals."
+    },
+    "correct_answer": "A",
+    "explanation": "By applying the transitive property of syllogistic logic: All cats are animals (A are B), and all animals are living beings (B are C), therefore, all cats are living beings (A are C). This is a direct application of the Barbara syllogism form.",
+    "difficulty": "Easy",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_022",
+    "question": "Premises: 1. Some birds are parrots. 2. All parrots are talkative. Conclusions: I. Some birds are talkative. II. Some talkative things are birds. Which conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I follows.",
+      "B": "Only II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follow.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "C",
+    "explanation": "From the premises, some birds are parrots (Some A are B), and all parrots are talkative (All B are C). By converting the affirmative particular premise and the universal affirmative premise, we derive that some birds are talkative (Some A are C) and some talkative things are birds (Some C are A). Therefore, both conclusions follow.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_023",
+    "question": "Premises: 1. All roses are flowers. 2. Some flowers are red. Conclusions: I. Some roses are red. II. All red things are flowers. Which conclusion(s) logically follow?",
+    "options": {
+      "A": "Only I follows.",
+      "B": "Only II follows.",
+      "C": "Both I and II follow.",
+      "D": "Neither I nor II follow.",
+      "E": "Either I or II follows."
+    },
+    "correct_answer": "D",
+    "explanation": "The premises do not allow us to conclude that some roses are red because the connection between 'roses' and 'red' is not established directly or indirectly through the premises. Similarly, not all red things are necessarily flowers as there can be red objects that are not flowers. Therefore, neither conclusion follows from the premises.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_024",
+    "question": "Premises: 1. No dogs are cats. 2. Some cats are not pets. 3. All pets are animals. Conclusions: I. Some animals are dogs. II. Some pets are not cats. III. No pets are dogs. Which conclusion(s) logically follow?",
+    "options": {
+      "A": "Only II follows.",
+      "B": "Only III follows.",
+      "C": "Only I follows.",
+      "D": "II and III follow.",
+      "E": "I and III follow."
+    },
+    "correct_answer": "D",
+    "explanation": "From the premise that all pets are animals, we know that pets cannot be dogs because no dogs are cats and some cats are pets. Thus, no pets are dogs (Conclusion III follows). Also, given that some cats are not pets, we cannot confirm that all pets are cats, allowing for the possibility that some pets are not cats (Conclusion II follows). Conclusion I does not necessarily follow because there is no premise to establish that some animals are dogs.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_025",
+    "question": "Premises: 1. Some books are novels. 2. All novels are literature. 3. Some literature is not fiction. Conclusions: I. Some books are fiction. II. Some books are not fiction. III. All novels are books. IV. Some literature is fiction. V. No books are fiction. Which conclusion(s) logically follow?",
+    "options": {
+      "A": "Only II and IV follow.",
+      "B": "Only III follows.",
+      "C": "Only IV follows.",
+      "D": "II, IV, and V follow.",
+      "E": "None of the conclusions follow."
+    },
+    "correct_answer": "A",
+    "explanation": "From the premises: Some books are novels and all novels are literature. However, there is a gap in the logical connection needed to establish the relationship between books and fiction directly. Yet, since some literature is not fiction and novels are literature, it follows that some books are not fiction (Conclusion II follows). Additionally, as novels are part of literature, some literature must be fiction (Conclusion IV follows). Other conclusions are not directly substantiated by the given premises.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_026",
+    "question": "Premises: (1) All apples are fruits. (2) All fruits are healthy. Conclusion: (1) All apples are healthy. Which conclusion logically follows?",
+    "options": {
+      "A": "Only conclusion 1 follows.",
+      "B": "Conclusion does not follow.",
+      "C": "Both conclusion 1 and its converse follow.",
+      "D": "Neither conclusion nor its converse follows.",
+      "E": "Only the converse of conclusion 1 follows."
+    },
+    "correct_answer": "A",
+    "explanation": "The conclusion logically follows by the transitive property of universal affirmatives. If all apples are fruits and all fruits are healthy, then it follows that all apples are healthy, which corresponds to the 'Barbara' syllogism form.",
+    "difficulty": "Easy",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_027",
+    "question": "Premises: (1) Some birds are sparrows. (2) All sparrows are fast flyers. Conclusions: (1) Some birds are fast flyers. (2) All birds are fast flyers. Which conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion 1 follows.",
+      "B": "Only conclusion 2 follows.",
+      "C": "Both 1 and 2 follow.",
+      "D": "Neither 1 nor 2 follows.",
+      "E": "Either 1 or 2 follows."
+    },
+    "correct_answer": "A",
+    "explanation": "The valid conclusion is that 'Some birds are fast flyers' since from 'Some birds are sparrows' and 'All sparrows are fast flyers', it logically follows that 'Some birds are fast flyers' using the 'Darii' syllogism form.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_028",
+    "question": "Premises: (1) No dogs are cats. (2) Some cats are tigers. Conclusions: (1) Some tigers are not dogs. (2) Some dogs are not tigers. Which conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion 1 follows.",
+      "B": "Only conclusion 2 follows.",
+      "C": "Both 1 and 2 follow.",
+      "D": "Neither 1 nor 2 follows.",
+      "E": "Either 1 or 2 follows."
+    },
+    "correct_answer": "A",
+    "explanation": "The conclusion 'Some tigers are not dogs' follows because if no dogs are cats and some cats are tigers, it is logically possible that some of those tigers are not dogs. However, we cannot conclude anything about dogs and tigers directly without further information.",
+    "difficulty": "Medium",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_029",
+    "question": "Premises: (1) All philosophers are wise. (2) Some wise people are not teachers. (3) All teachers are educated. Conclusions: (1) Some philosophers are not teachers. (2) Some philosophers are educated. (3) Some teachers are not philosophers. Which conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion 1 follows.",
+      "B": "Only conclusion 3 follows.",
+      "C": "Only conclusion 2 follows.",
+      "D": "Only conclusions 1 and 3 follow.",
+      "E": "None of the conclusions follow."
+    },
+    "correct_answer": "B",
+    "explanation": "The conclusion 'Some teachers are not philosophers' follows since all teachers are educated but not all educated people are philosophers. The other conclusions cannot be directly inferred from the given premises.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "syllogism_030",
+    "question": "Premises: (1) Some stars are suns. (2) No suns are moons. (3) All moons are celestial bodies. Conclusions: (1) No stars are moons. (2) Some stars are celestial bodies. (3) Some celestial bodies are not stars. (4) All suns are celestial bodies. Which conclusion(s) logically follow?",
+    "options": {
+      "A": "Only conclusion 1 follows.",
+      "B": "Only conclusions 2 and 4 follow.",
+      "C": "Only conclusions 2 and 3 follow.",
+      "D": "Only conclusions 3 and 4 follow.",
+      "E": "None of the conclusions follow."
+    },
+    "correct_answer": "C",
+    "explanation": "Conclusion 2 follows because some stars are suns and all suns are celestial bodies. Conclusion 3 follows because all moons are celestial bodies and no suns are moons, implying some celestial bodies (moons) are not stars. Conclusion 1 and 4 do not follow based on the given premises.",
+    "difficulty": "Hard",
+    "topic": "Syllogisms",
+    "reasoning_topic": "Syllogisms",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

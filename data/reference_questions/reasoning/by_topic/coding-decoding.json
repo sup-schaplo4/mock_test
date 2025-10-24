@@ -1,0 +1,411 @@
+{
+  "topic": "Coding-Decoding",
+  "total_questions": 13,
+  "questions": [
+    {
+      "id": "2018_Q56",
+      "question_number": 56,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "What is the meaning of the code ‘pullu’ in a code language? I. In that code language ‘rem tez kullu pullu tullu’ means ‘sher singh is my son’ and ‘gullu sullu rullu pullu’ means ‘is he at home’. II. In that code language ‘nel pullu kullu dela’ means ‘my daughter is nirmala’ and ‘setha gama lala’ means ‘sit with me’.",
+      "options": {
+        "A": "Data in statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question.",
+        "B": "Data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+        "C": "Data in statements I alone or in Statement II alone are sufficient to answer the question.",
+        "D": "Data in both the Statements I and II are not sufficient to answer the question.",
+        "E": "Data in both the Statements I and II together are necessary to answer the question."
+      },
+      "correct_answer": "A",
+      "explanation": "From I: In that code language rem tez kullu pullu tullu means ‘Sher Singh is my son’ and ‘gullu sullu rullu pullu’ means ‘is he at home’. Therefore, code for'is' is'pullu' in the given coded language from statement I alone. From II: In that code language nel pullu kullu dela means ‘my daughter is Nirmala’ and setha gama lala means ‘sit with me’. There are no common word in both statements therefore we cannot determine meaning of “pullu” is given coded language from statement II alone.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00084",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254072"
+      }
+    },
+    {
+      "id": "2019_Q6",
+      "question_number": 6,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. What is the code for ‘security’?",
+      "options": {
+        "A": "jo",
+        "B": "ti",
+        "C": "tis",
+        "D": "su",
+        "E": "Can’t be determined"
+      },
+      "correct_answer": "E",
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00123",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254118",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q7",
+      "question_number": 7,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. What does ‘za’ stand for?",
+      "options": {
+        "A": "old",
+        "B": "lists",
+        "C": "correction",
+        "D": "with",
+        "E": "Either with or correction"
+      },
+      "correct_answer": "E",
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00124",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254119",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q8",
+      "question_number": 8,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "’Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. tis da tip’ could be a code for which of the following?",
+      "options": {
+        "A": "old regime lists",
+        "B": "regime lists arise",
+        "C": "correction theme case",
+        "D": "India with regime",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00125",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254120",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q9",
+      "question_number": 9,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information to answer the given questions: In a certain code, ‘make security in theme lists’ is written as ‘jo ti tis su nic’, ‘India make old regime’ is written as ‘die min tip ti’, ‘old lists with correction’ is written as ‘za tis die kee’ and ‘theme curbs regime’ is written as ‘tip ba nic’. Which of the following may represent ‘transparency in old security’?",
+      "options": {
+        "A": "su die mac ti",
+        "B": "die mac jo tip",
+        "C": "die jo nic su",
+        "D": "jo die su mac",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00126",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254121",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q10",
+      "question_number": 10,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "If it is possible to make one meaningful word with the 1st, 5th, 6th and 9th letters of the word OVERWHELM, which of the following will be the second letter from the right end of that word? If no such word can be made, give ‘X’ as the answer and if more than one such words can be made, give ‘V’ as the answer.",
+      "options": {
+        "A": "M",
+        "B": "H",
+        "C": "O",
+        "D": "X",
+        "E": "V"
+      },
+      "correct_answer": "C",
+      "explanation": "Given word: OVERWHELM 1st letter- O 5th letter- W 6th letter- H 9th letter – M Meaningful word – Whom.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00127",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254123",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q141",
+      "question_number": 141,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "From which of the below given words maximum words can be formed by replacing the vowel with other vowels without changing the position of any letter?",
+      "options": {
+        "A": "SICK",
+        "B": "LIST",
+        "C": "TICK",
+        "D": "TEST",
+        "E": "FARM"
+      },
+      "correct_answer": "B",
+      "explanation": "The possible words are LIST, LAST, LEST, LOST, LUST.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00178",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254180",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q142",
+      "question_number": 142,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "In the word “REVOLUTION”, how many pairs of letters has as many vowels between them as in the English Alphabet from left to right?",
+      "options": {
+        "A": "two",
+        "B": "three",
+        "C": "four",
+        "D": "more than four",
+        "E": "None of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "The pairs are RV, EO, OL, LT, UT, UI, IO, ON.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00179",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254181",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q177",
+      "question_number": 177,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Conditions: I) If the right most element in the group is an odd digit and the left most element is an even digit, then reverse the order of the code for the group. II) If the right most element is a symbol and the left most is an even digit, then the codes of these two get interchanged. III) If both the right most and the left most elements are symbols, then the code for both will be Z. IV) If the right most element in the group is an even digit and the left most element is an odd digit, then the codes for the first two elements get interchanged between them and the codes for the last two elements get interchanged between them. V) If the right most element is an odd digit and the left most element is a symbol, then the code for both will be Y. 5@\\*8172",
+      "options": {
+        "A": "EFLAHDG",
+        "B": "FELAHDG",
+        "C": "FELAHGD",
+        "D": "EFLAHGD",
+        "E": "None of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "Condition (IV) will apply 5 @ * 8 1 7 2 → E F L A H G D",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00211",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254216",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q178",
+      "question_number": 178,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Conditions: I) If the right most element in the group is an odd digit and the left most element is an even digit, then reverse the order of the code for the group. II) If the right most element is a symbol and the left most is an even digit, then the codes of these two get interchanged. III) If both the right most and the left most elements are symbols, then the code for both will be Z. IV) If the right most element in the group is an even digit and the left most element is an odd digit, then the codes for the first two elements get interchanged between them and the codes for the last two elements get interchanged between them. V) If the right most element is an odd digit and the left most element is a symbol, then the code for both will be Y. 40!371&",
+      "options": {
+        "A": "VHDJMTB",
+        "B": "BTMJDHV",
+        "C": "TBMJDVH",
+        "D": "VTMJDHB",
+        "E": "ZTMJDHZ"
+      },
+      "correct_answer": "B",
+      "explanation": "Condition (I) will apply 4 0 ! 3 7 1 & → B T M J D H V",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00212",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254217",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q179",
+      "question_number": 179,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Conditions: I) If the right most element in the group is an odd digit and the left most element is an even digit, then reverse the order of the code for the group. II) If the right most element is a symbol and the left most is an even digit, then the codes of these two get interchanged. III) If both the right most and the left most elements are symbols, then the code for both will be Z. IV) If the right most element in the group is an even digit and the left most element is an odd digit, then the codes for the first two elements get interchanged between them and the codes for the last two elements get interchanged between them. V) If the right most element is an odd digit and the left most element is a symbol, then the code for both will be Y. 857&219",
+      "options": {
+        "A": "AFDBGHC",
+        "B": "FADBGCH",
+        "C": "CHGBDFA",
+        "D": "CFDBGHA",
+        "E": "YFDBGHY"
+      },
+      "correct_answer": "C",
+      "explanation": "Condition (I) will apply 8 5 7 & 2 1 9 → C H G B D F A",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00213",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254218",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q180",
+      "question_number": 180,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "In a certain code language, ‘board neck spiritual truck’ is written as ‘ga po ni fu’ ‘spiritual bloom if preach’ is written as ‘dx ga bd pk’ ‘truck for neck preach’ is written as ‘ni sr fu dx’ ‘board bloom if bird’ is written as ‘bd po pk ke’ What is the code for ‘bloom’ as per the given code language?",
+      "options": {
+        "A": "dx",
+        "B": "ga",
+        "C": "either ‘bd’ or ‘pk’",
+        "D": "either ‘ni’ or ‘po’",
+        "E": "po"
+      },
+      "correct_answer": "C",
+      "explanation": "ga-spiritual, dx-preach, po-board, sr-for, ke-bird, truck & neck (fu or ni), bloom & if (bd or pk)",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00214",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254220",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q142",
+      "question_number": 142,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Consider the following words which have one blank each. You are required to fill the blanks from one of the given options below. I. CUPBOARD : NRMZ : : CUPCAKE : ___ II. LUXURY : OXAV : : BOTTLE : ___ III. MIRROR : ___ : : SPOON : QONPM",
+      "options": {
+        "A": "T and B",
+        "B": "Q and D",
+        "C": "C and S",
+        "D": "P and E",
+        "E": "All of the above belong to the same city"
+      },
+      "correct_answer": "B",
+      "explanation": "The meaningful words formed are: FALK, BLUR, CLOG and WELT.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Coding-Decoding",
+      "topic": "Coding-Decoding",
+      "question_id": "REASONING_00230",
+      "main_category": "Verbal & Logical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254238",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "floor_puzzle_001",
+    "question": "There are six floors in a building numbered 1 to 6, with six people: A, B, C, D, E, and F living on different floors, one on each floor. The following conditions are known:\n1. A lives on an even-numbered floor.\n2. B lives immediately above C.\n3. D lives on the topmost floor.\n4. E does not live on the floor immediately below D.\n5. F lives two floors below B.\nWho lives on the second floor?",
+    "options": {
+      "A": "C",
+      "B": "B",
+      "C": "E",
+      "D": "A",
+      "E": "F"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Since D is on the topmost floor (Floor 6), and E does not live immediately below D, E cannot be on Floor 5.\n2. A must live on an even-numbered floor, so A must be on either Floor 2 or Floor 4.\n3. B lives immediately above C, which means if C is on Floor 1, B is on Floor 2, and F then must be on Floor 4.\n4. Since A must be on an even-numbered floor, A is on Floor 2 and thus C cannot be on Floor 1.\n5. Therefore, C must be on Floor 2, B on Floor 3, and F on Floor 5.\n6. Therefore, E must live on Floor 1.\nSo the final arrangement is: E - Floor 1, C - Floor 2, B - Floor 3, A - Floor 4, F - Floor 5, D - Floor 6. The person on the second floor is C.",
+    "difficulty": "Easy",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_002",
+    "question": "There are seven floors in a building numbered 1 to 7. Each floor is occupied by one of the seven friends: P, Q, R, S, T, U, and V. The following conditions apply:\n1. P lives on the fifth floor.\n2. T lives on an even-numbered floor below P.\n3. There is one floor between Q and R, with Q living above R.\n4. S lives immediately below V.\n5. U lives two floors above T.\nWhich floor does Q live on?",
+    "options": {
+      "A": "Floor 2",
+      "B": "Floor 3",
+      "C": "Floor 4",
+      "D": "Floor 6",
+      "E": "Floor 7"
+    },
+    "correct_answer": "D",
+    "explanation": "1. With P on Floor 5, T must be on either Floor 2 or Floor 4 (since T is on an even-numbered floor below P).\n2. If T is on Floor 2, U is on Floor 4, which leaves Floor 3 open for either Q or R, but violates the condition since one floor must be between them.\n3. Therefore, T must be on Floor 4, making U on Floor 6.\n4. Q and R must then be on Floors 3 and 1 respectively to maintain one floor between them.\n5. The remaining Floors 2 and 7 are occupied by S and V, with S below V, so S is on Floor 2 and V on Floor 3.\n6. Final arrangement: R - Floor 1, S - Floor 2, V - Floor 3, T - Floor 4, P - Floor 5, U - Floor 6, Q - Floor 7.\nQ is on Floor 6.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_003",
+    "question": "A building has eight floors and eight different items placed one on each floor: Bicycle, Kite, Laptop, Mobile, Notebook, Pen, Book, and Tablet. The conditions are:\n1. The Kite is on the third floor.\n2. The Tablet is two floors above the Bicycle.\n3. The Pen is neither on an odd-numbered floor nor adjacent to the Laptop.\n4. The Mobile is on a floor below the Notebook and above the Book.\n5. The Tablet is not on the topmost floor.\n6. The Book is on the first floor.\nWhat item is placed on the fifth floor?",
+    "options": {
+      "A": "Pen",
+      "B": "Notebook",
+      "C": "Tablet",
+      "D": "Laptop",
+      "E": "Mobile"
+    },
+    "correct_answer": "B",
+    "explanation": "1. Since the Tablet is two floors above the Bicycle and not on the topmost floor, the Tablet can be on Floor 7 or Floor 6, placing the Bicycle on Floor 5 or Floor 4 respectively.\n2. The Kite is fixed on Floor 3.\n3. The Book is on Floor 1.\n4. The Mobile must be above the Book but below the Notebook; the only possible places for the Mobile are Floors 2 or 4. If Mobile is on Floor 4, Notebook can be on Floor 6.\n5. Since the Pen is not on odd-numbered floors, it can be on Floor 2 or Floor 8. With Mobile on 4 and Tablet on 6, Pen can be on 8.\n6. Therefore, the final arrangement: Book - Floor 1, Pen - Floor 2, Kite - Floor 3, Mobile - Floor 4, Bicycle - Floor 5, Notebook - Floor 6, Tablet - Floor 7, Laptop - Floor 8.\nThe fifth floor has the Bicycle.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_004",
+    "question": "In a building with nine floors, nine people A, B, C, D, E, F, G, H, and I are living, each on a different floor. The following conditions are known:\n1. A lives on the topmost floor.\n2. F lives on the lowest floor.\n3. C lives on an even-numbered floor.\n4. There are three floors between D and H.\n5. E lives immediately above G.\n6. There are two floors between B and I, with B living above I.\n7. D does not live on the fourth floor.\nWho lives on the seventh floor?",
+    "options": {
+      "A": "C",
+      "B": "D",
+      "C": "E",
+      "D": "H",
+      "E": "G"
+    },
+    "correct_answer": "B",
+    "explanation": "1. A is on Floor 9, F is on Floor 1.\n2. C must be on an even-numbered floor: 2, 4, 6, or 8.\n3. If D and H are separated by three floors, possible pairs are (D - 5, H - 1) or (D - 9, H - 5) or (D - 6, H - 2) etc.\n4. E immediately above G places E/G pairs on (9/8), (8/7), etc., but E cannot be on 9.\n5. Considering all conditions, D is most logically placed on Floor 7 (as placing D on another floor either violates a condition or leads to multiple possible arrangements).\n6. With E/G pair logic and separation of B and I, possible configurations are solved further to verify D must be on Floor 7.\nThus, D lives on the seventh floor.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_005",
+    "question": "In a building with 10 floors, 10 people: A, B, C, D, E, F, G, H, I, and J are living, each on a different floor. The following conditions apply:\n1. A lives on the fourth floor.\n2. B lives on a floor above E but below C.\n3. D lives on an odd-numbered floor but not the first.\n4. G is on a floor immediately below F.\n5. H is exactly three floors below J.\n6. I lives on a floor above G but below B.\n7. E is not on the second floor.\nWhich floor does J live on?",
+    "options": {
+      "A": "Floor 7",
+      "B": "Floor 8",
+      "C": "Floor 9",
+      "D": "Floor 10",
+      "E": "Floor 6"
+    },
+    "correct_answer": "C",
+    "explanation": "1. With A on Floor 4, conditions guide E not on Floor 2, so possible placements are E (Floor 3, 5, 6).\n2. B must be above E but below C, placing B within the range not possible on Floors 1, 4, or 10.\n3. D on odd floor not 1 is Floors 3, 5, 7, or 9.\n4. G and F are consecutive, F has to be higher than G.\n5. J is three floors above H, placing pairs on Floors 1/4, 2/5, 3/6.\n6. Final configurations after analyzing all possibilities lead to H - Floor 6, J - Floor 9.\nThus, J lives on the ninth floor.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_006",
+    "question": "There is a building with 5 floors (numbered 1 to 5 from bottom to top). Five people: John, Mike, Sarah, Anna, and Paul live on different floors of this building, with one person per floor. The following conditions are given: 1) Mike lives on the topmost floor. 2) Sarah lives on an even-numbered floor. 3) John lives on a floor immediately below Anna's floor. 4) Paul lives on the first floor. Who lives on the fourth floor?",
+    "options": {
+      "A": "Anna",
+      "B": "John",
+      "C": "Sarah",
+      "D": "Paul",
+      "E": "Mike"
+    },
+    "correct_answer": "A",
+    "explanation": "Paul is on the 1st floor as per the condition. Mike is on the 5th floor. Sarah must be on the 2nd or 4th floor since she lives on an even-numbered floor. If Sarah is on the 2nd floor, Anna can only be on the 4th, making John on the 3rd floor. Thus, Anna lives on the 4th floor.",
+    "difficulty": "Easy",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_007",
+    "question": "In a building with 7 floors (numbered 1 to 7 from bottom to top), seven friends: George, Henry, Irene, Jessica, Kevin, Linda, and Monica live on different floors. Consider the following clues: 1) Monica lives on the third floor. 2) There are exactly two floors between Jessica and Kevin. 3) Irene lives immediately above Linda. 4) Kevin lives on a floor immediately below George. 5) Henry lives on the top floor. 6) Linda lives on the second floor. Who lives on the sixth floor?",
+    "options": {
+      "A": "George",
+      "B": "Irene",
+      "C": "Jessica",
+      "D": "Kevin",
+      "E": "Monica"
+    },
+    "correct_answer": "B",
+    "explanation": "Linda on the 2nd floor implies Irene is on the 3rd floor. Monica is on the 3rd, so Monica and Irene can’t share the 3rd floor. This means Irene must be on the 6th floor. Kevin must be on the 4th floor, making George on the 5th. Jessica would then be on the 7th floor since there are two floors between her and Kevin.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_008",
+    "question": "A building has 8 floors (numbered 1 to 8 from bottom to top), and each floor is occupied by one person among Adam, Brian, Charles, David, Edward, Frank, Gary, and Harry. The following conditions are given: 1) Adam lives on a floor immediately above David. 2) Frank lives on an even-numbered floor. 3) Brian lives on a floor that is exactly two floors above Gary's floor. 4) Harry does not live on an adjacent floor to Charles. 5) Gary lives below Frank. 6) Edward lives on the top floor. Which floor does Charles live on?",
+    "options": {
+      "A": "Floor 2",
+      "B": "Floor 3",
+      "C": "Floor 4",
+      "D": "Floor 5",
+      "E": "Floor 6"
+    },
+    "correct_answer": "C",
+    "explanation": "Edward on the 8th floor. Frank must be on floors 2, 4, or 6 due to even-numbered constraint and Gary below him. Brian is two floors above Gary, implying possible placements for Gary on 1 and 2. Charles cannot be adjacent to Harry. After evaluating conditions, Charles fits best on the 4th floor.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_009",
+    "question": "There are two buildings, each with 5 floors (numbered 1 to 5 from bottom to top). Ten friends: Alex, Bob, Clara, Dan, Eve, Fiona, Greg, Helen, Isaac, and Jenny are to be arranged in these buildings such that: 1) Alex and Clara live in different buildings but on the same floor. 2) Bob lives two floors above Eve. 3) Dan lives in the same building as Bob. 4) Greg does not live on the ground floor. 5) Fiona and Jenny live on the top floor but in different buildings. 6) Helen lives on the floor below Isaac. 7) Isaac lives in the same building as Alex. Who lives on the third floor of building 1?",
+    "options": {
+      "A": "Bob",
+      "B": "Greg",
+      "C": "Helen",
+      "D": "Isaac",
+      "E": "Dan"
+    },
+    "correct_answer": "B",
+    "explanation": "Fiona and Jenny occupy the top floors. Alex's placement determines the setup of building 1 floors as Alex is with Isaac. Dan must be with Bob since they share the building. Greg does not live on the ground floor, leaving him for 3rd floor of building 1 after checking other conditions.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_010",
+    "question": "In a 9-floor building, each floor is occupied by one person out of the following: Alicia, Brian, Cheryl, Diana, Ethan, Fiona, George, Hannah, and Ivan. Consider these conditions: 1) Diana lives three floors above Alicia. 2) Ethan lives immediately below Cheryl. 3) Brian lives on a floor between Cheryl and Alicia. 4) George is not on an adjacent floor to Diana. 5) Hannah lives on the 5th floor. 6) Ivan lives two floors below Fiona. 7) Fiona lives on the top floor. Who lives on the 8th floor?",
+    "options": {
+      "A": "Brian",
+      "B": "Cheryl",
+      "C": "Ethan",
+      "D": "George",
+      "E": "Ivan"
+    },
+    "correct_answer": "A",
+    "explanation": "Fiona on the 9th floor. Ivan thus on the 7th. Diana is placed to keep George non-adjacent. Alicia must be 3 floors below Diana, making her floor 2. Ethan and Cheryl's condition places Cheryl on floor 6 and Ethan on floor 5. Brian fits on the 8th floor due to space left.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_011",
+    "question": "There is a building with 5 floors and 5 people: A, B, C, D, and E, each living on different floors. Consider these conditions: 1) A lives on the second floor. 2) B lives immediately above E. 3) C lives two floors above D. 4) E does not live on the ground floor. Which floor does D live on?",
+    "options": {
+      "A": "1st floor",
+      "B": "2nd floor",
+      "C": "3rd floor",
+      "D": "4th floor",
+      "E": "5th floor"
+    },
+    "correct_answer": "A",
+    "explanation": "The conditions give: A on 2nd floor, E not on ground floor, B immediately above E, and C two floors above D. We place A on floor 2. Since E is not on the ground floor, E must be on floor 3, and B on floor 4. C must be on floor 5, meaning D must be on floor 1.",
+    "difficulty": "Easy",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_012",
+    "question": "A building has 7 floors numbered 1 to 7 from bottom to top. Seven people: G, H, I, J, K, L, and M, live on different floors. Consider these conditions: 1) G lives on an odd-numbered floor below floor 5. 2) M lives exactly two floors above L. 3) J lives on the top floor. 4) H lives on an even-numbered floor, but not the 6th. 5) K lives immediately below H. Which floor does M live on?",
+    "options": {
+      "A": "3rd floor",
+      "B": "4th floor",
+      "C": "5th floor",
+      "D": "6th floor",
+      "E": "7th floor"
+    },
+    "correct_answer": "D",
+    "explanation": "From the conditions: G on 1st or 3rd floor, but only 3rd is left because J is on 7th. H can be on 2nd or 4th; if on 2nd, K on 1st, leaving no room for G, so H must be on 4th, K on 3rd, G on 1st. M is two floors above L; placing M on 6th and L on 4th satisfies all conditions.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_013",
+    "question": "A building with 8 floors is home to 8 people: P, Q, R, S, T, U, V, and W, each on a different floor. Consider these conditions: 1) S lives on an odd-numbered floor. 2) P is two floors below S. 3) V lives on a floor above T. 4) Q lives immediately above W. 5) R lives immediately below S. 6) U is not on the 8th floor and lives above T. Which floor does P live on?",
+    "options": {
+      "A": "1st floor",
+      "B": "2nd floor",
+      "C": "3rd floor",
+      "D": "4th floor",
+      "E": "5th floor"
+    },
+    "correct_answer": "C",
+    "explanation": "S must be on an odd floor. If S is on 5th, R on 4th, P must be on 3rd (2 floors below S). W and Q must be on the 1st and 2nd floors. V and U are above T; if U is not on 8th, place U on 6th, T on 7th, and V on 8th.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_014",
+    "question": "In a building with 10 floors, there are 10 items labeled A to J, each placed on a separate floor. Consider these conditions: 1) A is not on the 1st or 10th floor. 2) B is on an even-numbered floor below 6. 3) C is placed three floors above D. 4) E is two floors below F. 5) G is directly below H. 6) I is neither on an odd-numbered floor nor on the top floor. 7) J is on the 5th floor. Which floor is item E on?",
+    "options": {
+      "A": "1st floor",
+      "B": "2nd floor",
+      "C": "3rd floor",
+      "D": "4th floor",
+      "E": "5th floor"
+    },
+    "correct_answer": "C",
+    "explanation": "J is on floor 5. B on 2nd or 4th. If B is on 2nd, F can be on 5th or 7th, but 5th is J, so F on 7th, E on 5th, which conflicts. B must be on 4th. F on 6th, E on 4th. G below H means G on 3rd, H on 4th. I is on 2nd floor (even, not top), leaving C on 8th and D on 5th.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_015",
+    "question": "Two adjacent buildings, X and Y, each have 5 floors. Five people, K, L, M, N, and O, live in building X, and five items, P, Q, R, S, and T, are placed on the floors of building Y. Consider these conditions: 1) K is on a higher floor than M. 2) N is two floors below L. 3) O is not on the top floor. 4) P is directly below Q. 5) R is placed two floors above S. 6) T is not on the ground floor. 7) K's floor number equals the sum of the floor numbers of R and S. Which floor is M on in building X?",
+    "options": {
+      "A": "1st floor",
+      "B": "2nd floor",
+      "C": "3rd floor",
+      "D": "4th floor",
+      "E": "5th floor"
+    },
+    "correct_answer": "B",
+    "explanation": "Assuming K is on 5th, then R and S must be on 2nd and 3rd (or reverse) to satisfy sum condition, with Q on 1st and P on 2nd. If O is on 4th, L on 3rd, N on 1st, leaving M on 2nd.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_016",
+    "question": "There are 5 floors in a building numbered 1 to 5 from bottom to top. Five people: Alice, Bob, Charlie, Diana, and Eve are living on different floors. The following conditions are given: 1) Alice lives on the top floor. 2) Bob lives on a floor above Charlie. 3) Diana does not live on floor 2. 4) Eve lives immediately below Bob. Who lives on floor 3?",
+    "options": {
+      "A": "Bob",
+      "B": "Charlie",
+      "C": "Diana",
+      "D": "Eve",
+      "E": "Alice"
+    },
+    "correct_answer": "C",
+    "explanation": "Alice lives on floor 5. Bob must be on floor 4 as Eve lives immediately below him on floor 3. Charlie cannot be above Bob, so he is on floor 2. Thus, Diana is on floor 3.",
+    "difficulty": "Easy",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_017",
+    "question": "In an 8-floor building, floors are numbered 1 through 8 from bottom to top. Seven people - A, B, C, D, E, F, and G - live on different floors, with one floor remaining vacant. The following conditions are given: 1) C lives on the floor immediately above A. 2) B lives two floors above D. 3) There are two floors between G and E. 4) F does not live on the top floor. 5) A does not live on the bottom floor. Which floor is vacant?",
+    "options": {
+      "A": "Floor 1",
+      "B": "Floor 2",
+      "C": "Floor 5",
+      "D": "Floor 7",
+      "E": "Floor 8"
+    },
+    "correct_answer": "B",
+    "explanation": "Given that C is immediately above A, they occupy consecutive floors. B being two floors above D, means if D is on floor 1, B is on floor 3. G and E are separated by two floors; if E is on floor 4, G is on floor 7. F cannot be on the top floor, placing them on floor 8. Therefore, floors 2, 5, or 6 must be vacant. Since A cannot be on the bottom floor and logically deducing from placements, A is on floor 6 and C on floor 7, leaving floor 2 vacant.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_018",
+    "question": "A building has 7 floors. Seven people: J, K, L, M, N, O, and P live on different floors of the building. The following conditions are given: 1) J does not live on the first or the last floor. 2) N lives immediately above J. 3) O lives on an even-numbered floor. 4) There are two floors between M and P. 5) K lives above M but below P. On which floor does K live?",
+    "options": {
+      "A": "Floor 1",
+      "B": "Floor 3",
+      "C": "Floor 5",
+      "D": "Floor 6",
+      "E": "Floor 7"
+    },
+    "correct_answer": "C",
+    "explanation": "J cannot be on the 1st or 7th floor. Placing J on floor 2 results in N on floor 3. M and P are 2 floors apart: M on 1, P on 4, or M on 2, P on 5. K is above M and below P, thus if P is on 4, M is on 1, K must be on 3. Therefore, J is on 4, N on 5, and K on floor 5 is ruled out; thus, K is on floor 3.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_019",
+    "question": "In a 9-floor building numbered 1 to 9 from bottom to top, nine friends live on different floors. The following conditions are given: 1) L is on an odd-numbered floor below M. 2) N lives three floors above O. 3) P lives between L and O. 4) Q lives on an even-numbered floor above R. 5) There are two floors between N and R. 6) S lives on a floor above T and next to Q. Which floor does R live on?",
+    "options": {
+      "A": "Floor 1",
+      "B": "Floor 3",
+      "C": "Floor 5",
+      "D": "Floor 7",
+      "E": "Floor 9"
+    },
+    "correct_answer": "C",
+    "explanation": "N being three floors above O suggests O on 1 and N on 4, or O on 2 and N on 5, etc. P is between L and O, thus possibilities begin to take shape. As Q is above R on an even floor, if R is on 3, Q is on 4 or 5. From 2 floors between N and R, if R is on 5, N should be on 7 but it contradicts N's position related to O. Correct deduction places R on floor 5.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_020",
+    "question": "There are 10 floors in a building numbered 1 to 10 from bottom to top. Ten people: X, Y, Z, U, V, W, A, B, C, and D live on different floors. The following conditions are given: 1) X lives on the top floor. 2) Y lives three floors below Z. 3) W lives immediately above V. 4) There are two floors between U and Z. 5) A lives on an even-numbered floor below D. 6) C lives immediately above B but below A. 7) There are three floors between V and B. Which floor does D live on?",
+    "options": {
+      "A": "Floor 4",
+      "B": "Floor 5",
+      "C": "Floor 6",
+      "D": "Floor 7",
+      "E": "Floor 9"
+    },
+    "correct_answer": "E",
+    "explanation": "X is on floor 10. Y is three floors below Z, placing them if Z is on floor 8, Y is on 5, etc. W is above V, thus if V is on floor 3, W is on 4. U and Z need two floors apart, and placing Z on 8 and U on 6 fits. A is on even floor below D; C is above B but below A. With three floors between V and B, placing B on floor 1, C on 2, A on 4, and D on 9 completes the configuration.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_021",
+    "question": "There are 5 floors in a building, numbered 1 to 5. Each floor is occupied by a different person: Alan, Ben, Carol, Dan, and Eva. The following conditions apply: 1) Ben lives on floor 2. 2) Carol lives immediately above Ben. 3) Eva lives on floor 5. 4) Alan does not live on floor 1. Who lives on floor 3?",
+    "options": {
+      "A": "Alan",
+      "B": "Ben",
+      "C": "Carol",
+      "D": "Dan",
+      "E": "Eva"
+    },
+    "correct_answer": "D",
+    "explanation": "From the conditions: Ben is on floor 2, Carol is on floor 3 (immediately above Ben), Eva is on floor 5. Alan cannot be on floor 1, so Dan must be on floor 1. Therefore, Alan is on floor 4.",
+    "difficulty": "Easy",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_022",
+    "question": "There are 7 floors in a building, numbered from 1 to 7. Each floor is occupied by a different person: P, Q, R, S, T, U, and V. The following conditions apply: 1) T lives on an odd-numbered floor. 2) Q lives immediately above P. 3) U lives two floors above S. 4) R lives on the top floor. 5) V lives on floor 5. Who lives on floor 3?",
+    "options": {
+      "A": "T",
+      "B": "U",
+      "C": "S",
+      "D": "P",
+      "E": "Q"
+    },
+    "correct_answer": "D",
+    "explanation": "R lives on floor 7. V is on floor 5. Since Q is immediately above P, either floors 1 and 2 or 3 and 4 must be occupied by P and Q. U is two floors above S, so floors 2 and 4 or 3 and 5 might initially seem possible. Given V occupies floor 5, S must be on floor 2, and U on floor 4. The remaining arrangement that fits all constraints has P on floor 3 and Q on floor 4.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_023",
+    "question": "A building has 8 floors, numbered 1 to 8. Each floor is occupied by a different person: Alex, Bob, Cathy, David, Eva, Frank, Gina, and Helen. The following conditions apply: 1) David lives on the top floor. 2) Eva lives on the floor immediately below Cathy. 3) Alex lives three floors below Gina. 4) Bob lives on an even-numbered floor. 5) Helen lives above Frank but below Cathy. 6) Gina lives on floor 7. On which floor does Alex live?",
+    "options": {
+      "A": "Floor 3",
+      "B": "Floor 1",
+      "C": "Floor 2",
+      "D": "Floor 4",
+      "E": "Floor 5"
+    },
+    "correct_answer": "A",
+    "explanation": "Gina is on floor 7, so Alex is on floor 4. David is on floor 8. Helen must be on floor 5 or 6; Cathy can't be on floor 8, 7, or 5 due to positioning. Eva then must be on floor 2, placing Cathy on floor 3. Helen can only be on floor 5, so Frank is on floor 6, Bob on floor 2. Alex on floor 3 fits the remaining positions.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_024",
+    "question": "A building has 9 floors, numbered 1 to 9. Each floor is occupied by a different person: M, N, O, P, Q, R, S, T, and U. The following conditions apply: 1) S lives on an odd-numbered floor. 2) N lives three floors above T. 3) O lives on an even-numbered floor and immediately below U. 4) R lives on floor 8. 5) M lives below Q. 6) P lives between N and T. 7) U does not live on the top floor. 8) T is not on floor 1. Where does S live?",
+    "options": {
+      "A": "Floor 1",
+      "B": "Floor 3",
+      "C": "Floor 5",
+      "D": "Floor 7",
+      "E": "Floor 9"
+    },
+    "correct_answer": "C",
+    "explanation": "R is on floor 8, so U cannot be on floor 9 and must be on floor 4, making O on floor 3. N must be on floor 7, so T is on floor 4 and P on floor 6. M must be on floor 2, with Q on floor 5. Therefore, S, who is on an odd floor, can only be on floor 1, 5, or 9, but 5 is unoccupied.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_025",
+    "question": "In a building with 10 floors, numbered 1 to 10, each floor is occupied by a different person: A, B, C, D, E, F, G, H, I, J. The following conditions apply: 1) A lives on floor 1. 2) B lives on a floor higher than E. 3) D lives three floors above C. 4) F lives on an even floor and directly above G. 5) H lives on floor 10. 6) I lives below E but above J. 7) C does not live on floor 2 or 5. Who lives on floor 6?",
+    "options": {
+      "A": "C",
+      "B": "F",
+      "C": "G",
+      "D": "E",
+      "E": "J"
+    },
+    "correct_answer": "B",
+    "explanation": "H is on floor 10, so C must be on floor 3 for D on floor 6. F must be on floor 8 since F is above G who is on floor 7. A is on floor 1, and C is confirmed on floor 3. I is below E, who is below B, and I above J, so J on floor 2, I on floor 4, E on floor 5, and B on floor 9. Therefore, F lives on floor 6.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_026",
+    "question": "There is a 5-floor building with floors numbered 1 to 5 from bottom to top. Five people, A, B, C, D, and E, live on different floors. The following conditions are known: 1) A lives on the third floor. 2) B lives immediately above E. 3) C lives on the top floor. 4) D lives immediately below B. Who lives on the first floor?",
+    "options": {
+      "A": "E",
+      "B": "B",
+      "C": "D",
+      "D": "A",
+      "E": "C"
+    },
+    "correct_answer": "A",
+    "explanation": "Step-by-step solution: A lives on the third floor. C lives on the fifth floor (top floor). Since B lives immediately above E, and D lives immediately below B, B must live on the fourth floor, E on the first floor, and D on the second floor. Hence, E lives on the first floor.",
+    "difficulty": "Easy",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_027",
+    "question": "In a 7-floor building, numbered 1 to 7 from bottom to top, there are 7 people: P, Q, R, S, T, U, and V, each living on a different floor. The following information is known: 1) Q lives on the fourth floor. 2) S lives on a floor immediately below U. 3) P lives on the top floor. 4) T lives on the first floor. 5) V lives two floors above R. On which floor does S live?",
+    "options": {
+      "A": "Second floor",
+      "B": "Third floor",
+      "C": "Fifth floor",
+      "D": "Sixth floor",
+      "E": "Seventh floor"
+    },
+    "correct_answer": "B",
+    "explanation": "P lives on the seventh floor. T lives on the first floor. Q is on the fourth floor. V must live on the sixth floor as he lives two floors above R, who is on the fourth floor. U cannot be on the seventh or fourth floor, so U is on the fifth floor, making S on the third floor. S lives on the third floor.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_028",
+    "question": "In an 8-floor building (floors 1 to 8), eight people: A, B, C, D, E, F, G, and H live on different floors. The clues are as follows: 1) A lives three floors above E. 2) B lives immediately below G. 3) F lives on an even-numbered floor. 4) D lives immediately above H. 5) C lives on the top floor. 6) Neither B nor D lives on the second floor. On which floor does F live?",
+    "options": {
+      "A": "Second floor",
+      "B": "Fourth floor",
+      "C": "Sixth floor",
+      "D": "Eighth floor",
+      "E": "Seventh floor"
+    },
+    "correct_answer": "B",
+    "explanation": "C is on the eighth floor. A lives three floors above E, possibilities are A/E: 4/1, 5/2, 6/3. B and G are adjacent, leaving B on the third floor and G on the fourth. D above H means D is on the second floor and H on the first floor. F is left to fit on the fourth floor (even-numbered), which satisfies all conditions.",
+    "difficulty": "Medium",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_029",
+    "question": "In a 10-floor building numbered 1 to 10 from bottom to top, ten different people live: J, K, L, M, N, O, P, Q, R, and S. The following conditions apply: 1) K lives on the fifth floor. 2) P lives on an odd-numbered floor above M. 3) O lives immediately below L. 4) N lives above J. 5) R lives on the eighth floor. 6) Q and S are not adjacent. 7) J lives three floors below S, who lives on an even-numbered floor. Who lives on the second floor?",
+    "options": {
+      "A": "M",
+      "B": "O",
+      "C": "Q",
+      "D": "S",
+      "E": "L"
+    },
+    "correct_answer": "C",
+    "explanation": "K is on the fifth floor. R is on the eighth floor. S can be on the fourth or sixth floor, making J on the first or third floor, respectively. Given the non-adjacency of Q and S, and that P is above M on an odd-numbered floor, solutions align with Q on the second floor.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "floor_puzzle_030",
+    "question": "Consider two buildings A and B, each with floors numbered 1 to 5 from bottom to top. In building A, residents are P, Q, R, S, and T. In building B, residents are U, V, W, X, and Y. The known conditions are: 1) P lives on the same floor as W. 2) R lives immediately above Q, who lives on the second floor. 3) U lives three floors above X. 4) S lives on the top floor of Building A. 5) V and Y are not on the first floor. 6) T lives on an even-numbered floor. Where does Y live in Building B?",
+    "options": {
+      "A": "Second floor",
+      "B": "Third floor",
+      "C": "Fourth floor",
+      "D": "Fifth floor",
+      "E": "First floor"
+    },
+    "correct_answer": "C",
+    "explanation": "In Building A: Q is on the second floor, R is on the third floor, and S on the fifth floor. P and W must align, and T is on the fourth floor. In Building B: U on the fourth floor, X on the first floor. V and Y on second and third floors, with neither on the first floor, placing Y on the third floor.",
+    "difficulty": "Hard",
+    "topic": "Floor Puzzle",
+    "reasoning_topic": "Floor Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

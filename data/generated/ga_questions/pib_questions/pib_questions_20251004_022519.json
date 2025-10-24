@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "title": "RBI Grade B - PIB Press Releases Questions",
+    "source": "PIB Press Releases - Ministry of Finance, Agriculture, Corporate Affairs",
+    "period": "July - September 2025",
+    "generation_type": "PIB_RAG",
+    "model": "gemini-2.5-pro",
+    "total_questions": 10,
+    "creation_date": "2025-10-04T02:25:19.406716",
+    "difficulty_distribution": {
+      "Hard": 3,
+      "Medium": 4,
+      "Easy": 3
+    },
+    "topic_distribution": {
+      "Fiscal_Policy": 3,
+      "Economic_Initiatives": 1,
+      "Government_Schemes": 2,
+      "Government_Finances": 2,
+      "Current_Developments": 1,
+      "Financial_Reforms": 1
+    },
+    "target_questions": 10,
+    "difficulty_weights": {
+      "Hard": 0.3,
+      "Medium": 0.4,
+      "Easy": 0.3
+    }
+  },
+  "questions": [
+    {
+      "question": "What is the Ways and Means Advances (WMA) limit fixed by the Reserve Bank of India for the second half of the financial year 2025-26?",
+      "options": {
+        "A": "₹40,000 crore",
+        "B": "₹50,000 crore",
+        "C": "₹60,000 crore",
+        "D": "₹75,000 crore",
+        "E": "₹1,00,000 crore"
+      },
+      "correct_answer": "B",
+      "explanation": "To manage temporary mismatches in Government payments and receipts, the Reserve Bank of India has fixed the Ways and Mean Advances (WMA) limit for the second half (H2) of FY 2025-26 at ₹50,000 crore.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "26 SEP 2025",
+      "difficulty": "Easy",
+      "topic": "Fiscal_Policy",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404043",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "In September 2025, the Government of India and the Asian Development Bank (ADB) signed a loan agreement of what amount to upgrade urban services in Assam?",
+      "options": {
+        "A": "$100 million",
+        "B": "$125 million",
+        "C": "$150 million",
+        "D": "$175 million",
+        "E": "$200 million"
+      },
+      "correct_answer": "B",
+      "explanation": "The Government of India and the Asian Development Bank (ADB) signed a $125 million loan agreement to enhance urban livability and bolster climate resilience in six district headquarters and Guwahati, in the State of Assam.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "22 SEP 2025",
+      "difficulty": "Easy",
+      "topic": "Economic_Initiatives",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404131",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "As of July 2025, the Atal Pension Yojana (APY), a flagship social security scheme, surpassed how many total gross enrolments since its launch in 2015?",
+      "options": {
+        "A": "6 crore",
+        "B": "7 crore",
+        "C": "8 crore",
+        "D": "9 crore",
+        "E": "10 crore"
+      },
+      "correct_answer": "C",
+      "explanation": "According to a press release from July 2025, the Atal Pension Yojana (APY) has achieved a significant milestone by surpassing 8 crore total gross enrolments since its launch on May 9, 2015.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "25 JUL 2025",
+      "difficulty": "Easy",
+      "topic": "Government_Schemes",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404141",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "As per the government's borrowing programme for H2 of FY 2025-26, what amount is planned to be borrowed through the issuance of Sovereign Green Bonds (SGrBs)?",
+      "options": {
+        "A": "₹5,000 crore",
+        "B": "₹10,000 crore",
+        "C": "₹15,000 crore",
+        "D": "₹20,000 crore",
+        "E": "₹25,000 crore"
+      },
+      "correct_answer": "B",
+      "explanation": "The Government of India plans to borrow ₹6.77 lakh crore in the second half of FY 2025-26 through dated securities, which includes ₹10,000 crore through the issuance of Sovereign Green Bonds (SGrBs).",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "26 SEP 2025",
+      "difficulty": "Medium",
+      "topic": "Government_Finances",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404144",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "The Japanese credit rating agency, Rating and Investment Information, Inc. (R&I), upgraded India's long-term sovereign credit rating to what level in September 2025, while retaining a 'Stable' outlook?",
+      "options": {
+        "A": "BBB",
+        "B": "BBB-",
+        "C": "A-",
+        "D": "BBB+",
+        "E": "A"
+      },
+      "correct_answer": "D",
+      "explanation": "In September 2025, the Japanese credit rating agency, Rating and Investment Information, Inc. (R&I), upgraded India’s long-term sovereign credit rating to ‘BBB+’ from ‘BBB’, while retaining the “Stable” Outlook for the Indian economy.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "19 SEP 2025",
+      "difficulty": "Medium",
+      "topic": "Current_Developments",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404147",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "According to the recommendations of the 56th GST Council meeting, the GST rate on cement was rationalised by reducing it from 28% to what new rate?",
+      "options": {
+        "A": "22%",
+        "B": "20%",
+        "C": "18%",
+        "D": "15%",
+        "E": "12%"
+      },
+      "correct_answer": "C",
+      "explanation": "The 56th GST Council meeting in September 2025 recommended a reduction of GST from 28% to 18% on Cement as part of its rate rationalisation measures.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "03 SEP 2025",
+      "difficulty": "Medium",
+      "topic": "Fiscal_Policy",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404149",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "Under the 'Namo Drone Didi' scheme, what is the Central Financial Assistance provided to women Self Help Groups (SHGs) for the purchase of a drone package?",
+      "options": {
+        "A": "70% of the cost up to a maximum of Rs. 7.00 lakhs",
+        "B": "75% of the cost up to a maximum of Rs. 7.50 lakhs",
+        "C": "90% of the cost up to a maximum of Rs. 9.00 lakhs",
+        "D": "80% of the cost up to a maximum of Rs. 8.00 lakhs",
+        "E": "100% of the cost up to a maximum of Rs. 10.00 lakhs"
+      },
+      "correct_answer": "D",
+      "explanation": "Under the 'Namo Drone Didi' scheme, Central Financial Assistance (CFA) @ 80% of the cost of the drone package, up to a maximum of Rs. 8.00 lakhs, is provided to the selected women SHGs.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Agriculture",
+      "release_date": "29 JUL 2025",
+      "difficulty": "Medium",
+      "topic": "Government_Schemes",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404166",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "Based on the Government of India's accounts data released up to August 2025, what was the fiscal deficit for the period, calculated as the difference between Total Expenditure and Total Receipts?",
+      "options": {
+        "A": "₹5,28,668 crore",
+        "B": "₹6,15,342 crore",
+        "C": "₹5,98,153 crore",
+        "D": "₹4,31,579 crore",
+        "E": "₹7,22,198 crore"
+      },
+      "correct_answer": "C",
+      "explanation": "The fiscal deficit is the difference between Total Expenditure and Total Receipts. As per the data, Total Expenditure was ₹18,80,862 crore and Total Receipts were ₹12,82,709 crore. The difference is ₹18,80,862 crore - ₹12,82,709 crore = ₹5,98,153 crore.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "30 SEP 2025",
+      "difficulty": "Hard",
+      "topic": "Government_Finances",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404169",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "Consider the following statements regarding the recommendations of the 56th GST Council meeting held in September 2025: \nI. GST on individual life insurance policies was exempted. \nII. GST on small cars and motorcycles (≤ 350 CC) was reduced from 28% to 18%. \nIII. GST on renewable energy devices was reduced from 12% to 5%. \nIV. GST on hotel accommodation with a value up to Rs. 7,500 per day was reduced to 12%. \nHow many of the above statements are correct?",
+      "options": {
+        "A": "Only one",
+        "B": "Only two",
+        "C": "Only three",
+        "D": "All four",
+        "E": "None"
+      },
+      "correct_answer": "C",
+      "explanation": "Statement I is correct. Statement II is correct. Statement III is correct. Statement IV is incorrect as the GST on hotel accommodation with a value less than or equal to Rs. 7,500 per unit per day was reduced from 12% to 5%, not 12%. Therefore, only three statements are correct.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "03 SEP 2025",
+      "difficulty": "Hard",
+      "topic": "Fiscal_Policy",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404172",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    },
+    {
+      "question": "Which of the following statements regarding recent government initiatives and financial data is INCORRECT based on press releases from July-September 2025?",
+      "options": {
+        "A": "The Cabinet approved the Prime Minister Dhan-Dhaanya Krishi Yojana to be implemented in 100 districts, beginning with FY 2025-26.",
+        "B": "As of March 31, 2025, creditors realised ₹3.89 lakh crore from 1,194 companies resolved under the Insolvency and Bankruptcy Code (IBC).",
+        "C": "The Banking Laws (Amendment) Act, 2025, which came into effect from August 1st 2025, redefined 'substantial interest' threshold from ₹5 lakh to ₹2 crore.",
+        "D": "Under the 'One State-One RRB' policy, the number of Regional Rural Banks (RRBs) in India was reduced from 43 to 28, effective from May 1st, 2025.",
+        "E": "The Nationwide Financial Inclusion Saturation Campaign launched in July 2025 resulted in over 2.6 crore new enrollments under the Atal Pension Yojana (APY) alone."
+      },
+      "correct_answer": "E",
+      "explanation": "The press release on the Nationwide Financial Inclusion Saturation Campaign states that it resulted in more than 2.6 crore fresh enrollments under the three Jan Suraksha social security schemes (PMJJBY, PMSBY, and APY) combined, not just under the Atal Pension Yojana (APY) alone. All other statements are correct as per their respective press releases.",
+      "source_document": "pib_press_releases.txt",
+      "source_type": "PIB Press Release - Ministry of Finance",
+      "release_date": "16 SEP 2025",
+      "difficulty": "Hard",
+      "topic": "Financial_Reforms",
+      "category": "PIB_Press_Release",
+      "subject": "General_Awareness",
+      "generated_date": "2025-10-04T02:25:19.404174",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "PIB_RAG_Batch_1"
+    }
+  ]
+}

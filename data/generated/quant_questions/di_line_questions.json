@@ -1,0 +1,642 @@
+[
+  {
+    "di_set_id": "DI_LINE_CHART_001",
+    "topic": "Line Chart - Monthly Sales and Revenue Analysis",
+    "difficulty": "Easy",
+    "data_source": {
+      "type": "line_chart",
+      "title": "Monthly Sales Revenue for Two Products (Jan-Jun)",
+      "data": {
+        "x_axis": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun"
+        ],
+        "series": [
+          {
+            "name": "Product X",
+            "values": [
+              120,
+              150,
+              130,
+              160,
+              180,
+              170
+            ]
+          },
+          {
+            "name": "Product Y",
+            "values": [
+              100,
+              120,
+              140,
+              130,
+              160,
+              150
+            ]
+          }
+        ]
+      },
+      "units": "Revenue in Thousands (₹)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_LINE_001_Q1",
+        "question": "What was the revenue for Product X in May?",
+        "options": {
+          "A": "₹180,000",
+          "B": "₹160,000",
+          "C": "₹170,000",
+          "D": "₹150,000",
+          "E": "₹140,000"
+        },
+        "correct_answer": "A",
+        "explanation": "From the line chart, the revenue for Product X in May is shown as 180 (in thousands), which translates to ₹180,000.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_LINE_001_Q2",
+        "question": "By what percentage did the revenue of Product Y increase from Jan to Mar?",
+        "options": {
+          "A": "20%",
+          "B": "30%",
+          "C": "40%",
+          "D": "50%",
+          "E": "25%"
+        },
+        "correct_answer": "C",
+        "explanation": "Product Y's revenue in Jan was ₹100,000 and in Mar was ₹140,000. Percentage increase = [(140 - 100) / 100] * 100 = 40%.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_LINE_001_Q3",
+        "question": "Which product had a higher average monthly revenue over the period?",
+        "options": {
+          "A": "Product X",
+          "B": "Product Y",
+          "C": "Both had the same",
+          "D": "Cannot determine",
+          "E": "Insufficient data"
+        },
+        "correct_answer": "A",
+        "explanation": "Average for Product X = (120 + 150 + 130 + 160 + 180 + 170) / 6 = ₹151,666.67. Average for Product Y = (100 + 120 + 140 + 130 + 160 + 150) / 6 = ₹133,333.33. Product X has a higher average.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_LINE_001_Q4",
+        "question": "In which month did both products have the closest revenue?",
+        "options": {
+          "A": "March",
+          "B": "April",
+          "C": "May",
+          "D": "June",
+          "E": "January"
+        },
+        "correct_answer": "B",
+        "explanation": "In April, Product X had ₹160,000 and Product Y had ₹130,000. The difference is ₹30,000, the smallest difference among all months.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_LINE_001_Q5",
+        "question": "What was the total revenue for Product X from Jan to Jun?",
+        "options": {
+          "A": "₹910,000",
+          "B": "₹850,000",
+          "C": "₹960,000",
+          "D": "₹780,000",
+          "E": "₹900,000"
+        },
+        "correct_answer": "A",
+        "explanation": "Total revenue for Product X = 120 + 150 + 130 + 160 + 180 + 170 = 910 (in thousands), which is ₹910,000.",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:49:44.826869",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.011935,
+      "tokens_used": 1987
+    }
+  },
+  {
+    "di_set_id": "DI_LINE_CHART_002",
+    "topic": "Line Chart - Quarterly Revenue Trend for Banks",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "line_chart",
+      "title": "Quarterly Revenue Trend for Two Banks (Q1-Q4)",
+      "data": {
+        "x_axis": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ],
+        "series": [
+          {
+            "name": "Bank X",
+            "values": [
+              120,
+              135,
+              150,
+              160
+            ]
+          },
+          {
+            "name": "Bank Y",
+            "values": [
+              110,
+              125,
+              130,
+              140
+            ]
+          }
+        ]
+      },
+      "units": "Revenue in Crores (₹)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_LINE_002_Q1",
+        "question": "What was the revenue of Bank X in Q3?",
+        "options": {
+          "A": "150 Crores",
+          "B": "135 Crores",
+          "C": "160 Crores",
+          "D": "145 Crores",
+          "E": "155 Crores"
+        },
+        "correct_answer": "A",
+        "explanation": "The revenue of Bank X in Q3 is directly given as 150 Crores from the line chart data.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_LINE_002_Q2",
+        "question": "What is the percentage increase in revenue for Bank Y from Q1 to Q4?",
+        "options": {
+          "A": "27.27%",
+          "B": "25.00%",
+          "C": "30.00%",
+          "D": "22.22%",
+          "E": "28.57%"
+        },
+        "correct_answer": "A",
+        "explanation": "Percentage increase = [(140 - 110) / 110] * 100 = 27.27%",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_LINE_002_Q3",
+        "question": "What is the average revenue of Bank X over the four quarters?",
+        "options": {
+          "A": "141.25 Crores",
+          "B": "135.00 Crores",
+          "C": "142.50 Crores",
+          "D": "145.00 Crores",
+          "E": "150.00 Crores"
+        },
+        "correct_answer": "C",
+        "explanation": "Average revenue = (120 + 135 + 150 + 160) / 4 = 142.5 Crores",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_LINE_002_Q4",
+        "question": "In which quarter did Bank Y have the highest revenue growth compared to the previous quarter?",
+        "options": {
+          "A": "Q2",
+          "B": "Q3",
+          "C": "Q4",
+          "D": "Q1",
+          "E": "None of the above"
+        },
+        "correct_answer": "A",
+        "explanation": "Revenue growth: Q2-Q1 = (125-110)=15, Q3-Q2 = (130-125)=5, Q4-Q3 = (140-130)=10. Highest growth is in Q2.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_LINE_002_Q5",
+        "question": "What is the ratio of total revenue of Bank X to Bank Y over the four quarters?",
+        "options": {
+          "A": "38:35",
+          "B": "35:38",
+          "C": "39:35",
+          "D": "37:34",
+          "E": "34:37"
+        },
+        "correct_answer": "A",
+        "explanation": "Total revenue of Bank X = 120 + 135 + 150 + 160 = 565. Total revenue of Bank Y = 110 + 125 + 130 + 140 = 505. Ratio = 565:505 = 38:35",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:49:52.639235",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.01174,
+      "tokens_used": 1975
+    }
+  },
+  {
+    "di_set_id": "DI_LINE_CHART_003",
+    "topic": "Line Chart - Population & Demographics",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "line_chart",
+      "title": "Population Growth Trend in City A and City B (2015-2022)",
+      "data": {
+        "x_axis": [
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022"
+        ],
+        "series": [
+          {
+            "name": "City A",
+            "values": [
+              1200000,
+              1230000,
+              1265000,
+              1300000,
+              1335000,
+              1370000,
+              1405000,
+              1440000
+            ]
+          },
+          {
+            "name": "City B",
+            "values": [
+              950000,
+              970000,
+              990000,
+              1010000,
+              1035000,
+              1060000,
+              1085000,
+              1110000
+            ]
+          }
+        ]
+      },
+      "units": "Population"
+    },
+    "questions": [
+      {
+        "question_id": "DI_LINE_CHART_003_Q1",
+        "question": "What was the population of City A in the year 2019?",
+        "options": {
+          "A": "1,335,000",
+          "B": "1,370,000",
+          "C": "1,405,000",
+          "D": "1,440,000",
+          "E": "1,265,000"
+        },
+        "correct_answer": "A",
+        "explanation": "The population of City A in 2019 is directly given as 1,335,000.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_LINE_CHART_003_Q2",
+        "question": "By what percentage did the population of City B increase from 2015 to 2022?",
+        "options": {
+          "A": "10.5%",
+          "B": "15.8%",
+          "C": "16.8%",
+          "D": "17.1%",
+          "E": "14.7%"
+        },
+        "correct_answer": "C",
+        "explanation": "Population in 2015: 950,000, Population in 2022: 1,110,000. Percentage increase = [(1,110,000 - 950,000) / 950,000] * 100 = 16.84%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_LINE_CHART_003_Q3",
+        "question": "What is the average annual population of City A from 2015 to 2022?",
+        "options": {
+          "A": "1,300,000",
+          "B": "1,357,500",
+          "C": "1,375,000",
+          "D": "1,322,500",
+          "E": "1,405,000"
+        },
+        "correct_answer": "C",
+        "explanation": "Sum of populations (City A): 1,200,000 + 1,230,000 + 1,265,000 + 1,300,000 + 1,335,000 + 1,370,000 + 1,405,000 + 1,440,000 = 11,000,000. Average = 11,000,000 / 8 = 1,375,000.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_LINE_CHART_003_Q4",
+        "question": "In which year did City B experience the highest growth in population compared to the previous year?",
+        "options": {
+          "A": "2017",
+          "B": "2018",
+          "C": "2019",
+          "D": "2020",
+          "E": "2021"
+        },
+        "correct_answer": "C",
+        "explanation": "Growth: 2015-2016: 20,000, 2016-2017: 20,000, 2017-2018: 20,000, 2018-2019: 25,000, 2019-2020: 25,000, 2020-2021: 25,000, 2021-2022: 25,000. Highest growth occurred in 2019.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_LINE_CHART_003_Q5",
+        "question": "What is the ratio of the population of City A to City B in 2020?",
+        "options": {
+          "A": "1.25:1",
+          "B": "1.29:1",
+          "C": "1.30:1",
+          "D": "1.31:1",
+          "E": "1.28:1"
+        },
+        "correct_answer": "B",
+        "explanation": "Population City A (2020): 1,370,000, City B (2020): 1,060,000. Ratio = 1,370,000 / 1,060,000 ≈ 1.29:1.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:50:05.221579",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.014262500000000001,
+      "tokens_used": 2228
+    }
+  },
+  {
+    "di_set_id": "DI_LINE_CHART_004",
+    "topic": "Line Chart - Production & Manufacturing Trends",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "line_chart",
+      "title": "Monthly Production Units for Different Plants (Jan-Jul)",
+      "data": {
+        "x_axis": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul"
+        ],
+        "series": [
+          {
+            "name": "Plant X",
+            "values": [
+              1500,
+              1600,
+              1580,
+              1650,
+              1700,
+              1750,
+              1800
+            ]
+          },
+          {
+            "name": "Plant Y",
+            "values": [
+              1400,
+              1450,
+              1500,
+              1550,
+              1520,
+              1600,
+              1650
+            ]
+          },
+          {
+            "name": "Plant Z",
+            "values": [
+              1300,
+              1350,
+              1380,
+              1400,
+              1450,
+              1500,
+              1550
+            ]
+          }
+        ]
+      },
+      "units": "Production Units"
+    },
+    "questions": [
+      {
+        "question_id": "DI_Line_004_Q1",
+        "question": "What is the average monthly production for Plant X over the period shown?",
+        "options": {
+          "A": "1654",
+          "B": "1650",
+          "C": "1670",
+          "D": "1625",
+          "E": "1600"
+        },
+        "correct_answer": "B",
+        "explanation": "Average = (1500 + 1600 + 1580 + 1650 + 1700 + 1750 + 1800) / 7 = 16580 / 7 = 1650",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Line_004_Q2",
+        "question": "By what percentage did the production of Plant Y increase from January to July?",
+        "options": {
+          "A": "17.86%",
+          "B": "14.29%",
+          "C": "18.75%",
+          "D": "21.43%",
+          "E": "16.67%"
+        },
+        "correct_answer": "A",
+        "explanation": "Percentage Increase = [(1650 - 1400) / 1400] * 100 = 250 / 1400 * 100 = 17.86%",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Line_004_Q3",
+        "question": "Which plant showed the highest percentage growth from February to March?",
+        "options": {
+          "A": "Plant X",
+          "B": "Plant Y",
+          "C": "Plant Z",
+          "D": "Both Plant X and Y",
+          "E": "None of these"
+        },
+        "correct_answer": "B",
+        "explanation": "Plant X: (1580 - 1600)/1600 * 100 = -1.25%; Plant Y: (1500 - 1450)/1450 * 100 = 3.45%; Plant Z: (1380 - 1350)/1350 * 100 = 2.22%. Highest growth is in Plant Y.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Line_004_Q4",
+        "question": "What is the ratio of the total production of Plant Z to Plant Y over the period?",
+        "options": {
+          "A": "0.93",
+          "B": "0.88",
+          "C": "0.85",
+          "D": "0.91",
+          "E": "0.89"
+        },
+        "correct_answer": "A",
+        "explanation": "Total production Plant Z = 9930, Plant Y = 10770. Ratio = 9930 / 10770 ≈ 0.92",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Line_001_Q5",
+        "question": "If Plant X plans to increase its production by 10% in the next month, what will be its production in August?",
+        "options": {
+          "A": "1980",
+          "B": "1970",
+          "C": "1890",
+          "D": "1985",
+          "E": "2000"
+        },
+        "correct_answer": "A",
+        "explanation": "Projected production = 1800 + (1800 * 0.10) = 1800 + 180 = 1980",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:50:15.890554",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012847500000000001,
+      "tokens_used": 2100
+    }
+  },
+  {
+    "di_set_id": "DI_LINE_CHART_005",
+    "topic": "Line Chart - Import & Export Trends",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "line_chart",
+      "title": "Monthly Import & Export (Jan-Jun)",
+      "data": {
+        "x_axis": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun"
+        ],
+        "series": [
+          {
+            "name": "Imports",
+            "values": [
+              120,
+              135,
+              150,
+              145,
+              160,
+              155
+            ]
+          },
+          {
+            "name": "Exports",
+            "values": [
+              100,
+              110,
+              120,
+              130,
+              125,
+              140
+            ]
+          }
+        ]
+      },
+      "units": "Values in Million USD"
+    },
+    "questions": [
+      {
+        "question_id": "DI_LINE_CHART_005_Q1",
+        "question": "What was the total value of imports and exports combined in March?",
+        "options": {
+          "A": "270 Million USD",
+          "B": "250 Million USD",
+          "C": "290 Million USD",
+          "D": "280 Million USD",
+          "E": "260 Million USD"
+        },
+        "correct_answer": "A",
+        "explanation": "In March, Imports = 150 Million USD and Exports = 120 Million USD. Total = 150 + 120 = 270 Million USD.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_LINE_CHART_005_Q2",
+        "question": "By what percentage did exports increase from January to June?",
+        "options": {
+          "A": "40%",
+          "B": "30%",
+          "C": "50%",
+          "D": "45%",
+          "E": "35%"
+        },
+        "correct_answer": "A",
+        "explanation": "Exports in January = 100 Million USD, Exports in June = 140 Million USD. Increase = 140 - 100 = 40 Million USD. Percentage increase = (40/100) * 100 = 40%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_LINE_CHART_005_Q3",
+        "question": "What is the ratio of total imports to total exports over the entire period?",
+        "options": {
+          "A": "37:31",
+          "B": "31:37",
+          "C": "39:35",
+          "D": "35:39",
+          "E": "40:35"
+        },
+        "correct_answer": "A",
+        "explanation": "Total Imports = 120 + 135 + 150 + 145 + 160 + 155 = 865 Million USD. Total Exports = 100 + 110 + 120 + 130 + 125 + 140 = 725 Million USD. Ratio = 865:725 = 37:31.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_LINE_CHART_005_Q4",
+        "question": "If the trend continues(assuming the same increase), what would be the expected export value in July, assuming the same rate of increase from June?",
+        "options": {
+          "A": "155 Million USD",
+          "B": "150 Million USD",
+          "C": "145 Million USD",
+          "D": "160 Million USD",
+          "E": "165 Million USD"
+        },
+        "correct_answer": "B",
+        "explanation": "Increase from May to June = 140 - 125 = 15 Million USD. Assuming the same increase, July Exports = 140 + 15 = 155 Million USD.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_LINE_CHART_005_Q5",
+        "question": "Calculate the compound annual growth rate (CAGR) of imports from January to June.",
+        "options": {
+          "A": "5.2%",
+          "B": "6.1%",
+          "C": "4.8%",
+          "D": "5.8%",
+          "E": "6.5%"
+        },
+        "correct_answer": "C",
+        "explanation": "Initial Value = 120 Million USD, Final Value = 155 Million USD, n = 6 months. CAGR = [(155/120)^(12/6) - 1] * 100 = 4.8%.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T02:50:25.705881",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012407500000000002,
+      "tokens_used": 2056
+    }
+  }
+]

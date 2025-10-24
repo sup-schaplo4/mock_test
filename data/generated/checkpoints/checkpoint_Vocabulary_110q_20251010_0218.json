@@ -1,0 +1,2097 @@
+{
+  "total_generated": 110,
+  "timestamp": "2025-10-10T02:18:39.480810",
+  "model": "gemini-2.0-flash-exp",
+  "questions": [
+    {
+      "question": "The central bank's decision to maintain the repo rate, _______ inflationary pressures, demonstrates a _______ approach to monetary policy, prioritizing stability over immediate growth.",
+      "options": {
+        "A": "ignoring; reckless",
+        "B": "observing; cautious",
+        "C": "exacerbating; pragmatic",
+        "D": "mitigating; speculative",
+        "E": "forecasting; sanguine"
+      },
+      "correct_answer": "C",
+      "explanation": "The best fit is 'exacerbating; pragmatic'. 'Exacerbating' aligns with inflationary pressures, and a pragmatic approach suggests prioritizing stability when faced with rising inflation. Sanguine is incorrect in this context. A 'reckless' approach doesn't make logical sense.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.876947",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "While the Finance Minister _______ confidence in the economy's resilience, analysts remain _______ about the long-term impact of global uncertainties.",
+      "options": {
+        "A": "expresses; pessimistic",
+        "B": "projects; taciturn",
+        "C": "obfuscates; optimistic",
+        "D": "evinces; sanguine",
+        "E": "portrays; apathetic"
+      },
+      "correct_answer": "D",
+      "explanation": "'Evinces; sanguine' is the most appropriate pair. 'Evinces' means to show clearly, and 'sanguine' means optimistic. This contrasts with the analysts' potential concerns, making it logically consistent. 'Taciturn' doesn't fit the context of expressing confidence.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877135",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Despite the RBI's efforts to _______ liquidity in the banking system, the _______ presence of non-performing assets continues to be a major concern.",
+      "options": {
+        "A": "amass; subtle",
+        "B": "inject; pervasive",
+        "C": "constrict; marginal",
+        "D": "deplete; nascent",
+        "E": "augment; fleeting"
+      },
+      "correct_answer": "B",
+      "explanation": "'Inject; pervasive' makes the most logical sense. Central banks often inject liquidity, and 'pervasive' implies a widespread problem of non-performing assets. A 'fleeting' presence doesn't align with a major concern.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877143",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The new regulatory framework aims to _______ operational risks in the banking sector and _______ the financial stability of the system.",
+      "options": {
+        "A": "mitigate; bolster",
+        "B": "exacerbate; undermine",
+        "C": "ignore; jeopardize",
+        "D": "amplify; stabilize",
+        "E": "highlight; enhance"
+      },
+      "correct_answer": "A",
+      "explanation": "'Mitigate; bolster' fits best. Regulations aim to 'mitigate' risks and 'bolster' stability. 'Exacerbate' and 'undermine' are contradictory to the purpose of regulation.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877146",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The recent surge in global oil prices has _______ concerns about inflation, _______ the RBI to consider further policy adjustments.",
+      "options": {
+        "A": "alleviated; forcing",
+        "B": "triggered; prompting",
+        "C": "dismissed; enabling",
+        "D": "subsided; dissuading",
+        "E": "ameliorated; compelling"
+      },
+      "correct_answer": "B",
+      "explanation": "'Triggered; prompting' is the most logical choice. Rising oil prices would 'trigger' inflation concerns, 'prompting' the RBI to act. 'Alleviated' and 'dismissed' have the opposite meaning.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877149",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "To _______ its market share, the bank plans to _______ its services and expand its branch network in rural areas.",
+      "options": {
+        "A": "reduce; limit",
+        "B": "maintain; curtail",
+        "C": "increase; diversify",
+        "D": "decrease; consolidate",
+        "E": "limit; integrate"
+      },
+      "correct_answer": "C",
+      "explanation": "'Increase; diversify' makes the most sense. To increase market share, a bank would likely diversify its services. Consolidate and Limit are contradictory to the goal.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877152",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The government is taking steps to _______ the growth of small and medium-sized enterprises (SMEs) by providing access to finance and technical assistance.",
+      "options": {
+        "A": "hinder",
+        "B": "discourage",
+        "C": "manage",
+        "D": "impede",
+        "E": "obstruct"
+      },
+      "correct_answer": "C",
+      "explanation": "'Manage' fits the context. The government aims to oversee and guide the growth of SMEs. The other options imply a negative impact.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877154",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The RBI's monetary policy committee decided to _______ the interest rates to _______ economic growth.",
+      "options": {
+        "A": "increase; slow",
+        "B": "reduce; support",
+        "C": "maintain; hinder",
+        "D": "elevate; restrict",
+        "E": "decline; limit"
+      },
+      "correct_answer": "B",
+      "explanation": "Reducing interest rates is a common measure to support economic growth. The other options provide contradictory relationships.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877156",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The effectiveness of the new policy will depend _______ its strict enforcement by all stakeholders.",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "with",
+        "E": "over"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct preposition is 'on'. The phrase 'depend on' indicates reliance or contingency.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877159",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Banks are required to _______ the guidelines issued by the RBI regarding KYC norms.",
+      "options": {
+        "A": "deviate from",
+        "B": "comply with",
+        "C": "disregard",
+        "D": "ignore",
+        "E": "object to"
+      },
+      "correct_answer": "B",
+      "explanation": "'Comply with' is the correct phrase, meaning to adhere to or follow the guidelines. The other options suggest non-compliance.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877161",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "_______ the recent economic downturn, the banking sector has shown remarkable resilience.",
+      "options": {
+        "A": "Because",
+        "B": "Due to",
+        "C": "Although",
+        "D": "Therefore",
+        "E": "Consequently"
+      },
+      "correct_answer": "C",
+      "explanation": "'Although' is the correct conjunction. It introduces a contrast between the downturn and the resilience of the banking sector.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877163",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The Reserve Bank of India (RBI) is expected to _______ its stance on interest rates in the coming months, given the _______ economic outlook.",
+      "options": {
+        "A": "tighten; volatile",
+        "B": "ease; stable",
+        "C": "maintain; promising",
+        "D": "moderate; consistent",
+        "E": "loosen; predictable"
+      },
+      "correct_answer": "A",
+      "explanation": "'Tighten; volatile' is logically sound. A volatile economic outlook might lead the RBI to tighten interest rates to control inflation. 'Ease' is generally done when the outlook is weak.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877165",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The government's fiscal policies are aimed at _______ public debt and _______ economic growth through infrastructure development.",
+      "options": {
+        "A": "escalating; hindering",
+        "B": "reducing; expediting",
+        "C": "increasing; impeding",
+        "D": "maintaining; suppressing",
+        "E": "ignoring; negating"
+      },
+      "correct_answer": "B",
+      "explanation": "'Reducing; expediting' is the best fit. Governments typically aim to reduce debt and expedite growth. The other options are contradictory to typical fiscal goals.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877167",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The bank decided to _______ its investment portfolio to _______ risk during the economic downturn.",
+      "options": {
+        "A": "expand; amplify",
+        "B": "shrink; mitigate",
+        "C": "diversify; exacerbate",
+        "D": "consolidate; ignore",
+        "E": "augment; disregard"
+      },
+      "correct_answer": "B",
+      "explanation": "'Shrink; mitigate' is the most logical choice. Banks may reduce their portfolios to lessen risk during downturns. Diversifying tends to increase risk.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877169",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The regulator imposed _______ penalties on the bank for failing to _______ to the anti-money laundering regulations.",
+      "options": {
+        "A": "lenient; adhere",
+        "B": "stringent; comply",
+        "C": "moderate; object",
+        "D": "negligible; conform",
+        "E": "lax; acquiesce"
+      },
+      "correct_answer": "B",
+      "explanation": "'Stringent; comply' is the best fit. Regulators impose strict penalties when banks fail to comply with regulations. 'Lax' is the opposite of what regulators usually do.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877171",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The committee sought to _______ the debate by focusing _______ on the core issues at hand.",
+      "options": {
+        "A": "prolong; sparsely",
+        "B": "obfuscate; diffusely",
+        "C": "circumvent; tangentially",
+        "D": "ameliorate; intently",
+        "E": "expedite; directly"
+      },
+      "correct_answer": "E",
+      "explanation": "'Expedite; directly' is the correct pair. To expedite means to speed up, and focusing directly would quicken the debate. 'Obfuscate' and 'circumvent' are contradictory to a productive meeting.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877173",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "_______ the bank's substantial losses, analysts are attempting to _______ the underlying causes of the financial distress.",
+      "options": {
+        "A": "Given; ascertain",
+        "B": "Despite; camouflage",
+        "C": "Notwithstanding; expunge",
+        "D": "Considering; fabricate",
+        "E": "Due to; propagate"
+      },
+      "correct_answer": "A",
+      "explanation": " 'Given; ascertain' is the best logical fit. 'Given' signifies a known fact (losses), and 'ascertain' means to discover the cause. The other options do not maintain the logic of finding a cause for a known negative event.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877175",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The RBI’s latest circular serves to _______ the existing norms, _______ greater transparency in the banking operations.",
+      "options": {
+        "A": "undermine; avoiding",
+        "B": "clarify; ensuring",
+        "C": "complicate; preventing",
+        "D": "weaken; diminishing",
+        "E": "blur; impeding"
+      },
+      "correct_answer": "B",
+      "explanation": "Clarifying existing norms would ensure greater transparency, making 'clarify; ensuring' the most logical choice. The other options indicate less transparency which is not the aim of the RBI.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877177",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The regulatory body decided to _______ the investigation after finding no evidence of wrongdoing.",
+      "options": {
+        "A": "continue",
+        "B": "halt",
+        "C": "extend",
+        "D": "postpone",
+        "E": "delay"
+      },
+      "correct_answer": "B",
+      "explanation": "If no wrongdoing is found, the investigation would be 'halted' or stopped. The other options imply the investigation is ongoing.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877180",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The bank is working to _______ its customer service by implementing new technologies and training programs.",
+      "options": {
+        "A": "degrade",
+        "B": "worsen",
+        "C": "improve",
+        "D": "impair",
+        "E": "reduce"
+      },
+      "correct_answer": "C",
+      "explanation": "Banks always aim to 'improve' customer service. The other options have negative connotations.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:16:39.877185",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The RBI's intervention in the forex market, while intended to _________ volatility, can sometimes inadvertently _________ moral hazard among market participants.",
+      "options": {
+        "A": "mitigate; exacerbate",
+        "B": "increase; reduce",
+        "C": "support; develop",
+        "D": "ameliorate; mitigate",
+        "E": "curtail; bolster"
+      },
+      "correct_answer": "A",
+      "explanation": "The sentence implies the RBI aims to reduce volatility. 'Mitigate' means to lessen or reduce, and 'exacerbate' means to make worse. While 'ameliorate' also means to improve, 'mitigate' is more directly related to volatility, and 'exacerbate' better reflects the unintended consequence of increasing moral hazard.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671665",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Despite the government's efforts to _________ financial inclusion, a significant portion of the population remains outside the formal banking system.",
+      "options": {
+        "A": "obfuscate",
+        "B": "expunge",
+        "C": "promote",
+        "D": "taciturn",
+        "E": "debunk"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence describes government efforts related to financial inclusion. 'Promote' fits best, indicating an effort to encourage or advance financial inclusion. 'Obfuscate' means to make unclear, 'expunge' means to erase, 'taciturn' means reserved, and 'debunk' means to disprove, none of which fit the context.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671729",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The central bank's decision to _________ interest rates is expected to _________ economic growth.",
+      "options": {
+        "A": "increase; stifle",
+        "B": "reduce; bolster",
+        "C": "maintain; curtail",
+        "D": "assess; evaluate",
+        "E": "support; impede"
+      },
+      "correct_answer": "B",
+      "explanation": "Reducing interest rates typically encourages borrowing and investment, which would 'bolster' (support or strengthen) economic growth. Increasing rates (A) would stifle growth, and maintaining rates (C) would not necessarily curtail growth.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671736",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The new banking regulations are designed to _________ risks associated with lending to the infrastructure sector.",
+      "options": {
+        "A": "increase",
+        "B": "manage",
+        "C": "develop",
+        "D": "support",
+        "E": "perpetuate"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence suggests a desire to control or handle risks. 'Manage' fits best, implying an effort to control or mitigate the risks. 'Increase' and 'perpetuate' would be contradictory to the regulation's purpose.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671742",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The committee's report suggested that the current regulatory framework is _________ and needs to be _________ to address emerging challenges.",
+      "options": {
+        "A": "stringent; relaxed",
+        "B": "adequate; maintained",
+        "C": "deficient; overhauled",
+        "D": "robust; sustained",
+        "E": "volatile; stabilized"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence indicates a need for improvement in the regulatory framework. 'Deficient' implies a lack or inadequacy, and 'overhauled' suggests a complete revision, which aligns with the need to address challenges.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671747",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The bank's profits were _________ by the unexpected surge in non-performing assets.",
+      "options": {
+        "A": "augmented",
+        "B": "undermined",
+        "C": "increased",
+        "D": "facilitated",
+        "E": "established"
+      },
+      "correct_answer": "B",
+      "explanation": "Non-performing assets (NPAs) negatively affect a bank's profitability. 'Undermined' means weakened or damaged, which aligns with the negative impact of NPAs on profits. Augmented and increased suggest a positive impact.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671753",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The auditor found the bank's internal controls to be _________, which _________ the risk of fraudulent activities.",
+      "options": {
+        "A": "robust; minimizes",
+        "B": "lax; increases",
+        "C": "efficient; reduces",
+        "D": "stringent; elevates",
+        "E": "diligent; eliminates"
+      },
+      "correct_answer": "B",
+      "explanation": "If internal controls are 'lax' (not strict or careful), they would increase the risk of fraudulent activities. 'Robust' and 'stringent' would have the opposite effect.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671758",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The government is taking measures to _________ the process of loan disbursement to small and medium enterprises (SMEs).",
+      "options": {
+        "A": "prolong",
+        "B": "expedite",
+        "C": "complicate",
+        "D": "impede",
+        "E": "delay"
+      },
+      "correct_answer": "B",
+      "explanation": "The context suggests the government wants to make the loan disbursement process faster. 'Expedite' means to speed up, which fits the context perfectly. The other options have opposite meanings.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671763",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The _________ nature of the cryptocurrency market makes it a _________ investment for risk-averse investors.",
+      "options": {
+        "A": "stable; secure",
+        "B": "volatile; precarious",
+        "C": "regulated; safe",
+        "D": "consistent; reliable",
+        "E": "predictable; sound"
+      },
+      "correct_answer": "B",
+      "explanation": "Cryptocurrencies are known for their price swings. 'Volatile' means subject to rapid and unpredictable changes, and 'precarious' means uncertain or risky. Therefore, volatile and precarious create a logical connection.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671769",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The committee sought to _________ the various regulatory frameworks to create a more _________ system.",
+      "options": {
+        "A": "disseminate; confusing",
+        "B": "consolidate; streamlined",
+        "C": "segregate; complex",
+        "D": "fragment; convoluted",
+        "E": "obfuscate; opaque"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence suggests simplifying the regulatory framework. 'Consolidate' means to combine into a single more effective entity, and 'streamlined' means made more efficient. The combination provides a logical flow.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671774",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The central bank's policy stance remained deliberately _________, avoiding any firm commitments to future interest rate movements, a strategy some critics deemed unnecessarily _________.",
+      "options": {
+        "A": "transparent; lucid",
+        "B": "equivocal; opaque",
+        "C": "definitive; dogmatic",
+        "D": "unambiguous; forthright",
+        "E": "forthcoming; candid"
+      },
+      "correct_answer": "B",
+      "explanation": "'Equivocal' means open to more than one interpretation; ambiguous, and 'opaque' means not easily understood or transparent. The sentence describes a deliberate lack of clarity, making 'equivocal' and 'opaque' the most suitable pair.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671780",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The regulator's decision to impose stringent capital controls was met with _________ from the financial sector, which argued that such measures would _________ economic growth.",
+      "options": {
+        "A": "acquiescence; foster",
+        "B": "resignation; induce",
+        "C": "approbation; stimulate",
+        "D": "dissent; impede",
+        "E": "compliance; catalyze"
+      },
+      "correct_answer": "D",
+      "explanation": "The financial sector is arguing that the controls would negatively affect economic growth. 'Dissent' means disagreement or opposition, and 'impede' means to delay or prevent. Thus, disagreement and a negative economic impact aligns with the context.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671785",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "While the long-term benefits of infrastructure investment are widely recognized, the _________ political environment often makes it difficult to _________ the necessary funds.",
+      "options": {
+        "A": "cooperative; reject",
+        "B": "sanguine; disburse",
+        "C": "harmonious; withhold",
+        "D": "fractious; mobilize",
+        "E": "placid; gather"
+      },
+      "correct_answer": "D",
+      "explanation": "A 'fractious' (difficult or unruly) political environment would make it hard to 'mobilize' (gather or organize) the necessary funds. 'Sanguine' (optimistic) and 'placid' (calm) don't fit the negative connotation needed for the first blank.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671790",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The effectiveness of monetary policy is often _________ by the _________ velocity of money during periods of economic uncertainty.",
+      "options": {
+        "A": "enhanced; accelerated",
+        "B": "predicated; stagnant",
+        "C": "obviated; erratic",
+        "D": "compromised; sluggish",
+        "E": "amplified; elevated"
+      },
+      "correct_answer": "D",
+      "explanation": "Economic uncertainty often leads to reduced spending and investment. 'Compromised' means weakened or impaired, and 'sluggish' means slow or inactive. A slow velocity of money would weaken the effectiveness of monetary policy.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671795",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The proposed regulatory changes aim to _________ the banking sector's resilience by _________ stricter capital adequacy norms.",
+      "options": {
+        "A": "diminish; waiving",
+        "B": "fortify; mandating",
+        "C": "attenuate; relaxing",
+        "D": "undermine; enforcing",
+        "E": "jeopardize; ignoring"
+      },
+      "correct_answer": "B",
+      "explanation": "The goal is to strengthen the banking sector's resilience. 'Fortify' means to strengthen, and 'mandating' means to require or order. Stricter capital adequacy norms would strengthen the sector.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671800",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The bank's decision to _________ with the new regulatory guidelines demonstrates its commitment to ethical banking practices.",
+      "options": {
+        "A": "deviate",
+        "B": "comply",
+        "C": "disregard",
+        "D": "infringe",
+        "E": "neglect"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence suggests a positive action related to ethical banking. 'Comply' (to adhere to) fits best. Deviating, disregarding, infringing, and neglecting would indicate a lack of commitment.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671805",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "_________ the initial skepticism, the new financial instrument proved to be highly successful, _________ significant returns for investors.",
+      "options": {
+        "A": "because of; incurring",
+        "B": "despite; generating",
+        "C": "due to; preventing",
+        "D": "owing to; avoiding",
+        "E": "as a result of; yielding"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence presents a contrast between initial skepticism and eventual success. 'Despite' indicates this contrast, and 'generating' signifies the positive outcome of significant returns. 'Because of','due to','owing to', and 'as a result of' do not provide this needed contrast.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671810",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The recent economic downturn has _________ concerns about the stability of the banking sector, prompting calls for _________ regulatory oversight.",
+      "options": {
+        "A": "allayed; reduced",
+        "B": "exacerbated; enhanced",
+        "C": "mitigated; lax",
+        "D": "diminished; cursory",
+        "E": "assuaged; perfunctory"
+      },
+      "correct_answer": "B",
+      "explanation": "An economic downturn would likely increase concerns about the banking sector. 'Exacerbated' means made worse, and 'enhanced' suggests a strengthening of regulatory oversight to address the increased concerns.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671815",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The central bank's intervention was _________ to prevent a sharp depreciation of the currency, _________ its foreign exchange reserves.",
+      "options": {
+        "A": "aimed; depleting",
+        "B": "intended; augmenting",
+        "C": "designed; conserving",
+        "D": "meant; leveraging",
+        "E": "undertaken; exhausting"
+      },
+      "correct_answer": "A",
+      "explanation": "Preventing a currency depreciation often involves selling foreign exchange reserves. Thus 'aimed' and 'depleting' create a logical flow. Intervention is intended to prevent something, so 'aimed' fits. Using reserves would deplete them.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671820",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The bank was found to be in _________ of several RBI directives, _________ significant penalties.",
+      "options": {
+        "A": "compliance; waiving",
+        "B": "contravention; incurring",
+        "C": "accordance; avoiding",
+        "D": "alignment; imposing",
+        "E": "agreement; levying"
+      },
+      "correct_answer": "B",
+      "explanation": "Being in violation of directives would result in penalties. 'Contravention' means violation, and 'incurring' means to become subject to. Thus, violation and incurring penalties makes a logical flow.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:09.671825",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The RBI's recent circular attempts to ______ the impact of rising NPAs by encouraging banks to proactively restructure loans, but some analysts fear this may merely ______ the underlying problem.",
+      "options": {
+        "A": "exacerbate; mitigate",
+        "B": "mitigate; obfuscate",
+        "C": "ameliorate; exacerbate",
+        "D": "increase; maintain",
+        "E": "develop; curtail"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence implies the RBI wants to lessen (mitigate) the impact, while critics believe it will hide (obfuscate) the real issue. 'Obfuscate' fits because hiding a problem is worse than simply making it clearer or 'exacerbating' it.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070174",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Despite the government's efforts to ______ financial inclusion, a ______ segment of the population remains outside the formal banking system, particularly in rural areas.",
+      "options": {
+        "A": "reduce; small",
+        "B": "bolster; volatile",
+        "C": "expedite; pervasive",
+        "D": "develop; taciturn",
+        "E": "improve; sanguine"
+      },
+      "correct_answer": "C",
+      "explanation": "The government aims to speed up (expedite) financial inclusion. The word 'pervasive' indicates that a large part of the population is still excluded. The sentence contrasts government efforts with the reality on the ground.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070277",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The committee suggested that the bank should ______ to the new regulatory framework, ______ the challenges it might present in the short term.",
+      "options": {
+        "A": "comply with; despite",
+        "B": "adhere to; although",
+        "C": "pursuant to; whereas",
+        "D": "maintain; because",
+        "E": "increase; including"
+      },
+      "correct_answer": "A",
+      "explanation": "The phrase 'comply with' is the most appropriate prepositional verb to describe following regulations. 'Despite' correctly indicates that they should comply even with challenges.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070282",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The success of the Payments Bank model hinges on its ability to navigate the ______ regulatory landscape and demonstrate a ______ approach to risk management.",
+      "options": {
+        "A": "stringent; pragmatic",
+        "B": "consolidate; taciturn",
+        "C": "volatile; sanguine",
+        "D": "reduce; small",
+        "E": "manage; better"
+      },
+      "correct_answer": "A",
+      "explanation": "A 'stringent' regulatory landscape suggests strict regulations. A 'pragmatic' approach indicates a sensible and realistic way of managing risk. This aligns with the conservative nature of banking.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070285",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The Reserve Bank of India is expected to ______ its monetary policy stance in the upcoming meeting, ______ the recent surge in inflation.",
+      "options": {
+        "A": "consolidate; given",
+        "B": "mitigate; because of",
+        "C": "maintain; despite",
+        "D": "bolster; as a result",
+        "E": "curtail; including"
+      },
+      "correct_answer": "C",
+      "explanation": "Given the inflation surge, it is plausible the RBI will either tighten or maintain its stance. 'Maintain; despite' suggests that the RBI will keep the status quo despite inflationary pressures.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070288",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The government is implementing measures to ______ the banking sector and ______ public confidence after the recent financial crisis.",
+      "options": {
+        "A": "consolidate; bolster",
+        "B": "reduce; curtail",
+        "C": "increase; mitigate",
+        "D": "develop; manage",
+        "E": "improve; decrease"
+      },
+      "correct_answer": "A",
+      "explanation": "'Consolidate' means to strengthen, which aligns with improving the banking sector after a crisis. 'Bolster' means to strengthen or support, which fits the objective of boosting public confidence.",
+      "difficulty": "Medium",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070291",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The committee warned that failure to address climate risk could ______ systemic instability in the financial sector, demanding immediate and ______ action.",
+      "options": {
+        "A": "ameliorate; taciturn",
+        "B": "exacerbate; decisive",
+        "C": "mitigate; reluctant",
+        "D": "reduce; delayed",
+        "E": "manage; continuing"
+      },
+      "correct_answer": "B",
+      "explanation": "Climate risk worsening financial instability is a problem that would 'exacerbate' the situation. 'Decisive' action is needed to counter this risk.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070294",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The RBI aims to ______ the use of digital payment methods in order to ______ financial inclusion across the country.",
+      "options": {
+        "A": "increase; improve",
+        "B": "reduce; curtail",
+        "C": "maintain; manage",
+        "D": "develop; decrease",
+        "E": "support; bolster"
+      },
+      "correct_answer": "A",
+      "explanation": "The RBI promotes financial inclusion. Thus, RBI aims to 'increase' the use of digital payment methods to 'improve' financial inclusion.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070297",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The government is taking steps to ______ the ease of doing business, which is expected to ______ foreign investment.",
+      "options": {
+        "A": "improve; increase",
+        "B": "reduce; curtail",
+        "C": "maintain; manage",
+        "D": "develop; decrease",
+        "E": "support; bolster"
+      },
+      "correct_answer": "A",
+      "explanation": "The action here is improving ease, which will lead to increased investment. It is direct and basic.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070301",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The recent market ______ has created a climate of uncertainty, ______ investors to adopt a cautious approach.",
+      "options": {
+        "A": "volatility; prompting",
+        "B": "increase; supporting",
+        "C": "reduction; enabling",
+        "D": "stability; precluding",
+        "E": "development; allowing"
+      },
+      "correct_answer": "A",
+      "explanation": "Market volatility refers to instability, causing uncertainty that 'prompts' investors to become cautious. The link is clear and related to finance.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:27.070305",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The central bank's policy to obfuscate its intentions regarding interest rate hikes has left the market in a state of uncertainty.",
+      "options": {
+        "A": "Clarify",
+        "B": "Confuse",
+        "C": "Disclose",
+        "D": "Highlight",
+        "E": "Simplify"
+      },
+      "correct_answer": "A",
+      "explanation": "Obfuscate means to make obscure, unclear, or unintelligible. The opposite of obfuscate is to clarify, meaning to make clear or easy to understand. Therefore, option A is the correct answer.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245739",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Ameliorate",
+      "options": {
+        "A": "Worsen",
+        "B": "Improve",
+        "C": "Maintain",
+        "D": "Neglect",
+        "E": "Ignore"
+      },
+      "correct_answer": "B",
+      "explanation": "Ameliorate means to make something better; to improve. Option B, 'Improve,' is the synonym of ameliorate.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245822",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Lucrative",
+      "options": {
+        "A": "Unprofitable",
+        "B": "Productive",
+        "C": "Advantageous",
+        "D": "Beneficial",
+        "E": "Rewarding"
+      },
+      "correct_answer": "A",
+      "explanation": "Lucrative means producing a great deal of profit. The antonym of lucrative is unprofitable.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245826",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Despite the economic downturn, the CEO remained sanguine about the company's prospects, believing that their innovative strategies would eventually lead to success.",
+      "options": {
+        "A": "Pessimistic",
+        "B": "Optimistic",
+        "C": "Neutral",
+        "D": "Anxious",
+        "E": "Realistic"
+      },
+      "correct_answer": "A",
+      "explanation": "Sanguine means optimistic or positive, especially in an apparently bad or difficult situation. The antonym of sanguine is pessimistic, which means tending to see the worst aspect of things or believing that the worst will happen.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245829",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Capitulate",
+      "options": {
+        "A": "Resist",
+        "B": "Surrender",
+        "C": "Negotiate",
+        "D": "Compromise",
+        "E": "Confront"
+      },
+      "correct_answer": "B",
+      "explanation": "Capitulate means to surrender or give in to an opponent or unwelcome demand. 'Surrender' is the synonym.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245831",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Prudent",
+      "options": {
+        "A": "Reckless",
+        "B": "Cautious",
+        "C": "Careful",
+        "D": "Sensible",
+        "E": "Astute"
+      },
+      "correct_answer": "A",
+      "explanation": "Prudent means acting with or showing care and thought for the future. The opposite of prudent is reckless, meaning without thinking or caring about the consequences of an action.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245834",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "His taciturn nature made it difficult to gauge his true feelings about the proposed merger.",
+      "options": {
+        "A": "Reserved",
+        "B": "Talkative",
+        "C": "Introverted",
+        "D": "Shy",
+        "E": "Quiet"
+      },
+      "correct_answer": "B",
+      "explanation": "Taciturn means reserved or uncommunicative in speech; saying little. The opposite of taciturn is talkative, meaning tending to talk a great deal.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245836",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Pragmatic",
+      "options": {
+        "A": "Idealistic",
+        "B": "Realistic",
+        "C": "Theoretical",
+        "D": "Visionary",
+        "E": "Impractical"
+      },
+      "correct_answer": "B",
+      "explanation": "Pragmatic means dealing with things sensibly and realistically in a way that is based on practical considerations. Realistic is the synonym for pragmatic.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245839",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Transparent",
+      "options": {
+        "A": "Opaque",
+        "B": "Clear",
+        "C": "Visible",
+        "D": "Obvious",
+        "E": "Lucid"
+      },
+      "correct_answer": "A",
+      "explanation": "Transparent means allowing light to pass through so that objects behind can be distinctly seen. The opposite of transparent is opaque.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245857",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The pervasive influence of quantitative easing on asset prices has created distortions in the market.",
+      "options": {
+        "A": "Limited",
+        "B": "Sporadic",
+        "C": "Ubiquitous",
+        "D": "Localized",
+        "E": "Restricted"
+      },
+      "correct_answer": "A",
+      "explanation": "Pervasive means spreading widely throughout an area or group of people. The antonym of pervasive is limited.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245859",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Ephemeral",
+      "options": {
+        "A": "Lasting",
+        "B": "Transient",
+        "C": "Enduring",
+        "D": "Permanent",
+        "E": "Eternal"
+      },
+      "correct_answer": "B",
+      "explanation": "Ephemeral means lasting for a very short time. 'Transient' is the synonym for Ephemeral.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245862",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The bank's decision to lend to the quixotic startup was met with skepticism by industry analysts.",
+      "options": {
+        "A": "Impractical",
+        "B": "Realistic",
+        "C": "Idealistic",
+        "D": "Practical",
+        "E": "Visionary"
+      },
+      "correct_answer": "D",
+      "explanation": "Quixotic means exceedingly idealistic; unrealistic and impractical. The opposite is practical.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245864",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Efficient",
+      "options": {
+        "A": "Wasteful",
+        "B": "Productive",
+        "C": "Capable",
+        "D": "Effective",
+        "E": "Organized"
+      },
+      "correct_answer": "A",
+      "explanation": "Efficient means achieving maximum productivity with minimum wasted effort or expense. The antonym of efficient is wasteful.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245866",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Tangible",
+      "options": {
+        "A": "Intangible",
+        "B": "Concrete",
+        "C": "Palpable",
+        "D": "Real",
+        "E": "Material"
+      },
+      "correct_answer": "B",
+      "explanation": "Tangible means perceptible by touch. Concrete is a synonym of tangible.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245869",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The economist juxtaposed the current economic policies with those of the previous administration to highlight the differences.",
+      "options": {
+        "A": "Connected",
+        "B": "Compared",
+        "C": "Separated",
+        "D": "Contrasted",
+        "E": "Related"
+      },
+      "correct_answer": "C",
+      "explanation": "Juxtapose means place or deal with close together for contrasting effect. The antonym of juxtapose is separated.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245871",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Stringent",
+      "options": {
+        "A": "Lenient",
+        "B": "Strict",
+        "C": "Severe",
+        "D": "Rigorous",
+        "E": "Demanding"
+      },
+      "correct_answer": "A",
+      "explanation": "Stringent means strict, precise, and exacting. The opposite of Stringent is Lenient.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245873",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The influx of foreign capital threatened to inundate the domestic market, creating an uneven playing field for local businesses.",
+      "options": {
+        "A": "Drain",
+        "B": "Overwhelm",
+        "C": "Saturate",
+        "D": "Flood",
+        "E": "Submerge"
+      },
+      "correct_answer": "A",
+      "explanation": "Inundate means overwhelm (someone) with things or people to be dealt with. The antonym is drain.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245875",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Substantial",
+      "options": {
+        "A": "Insignificant",
+        "B": "Considerable",
+        "C": "Significant",
+        "D": "Sizable",
+        "E": "Ample"
+      },
+      "correct_answer": "A",
+      "explanation": "Substantial means of considerable importance, size, or worth. Insignificant is the antonym.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245878",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Mitigate",
+      "options": {
+        "A": "Intensify",
+        "B": "Alleviate",
+        "C": "Aggravate",
+        "D": "Lessen",
+        "E": "Reduce"
+      },
+      "correct_answer": "B",
+      "explanation": "Mitigate means to make less severe, serious, or painful. Alleviate is a synonym.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245880",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "To propitiate the regulatory authorities, the bank agreed to implement stricter compliance measures.",
+      "options": {
+        "A": "Antagonize",
+        "B": "Appease",
+        "C": "Placate",
+        "D": "Pacify",
+        "E": "Mollify"
+      },
+      "correct_answer": "A",
+      "explanation": "Propitiate means to win or regain the favor of (a god, spirit, or person) by doing something that pleases them. Antagonize is the opposite.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:17:50.245882",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The central bank's actions often serve to **obfuscate** the true state of the economy, making it difficult for investors to make informed decisions.",
+      "options": {
+        "A": "Clarify",
+        "B": "Illuminate",
+        "C": "Confuse",
+        "D": "Simplify",
+        "E": "Explicate"
+      },
+      "correct_answer": "A",
+      "explanation": "Obfuscate means to make obscure, unclear, or unintelligible. The antonym is clarify, meaning to make clear or easy to understand. While 'simplify' could be considered related, it doesn't directly negate the act of obscuring.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509225",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The analyst remained **sanguine** about the market's prospects despite the recent downturn, believing that a recovery was imminent.",
+      "options": {
+        "A": "Optimistic",
+        "B": "Pessimistic",
+        "C": "Realistic",
+        "D": "Apathetic",
+        "E": "Skeptical"
+      },
+      "correct_answer": "B",
+      "explanation": "Sanguine means optimistic or positive, especially in an apparently bad or difficult situation. The antonym is pessimistic, meaning tending to see the worst aspect of things or believe that the worst will happen. While 'skeptical' shares some negativity, it doesn't represent the direct opposite of 'sanguine's' inherent optimism.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509253",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Despite numerous attempts to elicit information, the CFO remained **taciturn** during the investigation into the accounting irregularities.",
+      "options": {
+        "A": "Loquacious",
+        "B": "Reserved",
+        "C": "Garrulous",
+        "D": "Communicative",
+        "E": "Reticent"
+      },
+      "correct_answer": "A",
+      "explanation": "Taciturn means reserved or uncommunicative in speech; saying little. The antonym is loquacious, meaning tending to talk a great deal; talkative. While garrulous is similar to loquacious, communicative directly implies an active sharing of information, making it a better antonym in this context.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509258",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The **pervasive** influence of FinTech companies is rapidly transforming the traditional banking sector.",
+      "options": {
+        "A": "Limited",
+        "B": "Ubiquitous",
+        "C": "Extensive",
+        "D": "Restricted",
+        "E": "Comprehensive"
+      },
+      "correct_answer": "A",
+      "explanation": "Pervasive means spreading widely throughout an area or a group of people. The antonym is limited, indicating a restricted scope or extent. 'Restricted' is a close synonym, making 'limited' the more direct opposite in meaning.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509263",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The regulator's plan to completely overhaul the financial system was seen as **quixotic** by many industry experts.",
+      "options": {
+        "A": "Impractical",
+        "B": "Realistic",
+        "C": "Idealistic",
+        "D": "Visionary",
+        "E": "Utopian"
+      },
+      "correct_answer": "B",
+      "explanation": "Quixotic means exceedingly idealistic; unrealistic and impractical. The antonym is realistic, meaning having or showing a sensible and practical idea of what can be achieved or expected. While visionary and utopian share some elements of idealism, realistic directly contrasts the impracticality inherent in 'quixotic'.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509267",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Ameliorate",
+      "options": {
+        "A": "Worsen",
+        "B": "Improve",
+        "C": "Maintain",
+        "D": "Exacerbate",
+        "E": "Sustain"
+      },
+      "correct_answer": "A",
+      "explanation": "Ameliorate means to make something bad or unsatisfactory better. The antonym is worsen.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509276",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Capitulate",
+      "options": {
+        "A": "Surrender",
+        "B": "Resist",
+        "C": "Yield",
+        "D": "Concede",
+        "E": "Comply"
+      },
+      "correct_answer": "B",
+      "explanation": "Capitulate means to cease to resist an opponent or an unwelcome demand; surrender. The antonym is resist.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509280",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Pragmatic",
+      "options": {
+        "A": "Idealistic",
+        "B": "Realistic",
+        "C": "Practical",
+        "D": "Efficient",
+        "E": "Sensible"
+      },
+      "correct_answer": "A",
+      "explanation": "Pragmatic means dealing with things sensibly and realistically in a way that is based on practical considerations. The antonym is idealistic.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509284",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Ephemeral",
+      "options": {
+        "A": "Transient",
+        "B": "Permanent",
+        "C": "Fleeting",
+        "D": "Temporary",
+        "E": "Momentary"
+      },
+      "correct_answer": "B",
+      "explanation": "Ephemeral means lasting for a very short time. The antonym is permanent.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509288",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Tangible",
+      "options": {
+        "A": "Concrete",
+        "B": "Palpable",
+        "C": "Illusory",
+        "D": "Real",
+        "E": "Perceptible"
+      },
+      "correct_answer": "C",
+      "explanation": "Tangible means perceptible by touch. The antonym is illusory.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509312",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Stringent",
+      "options": {
+        "A": "Rigorous",
+        "B": "Lenient",
+        "C": "Strict",
+        "D": "Severe",
+        "E": "Demanding"
+      },
+      "correct_answer": "B",
+      "explanation": "Stringent means strict, precise, and exacting. The antonym is lenient.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509316",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Mitigate",
+      "options": {
+        "A": "Alleviate",
+        "B": "Intensify",
+        "C": "Lessen",
+        "D": "Reduce",
+        "E": "Diminish"
+      },
+      "correct_answer": "B",
+      "explanation": "Mitigate means to make less severe, serious, or painful. The antonym is intensify.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509320",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Consolidate",
+      "options": {
+        "A": "Strengthen",
+        "B": "Unite",
+        "C": "Separate",
+        "D": "Reinforce",
+        "E": "Solidify"
+      },
+      "correct_answer": "C",
+      "explanation": "Consolidate means to make (something) physically stronger or more solid. The antonym is separate.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509324",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Juxtapose",
+      "options": {
+        "A": "Connect",
+        "B": "Differentiate",
+        "C": "Compare",
+        "D": "Integrate",
+        "E": "Contrast"
+      },
+      "correct_answer": "A",
+      "explanation": "Juxtapose means to place or deal with close together for contrasting effect. The antonym is connect.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509329",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The sudden influx of foreign capital **inundated** the domestic market, creating both opportunities and challenges for local businesses.",
+      "options": {
+        "A": "Drained",
+        "B": "Flooded",
+        "C": "Surged",
+        "D": "Submerged",
+        "E": "Deluged"
+      },
+      "correct_answer": "A",
+      "explanation": "Inundated means overwhelm (someone) with things or people to be dealt with. The antonym is drained, meaning emptied of liquid; depleted.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509333",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Given the volatile nature of the stock market, investors are advised to diversify their portfolios.",
+      "options": {
+        "A": "Stable",
+        "B": "Unpredictable",
+        "C": "Changeable",
+        "D": "Erratic",
+        "E": "Fickle"
+      },
+      "correct_answer": "A",
+      "explanation": "Volatile means liable to change rapidly and unpredictably, especially for the worse. The antonym is stable.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509337",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The real estate market in that area is considered very lucrative.",
+      "options": {
+        "A": "Unprofitable",
+        "B": "Profitable",
+        "C": "Rewarding",
+        "D": "Advantageous",
+        "E": "Beneficial"
+      },
+      "correct_answer": "A",
+      "explanation": "Lucrative means producing a great deal of profit. The antonym is unprofitable.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509341",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The bank's decision to increase its capital reserves was a prudent one.",
+      "options": {
+        "A": "Sensible",
+        "B": "Careless",
+        "C": "Cautious",
+        "D": "Wise",
+        "E": "Judicious"
+      },
+      "correct_answer": "B",
+      "explanation": "Prudent means acting with or showing care and thought for the future. The antonym is careless.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509345",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The central bank's attempts to **propitiate** the markets with dovish statements proved ineffective.",
+      "options": {
+        "A": "Appease",
+        "B": "Aggravate",
+        "C": "Pacify",
+        "D": "Conciliate",
+        "E": "Mollify"
+      },
+      "correct_answer": "B",
+      "explanation": "Propitiate means to win or regain the favor of (a god, spirit, or person) by doing something that pleases them. The antonym is aggravate, to make (a problem, injury, or offense) worse or more serious.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509349",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "In the context of financial regulations, 'transparency' refers to:",
+      "options": {
+        "A": "The complexity of the rules",
+        "B": "The clarity and accessibility of information",
+        "C": "The hidden fees and charges",
+        "D": "The lack of oversight",
+        "E": "The difficulty in understanding the laws"
+      },
+      "correct_answer": "B",
+      "explanation": "Transparency, in a financial context, refers to the clarity and accessibility of information, allowing stakeholders to understand the details and operations involved.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:14.509353",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The regulator sought to **obfuscate** the true extent of the bank's non-performing assets, presenting a misleading picture to investors.",
+      "options": {
+        "A": "Clarify",
+        "B": "Conceal",
+        "C": "Exaggerate",
+        "D": "Understate",
+        "E": "Publicize"
+      },
+      "correct_answer": "B",
+      "explanation": "Obfuscate means to make unclear, obscure, or unintelligible. 'Conceal' is the closest synonym in the context of hiding the true extent of non-performing assets. Clarify, exaggerate, understate, and publicize have opposite or unrelated meanings.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478697",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Stringent",
+      "options": {
+        "A": "Lenient",
+        "B": "Permissive",
+        "C": "Rigorous",
+        "D": "Flexible",
+        "E": "Tolerant"
+      },
+      "correct_answer": "C",
+      "explanation": "Stringent means strict, precise, and exacting. 'Rigorous' is the closest synonym. The other options (lenient, permissive, flexible, tolerant) are antonyms.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478789",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Lucrative",
+      "options": {
+        "A": "Unprofitable",
+        "B": "Beneficial",
+        "C": "Productive",
+        "D": "Advantageous",
+        "E": "Detrimental"
+      },
+      "correct_answer": "B",
+      "explanation": "Lucrative means producing a great deal of profit. 'Beneficial' is the closest synonym reflecting the positive impact. 'Unprofitable', 'detrimental' are antonyms, and 'productive' and 'advantageous' are related but less direct synonyms.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478793",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The central banker remained **taciturn** during the press conference, offering minimal commentary on the inflation outlook.",
+      "options": {
+        "A": "Garrulous",
+        "B": "Loquacious",
+        "C": "Reserved",
+        "D": "Voluble",
+        "E": "Communicative"
+      },
+      "correct_answer": "C",
+      "explanation": "Taciturn means reserved or uncommunicative in speech. 'Reserved' is the closest synonym. Garrulous, loquacious, voluble, and communicative are antonyms.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478795",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Ameliorate",
+      "options": {
+        "A": "Worsen",
+        "B": "Improve",
+        "C": "Aggravate",
+        "D": "Intensify",
+        "E": "Exacerbate"
+      },
+      "correct_answer": "B",
+      "explanation": "Ameliorate means to make something bad or unsatisfactory better. 'Improve' is the closest synonym. The other options (worsen, aggravate, intensify, exacerbate) are antonyms.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478797",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Transparent",
+      "options": {
+        "A": "Opaque",
+        "B": "Clear",
+        "C": "Ambiguous",
+        "D": "Vague",
+        "E": "Cryptic"
+      },
+      "correct_answer": "B",
+      "explanation": "Transparent means easily perceived or understood; clear. 'Clear' is the closest synonym. The other options (opaque, ambiguous, vague, cryptic) suggest a lack of clarity.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478800",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The **pervasive** influence of quantitative easing has distorted asset prices across global markets.",
+      "options": {
+        "A": "Limited",
+        "B": "Widespread",
+        "C": "Localized",
+        "D": "Restricted",
+        "E": "Confined"
+      },
+      "correct_answer": "B",
+      "explanation": "Pervasive means spreading widely throughout an area or group of people. 'Widespread' is the closest synonym. The other options (limited, localized, restricted, confined) imply a restricted scope.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478802",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Capitulate",
+      "options": {
+        "A": "Resist",
+        "B": "Surrender",
+        "C": "Defend",
+        "D": "Oppose",
+        "E": "Withstand"
+      },
+      "correct_answer": "B",
+      "explanation": "Capitulate means to surrender or give up resistance. 'Surrender' is the closest synonym. The other options (resist, defend, oppose, withstand) are antonyms.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478804",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The governor's **sanguine** outlook on economic growth was not shared by many economists, who pointed to underlying weaknesses.",
+      "options": {
+        "A": "Pessimistic",
+        "B": "Optimistic",
+        "C": "Realistic",
+        "D": "Skeptical",
+        "E": "Apathetic"
+      },
+      "correct_answer": "B",
+      "explanation": "Sanguine means optimistic or positive, especially in an apparently bad or difficult situation. 'Optimistic' is the closest synonym. Pessimistic, skeptical are antonyms, while realistic and apathetic are unrelated.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478810",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Prudent",
+      "options": {
+        "A": "Careless",
+        "B": "Reckless",
+        "C": "Cautious",
+        "D": "Imprudent",
+        "E": "Indiscreet"
+      },
+      "correct_answer": "C",
+      "explanation": "Prudent means acting with or showing care and thought for the future. 'Cautious' is the closest synonym. The other options are antonyms, indicating a lack of caution.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478812",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Mitigate",
+      "options": {
+        "A": "Intensify",
+        "B": "Alleviate",
+        "C": "Aggravate",
+        "D": "Exacerbate",
+        "E": "Magnify"
+      },
+      "correct_answer": "B",
+      "explanation": "Mitigate means to make less severe, serious, or painful. 'Alleviate' is the closest synonym. The other options (intensify, aggravate, exacerbate, magnify) are antonyms, meaning to make worse.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478814",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Efficient",
+      "options": {
+        "A": "Wasteful",
+        "B": "Effective",
+        "C": "Ineffective",
+        "D": "Unproductive",
+        "E": "Careless"
+      },
+      "correct_answer": "B",
+      "explanation": "Efficient means achieving maximum productivity with minimum wasted effort or expense. 'Effective' is the closest synonym. The other options are antonyms, suggesting a lack of productivity or wasted resources.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478817",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The central bank sought to **propitiate** the markets by signaling a more dovish stance on interest rate hikes.",
+      "options": {
+        "A": "Antagonize",
+        "B": "Appease",
+        "C": "Provoke",
+        "D": "Irritate",
+        "E": "Alienate"
+      },
+      "correct_answer": "B",
+      "explanation": "Propitiate means to win or regain the favor of (a god, spirit, or person) by doing something that pleases them. 'Appease' is the closest synonym. Antagonize, provoke, irritate, and alienate are antonyms.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478819",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The **quixotic** venture of launching a new bank in the current regulatory environment was met with skepticism.",
+      "options": {
+        "A": "Practical",
+        "B": "Realistic",
+        "C": "Idealistic",
+        "D": "Pragmatic",
+        "E": "Down-to-earth"
+      },
+      "correct_answer": "C",
+      "explanation": "Quixotic means exceedingly idealistic; unrealistic and impractical. 'Idealistic' is the closest synonym. Practical, realistic, pragmatic, and down-to-earth are antonyms, suggesting a focus on reality.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478821",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Consolidate",
+      "options": {
+        "A": "Weaken",
+        "B": "Strengthen",
+        "C": "Fragment",
+        "D": "Disperse",
+        "E": "Divide"
+      },
+      "correct_answer": "B",
+      "explanation": "Consolidate means to make (something) physically stronger or more solid. 'Strengthen' is the closest synonym. The other options (weaken, fragment, disperse, divide) are antonyms, meaning to break apart.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478823",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Substantial",
+      "options": {
+        "A": "Insignificant",
+        "B": "Considerable",
+        "C": "Minimal",
+        "D": "Negligible",
+        "E": "Trivial"
+      },
+      "correct_answer": "B",
+      "explanation": "Substantial means of considerable importance, size, or worth. 'Considerable' is the closest synonym. The other options (insignificant, minimal, negligible, trivial) are antonyms, suggesting a lack of importance or size.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478825",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "The regulator had to **juxtapose** the benefits of financial innovation with the potential risks to systemic stability.",
+      "options": {
+        "A": "Separate",
+        "B": "Combine",
+        "C": "Compare",
+        "D": "Isolate",
+        "E": "Differentiate"
+      },
+      "correct_answer": "C",
+      "explanation": "Juxtapose means to place or deal with close together for contrasting effect. 'Compare' is the closest synonym, implying a side-by-side evaluation. Separate, isolate are antonyms, and combine/differentiate are related but less precise.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478827",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Pragmatic",
+      "options": {
+        "A": "Idealistic",
+        "B": "Impractical",
+        "C": "Realistic",
+        "D": "Visionary",
+        "E": "Theoretic"
+      },
+      "correct_answer": "C",
+      "explanation": "Pragmatic means dealing with things sensibly and realistically in a way that is based on practical considerations. 'Realistic' is the closest synonym. The other options (idealistic, impractical, visionary, theoretic) suggest a focus on abstract ideas rather than practical realities.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478829",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Ephemeral",
+      "options": {
+        "A": "Lasting",
+        "B": "Transient",
+        "C": "Enduring",
+        "D": "Permanent",
+        "E": "Eternal"
+      },
+      "correct_answer": "B",
+      "explanation": "Ephemeral means lasting for a very short time. 'Transient' is the closest synonym. The other options (lasting, enduring, permanent, eternal) are antonyms, suggesting a long duration.",
+      "difficulty": "Medium",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478831",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    },
+    {
+      "question": "Adequate",
+      "options": {
+        "A": "Insufficient",
+        "B": "Satisfactory",
+        "C": "Deficient",
+        "D": "Meager",
+        "E": "Lacking"
+      },
+      "correct_answer": "B",
+      "explanation": "Adequate means satisfactory or acceptable in quality or quantity. 'Satisfactory' is the closest synonym. The other options (insufficient, deficient, meager, lacking) are antonyms, suggesting a lack of quality or quantity.",
+      "difficulty": "Easy",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-10T02:18:39.478833",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp"
+    }
+  ]
+}

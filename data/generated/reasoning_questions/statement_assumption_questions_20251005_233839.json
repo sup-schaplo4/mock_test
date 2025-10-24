@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "statement_assumption_001",
+    "question": "Statement: The government has announced a new program to provide free meals to all school children.\n\nAssumptions:\nI. The government believes that providing meals will improve school attendance.\nII. The government has the necessary resources to implement the program.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Brief context of the statement: The statement suggests an initiative aimed at benefiting school children. (2) Evaluation of Assumption I: It is implicit as the program targets school children, likely to encourage attendance. (3) Evaluation of Assumption II: Resources are necessary for implementation, so the assumption must be true for the plan to be feasible. (4) Final conclusion: Both assumptions are implicit as they underpin the rationale and feasibility of the program.",
+    "difficulty": "Easy",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_002",
+    "question": "Statement: The company has decided to launch an eco-friendly product line.\n\nAssumptions:\nI. Consumers are becoming more environmentally conscious.\nII. The new product line will have a competitive advantage in the market.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Brief context of the statement: The statement highlights a strategic business decision. (2) Evaluation of Assumption I: Implicit as the launch suggests responding to consumer trends. (3) Evaluation of Assumption II: Implicit as expecting a competitive advantage justifies the strategic move. (4) Final conclusion: Both assumptions are implicit as they rationalize the decision to launch.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_003",
+    "question": "Statement: Due to an increase in cyber-attacks, the company has decided to enhance its cybersecurity measures.\n\nAssumptions:\nI. The current cybersecurity measures are inadequate.\nII. Enhanced cybersecurity measures will prevent future attacks.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Brief context of the statement: Reflects a response to increased threats. (2) Evaluation of Assumption I: Implicit as action indicates current measures are insufficient. (3) Evaluation of Assumption II: Implicit as the decision implies expected effectiveness of new measures. (4) Final conclusion: Both assumptions are implicit as they justify the need for and expected efficacy of the enhancements.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_004",
+    "question": "Statement: The university has decided to extend the library hours during the exam season.\n\nAssumptions:\nI. Students need more time to study during exams.\nII. Extending library hours will lead to better exam results.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Brief context of the statement: This decision targets student needs during exams. (2) Evaluation of Assumption I: Implicit as extended hours imply demand for more study time. (3) Evaluation of Assumption II: Not implicit; while helpful, it does not directly ensure better results. (4) Final conclusion: Only Assumption I is implicit as it directly relates to the decision rationale.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_005",
+    "question": "Statement: The environmental agency has launched a campaign encouraging people to plant trees.\n\nAssumptions:\nI. People will respond positively to the campaign.\nII. Planting trees will significantly reduce environmental pollution.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Brief context of the statement: The campaign aims to involve public action for environmental benefits. (2) Evaluation of Assumption I: Implicit as the success of the campaign depends on positive public engagement. (3) Evaluation of Assumption II: Not implicit; while tree planting helps, it alone is unlikely to significantly reduce pollution. (4) Final conclusion: Only Assumption I is implicit as it supports the expected outcome of the campaign.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_006",
+    "question": "Statement: The city council has decided to increase the number of public buses on the roads during peak hours.\n\nAssumptions:\nI. There is a demand for more public transportation during peak hours.\nII. The current number of buses is insufficient to meet the demand during peak hours.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The decision to increase buses implies a recognition of demand during peak hours. (2) For the decision to make sense, the current buses must be insufficient. (3) Assumption I is about demand, and Assumption II is about insufficiency, both necessary for this decision. (4) Both Assumptions I and II are implicit, making the decision logical.",
+    "difficulty": "Easy",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_007",
+    "question": "Statement: The company has decided to launch a new product next month despite the current market instability.\n\nAssumptions:\nI. The product is expected to perform well even in an unstable market.\nII. The company has a strong financial position to handle potential losses.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Launching a product during instability suggests confidence in its success despite market conditions. (2) Assumption I directly supports this confidence. (3) Assumption II is not necessary unless specified losses need covering; it is an inference. (4) Only Assumption I is implicit.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_008",
+    "question": "Statement: To improve air quality, the government has restricted vehicle usage in certain urban areas.\n\nAssumptions:\nI. Vehicle emissions are a significant contributor to air pollution in urban areas.\nII. Restricting vehicle usage will effectively reduce air pollution levels.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The restriction is based on targeting a source of pollution. (2) Assumption I must be true for the action to address the problem. (3) Assumption II suggests that the action will have a meaningful impact. (4) Both assumptions are required for the statement's logic, thus both are implicit.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_009",
+    "question": "Statement: The university will introduce an online learning platform to increase accessibility to courses.\n\nAssumptions:\nI. Students prefer online learning options.\nII. The online platform will be accessible to all students.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "D",
+    "explanation": "Analysis: (1) The aim is accessibility, not necessarily preference, making Assumption I not required. (2) Accessibility is a goal, not a given, so II is not implicit without more context. (3) Both assumptions are plausible, but not necessary for the stated intent. (4) Neither assumption is implicit.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_010",
+    "question": "Statement: The government has imposed a ban on the use of plastic bags to protect the environment.\n\nAssumptions:\nI. Plastic bags are harmful to the environment.\nII. Alternatives to plastic bags are readily available and feasible for consumers.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The ban is for environmental protection, implying plastic bags are harmful, supporting Assumption I. (2) For the ban to be feasible, practical alternatives must exist, supporting Assumption II. (3) Without both assumptions, the ban's logic collapses. (4) Therefore, both assumptions are implicit.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_011",
+    "question": "Statement: The government announced a reduction in fuel prices to combat rising inflation.\n\nAssumptions:\nI. Fuel prices have a significant impact on overall inflation.\nII. The reduction in fuel prices will positively affect the cost of living.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The statement discusses reducing fuel prices as a means to counteract inflation. (2) Assumption I is implicit because the rationale for reducing fuel prices is to affect inflation, which implies a belief in their significant impact. (3) Assumption II is implicit as the action implies an expectation of positive effects on cost of living through reduced inflation. (4) Both assumptions are necessary for the statement's logic.",
+    "difficulty": "Easy",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_012",
+    "question": "Statement: To increase the number of tourists, the city council decided to improve public transport facilities.\n\nAssumptions:\nI. Tourists are discouraged from visiting the city due to inadequate public transport.\nII. Improved public transport facilities will attract more tourists.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The statement suggests enhancing public transport to draw tourists, implying reasons linked to transport. (2) Assumption I is implicit because inadequate transport must be a factor deterring tourists, justifying the council's decision. (3) Assumption II is implicit as the council believes improvements will entice tourists. (4) Both assumptions underpin the action's rationale.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_013",
+    "question": "Statement: The company decided to launch a new range of eco-friendly products.\n\nAssumptions:\nI. There is a significant demand for eco-friendly products in the market.\nII. The company's current product range is not perceived as eco-friendly.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Launching new eco-friendly products implies targeting consumer demand. (2) Assumption I is implicit because the decision hinges on an assumption of market demand. (3) Assumption II is not necessarily implicit as the new range doesn't inherently indicate issues with existing perceptions. (4) Only Assumption I is necessary for the decision's basis.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_014",
+    "question": "Statement: In response to frequent power outages, the city administration decided to install more solar panels in public spaces.\n\nAssumptions:\nI. Solar panels can effectively reduce the impact of power outages.\nII. The city has sufficient sunlight to make solar panels a viable energy source.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Installing solar panels aims to tackle power outages, suggesting reliance on solar efficiency. (2) Assumption I is implicit because the action assumes solar panels will mitigate outages. (3) Assumption II is implicit as sunlight availability is essential for solar panels' effectiveness. (4) Both assumptions are necessary for the action's premise.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_015",
+    "question": "Statement: To improve the nutritional intake of students, the school decided to provide free breakfast.\n\nAssumptions:\nI. Students are not currently getting adequate nutrition from meals at home.\nII. Providing free breakfast will ensure students have at least one nutritious meal a day.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Offering free breakfast suggests concerns over students' nutrition at home and aims to address this. (2) Assumption I is implicit as the decision implies deficiencies in students' home diets. (3) Assumption II is implicit because the provision of breakfast presupposes it fulfills nutritional needs. (4) Both assumptions are foundational to the decision's rationale.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_016",
+    "question": "Statement: The government has decided to construct more parks in urban areas to improve air quality.\n\nAssumptions:\nI. Urban areas currently have poor air quality.\nII. Parks contribute to improving air quality.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Brief context: The government aims to improve air quality through park construction, suggesting parks are beneficial in this regard. (2) Evaluation of Assumption I: For the decision to make sense, it assumes urban areas have poor air quality needing improvement. (3) Evaluation of Assumption II: The decision assumes parks help improve air quality, making this assumption necessary. (4) Final conclusion: Both assumptions are implicit as they form the logical basis for the government's decision.",
+    "difficulty": "Easy",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_017",
+    "question": "Statement: The company has decided to increase the price of its popular smartphone model by 10% to increase overall profits.\n\nAssumptions:\nI. Increasing the price will not significantly reduce the demand for the smartphone.\nII. The company’s profit margin on the smartphone is significant enough that a price increase will lead to overall profit increase.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Brief context: The statement involves pricing strategy to boost profits. (2) Evaluation of Assumption I: For profits to rise, demand must not drop significantly, making this implicit. (3) Evaluation of Assumption II: The strategy relies on sufficient profit margins on the smartphone to increase overall profits, thus implicit. (4) Final conclusion: Both assumptions are necessary for the strategy to be effective.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_018",
+    "question": "Statement: The education board has decided to introduce coding classes in primary schools to enhance technological literacy among students.\n\nAssumptions:\nI. Students in primary schools are capable of understanding and learning basic coding.\nII. Technological literacy is important for students’ future success.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Brief context: The decision aims to promote technology skills early in education. (2) Evaluation of Assumption I: The initiative assumes young students can grasp coding, making this implicit. (3) Evaluation of Assumption II: The board’s action suggests they value technological literacy for future success, so this is implicit. (4) Final conclusion: Both assumptions are necessary for the decision to be justified.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_019",
+    "question": "Statement: If global temperatures continue to rise, then all coastal cities will need to implement advanced flood defenses by 2030.\n\nAssumptions:\nI. Current flood defenses in coastal cities are inadequate to handle predicted climate change effects.\nII. Rising global temperatures will lead to increased flooding risks in coastal areas.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Brief context: The statement predicts a need for action based on climate trends. (2) Evaluation of Assumption I: The assumption that current defenses are inadequate is necessary for the argument to make sense, thus implicit. (3) Evaluation of Assumption II: This assumption connects temperature rise with flooding, essential for the statement’s validity, making it implicit. (4) Final conclusion: Both assumptions are required to justify the predicted need for flood defenses.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_020",
+    "question": "Statement: In light of the increasing cybersecurity threats, the company has decided to invest heavily in AI-driven security solutions.\n\nAssumptions:\nI. AI-driven security solutions are more effective against current cybersecurity threats than traditional methods.\nII. The investment in AI-driven security will provide a competitive edge to the company.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Brief context: The company's decision is based on addressing cybersecurity challenges. (2) Evaluation of Assumption I: The assumption about AI’s effectiveness is crucial to justify the investment, making it implicit. (3) Evaluation of Assumption II: The belief in gaining a competitive edge indicates strategic intent, thus implicit. (4) Final conclusion: Both assumptions are required to understand the rationale behind the company's decision.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_021",
+    "question": "Statement: The city council has decided to introduce a weekly farmers' market to promote local agriculture and provide fresh produce to city residents.\n\nAssumptions:\nI. City residents are interested in purchasing fresh produce.\nII. There is sufficient local agricultural production to supply the market.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The statement suggests the goal of promoting local agriculture and providing fresh produce. (2) Assumption I is implicit as the success of the market depends on residents' interest in purchasing fresh produce. (3) Assumption II is implicit because the market can only be sustained if there is enough local agricultural output. (4) Both assumptions are necessary for the stated purpose of the market to be achieved.",
+    "difficulty": "Easy",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_022",
+    "question": "Statement: The company plans to launch its new electric car model by next year to capture the growing market for eco-friendly vehicles.\n\nAssumptions:\nI. There will be a significant demand for eco-friendly vehicles in the near future.\nII. The company is capable of producing the new electric car model in a cost-effective manner.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The statement implies a strategic move to enter the eco-friendly vehicle market. (2) Assumption I is implicit as launching a product in a growing market presupposes future demand. (3) Assumption II is implicit because successful product launch requires cost-effective production capabilities. (4) Both assumptions are crucial for the rationale behind the launch.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_023",
+    "question": "Statement: The government has decided to increase funding for renewable energy projects to reduce the country's carbon footprint.\n\nAssumptions:\nI. Renewable energy projects can significantly contribute to reducing the carbon footprint.\nII. The current carbon footprint of the country is higher than desired.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The decision to increase funding is a policy action aimed at carbon reduction. (2) Assumption I is implicit as the effectiveness of renewable energy in carbon reduction is fundamental to the decision. (3) Assumption II is implicit because action to reduce carbon footprint implies current levels are undesirable. (4) Both assumptions are necessary for the policy's goal to be valid.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_024",
+    "question": "Statement: To improve the educational outcomes, the government should implement technology-driven teaching methods in all public schools.\n\nAssumptions:\nI. Technology-driven teaching methods are more effective than traditional methods.\nII. Public schools are currently lacking in technological resources.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) The statement suggests a shift towards technology in education for improvement. (2) Assumption I is implicit because suggesting a change implies the new method is superior. (3) Assumption II is not necessarily implicit, as the statement does not directly address current resource levels. (4) Only the effectiveness of technology-driven methods is assumed.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_025",
+    "question": "Statement: The local council is planning to install more CCTV cameras in the city to enhance public safety.\n\nAssumptions:\nI. The presence of CCTV cameras deters criminal activities.\nII. The current level of public safety is not satisfactory.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The decision to install more cameras is aimed at improving safety. (2) Assumption I is implicit as it underpins the effectiveness of cameras in preventing crime. (3) Assumption II is implicit because the action suggests dissatisfaction with current safety levels. (4) Both assumptions are necessary to justify the installation.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_026",
+    "question": "Statement: The government plans to implement a new tax on sugary drinks to reduce public health issues related to obesity.\n\nAssumptions:\nI. Consumption of sugary drinks contributes significantly to obesity.\nII. Taxation will lead to a decrease in the consumption of sugary drinks.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The government's intent is to reduce obesity by taxing sugary drinks. (2) For the plan to be logical, it must be assumed that sugary drinks significantly contribute to obesity, otherwise, the tax would not be effective. (3) Additionally, it must be assumed that taxation will decrease consumption; otherwise, the tax would not achieve its purpose. (4) Both assumptions are necessary for the government's plan to make sense.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_027",
+    "question": "Statement: The company has decided to allow remote working options for employees.\n\nAssumptions:\nI. Remote working increases employee satisfaction.\nII. The company has the necessary infrastructure to support remote working.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The decision to offer remote working implies the company expects benefits from it. (2) For remote working to be appealing, the company must assume that it leads to higher employee satisfaction. (3) Also, the company must have the infrastructure in place to enable remote work effectively. (4) Both assumptions are required for the decision to be practical and beneficial.",
+    "difficulty": "Medium",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_028",
+    "question": "Statement: We should plant more trees in urban areas to improve air quality.\n\nAssumptions:\nI. Trees can absorb pollutants and improve air quality.\nII. There is sufficient space in urban areas to plant more trees.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The proposal to plant more trees is based on its ability to enhance air quality. (2) It must be assumed that trees effectively absorb pollutants to justify this action. (3) Additionally, the feasibility of this plan depends on the availability of space in urban areas. (4) Both assumptions are implicit for the statement to be actionable.",
+    "difficulty": "Easy",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_029",
+    "question": "Statement: The new regulation requires all factories to reduce their carbon emissions by 20% within the next five years.\n\nAssumptions:\nI. Factories can reduce emissions without severely affecting their productivity.\nII. The technology to reduce carbon emissions by 20% is accessible and affordable.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The regulation demands a substantial reduction in emissions, suggesting the belief in feasible implementation. (2) It assumes factories can achieve this reduction without compromising productivity significantly. (3) Additionally, it presupposes that appropriate technology is both available and financially viable. (4) Both assumptions are crucial for the regulation's success.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "statement_assumption_030",
+    "question": "Statement: To improve road safety, the city plans to install more speed cameras at accident-prone intersections.\n\nAssumptions:\nI. Speeding is a major cause of accidents at these intersections.\nII. The presence of speed cameras will deter drivers from speeding.",
+    "options": {
+      "A": "Only Assumption I is implicit.",
+      "B": "Only Assumption II is implicit.",
+      "C": "Either Assumption I or II is implicit.",
+      "D": "Neither Assumption I nor II is implicit.",
+      "E": "Both Assumptions I and II are implicit."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The plan to install speed cameras targets accident reduction at specific spots. (2) It implicitly assumes that speeding is a significant factor in these accidents. (3) It also assumes the cameras will effectively discourage speeding. (4) Both assumptions are essential for the effectiveness of the proposed safety measure.",
+    "difficulty": "Hard",
+    "topic": "Statement & Assumption",
+    "reasoning_topic": "Statement & Assumption",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "generated_at": "2025-10-04 16:24:17",
+  "statistics": {
+    "total_questions": 285,
+    "by_reasoning_topic": {
+      "Input-Output": 23,
+      "Strengthening/Weakening Arguments": 11,
+      "Statement & Inference": 13,
+      "Blood Relations": 15,
+      "Floor Based Puzzle": 20,
+      "Statement & Course of Action": 13,
+      "Inequalities": 20,
+      "Syllogisms": 18,
+      "Linear Seating Arrangement": 36,
+      "Scheduling Puzzle": 31,
+      "Data Sufficiency": 15,
+      "Multi-Variable Puzzle": 15,
+      "Direction Sense": 9,
+      "Box Based Puzzle": 5,
+      "Circular Seating Arrangement": 11,
+      "Coding-Decoding": 13,
+      "Statement & Assumption": 8,
+      "Square/Rectangular/Triangular Seating": 9
+    },
+    "by_main_category": {
+      "Analytical & Critical Reasoning": 83,
+      "Verbal & Logical Reasoning": 75,
+      "Puzzles & Seating Arrangements": 127
+    },
+    "by_difficulty": {
+      "Hard": 258,
+      "Easy": 27
+    },
+    "manually_updated_count": 199
+  }
+}

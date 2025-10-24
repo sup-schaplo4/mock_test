@@ -1,0 +1,427 @@
+def generate_with_openai(
+    prompt: str,
+    model: str = "gpt-4o",
+    max_tokens: int = 4000,
+    temperature: float = 0.7,
+    response_format: Optional[str] = "json_object"
+) -> Dict[str, Any]:
+    """
+    Wrapper for OpenAI API calls with error handling
+    
+    Args:
+        prompt: The prompt to send to OpenAI
+        model: Model to use (default: gpt-4o)
+        max_tokens: Maximum tokens in response
+        temperature: Creativity parameter (0.0 - 1.0)
+        response_format: "json_object" for JSON mode, None for text
+    
+    Returns:
+        {
+            "success": bool,
+            "data": dict/list (if success),
+            "error": str (if failure),
+            "tokens": {"prompt": int, "completion": int, "total": int},
+            "cost": float
+        }
+    """
+def validate_di_set(di_set: Dict[str, Any], expected_questions: int = 5) -> Dict[str, Any]:
+    """
+    Comprehensive validation for Data Interpretation sets
+    
+    Args:
+        di_set: The DI set dictionary to validate
+        expected_questions: Expected number of questions (default: 5)
+    
+    Returns:
+        {
+            "valid": bool,
+            "errors": list,
+            "warnings": list
+        }
+    """
+def validate_question_in_set(question: Dict[str, Any], question_num: int, set_id: str) -> List[str]:
+    """
+    Validate a single question within a DI set
+    
+    Args:
+        question: Question dictionary
+        question_num: Question number (for error reporting)
+        set_id: Parent DI set ID
+    
+    Returns:
+        List of error messages (empty if valid)
+    """
+def validate_arithmetic_question(question: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Validation for individual arithmetic/miscellaneous questions
+    
+    Args:
+        question: Question dictionary to validate
+    
+    Returns:
+        {
+            "valid": bool,
+            "errors": list,
+            "warnings": list
+        }
+    """
+def save_to_json(data: Any, filepath: str, indent: int = 2) -> bool:
+    """
+    Save data to JSON file with pretty printing
+    
+    Args:
+        data: Data to save (dict, list, etc.)
+        filepath: Path to save the file
+        indent: JSON indentation level (default: 2)
+    
+    Returns:
+        bool: True if successful, False otherwise
+    """
+def load_from_json(filepath: str) -> Optional[Any]:
+    """
+    Load data from JSON file
+    
+    Args:
+        filepath: Path to the JSON file
+    
+    Returns:
+        Loaded data (dict/list) or None if failed
+    """
+def ensure_directory_exists(directory: str) -> bool:
+    """
+    Ensure a directory exists, create if it doesn't
+    
+    Args:
+        directory: Directory path
+    
+    Returns:
+        bool: True if directory exists or was created successfully
+    """
+def append_to_json(new_data: Any, filepath: str, indent: int = 2) -> bool:
+    """
+    Append data to existing JSON file (assumes file contains a list)
+    
+    Args:
+        new_data: Data to append (can be single item or list)
+        filepath: Path to the JSON file
+        indent: JSON indentation level (default: 2)
+    
+    Returns:
+        bool: True if successful, False otherwise
+    """
+def calculate_cost(prompt_tokens: int, completion_tokens: int, model: str = "gpt-4o") -> float:
+    """
+    Calculate approximate cost for OpenAI API usage
+    
+    Args:
+        prompt_tokens: Number of tokens in prompt
+        completion_tokens: Number of tokens in completion
+        model: Model name
+    
+    Returns:
+        float: Estimated cost in USD
+    
+    Note: Prices as of October 2024, may need updating
+    """
+def get_difficulty_for_set(set_num: int, total_sets: int, distribution: Optional[List[str]] = None) -> str:
+    """
+    Determine difficulty level for a DI set based on its number
+    
+    Args:
+        set_num: Current set number (1-indexed)
+        total_sets: Total number of sets
+        distribution: Optional custom distribution (e.g., ["Easy", "Medium", "Medium", "Hard", "Hard"])
+    
+    Returns:
+        str: Difficulty level ("Easy", "Medium", or "Hard")
+    
+    Examples:
+        For 5 sets: Easy, Medium, Medium, Hard, Hard (1E, 2M, 2H)
+        For 4 sets: Easy, Medium, Hard, Hard (1E, 1M, 2H)
+    """
+def get_difficulty_distribution(total_questions: int, easy_pct: float = 0.2, 
+                                medium_pct: float = 0.4, hard_pct: float = 0.4) -> Dict[str, int]:
+    """
+    Calculate difficulty distribution for a given number of questions
+    
+    Args:
+        total_questions: Total number of questions
+        easy_pct: Percentage of easy questions (default: 0.2 = 20%)
+        medium_pct: Percentage of medium questions (default: 0.4 = 40%)
+        hard_pct: Percentage of hard questions (default: 0.4 = 40%)
+    
+    Returns:
+        dict: {"Easy": count, "Medium": count, "Hard": count}
+    
+    Example:
+        get_difficulty_distribution(15) → {"Easy": 3, "Medium": 6, "Hard": 6}
+    """
+def log_generation_progress(current: int, total: int, item_type: str, 
+                            topic: str = "", additional_info: str = ""):
+    """
+    Log progress during generation
+    
+    Args:
+        current: Current item number
+        total: Total items to generate
+        item_type: Type of item (e.g., "Set", "Question", "Batch")
+        topic: Optional topic name
+        additional_info: Optional additional information
+    """
+def log_validation_results(validation_result: Dict[str, Any], item_name: str = "Item"):
+    """
+    Pretty print validation results
+    
+    Args:
+        validation_result: Result from validate_di_set() or validate_arithmetic_question()
+        item_name: Name of the item being validated (for logging)
+    """
+def log_summary(total_generated: int, total_expected: int, failed_items: List[str], 
+               total_cost: float, output_file: str):
+    """
+    Log final summary after generation
+    
+    Args:
+        total_generated: Number of items successfully generated
+        total_expected: Expected number of items
+        failed_items: List of failed item identifiers
+        total_cost: Total API cost
+        output_file: Path to output file
+    """
+def check_answer_distribution(questions: List[Dict[str, Any]], 
+                              question_type: str = "individual") -> Dict[str, Any]:
+    """
+    Check the distribution of correct answers (A, B, C, D, E)
+    
+    Args:
+        questions: List of questions (can be individual or from DI sets)
+        question_type: "individual" or "di_set"
+    
+    Returns:
+        {
+            "total": int,
+            "distribution": {"A": count, "B": count, ...},
+            "percentages": {"A": pct, "B": pct, ...},
+            "balanced": bool
+        }
+    """
+def print_answer_distribution(distribution_result: Dict[str, Any]):
+    """
+    Pretty print answer distribution results
+    
+    Args:
+        distribution_result: Result from check_answer_distribution()
+    """
+def generate_metadata(exam: str = "RBI Grade B Phase 1", 
+                     model: str = "gpt-4o",
+                     reviewed: bool = False,
+                     additional_fields: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+    """
+    Generate standard metadata for questions
+    
+    Args:
+        exam: Exam name
+        model: Model used for generation
+        reviewed: Whether questions have been reviewed
+        additional_fields: Optional additional metadata fields
+    
+    Returns:
+        dict: Metadata dictionary
+    """
+def retry_generation(generation_function, max_retries: int = 3, 
+                    delay: int = 2, **kwargs) -> Optional[Any]:
+    """
+    Retry a generation function if it fails
+    
+    Args:
+        generation_function: Function to retry
+        max_retries: Maximum number of retry attempts
+        delay: Delay in seconds between retries
+        **kwargs: Arguments to pass to the generation function
+    
+    Returns:
+        Result from generation_function or None if all retries fail
+    """
+def clean_json_string(json_string: str) -> str:
+    """
+    Clean JSON string from common formatting issues
+    
+    Args:
+        json_string: Raw JSON string
+    
+    Returns:
+        Cleaned JSON string
+    """
+def standardize_difficulty(difficulty: str) -> str:
+    """
+    Standardize difficulty strings to proper format
+    
+    Args:
+        difficulty: Difficulty string (may be lowercase, mixed case, etc.)
+    
+    Returns:
+        Standardized difficulty string
+    """
+def extract_numeric_value(text: str) -> Optional[float]:
+    """
+    Extract numeric value from text (useful for parsing options)
+    
+    Args:
+        text: Text that may contain a number
+    
+    Returns:
+        float: Extracted number or None if not found
+    """
+def batch_items(items: List[Any], batch_size: int) -> List[List[Any]]:
+    """
+    Split items into batches
+    
+    Args:
+        items: List of items to batch
+        batch_size: Size of each batch
+    
+    Returns:
+        List of batches
+    """
+def merge_json_files(file_paths: List[str], output_path: str, 
+                    structure_type: str = "list") -> bool:
+    """
+    Merge multiple JSON files into one
+    
+    Args:
+        file_paths: List of JSON file paths to merge
+        output_path: Path for merged output file
+        structure_type: "list" (merge arrays) or "dict" (merge objects)
+    
+    Returns:
+        bool: True if successful, False otherwise
+    """
+def generate_question_id(topic: str, question_num: int, 
+                        prefix: str = "ARITH", total_digits: int = 3) -> str:
+    """
+    Generate a standardized question ID
+    
+    Args:
+        topic: Topic name (e.g., "PERCENTAGE", "PROFIT_LOSS")
+        question_num: Question number (1-indexed)
+        prefix: Prefix for the ID (default: "ARITH")
+        total_digits: Total digits for question number (default: 3)
+    
+    Returns:
+        str: Question ID (e.g., "ARITH_PERCENTAGE_001")
+    """
+def generate_di_set_id(di_type: str, set_num: int, total_digits: int = 3) -> str:
+    """
+    Generate a standardized DI set ID
+    
+    Args:
+        di_type: Type of DI (e.g., "TABLE", "BAR", "LINE", "PIE", "CASELET")
+        set_num: Set number (1-indexed)
+        total_digits: Total digits for set number (default: 3)
+    
+    Returns:
+        str: DI set ID (e.g., "DI_TABLE_001")
+    """
+def generate_statistics_report(questions: List[Dict[str, Any]], 
+                               question_type: str = "individual") -> Dict[str, Any]:
+    """
+    Generate comprehensive statistics for generated questions
+    
+    Args:
+        questions: List of questions or DI sets
+        question_type: "individual" or "di_set"
+    
+    Returns:
+        dict: Statistics report
+    """
+def print_statistics_report(stats: Dict[str, Any]):
+    """
+    Pretty print statistics report
+    
+    Args:
+        stats: Statistics dictionary from generate_statistics_report()
+    """
+class Timer:
+    """Simple timer context manager for timing operations"""
+def format_time_elapsed(seconds: float) -> str:
+    """
+    Format elapsed time in human-readable format
+    
+    Args:
+        seconds: Time in seconds
+    
+    Returns:
+        str: Formatted time string
+    """
+def validate_options_uniqueness(options: Dict[str, Any]) -> bool:
+    """
+    Check if all options are unique (no duplicate values)
+    
+    Args:
+        options: Dictionary of options (A, B, C, D, E)
+    
+    Returns:
+        bool: True if all options are unique
+    """
+def validate_correct_answer_in_options(correct_answer: str, options: Dict[str, Any]) -> bool:
+    """
+    Verify that the correct answer key exists in options
+    
+    Args:
+        correct_answer: The correct answer key (A, B, C, D, or E)
+        options: Dictionary of options
+    
+    Returns:
+        bool: True if correct_answer is a valid option key
+    """
+
+def check_for_obvious_patterns(questions: List[Dict[str, Any]]) -> Dict[str, Any]:
+    """
+    Check for obvious patterns in questions that might indicate issues
+    
+    Args:
+        questions: List of questions to check
+    
+    Returns:
+        dict: Analysis results with any detected patterns
+    """
+def export_to_csv(questions: List[Dict[str, Any]], output_path: str, 
+                 question_type: str = "individual") -> bool:
+    """
+    Export questions to CSV format
+    
+    Args:
+        questions: List of questions or DI sets
+        output_path: Path for CSV output
+        question_type: "individual" or "di_set"
+    
+    Returns:
+        bool: True if successful
+    """
+def export_to_markdown(questions: List[Dict[str, Any]], output_path: str,
+                      question_type: str = "individual", 
+                      include_answers: bool = True) -> bool:
+    """
+    Export questions to Markdown format
+    
+    Args:
+        questions: List of questions or DI sets
+        output_path: Path for Markdown output
+        question_type: "individual" or "di_set"
+        include_answers: Whether to include answers and explanations
+    
+    Returns:
+        bool: True if successful
+    """
+def run_quality_checks(questions: List[Dict[str, Any]], 
+                      question_type: str = "individual") -> Dict[str, Any]:
+    """
+    Run comprehensive quality checks on generated questions
+    
+    Args:
+        questions: List of questions or DI sets
+        question_type: "individual" or "di_set"
+    
+    Returns:
+        dict: Quality check results
+    """

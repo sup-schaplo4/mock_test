@@ -1,0 +1,598 @@
+Q.1) Ans: (b)
+EXP: People: M, N, O, P, Q, R, S and T. Ages: 8, 12, 14, 21, 28, 36, 44 and 56. 1) Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. 2) One person is sitting between T and the one whose age is 56 years. 3) Two people are sitting between O and the one whose age is 56 years. 4) The one whose age is 14 years is sitting second to the left of O. 5) N is sitting to the immediate left of the one whose age is 56 years. (Hence, there will be two possible cases) 6) There is a difference of 6 years between the ages of R and S and two people are sitting between them. (The condition which satisfies the age difference of 6 years is only 14& 21 and the position of the one who is 14 years old is fixed and it is also given that either R or S is 14 or 21 years old. Hence, case II will be eliminated as T cannot be 21 years old). (Further from case I, there will be another two possible cases) 7) The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. 8) There is one people sitting between R and the one whose age is 44 years. 9) M is an immediate neighbor of the one whose age is 44 years. (Hence, Case I will be eliminated) 10) Q and the one whose age is 21 years are immediate neighbors. 11) T is older than M and N is younger than Q. Clearly, 2 people sit between R and the one who is 21 years old.
+
+Q.2) Ans: (d)
+EXP: People: M, N, O, P, Q, R, S and T. Ages: 8, 12, 14, 21, 28, 36, 44 and 56. 1) Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. 2) One person is sitting between T and the one whose age is 56 years. 3) Two people are sitting between O and the one whose age is 56 years. 4) The one whose age is 14 years is sitting second to the left of O. 5) N is sitting to the immediate left of the one whose age is 56 years. (Hence, there will be two possible cases) 6) There is a difference of 6 years between the ages of R and S and two people are sitting between them. (The condition which satisfies the age difference of 6 years is only 14& 21 and the position of the one who is 14 years old is fixed and it is also given that either R or S is 14 or 21 years old. Hence, case II will be eliminated as T cannot be 21 years old). (Further from case I, there will be another two possible cases) 7) The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. 8) There is one people sitting between R and the one whose age is 44 years. 9) M is an immediate neighbor of the one whose age is 44 years. (Hence, Case I will be eliminated) 10) Q and the one whose age is 21 years are immediate neighbors. 11) T is older than M and N is younger than Q. Clearly, the age difference between M and S is 13 years old.
+
+Q.3) Ans: (a)
+EXP: People: M, N, O, P, Q, R, S and T. Ages: 8, 12, 14, 21, 28, 36, 44 and 56. 1) Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. 2) One person is sitting between T and the one whose age is 56 years. 3) Two people are sitting between O and the one whose age is 56 years. 4) The one whose age is 14 years is sitting second to the left of O. 5) N is sitting to the immediate left of the one whose age is 56 years. (Hence, there will be two possible cases) 6) There is a difference of 6 years between the ages of R and S and two people are sitting between them. (The condition which satisfies the age difference of 6 years is only 14& 21 and the position of the one who is 14 years old is fixed and it is also given that either R or S is 14 or 21 years old. Hence, case II will be eliminated as T cannot be 21 years old). (Further from case I, there will be another two possible cases) 7) The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. 8) There is one people sitting between R and the one whose age is 44 years. 9) M is an immediate neighbor of the one whose age is 44 years. (Hence, Case I will be eliminated) 10) Q and the one whose age is 21 years are immediate neighbors. 11) T is older than M and N is younger than Q. Clearly, the age of P is 56 years old.
+
+Q.4) Ans: (c)
+EXP: People: M, N, O, P, Q, R, S and T. Ages: 8, 12, 14, 21, 28, 36, 44 and 56. 1) Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. 2) One person is sitting between T and the one whose age is 56 years. 3) Two people are sitting between O and the one whose age is 56 years. 4) The one whose age is 14 years is sitting second to the left of O. 5) N is sitting to the immediate left of the one whose age is 56 years. (Hence, there will be two possible cases) 6) There is a difference of 6 years between the ages of R and S and two people are sitting between them. (The condition which satisfies the age difference of 6 years is only 14& 21 and the position of the one who is 14 years old is fixed and it is also given that either R or S is 14 or 21 years old. Hence, case II will be eliminated as T cannot be 21 years old). (Further from case I, there will be another two possible cases) 7) The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. 8) There is one people sitting between R and the one whose age is 44 years. 9) M is an immediate neighbor of the one whose age is 44 years. (Hence, Case I will be eliminated) 10) Q and the one whose age is 21 years are immediate neighbors. 11) T is older than M and N is younger than Q. Clearly, the sum of the ages of the people who sit the extreme ends is 48.
+
+Q.5) Ans: (e)
+EXP: People: M, N, O, P, Q, R, S and T. Ages: 8, 12, 14, 21, 28, 36, 44 and 56. 1) Either T or the one whose age is 56 years is sitting at the extreme end. The one who is 56 years old is not sitting to the left of T. 2) One person is sitting between T and the one whose age is 56 years. 3) Two people are sitting between O and the one whose age is 56 years. 4) The one whose age is 14 years is sitting second to the left of O. 5) N is sitting to the immediate left of the one whose age is 56 years. (Hence, there will be two possible cases) 6) There is a difference of 6 years between the ages of R and S and two people are sitting between them. (The condition which satisfies the age difference of 6 years is only 14& 21 and the position of the one who is 14 years old is fixed and it is also given that either R or S is 14 or 21 years old. Hence, case II will be eliminated as T cannot be 21 years old). (Further from case I, there will be another two possible cases) 7) The one whose age is 12 years is sitting second to the left of P. P is not sitting at the extreme end. 8) There is one people sitting between R and the one whose age is 44 years. 9) M is an immediate neighbor of the one whose age is 44 years. (Hence, Case I will be eliminated) 10) Q and the one whose age is 21 years are immediate neighbors. 11) T is older than M and N is younger than Q. Clearly, the one who is 28 years old is N.
+
+Q.6) Ans: (e)
+EXP: 
+
+Q.7) Ans: (e)
+EXP: 
+
+Q.8) Ans: (b)
+EXP: 
+
+Q.9) Ans: (d)
+EXP: 
+
+Q.10) Ans: (c)
+EXP: Given word: OVERWHELM 1st letter- O 5th letter- W 6th letter- H 9th letter – M Meaningful word – Whom.
+
+Q.11) Ans: (c)
+EXP: The least possible Venn diagram for the given statements is as follows: Conclusions: I. Some men are not children – Its sure. Hence, true. II. Some men are not boys – Its sure. Because it is given in the statement that only a few Men are boys, hence true. Hence, both conclusions I and II follow.
+
+Q.12) Ans: (b)
+EXP: The least possible Venn diagram for the given statements is as follows: Conclusions: I. All Guavas are Mangos – We can say that but it’s not sure. Hence, false. II. No Tasty being Fruit is a possibility – It’s possible, hence true. The least possible Venn diagram for the given statements is as follows: Conclusions: I. All Guavas are Mangos – We can say that but it’s not sure. Hence, false. II. No Tasty being Fruit is a possibility – It’s possible, hence true.
+
+Q.13) Ans: (b)
+EXP: The least possible Venn diagram for the given statements is as follows: Conclusions: 1. All Dairy Milk can be Milky Bar → It’s not possible, because here given in the statement that only a few Dairy Milk is Milky Bar, hence false. 2. Some Munch is Milky Bar → It’s sure, because here given in the statement that some Milky Bar is Munch, hence true. Thus, only conclusion II follow.
+
+Q.14) Ans: (e)
+EXP: The least possible Venn diagram for the given statements is as follows: I. No Plants are Grass → It’s a doubtful case, so its false. II. All Bushes can be Grass → It’s not possible, because only a few bushes are grass that means all is not possible, hence false. Thus, neither conclusion I nor conclusion II follows.
+
+Q.15) Ans: (a)
+EXP: The least possible Venn diagram for the given statements is as follows: I. Some apples are not figures → It’s true because it is given that only a few Apples are figures. II. No Apple is Cake → It’s doubtful, hence false. Thus, only conclusion I follows.
+
+Q.16) Ans: (b)
+EXP: 1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)
+
+Q.17) Ans: (a)
+EXP: 1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)
+
+Q.18) Ans: (c)
+EXP: 1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)
+
+Q.19) Ans: (d)
+EXP: 1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)
+
+Q.20) Ans: (e)
+EXP: 1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)
+
+Q.21) Ans: (c)
+EXP: 1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, point X is in North – West direction with respect to point R.
+
+Q.22) Ans: (b)
+EXP: 1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, AV+ AU= XW – 6 is true about A.
+
+Q.23) Ans: (b)
+EXP: 1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Total distance travelled in West direction is: 28+ 7= 35 m Hence, 35 m is travelled in West direction.
+
+Q.24) Ans: (c)
+EXP: 1) Raga started walking in East direction from point R. 2) After walking 15 m she reached point S, from there she takes a left turn and walk 10 m to reach point T. 3) From T, she turns left and walk 7 m and reaches point U. 4) Then, she turns left and walks 34 m to reach point V. 5) From point V she turns right and walks 28 m. 6) Now she reached point W and from there she turns right and walks 40 m to reach point X. 7) From point X she turns right and walks 32 m to reach point Y. Hence, point T is South – East of point Y.
+
+Q.25) Ans: (c)
+EXP: Statements: For conclusion I: S ≤ T< P= D ≤ M ≤ R Check for conclusion I: S ≤ T< P= D ≤ M ≤ R, does not hold true. Check for conclusion II: S ≤ T< P= D ≤ M ≤ R, holds true. Only option C) is correct.
+
+Q.26) Ans: (b)
+EXP: Check for conclusion I: S ≤ T< P= D ≤ M ≤ R, R> D may holds true. Check for conclusion II: S ≤ T< P= D ≤ M ≤ R, R=D also may holds true. Only option B) is correct.
+
+Q.27) Ans: (e)
+EXP: Statements: Check for conclusion I: L≥ J≥U>T≤P≥D, holds true. Check for conclusion II: L≥ J≥U≤P≥D does not hold true. Only option E) is correct.
+
+Q.28) Ans: (a)
+EXP: • V sits third to right of S. • S faces F and F does not sit at any of the extreme ends of the line. • D sits third to right of C. • R faces C. • The one facing E sits third to right of P. • B and P do not sit at the extreme ends of the line. • T is not an immediate neighbour of V and A is not an immediate neighbour of C. T faces D
+
+Q.29) Ans: (b)
+EXP: • V sits third to right of S. • S faces F and F does not sit at any of the extreme ends of the line. • D sits third to right of C. • R faces C. • The one facing E sits third to right of P. • B and P do not sit at the extreme ends of the line. • T is not an immediate neighbour of V and A is not an immediate neighbour of C. T& A sitting at extreme ends of the rows
+
+Q.30) Ans: (e)
+EXP: • V sits third to right of S. • S faces F and F does not sit at any of the extreme ends of the line. • D sits third to right of C. • R faces C. • The one facing E sits third to right of P. • B and P do not sit at the extreme ends of the line. • T is not an immediate neighbour of V and A is not an immediate neighbour of C. D- R is the one that does not belong to that group.
+
+Q.31) Ans: (b)
+EXP: • V sits third to right of S. • S faces F and F does not sit at any of the extreme ends of the line. • D sits third to right of C. • R faces C. • The one facing E sits third to right of P. • B and P do not sit at the extreme ends of the line. • T is not an immediate neighbour of V and A is not an immediate neighbour of C. Two persons are seated between R and T
+
+Q.32) Ans: (c)
+EXP: • V sits third to right of S. • S faces F and F does not sit at any of the extreme ends of the line. • D sits third to right of C. R faces C. • The one facing E sits third to right of P. • B and P do not sit at the extreme ends of the line. • T is not an immediate neighbour of V and A is not an immediate neighbour of C.
+E faces Q
+
+Q.33) Ans: (d)
+EXP: • V sits third to right of S. • S faces F and F does not sit at any of the extreme ends of the line. • D sits third to right of C. R faces C. • The one facing E sits third to right of P. • B and P do not sit at the extreme ends of the line. • T is not an immediate neighbour of V and A is not an immediate neighbour of C. D and F are immediate neighbours of B
+
+Q.34) Ans: (c)
+EXP: So, there are 2 pairs.
+
+Q.35) Ans: (b)
+EXP: In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12
+
+Q.36) Ans: (c)
+EXP: In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12
+
+Q.37) Ans: (c)
+EXP: In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12
+
+Q.38) Ans: (d)
+EXP: In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12
+
+Q.39) Ans: (a)
+EXP: In the arrangement in step I the first two numbers are arranged in ascending order from the left and in step II the first two words come at left end according to the number of letters present in the word. This process follows in each alternate step until the last step. Input: judge 20 12 gone ear 17 11 sitting 34 dinner arranges 29 Step I: 11 12 judge 20 gone ear 17 sitting 34 dinner arranges 29 Step II: ear gone 11 12 judge 20 17 sitting 34 dinner arranges 29 Step III: 17 20 ear gone 11 12 judge sitting 34 dinner arranges 29 Step IV: judge dinner 17 20 ear gone 11 12 sitting 34 arranges 29 Step V: 29 34 judge dinner 17 20 ear gone 11 12 sitting arranges Step VI: sitting arranges 29 34 judge dinner 17 20 ear gone 11 12
+
+Q.40) Ans: (d)
+EXP: After replacing the consonants by 3 and vowels by its place value in English alphabet, we get 15 3 3 1 3 9 3 1 3 9 15 3 Required sum= 68
+
+Q.41) Ans: (d)
+EXP: 1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option D is the correct answer.
+
+Q.42) Ans: (d)
+EXP: 1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option D is the correct answer.
+
+Q.43) Ans: (c)
+EXP: 1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option C is the correct answer.
+
+Q.44) Ans: (d)
+EXP: 1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option D is the correct answer.
+
+Q.45) Ans: (d)
+EXP: 1) Z lives on the fifth floor. 2) The one, who works in ONGC, lives on the topmost floor. 3) The one, who works in Tata motors, lives just above X. 4) V lives on an even numbered floor. 5) There are two floors between the floors on which X and V lives. 6) Neither X nor Z works in RIL. 7) The one, who works in HPCL, lives above T. 8) There is only one floor between U and the one, who works in RIL. 9) There are three floors between T and the one, who works in IOC. 10) Y works in BPCL. 11) Z and X don’t work in SBI. (Here, case 2 will be eliminated) Therefore, option D is the correct answer.
+
+Q.46) Ans: (e)
+EXP: The professional who has just been recruited needs to be evaluated over a period of time to know if he/she suits the work environment of the company. So, I is implicit. The statement mentions that the individual's capabilities shall be judged before confirmation. Hence, II is implicit as well.
+
+Q.47) Ans: (d)
+EXP: Both assumptions I and II are valid. The statement says that people are returning to “what is left of their homes”, from which we can assume that their homes were almost destroyed. Similarly, because the families are returning to the city, we can assume that they were driven away or left when Isis took over their city. However, assumption III is not valid as we cannot assume if all of the residents had left and none of them supported Isis from the given statement. Hence, option D is the correct answer.
+
+Q.48) Ans: (e)
+EXP: None of the courses of action follow. All of them contain a lot of extraneous information and are impractical solutions. Stoping all billionaire diamond traders from travelling to Antigua and Barbuda and the act of Indian High commissioner should go to arrest Mehul Choksi are extreme courses of action, hence they are ruled out. As for Mehul Choksi should seek asylum is an inappropriate course of action in the context of a given statement. Therefore, option E is the correct answer.
+
+Q.49) Ans: (b)
+EXP: I is a negative suggestion. It is against the accepted norm that a stitch in time saves nine'. Hence, I does not follow II is a positive suggestion. Moreover it also suggests that the government has a chance to take better action by learning from its experience. Hence, II follows.
+Only II follows.
+
+Q.50) Ans: (d)
+EXP: At first it may seem statement I is the cause and II is effect, but the reduction in the accidents may not be a direct impact of a new traffic light. The first sentence states that the new traffic lights are specially designed to cope with the increasing traffic problems and roadblocks. So, it cannot be said that II is the effect of I. The reduction in the number of accidents could be caused by factors like well-maintained road, speed limits, etc. Statement I is caused by increasing traffic blocks. So, both statements are effects with independent causes.
+
+Q.51) Ans: (d)
+EXP: Box – P, Q, R, S, T, V and W Colour- Black, silver, red, pink, yellow, white and green 1) There are two boxes between the box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is immediately above the box W. Case 1: Case 2: 2) Box S is immediately above yellow colour box. T is of red colour box. This is not possible in case 2. So, case 1 is correct. 3) More than three boxes are there between pink and silver colour box. More than three boxes are there between yellow and pink colour box. Hence, box W is of yellow colour.
+
+Q.52) Ans: (c)
+EXP: Box – P, Q, R, S, T, V and W Colour- Black, silver, red, pink, yellow, white and green 1) There are two boxes between the box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is immediately above the box W. Case 1: Case 2: 2) Box S is immediately above yellow colour box. T is of red colour box. This is not possible in case 2. So, case 1 is correct. 3) More than three boxes are there between pink and silver colour box. More than three boxes are there between yellow and pink colour box. Hence, three boxes are there between green and silver colour box.
+
+Q.53) Ans: (e)
+EXP: Box – P, Q, R, S, T, V and W Colour- Black, silver, red, pink, yellow, white and green 1) There are two boxes between the box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is immediately above the box W. Case 1: Case 2: 2) Box S is immediately above yellow colour box. T is of red colour box. This is not possible in case 2. So, case 1 is correct. 3) More than three boxes are there between pink and silver colour box. More than three boxes are there between yellow and pink colour box. Hence, box Q is of pink colour.
+
+Q.54) Ans: (c)
+EXP: Box – P, Q, R, S, T, V and W Colour- Black, silver, red, pink, yellow, white and green 1) There are two boxes between the box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is immediately above the box W. Case 1: Case 2: 2) Box S is immediately above yellow colour box. T is of red colour box. This is not possible in case 2. So, case 1 is correct. 3) More than three boxes are there between pink and silver colour box. More than three boxes are there between yellow and pink colour box. Hence, box R is placed immediately above red colour box.
+
+Q.55) Ans: (a)
+EXP: Box – P, Q, R, S, T, V and W Colour- Black, silver, red, pink, yellow, white and green 1) There are two boxes between the box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is immediately above the box W. Case 1: Case 2: 2) Box S is immediately above yellow colour box. T is of red colour box. This is not possible in case 2. So, case 1 is correct. 3) More than three boxes are there between pink and silver colour box. More than three boxes are there between yellow and pink colour box. Hence, four boxes are there between box W and box Q.
+
+Q.56) Ans: (a)
+EXP: Only conclusion I follows from the given statement. We have been told that the PRI has dominated Mexico’s politics for the better part of a century, from which we can easily conclude that they’ve won most of the elections that have been held in Mexico in the last 100 years. Conclusion II does not follow because we do not know for certain of the PRI is going to lose in the coming elections. The statement tells us that the ruling party seems to be at a risk of defeat. Conclusion II does not follow as we do not know the reasons for assuming that the ruling party might not win the upcoming elections. Therefore, option A is the correct answer.
+
+Q.57) Ans: (d)
+EXP: The given statement states that the Rs 500 and 1000 notes were banned with the purpose of curtailing the shadow economy and impeding the use of illegal and fake currency that funds illegal activities and terrorism. From this, we cannot jump to an argument that talks about tackling corruption or one which claims demonetisation to be a failure. Thus, neither of the two arguments can be termed valid. Thus, option D is the correct answer.
+
+Q.58) Ans: (a)
+EXP: The given statement says that due to climate changes sea levels are rising and because of this, more than three hundred thousand homes will get flooded every two weeks in the next 30 years. I is an obvious deduction – people who live near the coastlines will be financially and emotionally affected. And II statement may look like an inference but it actually a course of action. A course of action is a procedure to deal with a situation. Second statement layout plan to minimize the effect of green house gas on sea level.
+
+Q.59) Ans: (d)
+EXP: The following facts can be gathered from the given paragraph: 1. The trains of the Mumbai suburban railways run overcrowded. 2. Accidents occur owing to overcrowded trains. 3. The strikers claim to continue the strike unless the authorities agree to increase the frequency of the trains in those routs. Point 3 indicates that the authorities have not agreed to increase the frequency of the trains in the routes where accidents are common. Thus, we can infer that the railways did not increase the frequency of trains in proportion to the increase in the number of commuters in the past year.
+
+Q.60) Ans: (c)
+EXP: Both inferences I and II follow. The given statement says that digital payments have grown in popularity since the government scrapped large value banknotes more than a year ago. We can easily infer that people must have found the new mode of payment easy and convenient, which is why they stuck to this method even after more than a year. Therefore, option C is the correct answer.
+
+Q.61) Ans: (b)
+EXP: Ratio of male and female doctors together in college B to college C= (120+140):(400+240)= 13:32
+
+Q.62) Ans: (c)
+EXP: Required sum = 200+170+180+210+360+310= 1430
+
+Q.63) Ans: (a)
+EXP: Female doctors in college D= 25% of 640 = 160 No. of male doctors in college D= 400+12.5% of 400= 450 So, Total doctors in college D= 160+450 = 610
+
+Q.64) Ans: (e)
+EXP: Required average=(130+140+240)/3= 170
+
+Q.65) Ans: (c)
+EXP: Female doctors and engineers in college C= 550 total male doctors and engineers in college A= 680 Required%=(680-550)\*100/680= 19%(approx.)
+
+Q.66) Ans: (d)
+EXP: Difference= 210-180=30
+
+Q.67) Ans: (c)
+EXP: Let the original no. be x less than 260. According to question (260 – x) 7=(260+ x) ⇒ x= 195 ∴ original no. 260 – 195= 65 Required no.= = 20.8
+
+Q.68) Ans: (b)
+EXP: CPB= 180+ CPA Given(40 – 25)= units= 180 Rs ∴ CP of A= 25 units= 300 Rs
+
+Q.69) Ans: (c)
+EXP: So, required difference= 60 – 50= 10 yrs.
+
+Q.70) Ans: (d)
+EXP: Ratio of radii= 2/1: 3/2= 4:3
+
+Q.71) Ans: (e)
+EXP: Speed of train A=(240+480)/24= 30 m/s Required time=(240+200)/(30+30)= 7 secs(approx.)
+
+Q.72) Ans: (d)
+EXP: 13 × 2 – 4= 22 22 × 2 – 4= 40 40 × 2 – 4= 76 76 × 2 – 4= 148 148 × 2 – 4= 292 292 × 2 – 4= 580
+
+Q.73) Ans: (d)
+EXP: The pattern of the series is:
+
+Q.74) Ans: (e)
+EXP: The pattern of the series is:
+
+Q.75) Ans: (a)
+EXP: The pattern of the series is: 26+ 3= 29 29 – 7= 22 22+ 3= 25 25 – 7= 18 18+ 3= 21 21 – 7= 14
+
+Q.76) Ans: (b)
+EXP: Statement I. A+B+C+D= 42\*4= 168 We can’t find answer from this statement. Statement II. B+C= 40\*2= 80 –(i) B-28= 28-A or, A+B= 56----(ii) C-32= 32-A or, C+A= 64----(iii) From equations i,ii and iii, A+B+C= 80+56+64/2=100 Hence, C=(A+B+C) –(A+B)= 100-56 = 44 We can find answer from this statement.
+
+Q.77) Ans: (d)
+EXP: (6M+10W)10=(8M+20W)6 OR, 3M= 5W From 1st statement, we can find that 6M = 10W So,(10+10=20) women can complete the work in 10 days. Hence, 4 men and 4 women= 20/3 women can complete the work in 30 days
+
+Q.78) Ans: (b)
+EXP: Let father’s present age= F Mother’s present age= M A’s present age=A F:A= 3:1 Data in Statement I alone are sufficient to answer the question. Statement II: F+A= M+A+8 F= M+8 Putting the value of F in form of M, M= 28 After 12 years, Mothers age= 28+12= 40 Data in Statement II alone are sufficient to answer the question.
+
+Q.79) Ans: (a)
+EXP: Statement I: Side of the square= So, length of diagonal of square= 18 m So, length of rectangular field= 18 m Breadth= Area= 18 x 12= 216 Required cost= 216 x 12= Rs. 2592 So, statement I alone is sufficient to answer the question. Statement II: Side of square= Perimeter= 256 m So, perimeter of rectangular field= 256 – 40=216 m We can’t find the area of rectangular field So, statement II alone is not sufficient to answer the question. Thus, the data in Statement I alone are sufficient to answer the question, while the data in Statement II alone are not sufficient to answer the question So option(A) is the correct answer.
+
+Q.80) Ans: (e)
+EXP: Required percent =
+
+Q.81) Ans: (b)
+EXP: Required average= = 720.
+
+Q.82) Ans: (b)
+EXP: Required ratio=(600+ 360):(480+ 640)= 960: 1120= 6: 7.
+
+Q.83) Ans: (d)
+EXP: Required difference=(700+ 820) – (600+ 440)= 1520 – 1040= 480.
+
+Q.84) Ans: (e)
+EXP: Required number of movies= 30% of 480+ 20% of 640= 144+ 128= 272.
+
+Q.85) Ans: (a)
+EXP: Let the MP of watch= 100 20% of 100= 80 Sohan sold this watch at the profit of 12.5%: 80 × = 90 90 unit= 2700 1 unit= 30 Discount= 20 × 30= 600
+
+Q.86) Ans: (d)
+EXP: According to the question: C+ B= 1260.........(i) C – B= 180.........(ii) From equation(i) And(ii) 2C= 1440 C= 720 And, B= 540 ratio of time: : 16: 9
+
+Q.87) Ans: (e)
+EXP: Let the required time= H hours The pipe C can empty the one-fourth of the tank in 8 hours, then The pipe C can empty the tank in 8 × 4= 32 hours According to question H( )= Ã H( )= Ã H= = 6
+
+Q.88) Ans: (e)
+EXP: 
+
+Q.89) Ans: (c)
+EXP: 4S+ 3T= 1700...........(i) S= T(1+ )= Own solving each(i) and(ii) S= 275 T= 200 Difference 275 – 200= 75
+
+Q.90) Ans: (b)
+EXP: Initially the Labour used to earn Rs.18,000 for 300 hours. Wages per hour of the Labour= = 60 Rs./hour Wages of a labourer are increased by 15% Wages of the Labour now= 60+ 15% of 60= 60+ 9= Rs.69 per hour Working hours are also increased by 9% Working hours of the Labour now= 300 + 9% of 300= 300+ 27= 327 hours Monthly earnings of the Labour now= 69 × 327 = Rs.22,563
+
+Q.91) Ans: (d)
+EXP: The"habitat and biodiversity loss" suggesting"humans to more zoonotic diseases seems contextually absurd". The verb'expose' means'cause someone to be vulnerable or at risk' and is more appropriate at B. Similarily,"a key programme to study the spread of these diseases" will suggest(to produce an idea in the mind) ways to control them. So, words at B and D need to be exchanged. We need a verb at(C). The verb'spread'(the development or growth of something) is appropriate at C. So, words at A and C need to be exchanged. So, the correct answer is D.
+
+Q.92) Ans: (c)
+EXP: The meaning of the following words: Multicultural: relating to or containing several cultural or ethnic groups within a society Curriculum: syllabus Ethnic: relating to a population subgroup (within a larger or dominant national or cultural group) with a common national or cultural tradition. Investors: people or organizations that put money into financial schemes, property, etc. with the expectation of achieving a profit. A school can have a syllabus which has a multicultural ethos. Similarly, the word ethnic needs to be replaced with investors to make sense. Words at positions A& B and D& E need to be exchanged to make the sentence grammatically and contextually correct. Thus option C is the correct answer.
+
+Q.93) Ans: (d)
+EXP: The word ‘diverse’ means ‘very different’. Since there is one world, there can’t be difference in it. The population, on the other hand, can be diverse as there is so many types of people. Thus, A and E needs to be exchanged. Word B needs to be exchanged with D. The ‘is’ verb after word B states that the noun must be singular. Thus, words at positions A& E and B& D need to be exchanged to make the sentence grammatically and contextually correct. Thus option D is the correct answer.
+
+Q.94) Ans: (b)
+EXP: The preposition ‘at’ states that outpatient ____________ must a place where patients visit. Thus, the word C must be replaced with the D to make sense. Word D fits in place of C as well. Thus, Words at position C& D need to be exchanged to make the sentence grammatically and contextually correct. Option B is the correct answer.
+Q.95) Ans: (d)
+EXP: The word ‘delicate’ is an adjective which only qualifies a noun. ‘Comment’ here is verb and hence the adjective delicate can’t qualify it. The word A needs to be exchanged with a noun. The only noun in the rest of the option is D. Thus, words at position A& D need to be exchanged to make the sentence grammatically and contextually correct.
+
+Q.96) Ans: (b)
+EXP: C& F cannot be joined as they combine to form the phrasal verb ‘set off’ which means to start on a trip. The correct sentence would have been ‘I have no idea how to set about changing a tyre on a car’. Part A ends with the preposition with ‘about’ which means ‘on the subject of; concerning’. The apt noun to follow the preposition is ‘the author’ provided in part E. So, A& E can be aptly combined to form a sentence. B& D can be aptly combined to form a sentence as well. The phrase ‘cutting edge’ means ‘the most recent stage in the development of something’. So, the correct option is B.
+
+Q.97) Ans: (e)
+EXP: In part B, the verb ‘ensures’ does not agree with the subject ‘we’. So, B cannot be used to form a grammatically correct sentence. Similarly, in part F, the auxiliary ‘are’ does not agree with the noun ‘charge’. So, F also cannot be used to form a grammatically correct sentence. C& D can be used to form a correct sentence, but since there is no option stating, ‘only C-D’, our correct option will be E.
+
+Q.98) Ans: (d)
+EXP: Part A is a clause in itself. In order to add a subordinate clause, a conjunction is needed. It fits perfectly with part E, which has the conjunction ‘and’. Thus A-E makes a pair. Part B has no perfect pair and cannot be connected to any other sentences. Statement D and F do not have any conjunction. In case of part E, it will not connect due to rules of parallelism. Part C ends with the article ‘the’. Thus, it needs to be followed by a noun. Thus, it fits perfectly with part F as the statement begins with the noun ‘availability’. Thus, A-E and C-F can be joined to make a perfect pair. The correct option is D.
+
+Q.99) Ans: (a)
+EXP: The passage revolves around the topic of ill methods and impractical belief of the officials awarding GIs(Geographical Indications). The most appropriate statement to open the passage is C which mentions that"the officials believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance". C quotes this as a silly reason and thus will follow D. Statement A makes use of the pronoun'they' referring to officials and reiterates the fact that they have worked against the rules. So, A will follow D. FE is a logical pair with the two statements presenting contrasting points, one mentioning the original purpose of the Tag while the other presenting a mistaken belief. E is the fixed statement and thus can only be followed by B. So, the correct order is CDAFEB.
+
+Q.100) Ans: (d)
+EXP: The passage revolves around the topic of ill methods and impractical belief of the officials awarding GIs(Geographical Indications). The most appropriate statement to open the passage is C which mentions that"the officials believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance". C quotes this as a silly reason and thus will follow D. Statement A makes use of the pronoun'they' referring to officials and reiterates the fact that they have worked against the rules. So, A will follow D. FE is a logical pair with the two statements presenting contrasting points, one mentioning the original purpose of the Tag while the other presenting a mistaken belief. E is the fixed statement and thus can only be followed by B. So, the correct order is CDAFEB.
+
+Q.101) Ans: (e)
+EXP: The passage revolves around the topic of ill methods and impractical belief of the officials awarding GIs(Geographical Indications). The most appropriate statement to open the passage is C which mentions that"the officials believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance". C quotes this as a silly reason and thus will follow D. Statement A makes use of the pronoun'they' referring to officials and reiterates the fact that they have worked against the rules. So, A will follow D. FE is a logical pair with the two statements presenting contrasting points, one mentioning the original purpose of the Tag while the other presenting a mistaken belief. E is the fixed statement and thus can only be followed by B. So, the correct order is CDAFEB.
+
+Q.102) Ans: (b)
+EXP: The passage revolves around the topic of ill methods and impractical belief of the officials awarding GIs(Geographical Indications). The most appropriate statement to open the passage is C which mentions that"the officials believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance". C quotes this as a silly reason and thus will follow D. Statement A makes use of the pronoun'they' referring to officials and reiterates the fact that they have worked against the rules. So, A will follow D. FE is a logical pair with the two statements presenting contrasting points, one mentioning the original purpose of the Tag while the other presenting a mistaken belief. E is the fixed statement and thus can only be followed by B. So, the correct order is CDAFEB.
+
+Q.103) Ans: (c)
+EXP: The passage revolves around the topic of ill methods and impractical belief of the officials awarding GIs(Geographical Indications). The most appropriate statement to open the passage is C which mentions that"the officials believe that they have the mandate to push up the number of GIs it awards, while blithely ignoring the rules that govern its issuance". C quotes this as a silly reason and thus will follow D. Statement A makes use of the pronoun'they' referring to officials and reiterates the fact that they have worked against the rules. So, A will follow D. FE is a logical pair with the two statements presenting contrasting points, one mentioning the original purpose of the Tag while the other presenting a mistaken belief. E is the fixed statement and thus can only be followed by B. So, the correct order is CDAFEB.
+
+Q.104) Ans: (c)
+EXP: The meanings of the words are: Abandoning: desert or leave something or someone. Ensuring: make sure something will happen. The statement talks about how countries are making the animals move, and ironically, they are not making it easy for their movement. The word which fits in the first blank is ‘forcing’ as climate change forces one to make necessary action. The other words won’t fit here.
+
+Q.105) Ans: (b)
+EXP: The meanings of the following words are: Amends: compensate or make up for a wrongdoing Plots: a plan made in secret by a group of people to do something illegal or harmful Gauge: an instrument that measures and gives a visual display of the amount, level, or contents of something Atone: make amends or reparation The statement talks about making things right as soon as possible or we won’t be able to save humanity. Thus, the words which can go in the second blank is ‘atone’ or ‘amends’. However, the phrase ‘make amends’ fits appropriately in the given blank. Thus, the correct answer is option B.
+
+Q.106) Ans: (e)
+EXP: The meanings of the following words are: Daunting: seeming difficult to deal with in prospect Craving: powerful desire to do something Heartening: increasing cheerfulness Scraping: the action or sound of something scraping or being scraped The only ‘word’ which fits the blank is ‘using’. The rest of the options are invalid. The correct answer is option E.
+
+Q.107) Ans: (d)
+EXP: The meanings of the following words are: Outgrowing: grow too big for Illustrating: explain with examples Warping: to make or to become bent or twisted out of shape, typically as a result of the effects of heat or damp Abusing: misuse repeatedly Depraving: make someone immoral Out of the given options, option D fits contextually as one pollutes and in results misuse the environment. The correct answer is option D.
+
+Q.108) Ans: (a)
+EXP: The meanings of the following words are: Amplifies: make(something) more marked or intense misemploys: employ or use(something) wrongly or improperly expounded: present and explain(a theory or idea) in detail elucidates: make something clear clucks:(of a person) make a short, low sound with one's tongue to express concern or disapproval As we are talking about thing which increases climate change, option A fits in the blank perfectly. Thus, option A is the correct answer.
+
+Q.109) Ans: (c)
+EXP: The meanings of the following words are: Illuminates: to light up Transitive: ability to pass across or through Choices: an act of choosing between two or more possibilities Reasoning: to do or think something in a logical way Prophecies: predictions about what will happen in the future Out of the given options, option C fits the blank as one has to make conscious ‘choice’. The other words do not fit contextually.
+
+Q.110) Ans: (d)
+EXP: The given sentence talks about the prevailing nature of ‘electoral bonds’ in spite of concerns and doubts regarding the same. The sentence goes on to explain that this is occurring because of rhetorical claims by someone. From the options it is clear that the ruling part is responsible for these ‘rhetorical claims’. Option i – ‘backing’ means help or support and has been used in conjunction with the correct tense format of the sentence. Option ii – ‘endorsement’ also means help or support and it tallies with the sentence structure. Option iii – although ‘backed’ has been used it is in the incorrect tense form. This makes it incorrect. Thus, option D is the correct answer.
+
+Q.111) Ans: (c)
+EXP: The given sentence talks about the testification by ‘impeachment’ experts. The ‘misconducts’ have provided a form of example for impeachment which is constitution approved. Usage of ‘perfect example’ or ‘textbook case’ is correct in this situation. But ‘correct case’ does not make the issue clear. Thus, option C is the correct answer.
+
+Q.112) Ans: (d)
+EXP: The word ‘regardless’ means ‘despite the prevailing circumstances. Thus, statement i is synonymous to statement ii. Both the statement will have the same meaning. The correct answer is option D.
+
+Q.113) Ans: (a)
+EXP: When ‘since’ is used as a conjunction, it is used to introduce a reason. Statement ii and iii does not make sense. Only statement i fits the blank which gives reason why hunters and gatherers ate fruit sporadically. Thus, option A is the correct answer. So, the correct answer is A.
+
+Q.114) Ans: (c)
+EXP: In case of part ii, the phrase ‘due to’ means ‘because of’. Thus, it makes sense and is grammatically correct. In case of part i, Preposition ‘in’ does not make sense. Instead, preposition ‘with’ makes sense as explains that with the rise of cloud based blockchain services, experimentation is easier. Thus, the correct answer is option C.
+
+Q.115) Ans: (c)
+EXP: Statements I and II are incorrectly inferred according to the passage. In case of statement I, the passage states, in the very beginning, that: “Today, this disappearing act is referred to as “ghosting,” and it’s a practice that’s becoming more prevalent among applicants. Now the tables have turned. It’s employees who more and more often are ghosting employers. With the unemployment rate at a low 3.5%, job seekers are optimistic about the job market, so much so that 28% of job seekers have backed out of an offer after accepting it, with 44% of those doing so for another, more attractive proposition, according to a study.” In case of statement II, the passage states that"candidates who are no longer interested in pursuing opportunities communicate that to hiring managers, whether in the form of an email or a phone call. When the average cost-per-hire is$4,425, the sooner, the better.” Thus, it cannot be inferred hence it is incorrect. The only statement which can be inferred is correctly is III as the passage states: “if any, negative repercussions, McDonald says it’s only a matter of time before their actions catch up to them. Once job seekers ghost, they burn bridges, ones that can be challenging to repair, and with every future job search will come the chance of running into someone from their past.” Thus, option C is the correct answer.
+
+Q.116) Ans: (b)
+EXP: Option A is true as the passage states: “. Research from Indeed found that of the 83% of employers who report having been ghosted, 65% say the candidate accepted their offer but failed to show up on day one.” Option C is true as: “...Indeed found that 94% of job seekers who have ghosted say they’ve not experienced many, if any, negative repercussions.” Option D is true as: “McDonald advises that companies stay in constant communication with candidates to minimize the likelihood of them being a no-show. Once they accept, hiring managers should continue correspondence, whether through emails, texts, phone calls or even in-person meetings.” Option E is true as the passage states: “With the unemployment rate at a low 3.5%, job seekers are optimistic about the job market,” The only statement which is false here is option B as ‘ghosting’ means complete disconnection from the employer. Thus, it is not true and the correct answer.
+
+Q.117) Ans: (d)
+EXP: The passage clearly talks about the rate and how employees after getting selected in the company does not revert back to the latter. It points to various reasons which might lead to the employees’ decision. Thus, the correct option is D.
+
+Q.118) Ans: (a)
+EXP: The meaning of the following phrases: Vanishing into thin air: disappear suddenly and completely As smooth as butter: extremely smooth and without difficulty Over the moon: extremely happy Fat chance: the chance of happening very little or none at all Option C is not an idiom. As option A is the most similar, it is the correct answer.
+
+Q.119) Ans: (b)
+EXP: A is false as the passage states that unemployment rate is low. C is not mentioned in the passage. D is false as well because while hiring even though the employers follow back, the possible employee cuts all contacts and vanish into the void. Option E is not mentioned. Out of all the options only option B is mentioned in the passage which states that: “If multiple companies are pursuing one candidate, he or she may accept the first offer, set a start date and then receive and accept a second offer without letting the first company know.” Thus, option B is the correct answer.
+
+Q.120) Ans: (b)
+EXP: The meaning of the following tones: Speculative-one where a lot of speculations are made. Grandiose- a passage written in a descriptive or abstract style. Factual: concerned with what is actually the case Reflective: relating to or characterized by deep thought; thoughtful Nostalgic: feeling, evoking, or characterized by nostalgia The passage talks about the various facts of the ghosting in the job sectors. Thus the correct answer is option B.
+
+Q.121) Ans: (d)
+EXP: • Credit Saison India has received a licence from the Reserve Bank of India (RBI) to set up a non-banking financial company (NBFC) in Bengaluru, Karnataka. • It has begun operations in October 2019. • It is the domestic subsidiary of Japanese financial services leader Credit Saison.
+
+Q.122) Ans: (c)
+EXP: • Senior Bharatiya Janata Party(BJP) leader Lalji Tandon was sworn in as the 22nd Governor of Madhya Pradesh. • He was administered oath by the Madhya Pradesh High Court Chief Justice Ravi Shankar Jha at a function in Raj Bhawan, Bhopal in the presence of Chief Minister Kamal Nath, state ministers and bureaucrats.
+
+Q.123) Ans: (b)
+EXP: • The Royal Swedish Academy of Sciences(RSAS) has awarded the 2019 Nobel Prize in the field of chemistry to John B Goodenough(97), M Stanley Whittingham(77) and Akira Yoshino(71) for their pivotal role in making lithium-ion batteries. • The trio shares the prize money of 9 million kronor(£738,000).
+
+Q.124) Ans: (a)
+EXP: • The 50th World Economic Forum(WEF) Annual Meeting will be held on 21-24 January 2020, in Davos-Klosters, Switzerland. • WEF annual meetings aim to engage world leaders in collaborative activities to shape the global, regional, and industry agendas at the beginning of each year.
+
+Q.125) Ans: (c)
+EXP: • Indian Army and the Maldives National Defence Force participated in a Joint Military Exercise called'Ekuverin' at Aundh Military Station in Pune, Maharashtra. • This year was the tenth edition of the joint military exercise which was organised from 7 to 20 October 2019.
+
+Q.126) Ans: (d)
+EXP: • Indian cricketer Rohit Sharma has launched “Rohit4Rhinos campaign” in partnership with WWF India and Animal Planet to spread awareness about the conservation of the one-horned rhinos or Indian rhinos. • This rhino conservation campaign was launched on September 22 on World Rhino Day. • The one-horned rhinoceros, the state animal of Assam, faces several threats, including poaching, habitat loss and mortality from in-breeding and disease.
+
+Q.127) Ans: (b)
+EXP: • Capital market regulator SEBI has planned to ease its norms for'Muni Bonds' to help smart cities and other registered entities working in areas of city planning and urban development work, like municipalities, raise funds through issuance and listing of their debt securities.
+
+Q.128) Ans: (d)
+EXP: • The Securities and Exchange Board of India(SEBI) has constituted a working group on Social Stock Exchanges(SSE) under the chairmanship of Ishaat Hussain, Director, SBI Foundation. • The other members of the working group are TV Mohandas Pai, Chairman of Manipal Global Education; Roopa Kudva, MD, Omidyar Network India; Amit Chandra, Chairman, Bain Capital; Saurabh Garg, Principal Secretary to Government of Odisha; Shamika Ravi, Director of Research, Brookings India; Vineet Rai, Founder and MD; and Aavishkaar Venture Management Services among others. • The working group shall examine and make recommendations with respect to possible structures and mechanisms, within the securities market domain, to facilitate the raising of funds by social enterprises and voluntary organizations.
+
+Q.129) Ans: (b)
+EXP: • Piyush Goyal has been given the charge of Railways, Commerce and Industry ministries in Modi's new cabinet. • He is Rajya Sabha MP from Maharashtra. • The 54-year-old chartered accountant is known for his corporate network developed during his days as an investment banker and is considered to be a key backroom strategist who played a significant role in resource mobilisation of the party.
+
+Q.130) Ans: (d)
+EXP: • Gully Boy is a 2019 Indian Hindi-language musical drama film directed by Zoya Akhtar, and written by Zoya Akhtar and Reema Kagti. • The film is produced by Ritesh Sidhwani, Zoya Akhtar and Farhan Akhtar under the banners of Tiger Baby Films and Excel Entertainment productions, with Nas as an executive producer.
+
+Q.131) Ans: (a)
+EXP: • The Indian Space Research Organisation(ISRO) has initiated ‘Project NETRA’ – an early warning system in space to detect debris and other hazards to Indian satellites. • The project is estimated to be worth of Rs. 400 Crore. • NETRA is a network of observational tools like telescopes and radars, which will be connected to a data processing units and a control centre, which have the ability to track objects/debris as small as 10cm upto a range of 3400km and also equal to space orbit of 2000k m. • NETRA’s goal is to capture the geosynchronous equatorial orbit(GEO) at 36,000 km where communication satellites operate.
+
+Q.132) Ans: (c)
+EXP: • Rashtriya Ekta Diwas 2019(National Unity Day) was celebrated all across the country on 31st October to commemorate the 144th birth anniversary of Sardar Vallabhbhai Patel. • Sardar Patel played an instrumental role in India’s struggle for independence, and later during the integration of the country. • At the time of independence, Sardar Vallabhbhai Patel played a key role in convincing several princely states to align with the Indian Union. The day of his birth, therefore, celebrates his efforts and contributions.
+
+Q.133) Ans: (a)
+EXP: • World Teachers’ Day or International Teachers’ Days is being celebrated all across the world on October 5. • It is being held annually since 1994 to commemorates the anniversary of the adoption of the 1966 ILO/UNESCO Recommendation concerning the Status of Teachers. • The Recommendation concerning the Status of Higher-Education Teaching Personnel was adopted in 1997 to complement the 1966 Recommendation by covering teaching and research personnel in higher education. • World Teachers’ Day is co-convened in partnership with UNICEF, UNDP, the International Labour Organization, and Education International. • This year’s International Teachers’ Day Theme is “Young Teachers: The future of the Profession.”
+
+Q.134) Ans: (c)
+EXP: • The Kamlang Wildlife Sanctuary, established in 1989, is rich in flora and fauna. • It is situated in the Lohit District of the northeastern Indian state of Arunachal Pradesh. The park is named after the Kamlang River which flows through it. • The Mishmi, Digaru, and Mizo tribal people who reside around the periphery of the sanctuary claim their descent from the King Rukmo of the epic Mahabharata. •
+
+Q.135) Ans: (e)
+EXP: • The world's largest solar power park, the Pavagada Solar Park in Karnataka, has now become entirely operational. • Located in Karnataka's Tumakuru district, the project has been developed by the Karnataka Solar Park Development Corporation Limited(KSPDCL), a joint venture between the Solar Energy Corporation of India(SECI) and the Karnataka Renewable Energy(KREDL).
+
+Q.136) Ans: (b)
+EXP: • The Railway ministry, Department of Science& Technology and IIT-Kanpur have forged an association on a project on'Industry 4.0', which includes a host of digital technologies like artificial intelligence, Big Data, machine learning and cloud computing.
+
+Q.137) Ans: (c)
+EXP: • England wicket-keeper Sarah Taylor has announced her retirement from international cricket. • The 30-year-old made 226 appearances for her country after making her debut in 2006. • Perhaps the finest pure keeper in the world, no other woman has effected more dismissals than Taylor's 232 across the three formats.
+
+Q.138) Ans: (b)
+EXP: • The government had approved Rs 9,300 crore capital infusion into IDBI Bank to increase the lender's capital base. capital to the government and Life Insurance Corporation(LIC) totalling up to Rs 4,557 crore and Rs 4,743 crore respectively. • The decision is subject to customary regulatory approvals.
+
+Q.139) Ans: (a)
+EXP: • The 1st Edition of the World Cotton Day (WCD) was observed on October 7, 2019. • It was organized by the World Trade Organization(WTO) as an initiative of the Cotton-4(C4) countries(Benin, Burkina Faso, Chad and Mali) in collaboration with the United Nations Food and Agriculture Organization(FAO), the United Nations Conference on Trade and Development (UNCTAD), the International Trade Centre(ITC) and the International Cotton Advisory Committee(ICAC). • The 5 day WCD programme was held in Geneva, Switzerland from October 7-11, 2019.
+
+Q.140) Ans: (a)
+EXP: • Thirty years ago in 1985, East German athlete Marita Koch ran the 400m in a world record time of 47.6 seconds. • Koch's record, set at the World Cup in Canberra, Australia, has been the subject of much debate in the intervening 30 years. • No-one has come close to breaking it;
+
+Q.141) Ans: (b)
+EXP: • As per the announcement made by Finance Minister Nirmala Sitharaman, OBC and UBI are merged with PNB, making the proposed entity the second largest public sector bank. • Also, Syndicate Bank is merged with Canara Bank, while Allahabad Bank with Indian Bank.
+
+Q.142) Ans: (a)
+EXP: • The Ratapani Tiger Reserve, located in the Raisen district of Madhya Pradesh, in Vindhya Range in central India, is one of the finest teak forests in the state and is less than 50 km. away from the capital Bhopal. It has been a wildlife sanctuary since 1976.
+
+Q.143) Ans: (b)
+EXP: • Life Insurance Council has decided to launch the Indian life insurance industry’s first joint mass media campaign with the slogan ‘Sabse Pehle Life Insurance’. • Its total cost will be around Rs 100 crore. • For this purpose, Life Insurance Corporation(LIC) of India will provide Rs 40 crore. It will be a joint effort of 24 Indian life insurance companies.
+
+Q.144) Ans: (a)
+EXP: • India takes over COP Presidency from China for next two years • India will highlight its leadership in navigating the land management agenda at global level. • India is privileged to be among the select few countries to have hosted the COP of all three Rio conventions on climate change, biodiversity and land. Through hosting COP 14, India will highlight its leadership in navigating the land management agenda at global level. It will also provide a stage to mainstream sustainable land management in country’s national development policies.
+
+Q.145) Ans: (d)
+EXP: • The People's Liberation Army(PLA) is the armed forces of the People's Republic of China(PRC) and of its founding and ruling political party, the Communist Party of China(CPC). • The PLA consists of five professional service branches: the Ground Force, Navy, Air Force, Rocket Force, and the Strategic Support Force.
+
+Q.146) Ans: (b)
+EXP: • Council researchers in partnership with UNICEF and the Ministry of Health and Family Welfare, India, are conducting the first Comprehensive National Nutrition Survey to assess the malnutrition burden amongst children and adolescents in India.
+
+Q.147) Ans: (c)
+EXP: • Renowned kidney transplant surgeon and Padma Shri recipient Dr Hargovind Laxmishanker Trivedi passed away due to age-related illnesses. • He was awarded Padma Shri, the fourth highest civilian award, in 2015 for his contribution as a nephrologist to the society. • He was the founder-director of the Institute of Kidney Diseases and Research Center in Ahmedabad, Gujarat.
+
+Q.148) Ans: (c)
+EXP: • The 5th edition of the World Parliament of Science, Religion and Philosophy has been organized by the MIT World Peace University in Pune on October 2, 2019. • The theme of the 5-day event for year 2019 is'Role of science, religion and philosophy for world peace and well-being of mankind'. • The aim of the Parliament was to create and promote interfaith and inter-religious movement for World Peace.
+
+Q.149) Ans: (b)
+EXP: • The Courage in Journalism Awards is awarded by the International women’s media foundation. • It honors the brave journalists who report on taboo topics, work in environments hostile to women, and share difficult truths. • The IWMF also recognize the pioneers who kicked down barriers to make it possible for women all over the world to find their voices and make them heard. Lifetime Achievement Award winners persevered, opening doors for future generations to make a difference. These women demonstrate a commitment to press freedom and extraordinary strength of character, overcoming unjust conditions to become leaders in their industry. • So far, we have honored more than 100 groundbreaking journalists in 56 countries.
+
+Q.150) Ans: (b)
+EXP: • Defence Minister Rajnath Singh commissioned India's attack submarine INS Khanderi into the Indian Navy in a ceremony held at the Mazagon Docks in Mumbai. • The commissioning was marked by the hoisting of the Indian National Flag on the flagpost of the submarine. • The INS Khanderi is the second attack submarine that has been commissioned into the Indian Navy under the P-75 project. • In 2017, another submarine INS Kalvari had already been inducted into the Navy. The submarine has been manufactured by Mazagon Dock Shipbuilders Limited in Mumbai.
+
+Q.151) Ans: (b)
+EXP: • Italian journalist Paolo Borrometi, who was assaulted over his coverage of mafia activity in Sicily and now living under police protection, has won the prestigious 2019 Peter Mackler Award for Courageous and Ethical Journalism at the Craig Newmark Graduate School of Journalism.
+
+Q.152) Ans: (d)
+EXP: • The Indian Army conducted a massive rare exercise'Chang Thang’ in the Eastern Ladakh bordering China. • The exercise was conducted at a high altitude area in the region for testing and improving its war-fighting capabilities. • This is the first time such kind of exercise has happened in the region.
+
+Q.153) Ans: (c)
+EXP: • Managing Director(MD) and CEO(Chief Executive Officer) of Lakshmi Vilas Bank Parthasarathi Mukherjee has announced his resignation citing personal reasons. • Earlier, the Reserve Bank of India(RBI) is considering a proposal of merger of Indiabulls Housing Finance with Lakshmi Vilas Bank. • On 5 April 2019, the board of Lakshmi Vilas Bank approved a merger of the bank with the country's second largest housing finance company, Indiabulls Housing Finance Ltd. • Lakshmi Vilas Bank Limited was founded in 1926 by a group of seven businessmen of Karur under the leadership of Shri V.S.N. Ramalinga Chettiar. • Lakshmi Vilas Bank is headquartered at Chennai, Tamil Nadu.
+
+Q.154) Ans: (d)
+EXP: • Vietnam has inaugurated Southeast Asia's largest solar power farm which has the capacity to produce 688 million kWh of electricity per year. • The Dau Tieng Solar Power Complex is a joint venture with the Thai industrial group B.Grimm Power Public Company and has an investment of more than USD 391 million. • It is expected to generate 10% of the country's solar energy to guarantee supply to 320,000 homes. • It will also prevent the emission of 595,000 tons of carbon dioxide into the atmosphere every year.
+
+Q.155) Ans: (b)
+EXP: The International Atomic Energy Agency (IAEA) is an International organisation that seeks to promote the peaceful use of nuclear energy, and to inhibit its use for any military purpose, including nuclear weapons. The IAEA has its headquarters in Vienna, Austria.
+
+Q.156) Ans: (b)
+EXP: \* Reserve Bank of India comes out with draft norms for ‘on-tap’ licensing of Small Finance Banks. \* The RBI may allow existing payments banks to convert into small finance banks (SFBs) if they meet the eligibility criteria, according to the RBI’s draft guidelines for ‘on-tap’ licensing for SFBs. \* In the draft guidelines for SFBs, the RBI has proposed doubling the minimum paid-up equity capital to ₹200 crore and lowering the promoter’s stake to 15 per cent in 15 years. \* To encourage urban co-operative banks (UCBs) to convert into SFBs, the RBI has pegged the minimum net worth lower at ₹100 crore from the date of commencement of business.
+Q.157) Ans: (c)
+EXP: The United Nations Human Settlements Programme is the United Nations programme for human settlements and sustainable urban development. It was established in 1978 as an outcome of the First UN Conference on Human Settlements and Sustainable Urban Development held in Vancouver, Canada, in 1976. The headquarters of UN-Habitat is located in Nairobi, Kenya
+
+Q.158) Ans: (c)
+EXP: ● The Nobel Prize for Physics has been awarded to James Peebles for theoretical discoveries in physical cosmology, and Michel Mayor and Didier Queloz for discovering an exoplanet orbiting a solar-type star. ● James Peebles: Theoretical discoveries in physical cosmology ● Peebles developed a theoretical framework about the cosmos and its billions of galaxies and galaxy clusters since the mid-1960s. ● The importance of the cosmic radiation during birth of the Big Bang was realized by him. ● James Peebles also interpreted traces from the infancy of the universe and discovered new physical processes. ● The results showed a universe whose just five percent of content is known, the matter which constitutes stars, planets, trees – and us. The rest, 95 per cent, is unknown dark matter and dark energy.
+
+Q.159) Ans: (a)
+EXP: Pakyong Airport is a greenfield airport near Gangtok, the state capital of Sikkim, India. The airport, spread over 400 ha (990 acres), is located at Pakyong town The airport was inaugurated by India's Prime Minister Narendra Modi on 24th September 2018
+
+Q.160) Ans: (c)
+EXP: \* Th two-day meeting of the council of heads of government(CHG) of Shanghai Cooperation Organisation(SCO) was held in Tashkent, Uzbekistan on November 1-2.
+
+Q.161) Ans: (a)
+EXP: The book ‘The Third Pillar-How Markets and the State leave the Community Behind’ has been written by the former RBI Governor Raghuram Rajan. The new book, ‘The Third Pillar’ talks about why the economic system looks broken and how to fix it.
+
+Q.162) Ans: (c)
+EXP: • The global leader in payments technology ‘Visa’ has signed up P.V. Sindhu as an athlete member of Team Visa for the 2020 Tokyo Olympic Games. • Team Visa athletes are selected based on their expected demonstration of strong competitive performance at the Olympic and Paralympic Games, regardless of nationality and background. • Visa will provide these athletes with tools and resources including funding support and financial literacy training. Since the programme began in 2000, Team Visa has supported over 400 Olympic and Paralympic athletes and hopefuls from around the world.
+
+Q.163) Ans: (b)
+EXP: Rudrasagar Lake, also known as Rudijala, is a lake located in Melaghar, Tripura,(But the maximum area in tripura)India. The Government of India's Ministry of Environment and Forest has identifiedRudrasagar as one of the wetlands of National Importance for conservation and sustainable use based on its bio-diversity and socio-economic importance
+
+Q.164) Ans: (e)
+EXP: \* Former Indian Administrative Service (IAS) officer Radha Krishna Mathur appointed as first Lieutenant(Lt) Governor of Ladakh and Girish Chandra Murmu as the Lieutenant(Lt) Governor of Jammu& Kashmir. \* On August 05, 2019 the government of India has carved out two new UTs, Jammu& Kashmir and Ladakh from the state of Jammu and Kashmir. \* On October 31st, 2019 both the UTs were come into existence formally. \* Ladakh as UT will have no Legislative Assembly \* The newly appointed Lieutenant(Lt) Governors will succeed Satya Pal Malik.
+
+Q.165) Ans: (b)
+EXP: Saudi Arabia(first G20 meeting in the Arab world) will host the G20 summit on 21-22 November 2020 in its capital Riyadh. Note: • Italy will host the G20 Summit in 2021. • India will host the G20 Summit in 2022 when the country celebrates its 75th year of Independence. About G-20 The G20(Group of Twenty) is an international forum for the governments and central bank governors from 19 countries and the European Union. It was founded in 1999 with the aim to discuss policy pertaining to the promotion of international financial stability.
+
+Q.166) Ans: (d)
+EXP: Bollywood actor Anupam Kher has penned his autobiography titled ‘Lessons Life Taught Me, Unknowingly’.
+
+Q.167) Ans: (c)
+EXP: President Donald Trump and his Russian counterpart Vladimir Putin will hold their first summit meeting in the Finnish capital Helsinki to discuss bilateral relations. Trump will raise the subject of 12 Russians indicted for alleged hacking during the 2016 US election while Russia has denied the hacking allegations.
+
+Q.168) Ans: (c)
+EXP: • The board of Lakshmi Vilas Bank (LVB), has approved the merger of Lakshmi Vilas Bank with Indiabulls Housing Finance Ltd in an all-stock deal. • The merged entity will be known as ‘Indiabulls Lakshmi Vilas Bank’. • This will be among the top 8 private banks in India by size and profitability.
+
+Q.169) Ans: (a)
+EXP: • The 2019 IAAF World Athletics Championships was the seventeenth edition of the biennial, global athletics competition organised by the International Association of Athletics Federations. • It was held in Khalifa International Stadium, Doha, Qatar
+
+Q.170) Ans: (c)
+EXP: Reliance Mutual Fund has been renamed as “Nippon India Mutual Fund“. The organization was renamed following the purchase of 75% stake in Reliance Nippon Life Asset Management by Nippon Life Insurance. In Reliance Mutual Fund, both Reliance Capital and Nippon Life(Japan’s largest life insurance company) held 42.88% stake each, while the rest was with public shareholders.
+
+Q.171) Ans: (a)
+EXP: ● Edgar Chagwa Lungu is the President of Zambia who visited India on 21st August, 2019. ● Prime Minister Narendra Modi held delegation-level talks with Zambian President Lungu in New Delhi. ● Several agreements are also expected to be signed after the talks. ● The Republic of Zambia(Southern African country) is a landlocked country of rugged terrain and diverse wildlife, with many parks and safari areas. ● The President of Zambia is the head of state and the head of government of Zambia. ● Capital: Lusaka ● Currency: Zambian kwacha
+
+Q.172) Ans: (c)
+EXP: • India’s third-largest private sector bank, the Axis Bank has announced the launch of ‘Express FD’, a digital fixed deposit(FD) product. • It allows the customer to open an FD account in three minutes through the digital mode without opening a savings account with the bank. • ‘Express FD’ offers attractive interest rates, zero issuance fees and no penalty on pre-mature withdrawal of up to 25% of the amount. • A customer can open an Express FD account by investing a minimum Rs 5,000 up to Rs 90,000, for a tenure of 6 to 12 months.
+
+Q.173) Ans: (b)
+EXP: • According to the ‘Swachh Rail, Swachh Bharat 2019’ report, Jaipur topped the list of the cleanest railway station in India. • In the Railway Cleanliness Survey conducted by the Ministry of Railways, Jaipur Junction has come first, Jodhpur railway station ranked second and Durgapura railway station ranked at the third spot. • Since 2016, cleanliness survey is carried out by the Quality Council of India(QCI), an independent body.
+
+Q.174) Ans: (b)
+EXP: The International Day of the Girl Child (IDGC) is observed every year across the world on 11th October(8th- edition) to recognize girls’ rights and challenges girls face around the world. The theme of 2019 is “GirlForce: Unscripted and Unstoppable". The main aims of the day are to promote girl's empowerment and fulfilment of their human rights while also highlighting the challenges that girls all over the world face.
+
+Q.175) Ans: (d)
+EXP: \* Japan has launched the World's Biggest Transport Spaceship for Space Station in September 2019. \* It is named Kounotori 8. \* It is also known as HTV-8. \* It is the 8th flight of the H-II Transfer Vehicle. \* It is a robotic cargo spacecraft to resupply the International Space Station. \* It was launched on 24 September 2019. \* The launch took place from the Japan Aerospace Exploration Agency's Tanegashima Space Center in southwestern Japan.
+
+Q.176) Ans: (c)
+EXP: • The 7th annual World Hindu Economic Forum(WHEF) 2019 held in Mumbai, Maharashtra. • The theme of(WHEF) 2019 was “Prosperous Society: Stronger Society”. • The World Hindu Economic Forum (WHEF) describes itself as an independent international organization committed to making Hindu society prosperous through the creation and sharing of surplus wealth. • Earlier, The World Hindu Economic Forum has been organised in London, Chicago, Losa Angeles, Hong Kong, and Nairobi.
+
+Q.177) Ans: (a)
+EXP: • Sweden's 16-year-old environmental activist Greta Thunberg shook world leaders with her speech at the United Nations, accusing world leaders of failing to take action on climate change. • During the summit, she said-"You have snatched away from our dreams, our childhood from our hollow statements,". • She said- the eyes of all future generations are upon you, and if you choose to fail us, I say, we will never forgive you. • On 23rd September the UN Climate Change Summit, 2019 was held in General Assembly Hall at UN Headquarters in New York.
+
+Q.178) Ans: (c)
+EXP: \* World number one Novak Djokovic won his first Japan Open title and the 76th of his career by defeating Australian John Millman in the final in Tokyo. \* It was a triumphant return to the tour for Djokovic, who had withdrawn from the U.S. Open in the fourth round due to a shoulder injury \* It was the 10th time Novak Djokovic had won a title on his tournament debut. \* Djokovic has already qualified for next month’s season-ending ATP Finals in London.
+
+Q.179) Ans: (d)
+EXP: The first ever India International Cooperatives Trade Fair(IICTF) to be held in New Delhi, India. It is a unique initiative for taking farmers, artisans& other members of cooperatives directly to the global trade arena which will be held from 11th till 13th October 2019 at Pragati Maidan, New Delhi. The Trade Fair is aimed at promoting cooperative to cooperative trade within India and abroad leading to enhanced rural and farm prosperity.
+
+Q.180) Ans: (d)
+EXP: \* Qatar had decided to withdraw its membership from Organisation of the Petroleum Exporting Countries(OPEC) effective from January 2019. \* Qatar left OPEC on 1 January 2019, after joining the organization in 1961, to focus on natural gas production, of which it is the world's largest exporter in the form of liquified natural gas(LNG). Note: \* As of January 2019, OPEC has 14- member countries: Algeria, Angola, Congo, Ecuador, Equatorial Guinea, Gabon, Iran, Iraq, Kuwait, Libya, Nigeria, Saudi Arabia, UAE and Venezuela.
+
+Q.181) Ans: (c)
+EXP: ● The joint military exercise ‘Vajra Prahar’ between India and the US (United States) begins at Seattle’s(in Washington, US) Joint Base Lewis-McChord(JBLM) on October 13, 2019. ● This is the 10th edition of the joint exercise, which will run until 28 October 2019. ● It is held alternately in India and America. In 2018, the practice took place in Jaipur, Rajasthan. ● Earlier on September 19, 2019, soldiers from both countries underwent joint military training exercise ‘Yudh Abhyas 2019 ‘ at the Lewis-McCord base. During the exercise, the US Army played the tune of ‘Jana Gana Mana’.
+
+Q.182) Ans: (c)
+EXP: ● On October 11, 2019, The Reserve Bank of India(RBI) came up with a new reporting system for all co-operative banks(urban, State& district central) called Central Information System for Banking Infrastructure(CISBI). ● Through this system, they will submit information related to opening/ closing/ conversion of branches, offices, non-administratively independent offices (extension counters, satellite offices), and customer service points(ATMs-Automated Teller Machines) in a single proforma online. ● The Bank Branch Statistics Division (BBSD) in the Department of Statistics and Information Management(DSIM), Reserve Bank of India will be the nodal unit for CISBI.
+
+Q.183) Ans: (a)
+EXP: Senior Advocate at the Supreme Court of India Mr. Jagdeep Dhankar(68-years) has been sworn in as the Governor of West Bengal(28th). The Chief Justice of the Calcutta High Court Mr T.B Radhakrishnan administered the oath of office and Secrecy to him. Mr Dhankar was Member of Parliament from Jhunjhunu(Lok Sabha constituency) in Rajasthan during 1989-91 (representing Janata Dal) and MLA from Kishangar(Rajasthan) during 1993-98.
+
+Q.184) Ans: (c)
+EXP: Qatar formally announced the end of its controversial “kafala” system, arguably the biggest ever labour reform undertaken by the host of the 2022 football World Cup
+
+Q.185) Ans: (a)
+EXP: • On October 21, 2019, the Union minister of law & justice, communications, electronics & Information Technology(IT), Shri Ravi Shankar Prasad unveiled several new initiatives in the first MeitY Start-up Summit 2019 held in New Delhi. • One of the initiatives unveiled in the summit is BHIM 2.0 with new functionalities. • BHIM 2.0 apart from the existing 13 languages, now supports additional languages namely Konkani, Bhojpuri, and Haryanvi. ‘Donation’ gateway, increased transaction limits for high-value transactions are the other additional features.
+
+Q.186) Ans: (d)
+EXP: Union Minister of HRD Ramesh Pokhriyal has inaugurated the ambitious Pradhan Mantri Innovative Learning Programme (PMILP) ‘DHRUV’ from ISRO Headquarters at Bengaluru. The objective of the program is to allow talented students to realize their full potential and contribute to society. Sixty brightest and talented students from Science, Mathematics and Performing Arts(Class 9 to Class 12) have been chosen for the programme.
+
+Q.187) Ans: (c)
+EXP: Mukesh Ambani-led Reliance Industries (RIL) became the first Indian company to hit ₹8 trillion or ₹8 lakh crore in market capitalisation. ● This comes after Telecom Regulatory Authority of India(TRAI) data showed that Reliance Jio continued to add more subscribers. RJio added 9.71 million users in June, taking its subscriber base above 215 million. ● The Market capitalisation(m-cap) of Tata Consultancy Services (TCS) stood at ₹7.79-lakh crore.
+
+Q.188) Ans: (d)
+EXP: • ICICI Bank has announced to launch a new Fixed Deposit(FD) scheme ‘FD Health’ that will offer the dual benefit of an FD along with free critical illness coverage with a sum assured of Rs 1 lakh. • The customers will be offered the insurance cover free of cost for the first year and thereafter, they can renew it. • This first-of-its-kind offering in the industry provides the customer with a complimentary critical illness cover of Rs. 1 lakh from ICICI Lombard General Insurance Company on opening an FD of Rs. 2 lakhs to Rs. 3 lakhs for the tenure of at least two years.
+
+Q.189) Ans: (a)
+EXP: Goa state has smallest land area.
+
+Q.190) Ans: (d)
+EXP: ● The jury, which selected the winners for the Booker Prize, broke the rules this year and declared Margaret Atwood and Bernardine Evaristo as joint winners of the 2019 Booker Prize. ● Margaret Atwood won the Booker Prize for'The Testaments' and Bernardine Evaristo for'Girl, Woman, Other'. ● Bernardine Evaristo is the first black woman to win the prestigious award since its creation in 1969. ● Margaret Atwood(79) is the oldest winner to win the award. ● Earlier in 1992, two people were given the award jointly. After this, the rules were changed. Note: ● The six books shortlisted for the award included British-Indian novelist Salman Rushdie's novel'Quichote'. ● Salman Rushdie won the award in 1981 for his novel'Midnight's Children'. ● Last year in 2018, Anna Burns won the award for his novel'Milkman'. He became the first Northern Irish writer to won the award.
+
+Q.191) Ans: (b)
+EXP: Kuchipudi is a folk dance of Andhra Pradesh. Kuchipudi is the most famous folk dance of Andhra Pradesh and one of the 8 major Indian classical dances. Its roots belong to “Nratya shastra”.
+
+Q.192) Ans: (d)
+EXP: 2020 Summer Olympics will be held in Tokyo, Japan. • The games are planned to be held from 24 July to 9 August 2020 in Tokyo. • The city was announced as the host at the 125th IOC Session in Buenos Aires on 7 September 2013. Having previously hosted the 1964 Summer Olympics, Tokyo will become the first city in Asia to host the Olympics twice.
+
+Q.193) Ans: (d)
+EXP: In less than 18 months after its commencement, Aditya Birla Payments Bank announced that it will shut down operations. Started as a joint venture by Aditya Birla Nuvo Ltd and Idea Cellular, the firm announced that it will discontinue operation due to unanticipated developments in the business landscape that have made the economic model unviable. The bank’s customers have been informed that they can transfer the balance in their accounts to any other bank account and that the bank would restrict any further credits(add money) from July 26, 2019. In a message sent to its customers, Aditya Birla Payments Bank said that the bank has made full and complete arrangements for the return of deposits. Notably, Aditya Birla Payments Bank will continue to work with limited operations as guided by RBI to enable customers to withdraw deposits. The board approved winding down of operations for the payment bank in its meeting on July 19 after being in the discussion for a few months.
+
+Q.194) Ans: (b)
+EXP: International Solar Alliance is headquartered on a 5-acre plot on the National Institute of Solar Energy campus in Gurgaon.
+
+Q.195) Ans: (b)
+EXP: The International Olympic Committee (IOC) is an international non-profit, non-governmental organization based in Lausanne, Switzerland, created by Pierre, Baron de Coubertin, on 23 June 1894 with Demetrios Vikel as its first president. Today its membership consists of 100 active members, 32 honorary members, and 1 honor member. The IOC is the supreme authority of the worldwide modern Olympic movement. The IOC organizes the modern Olympic Games and Youth Olympic Games, held in summer and winter, every four years. The International Olympic Committee has formally opened its 145 million Swiss francs($145 million) new headquarters exactly 125 years after the Olympic Games was revived. A ceremony in the lakeside grounds of Olympic House in Lausanne including playing of John Lennon’s song Imagine.
+
+Q.196) Ans: (d)
+EXP: • According to US President's acting chief of staff Mick Mulvaney, the 46th G7 summit(10 to 12th June 2020) will take place in one of US President Donald Trump's Florida golf clubs. • Canada, France, Germany, Italy, Japan, the United Kingdom, the United States as well as representatives of the European Union will participate in the summit. • The President of the European Commission has been a permanently welcome participant at all meetings and decision-making since 1981. • The 45th G7 summit was held on 24–26 August 2019, in Biarritz, France.
+Q.197) Ans: (e)
+EXP: • The India arm of Netherlands-based Home Credit Group has tied up with Karur Vysya Bank(KVB) for joint lending to tap the large unbanked customer base across the country. • It has a total business of about Rs 1.1 lakh crore with a deposit base of Rs 60,000 crore and a loan book of Rs 50,000 crore. • Home Credit India(entry in 2012) has spread its operations over 179 cities across 20 states and emerged with the largest penetration is below the Rs. 10,000 category with a customer base of one crore. • Karur Vysya Bank is a 103-year-old scheduled commercial bank headquartered at Karur in Tamil Nadu.
+
+Q.198) Ans: (a)
+EXP: \* Standard Chartered Bank’ has launched a DigiSmart credit card. \* It is a British multinational banking& financial services company. \* The credit card will offer instant discounts and benefits across key e-commerce categories of travel, entertainment, fashion, groceries, and food delivery around the year. \* The new credit card is available for a nominal monthly fee of only Rs 49.
+
+Q.199) Ans: (c)
+EXP: \* The Bhopal Municipal Corporation (BMC) and the Central Pollution Control Board(CPCB) have joined hands to set up the country’s first e-waste clinic in Bhopal. \* It would enable segregation, processing and disposal of waste from both household and commercial units. \* The clinic is a three-month pilot project, if successful, would be replicated elsewhere in the country. \* Electronic waste will be collected door-to-door or could be deposited directly at the clinic in exchange for a fee.
+
+Q.200) Ans: (c)
+EXP: • England allrounder Ben Stocks has been named as the players' player of the year at the Professional Cricketers' Association awards. • All-rounder Stokes played a starring role in England's maiden ICC World Cup 2019. • He also played a heroic role to help salvage an Ashes draw with Australia. • Somerset's Tom Banton picked up the PCA young player of the year, while England bowler Sophie Ecclestone collected the women's player of the summer.

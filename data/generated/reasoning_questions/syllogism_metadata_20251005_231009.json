@@ -1,0 +1,36 @@
+{
+  "generation_date": "2025-10-05 23:12:12",
+  "model_used": "gpt-4o",
+  "total_questions_requested": 30,
+  "total_questions_generated": 10,
+  "difficulty_distribution": {
+    "Easy": 2,
+    "Medium": 4,
+    "Hard": 4
+  },
+  "batch_configuration": {
+    "total_batches": 6,
+    "batch_size": 5,
+    "successful_batches": 2,
+    "failed_batches": 4
+  },
+  "token_usage": {
+    "input_tokens": 2088,
+    "output_tokens": 3072,
+    "total_tokens": 5160
+  },
+  "cost": {
+    "input_cost": 0.00522,
+    "output_cost": 0.03072,
+    "total_cost": 0.03594
+  },
+  "time": {
+    "total_time_seconds": 121.81,
+    "api_time_seconds": 36.1
+  },
+  "output_files": {
+    "questions": "data/generated/syllogism_questions_20251005_231009.json",
+    "errors": "data/generated/syllogism_errors_20251005_231009.log",
+    "metadata": "data/generated/syllogism_metadata_20251005_231009.json"
+  }
+}

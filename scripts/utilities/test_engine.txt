@@ -1,0 +1,827 @@
+--Data intreperation master sample
+{
+  "category": "Data Interpretation",
+  "total_questions": 25,
+  "generation_date": "2025-10-07T03:07:51.840332",
+  "statistics": {
+    "total_questions": 25,
+    "expected_questions": 125,
+    "difference": -100,
+    "by_difficulty": {
+      "Easy": 5,
+      "Medium": 10,
+      "Hard": 10
+    },
+    "by_topic": {
+      "Bar Chart - Sales Revenue Analysis": 1,
+      "Bar Chart - Quarterly Financial Performance of Banks": 1,
+      "Bar Chart - Population & Demographics": 1,
+      "Bar Chart - Production & Manufacturing": 1,
+      "Bar Chart - Import & Export Analysis": 1,
+      "Caselet - Sales & Revenue Analysis": 1,
+      "Caselet - Banking & Finance": 1,
+      "Caselet - Population & Demographics": 1,
+      "Caselet - Production & Manufacturing": 1,
+      "Caselet - Import & Export": 1,
+      "Line Chart - Monthly Sales and Revenue Analysis": 1,
+      "Line Chart - Quarterly Revenue Trend for Banks": 1,
+      "Line Chart - Population & Demographics": 1,
+      "Line Chart - Production & Manufacturing Trends": 1,
+      "Line Chart - Import & Export Trends": 1,
+      "Pie Chart - Sales & Revenue Analysis of Electronic Goods in 2023": 1,
+      "Pie Chart - Bank Loan Distribution 2023": 1,
+      "Pie Chart - Population & Demographics in Metro City": 1,
+      "Pie Chart - Production & Manufacturing Market Share": 1,
+      "Pie Chart - Import & Export Analysis of Country X in 2023": 1,
+      "Table - Sales & Revenue Analysis": 1,
+      "Table - Bank Branch Performance (2020-2024)": 1,
+      "Table - Population & Demographics": 1,
+      "Table - Production & Manufacturing": 1,
+      "Table - Import & Export Analysis": 1
+    },
+    "by_subtopic": {},
+    "total_cost": 0.3155,
+    "files_merged": 5
+  },
+  "source_files": [
+    "di_bar_questions.json",
+    "di_caselet_questions.json",
+    "di_line_questions.json",
+    "di_pie_questions.json",
+    "di_tabular_questions.json"
+  ],
+  "questions": [
+    {
+      "di_set_id": "DI_BAR_CHART_001",
+      "topic": "Bar Chart - Sales Revenue Analysis",
+      "difficulty": "Easy",
+      "data_source": {
+        "type": "bar_chart",
+        "title": "Sales Revenue by Product Category (Q1-Q4)",
+        "data": {
+          "categories": [
+            "Q1",
+            "Q2",
+            "Q3",
+            "Q4"
+          ],
+          "series": [
+            {
+              "name": "Electronics",
+              "values": [
+                450,
+                520,
+                480,
+                610
+              ]
+            },
+            {
+              "name": "Clothing",
+              "values": [
+                380,
+                420,
+                450,
+                520
+              ]
+            }
+          ]
+        },
+        "units": "Revenue in Lakhs (₹)"
+      },
+      "questions": [
+        {
+          "question_id": "DI_BAR_001_Q1",
+          "question": "What was the revenue for Electronics in Q4?",
+          "options": {
+            "A": "₹610 Lakhs",
+            "B": "₹480 Lakhs",
+            "C": "₹520 Lakhs",
+            "D": "₹450 Lakhs",
+            "E": "₹570 Lakhs"
+          },
+          "correct_answer": "A",
+          "explanation": "The revenue for Electronics in Q4 is given directly in the chart as ₹610 Lakhs.",
+          "difficulty": "Easy"
+        },
+        {
+          "question_id": "DI_BAR_001_Q2",
+          "question": "What is the percentage increase in revenue for Clothing from Q1 to Q4?",
+          "options": {
+            "A": "36.84%",
+            "B": "34.21%",
+            "C": "31.58%",
+            "D": "37.50%",
+            "E": "35.00%"
+          },
+          "correct_answer": "A",
+          "explanation": "Percentage increase = ((520 - 380) / 380) * 100 = 36.84%.",
+          "difficulty": "Easy"
+        },
+        {
+          "question_id": "DI_BAR_001_Q3",
+          "question": "Which product category had the highest revenue in Q3?",
+          "options": {
+            "A": "Electronics",
+            "B": "Clothing",
+            "C": "Both had the same revenue",
+            "D": "Data insufficient",
+            "E": "None of the above"
+          },
+          "correct_answer": "A",
+          "explanation": "In Q3, Electronics had a revenue of ₹480 Lakhs, which is higher than Clothing's ₹450 Lakhs.",
+          "difficulty": "Easy"
+        },
+        {
+          "question_id": "DI_BAR_001_Q4",
+          "question": "Find the total revenue for Electronics over all four quarters.",
+          "options": {
+            "A": "₹2,060 Lakhs",
+            "B": "₹1,960 Lakhs",
+            "C": "₹1,890 Lakhs",
+            "D": "₹2,010 Lakhs",
+            "E": "₹2,110 Lakhs"
+          },
+          "correct_answer": "A",
+          "explanation": "Total revenue for Electronics = 450 + 520 + 480 + 610 = ₹2,060 Lakhs.",
+          "difficulty": "Easy"
+        },
+        {
+          "question_id": "DI_BAR_001_Q5",
+          "question": "What is the ratio of total revenue for Electronics to Clothing over the four quarters?",
+          "options": {
+            "A": "103:92",
+            "B": "92:103",
+            "C": "105:91",
+            "D": "91:105",
+            "E": "104:93"
+          },
+          "correct_answer": "A",
+          "explanation": "Total revenue for Electronics = ₹2,060 Lakhs; for Clothing = ₹1,840 Lakhs. Ratio = 2060:1840 = 103:92.",
+          "difficulty": "Easy"
+        }
+      ],
+
+--arithmetic master sample json
+
+{
+  "category": "Arithmetic",
+  "total_questions": 100,
+  "generation_date": "2025-10-07T03:07:51.835618",
+  "statistics": {
+    "total_questions": 100,
+    "expected_questions": 120,
+    "difference": -20,
+    "by_difficulty": {
+      "Medium": 40,
+      "Easy": 22,
+      "Hard": 38
+    },
+    "by_topic": {
+      "Averages": 15,
+      "Simple & Compound Interest": 15,
+      "Mixtures & Alligations": 10,
+      "Percentage": 15,
+      "Profit, Loss & Discount": 10,
+      "Ratio & Proportion": 15,
+      "Time, Speed & Distance": 10,
+      "Time & Work": 10
+    },
+    "by_subtopic": {},
+    "total_cost": 0.3749,
+    "files_merged": 8
+  },
+  "source_files": [
+    "arithmetic_averages_questions.json",
+    "arithmetic_interest_questions.json",
+    "arithmetic_mixtures_questions.json",
+    "arithmetic_percentage_questions.json",
+    "arithmetic_profit_loss_questions.json",
+    "arithmetic_ratio_questions.json",
+    "arithmetic_time_speed_questions.json",
+    "arithmetic_time_work_questions.json"
+  ],
+  "questions": [
+    {
+      "question_id": "ARIT_0001",
+      "question": "The average salary of 5 employees in a company is INR 48,000. If a new employee joins the company and the average salary becomes INR 50,000, what is the salary of the new employee?",
+      "options": {
+        "A": "INR 60,000",
+        "B": "INR 70,000",
+        "C": "INR 80,000",
+        "D": "INR 90,000",
+        "E": "INR 100,000"
+      },
+      "correct_answer": "A",
+      "explanation": "Step 1: Calculate the total salary of 5 employees: Total = 48,000 * 5 = INR 240,000. \nStep 2: Calculate the total salary of 6 employees: New Total = 50,000 * 6 = INR 300,000.\nStep 3: Find the salary of the new employee: New Employee Salary = New Total - Old Total = 300,000 - 240,000 = INR 60,000.",
+      "difficulty": "Medium",
+      "topic": "Averages",
+      "sub_topic": "Effect of adding/removing values",
+      "concept_tags": [
+        "effect_of_change",
+        "average_calculation"
+      ],
+      "main_category": "Quantitative Aptitude",
+      "subject": "Arithmetic",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gpt-4o",
+        "generation_date": "2025-10-05",
+        "reviewed": false,
+        "estimated_time": "90 seconds",
+        "batch_number": 1,
+        "api_cost": 0.003993,
+        "question_number": 1
+      },
+      "source_file": "arithmetic_averages_questions.json",
+      "category": "Arithmetic",
+      "original_question_id": "ARITH_AVERAGES_001",
+      "category_question_number": 1
+    },
+    {
+      "question_id": "ARIT_0002",
+      "question": "A car travels 60 km at an average speed of 30 km/hr and the next 90 km at an average speed of 45 km/hr. What is the average speed of the car for the entire journey?",
+      "options": {
+        "A": "36 km/hr",
+        "B": "37.5 km/hr",
+        "C": "40.5 km/hr",
+        "D": "42 km/hr",
+        "E": "45 km/hr"
+      },
+      "correct_answer": "B",
+      "explanation": "Step 1: Calculate total time for each segment. \nFor 60 km at 30 km/hr, time = 60/30 = 2 hours. \nFor 90 km at 45 km/hr, time = 90/45 = 2 hours.\nStep 2: Total distance = 60 + 90 = 150 km, Total time = 2 + 2 = 4 hours.\nStep 3: Average speed = Total Distance / Total Time = 150 km / 4 hours = 37.5 km/hr.",
+      "difficulty": "Medium",
+      "topic": "Averages",
+      "sub_topic": "Average speed",
+      "concept_tags": [
+        "average_speed",
+        "weighted_average"
+      ],
+--english master sample json
+{
+  "metadata": {
+    "title": "RBI Grade B Phase 1 - English Master Question Bank",
+    "total_questions": 290,
+    "creation_date": "2025-10-02T17:04:02.619264",
+    "version": "1.0",
+    "source_files": {
+      "main": "english_300_questions_20251002_160637.json",
+      "reading_comprehension": "reading_comprehension_20251002_165031.json"
+    },
+    "source_counts": {
+      "main": 229,
+      "reading_comprehension": 61,
+      "valid": 290,
+      "invalid": 0
+    },
+    "difficulty_distribution": {
+      "Hard": 115,
+      "Medium": 118,
+      "Easy": 57
+    },
+    "topic_distribution": {
+      "Reading_Comprehension": 100,
+      "Fill_in_the_Blanks": 50,
+      "Vocabulary": 50,
+      "Error_Spotting": 40,
+      "Sentence_Correction": 30,
+      "Para_Jumbles": 20
+    }
+  },
+  "questions": [
+    {
+      "question": "Read the passage carefully and answer the question that follows:\n\nThe rise of fintech has presented both opportunities and challenges for traditional banking institutions. On one hand, fintech companies have disrupted the financial landscape with innovative solutions, offering enhanced customer experiences, streamlined processes, and personalized services. This has forced banks to re-evaluate their existing business models and adopt new technologies to remain competitive. On the other hand, fintech poses a threat to banks' market share, profitability, and regulatory compliance. The unbundling of traditional banking services, coupled with the increasing popularity of digital payment platforms and alternative lending models, has eroded banks' traditional revenue streams. Moreover, the rapid pace of technological advancements has made it difficult for banks to keep up with the evolving regulatory landscape and manage cybersecurity risks. While collaboration between banks and fintech companies can unlock synergies and drive innovation, it also requires careful consideration of data privacy, consumer protection, and systemic risk. Ultimately, the future of banking will depend on how well traditional institutions adapt to the changing competitive environment and leverage fintech to create value for customers and shareholders.\n\nWhat is the primary purpose of the passage?",
+      "options": {
+        "A": "To advocate for the complete replacement of traditional banks by fintech companies.",
+        "B": "To discourage collaboration between banks and fintech companies.",
+        "C": "To highlight the potential benefits of fintech for all stakeholders.",
+        "D": "To analyze the impact of fintech on traditional banking institutions and the future of the industry.",
+        "E": "To provide a detailed technical analysis of specific fintech technologies."
+      },
+      "correct_answer": "D",
+      "explanation": "The passage discusses both the opportunities and challenges that fintech presents to traditional banks, analyzing its impact on their business models, market share, and regulatory compliance. It also touches on the potential for collaboration and the future of the banking industry. Therefore, option D accurately reflects the passage's primary purpose.",
+      "difficulty": "Medium",
+      "topic": "Reading_Comprehension",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:58:27.829614",
+      "source": "AI_Generated_Production",
+      "reference_count": 10,
+      "generation_model": "gemini-2.0-flash-exp",
+      "question_id": "ENG_0001",
+      "merged_date": "2025-10-02T17:04:02.618780"
+    },
+--general awareness master sample json
+{
+  "metadata": {
+    "title": "RBI Grade B - General Awareness Master Question Bank",
+    "description": "Combined question bank from Current Affairs, PIB, and RAG-generated questions",
+    "creation_date": "2025-10-04T04:07:37.435558",
+    "version": "1.0",
+    "total_questions": 803,
+    "difficulty_distribution": {
+      "Hard": 229,
+      "Medium": 387,
+      "Easy": 187
+    },
+    "category_distribution": {
+      "Current_Affairs": 118,
+      "PIB_Press_Release": 120
+    },
+    "topic_distribution": {
+      "Fiscal_Policy": 103,
+      "Economic_Updates": 71,
+      "Government_Schemes": 65,
+      "Economic_Indicators": 47,
+      "Risk_Assessment": 35,
+      "Monetary_Operations": 34,
+      "Policy_Changes": 33,
+      "Inflation": 32,
+      "Sectoral_Performance": 31,
+      "Banking_Sector": 30,
+      "Growth_Outlook": 30,
+      "Banking_Regulation": 27,
+      "Monetary_Policy": 23,
+      "RBI_Functions": 19,
+      "Economic_Developments": 18,
+      "Government_Finances": 18,
+      "Budget_Fiscal": 16,
+      "Financial_Stability": 16,
+      "Government_Initiatives": 15,
+      "Economic_Initiatives": 15,
+      "Banking_News": 12,
+      "Regulatory_Changes": 12,
+      "Financial_Reforms": 12,
+      "Current_Affairs": 12,
+      "Corporate_Affairs": 9,
+      "Summits_Conferences": 8,
+      "International_Relations": 7,
+      "Trade_Commerce": 7,
+      "Policy_Updates": 7,
+      "Current_Developments": 7,
+      "Agriculture_Policies": 7,
+      "Banking_Developments": 6,
+      "Appointments": 5,
+      "Technology_Innovation": 5,
+      "Financial_Markets": 4,
+      "Awards_Honours": 3,
+      "Public_Sector": 1,
+      "Budget_Announcements": 1
+    },
+    "source_distribution": {
+      "current_affairs.txt": 118,
+      "pib_press_releases.txt": 120,
+      "Economic_Survey_2024_2023.pdf": 53,
+      "Economic_Survey_2024_2023.pdf, Economic_Survey_2024_2025.pdf": 1,
+      "Economic_Survey_2024_2025.pdf": 50,
+      "RBI_Annual_Report_2024_2023.pdf": 40,
+      "RBI_Annual_Report_2024_2025.pdf": 40,
+      "RBI_Bulletin_Mar_2025.pdf": 9,
+      "RBI_Bulletin_Jul_2025.pdf": 10,
+      "RBI_Bulletin_Sep_2024.pdf": 10,
+      "RBI_Bulletin_May_2025.pdf": 10,
+      "RBI_Bulletin_Apr_2025.pdf": 9,
+      "RBI_Bulletin_Oct_2024.pdf": 10,
+      "RBI_Bulletin_Jun_2024.pdf": 9,
+      "RBI_Bulletin_Feb_2025.pdf": 9,
+      "RBI_Bulletin_Nov_2024.pdf": 10,
+      "RBI_Bulletin_Jan_2025.pdf": 10,
+      "RBI_Bulletin_Aug_2025.pdf": 10,
+      "RBI_Bulletin_Dec_2024.pdf": 10,
+      "Monetary_Policy_Report_Oct_2024.pdf": 29,
+      "Monetary_Policy_Report_Apr_2024.pdf": 29,
+      "Monetary_Policy_Report_Apr_2025.pdf": 27,
+      "Financial_Stability_Report_Dec_2023.pdf": 20,
+      "Financial_Stability_Report_Dec_2024.pdf": 20,
+      "Financial_Stability_Report_Jun_2024.pdf": 20,
+      "Financial_Stability_Report_Jun_2025.pdf": 20,
+      "Union_Budget_2024_2025.pdf": 50,
+      "Union_Budget_2025_2026.pdf": 50
+    },
+    "subject_distribution": {
+      "General_Awareness": 803
+    },
+    "sources_combined": [
+      "Current Affairs Questions",
+      "PIB Questions",
+      "RAG-Generated GA Questions"
+    ],
+    "source_files_metadata": [
+      {
+        "filename": "current_affairs_questions_20251004_033729.json",
+        "metadata": {
+          "title": "RBI Grade B - Current Affairs Questions",
+          "source": "Current Affairs Compilation",
+          "period": "October 2024 - September 2025",
+          "generation_type": "Current_Affairs_RAG",
+          "model": "gemini-2.5-pro",
+          "total_questions": 10,
+          "creation_date": "2025-10-04T03:37:29.584238",
+          "difficulty_distribution": {
+            "Hard": 3,
+            "Medium": 4,
+            "Easy": 3
+          },
+          "topic_distribution": {
+            "Appointments": 1,
+            "Budget_Fiscal": 2,
+            "Summits_Conferences": 1,
+            "Banking_News": 1,
+            "Government_Initiatives": 1,
+            "Economic_Developments": 1,
+            "Regulatory_Changes": 1,
+            "Technology_Innovation": 1,
+            "International_Relations": 1
+          },
+          "target_questions": 10,
+          "difficulty_weights": {
+            "Hard": 0.3,
+            "Medium": 0.4,
+            "Easy": 0.3
+          }
+        }
+      },
+      {
+        "filename": "current_affairs_questions_20251004_034548.json",
+        "metadata": {
+          "title": "RBI Grade B - Current Affairs Questions",
+          "source": "Current Affairs Compilation",
+          "period": "October 2024 - September 2025",
+          "generation_type": "Current_Affairs_RAG",
+          "model": "gemini-2.5-pro",
+          "total_questions": 120,
+          "creation_date": "2025-10-04T03:45:48.196561",
+          "difficulty_distribution": {
+            "Hard": 36,
+            "Medium": 48,
+            "Easy": 36
+          },
+          "topic_distribution": {
+            "Appointments": 10,
+            "Economic_Developments": 18,
+            "Summits_Conferences": 11,
+            "Awards_Honours": 3,
+            "International_Relations": 6,
+            "Banking_News": 11,
+            "Budget_Fiscal": 14,
+            "Government_Initiatives": 13,
+            "Regulatory_Changes": 11,
+            "Trade_Commerce": 8,
+            "Financial_Markets": 4,
+            "Technology_Innovation": 4,
+            "Policy_Updates": 7
+          },
+          "target_questions": 120,
+          "difficulty_weights": {
+            "Hard": 0.3,
+            "Medium": 0.4,
+            "Easy": 0.3
+          }
+        }
+      },
+      {
+        "filename": "pib_questions_20251004_022519.json",
+        "metadata": {
+          "title": "RBI Grade B - PIB Press Releases Questions",
+          "source": "PIB Press Releases - Ministry of Finance, Agriculture, Corporate Affairs",
+          "period": "July - September 2025",
+          "generation_type": "PIB_RAG",
+          "model": "gemini-2.5-pro",
+          "total_questions": 10,
+          "creation_date": "2025-10-04T02:25:19.406716",
+          "difficulty_distribution": {
+            "Hard": 3,
+            "Medium": 4,
+            "Easy": 3
+          },
+          "topic_distribution": {
+            "Fiscal_Policy": 3,
+            "Economic_Initiatives": 1,
+            "Government_Schemes": 2,
+            "Government_Finances": 2,
+            "Current_Developments": 1,
+            "Financial_Reforms": 1
+          },
+          "target_questions": 10,
+          "difficulty_weights": {
+            "Hard": 0.3,
+            "Medium": 0.4,
+            "Easy": 0.3
+          }
+        }
+      },
+      {
+        "filename": "pib_questions_20251004_023537.json",
+        "metadata": {
+          "title": "RBI Grade B - PIB Press Releases Questions",
+          "source": "PIB Press Releases - Ministry of Finance, Agriculture, Corporate Affairs",
+          "period": "July - September 2025",
+          "generation_type": "PIB_RAG",
+          "model": "gemini-2.5-pro",
+          "total_questions": 110,
+          "creation_date": "2025-10-04T02:35:37.982343",
+          "difficulty_distribution": {
+            "Hard": 33,
+            "Medium": 44,
+            "Easy": 33
+          },
+          "topic_distribution": {
+            "Fiscal_Policy": 19,
+            "Economic_Initiatives": 14,
+            "Government_Schemes": 20,
+            "Corporate_Affairs": 9,
+            "Government_Finances": 16,
+            "Current_Developments": 6,
+            "Agriculture_Policies": 7,
+            "Financial_Reforms": 11,
+            "Banking_Developments": 6,
+            "Public_Sector": 1,
+            "Budget_Announcements": 1
+          },
+          "target_questions": 110,
+          "difficulty_weights": {
+            "Hard": 0.3,
+            "Medium": 0.4,
+            "Easy": 0.3
+          }
+        }
+      },
+      {
+        "filename": "ga_pilot_5_questions_20251002_200858.json",
+        "metadata": {
+          "title": "RBI Grade B - General Awareness Pilot Run",
+          "generation_type": "RAG",
+          "model": "gemini-2.5-pro",
+          "total_questions": 5,
+          "target_questions": 5,
+          "creation_date": "2025-10-02T20:08:58.084420",
+          "difficulty_distribution": {
+            "Hard": 2,
+            "Medium": 2,
+            "Easy": 1
+          },
+          "source_documents": [
+            "Economic_Survey_2024_2023.pdf",
+            "Economic_Survey_2024_2025.pdf"
+          ],
+          "validation_status": "Passed"
+        }
+      },
+      {
+        "filename": "ga_master_bank_20251002_224842.json",
+        "metadata": {
+          "title": "RBI Grade B - General Awareness Master Question Bank",
+          "generation_type": "Per_PDF_RAG",
+          "model": "gemini-2.5-pro",
+          "total_questions": 285,
+          "total_pdfs_processed": 25,
+          "successful_pdfs": 25,
+          "creation_date": "2025-10-02T22:48:42.864987",
+          "generation_duration_seconds": 2015.691858,
+          "questions_by_category": {
+            "economic_survey": 50,
+            "rbi_annual_report": 40,
+            "rbi_bulletin": 60,
+            "monetary_policy_report": 45,
+            "financial_stability_report": 40,
+            "union_budget": 50
+          }
+        }
+      },
+      {
+        "filename": "ga_master_bank_20251002_213232.json",
+        "metadata": {
+          "title": "RBI Grade B - General Awareness Master Question Bank",
+          "generation_type": "Per_PDF_RAG",
+          "model": "gemini-2.5-pro",
+          "total_questions": 285,
+          "total_pdfs_processed": 25,
+          "successful_pdfs": 25,
+          "creation_date": "2025-10-02T21:32:32.749926",
+          "generation_duration_seconds": 2170.577429,
+          "questions_by_category": {
+            "economic_survey": 50,
+            "rbi_annual_report": 40,
+            "rbi_bulletin": 60,
+            "monetary_policy_report": 45,
+            "financial_stability_report": 40,
+            "union_budget": 50
+          }
+        }
+      }
+    ]
+  },
+  "questions": [
+    {
+      "question": "Who was appointed as the new Governor of the Reserve Bank of India in December 2024, succeeding Shaktikanta Das?",
+      "options": {
+        "A": "Ajay Seth",
+        "B": "Sanjay Malhotra",
+        "C": "Michael Patra",
+        "D": "T. Rabi Sankar",
+        "E": "Dinesh Kumar Khara"
+      },
+      "correct_answer": "B",
+      "explanation": "In December 2024, Sanjay Malhotra was appointed as the new Governor of the Reserve Bank of India, taking over from the incumbent Shaktikanta Das.",
+      "source_document": "current_affairs.txt",
+      "event_date": "December 2024",
+      "difficulty": "Easy",
+      "topic": "Appointments",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582740",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1",
+      "question_id": "GA_00001"
+    },
+    {
+      "question": "In May 2025, India's Goods and Services Tax (GST) collection reached its highest-ever monthly figure. What was this record collection amount?",
+      "options": {
+        "A": "₹1.5 lakh crore",
+        "B": "₹1.6 lakh crore",
+        "C": "₹1.7 lakh crore",
+        "D": "₹1.8 lakh crore",
+        "E": "₹2.0 lakh crore"
+      },
+      "correct_answer": "D",
+      "explanation": "According to the provided data for June 2025, India's GST collection for the month of May 2025 crossed ₹1.8 lakh crore, marking the highest ever monthly collection.",
+      "source_document": "current_affairs.txt",
+      "event_date": "May 2025",
+      "difficulty": "Easy",
+      "topic": "Budget_Fiscal",
+      "category": "Current_Affairs",
+      "subject": "General_Awareness",
+      "time_period": "October 2024 - September 2025",
+      "generated_date": "2025-10-04T03:37:29.582830",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Current_Affairs_Batch_1",
+      "question_id": "GA_00002"
+    },
+---reasoning master sample json
+{
+  "metadata": {
+    "title": "Reasoning Master Questions",
+    "description": "Merged collection of all reasoning question types",
+    "total_questions": 604,
+    "merge_date": "2025-10-06 00:20:10",
+    "source_files": [
+      {
+        "file": "blood_relations_questions.json",
+        "questions_count": 3
+      },
+      {
+        "file": "blood_relations_questions_20251005_231835.json",
+        "questions_count": 30
+      },
+      {
+        "file": "box_puzzle_questions_20251005_222739.json",
+        "questions_count": 30
+      },
+      {
+        "file": "circular_seating_arrangement_questions.json",
+        "questions_count": 3
+      },
+      {
+        "file": "circular_seating_questions_20251005_220413.json",
+        "questions_count": 30
+      },
+      {
+        "file": "coding_decoding_questions_20251005_231519.json",
+        "questions_count": 30
+      },
+      {
+        "file": "data_sufficiency_questions_20251005_233056.json",
+        "questions_count": 30
+      },
+      {
+        "file": "direction_sense_questions_20251005_232230.json",
+        "questions_count": 30
+      },
+      {
+        "file": "floor_puzzle_questions_20251005_221941.json",
+        "questions_count": 30
+      },
+      {
+        "file": "inequalities_questions_20251005_232602.json",
+        "questions_count": 25
+      },
+      {
+        "file": "input_output_questions_20251005_233434.json",
+        "questions_count": 30
+      },
+      {
+        "file": "linear_seating_arrangement_questions.json",
+        "questions_count": 3
+      },
+      {
+        "file": "linear_seating_questions_20251005_213958.json",
+        "questions_count": 30
+      },
+      {
+        "file": "linear_seating_questions_20251005_214402.json",
+        "questions_count": 5
+      },
+      {
+        "file": "linear_seating_questions_20251005_215247.json",
+        "questions_count": 15
+      },
+      {
+        "file": "linear_seating_questions_20251005_215831.json",
+        "questions_count": 30
+      },
+      {
+        "file": "multivariable_puzzle_questions_20251005_225519.json",
+        "questions_count": 30
+      },
+      {
+        "file": "scheduling_puzzle_questions_20251005_223726.json",
+        "questions_count": 30
+      },
+      {
+        "file": "special_seating_questions_20251005_221331.json",
+        "questions_count": 30
+      },
+      {
+        "file": "statement_assumption_questions_20251005_233839.json",
+        "questions_count": 30
+      },
+      {
+        "file": "statement_course_of_action_questions_20251005_234436.json",
+        "questions_count": 30
+      },
+      {
+        "file": "statement_inference_questions_20251005_234109.json",
+        "questions_count": 30
+      },
+      {
+        "file": "strengthen_weaken_questions_20251005_234749.json",
+        "questions_count": 30
+      },
+      {
+        "file": "syllogism_questions_20251005_231009.json",
+        "questions_count": 10
+      },
+      {
+        "file": "syllogism_questions_20251005_231228.json",
+        "questions_count": 30
+      }
+    ],
+    "categories": {
+      "Verbal & Logical Reasoning": 158,
+      "Puzzles & Seating Arrangements": 266,
+      "Analytical & Critical Reasoning": 180
+    },
+    "topics": {
+      "Blood Relations": 33,
+      "Box Puzzle": 30,
+      "Circular Seating Arrangement": 33,
+      "Coding-Decoding": 30,
+      "Data Sufficiency": 30,
+      "Direction Sense": 30,
+      "Floor Puzzle": 30,
+      "Inequalities": 25,
+      "Input-Output": 30,
+      "Linear Seating Arrangement": 83,
+      "Complex Puzzle": 30,
+      "Day/Month Puzzle": 30,
+      "Special Seating": 30,
+      "Statement & Assumption": 30,
+      "Statement & Course of Action": 30,
+      "Statement & Inference": 30,
+      "Strengthening/Weakening Arguments": 30,
+      "Syllogisms": 40
+    },
+    "difficulty_distribution": {
+      "Easy": 122,
+      "Medium": 241,
+      "Hard": 241
+    }
+  },
+  "questions": [
+    {
+      "question_id": "BR_001",
+      "question": "A is the father of B. B is the sister of C. How is A related to C?",
+      "options": {
+        "A": "Grandfather",
+        "B": "Father",
+        "C": "Uncle",
+        "D": "Brother",
+        "E": "Son"
+      },
+      "correct_answer": "B",
+      "explanation": "A is the father of B, and B is the sister of C. Therefore, A is the father of C.",
+      "difficulty": "Easy",
+      "topic": "Blood Relations",
+      "reasoning_topic": "Blood Relations",
+      "main_category": "Verbal & Logical Reasoning",
+      "subject": "Reasoning",
+      "exam": "RBI Grade B Phase 1",
+      "metadata": {
+        "generated_by": "gemini-2.0-flash-exp",
+        "generation_date": "2025-10-05",
+        "reviewed": false
+      },
+      "source_file": "blood_relations_questions.json"
+    },
+
+
+

@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "BR_001",
+    "question": "A is the father of B. B is the sister of C. How is A related to C?",
+    "options": {
+      "A": "Grandfather",
+      "B": "Father",
+      "C": "Uncle",
+      "D": "Brother",
+      "E": "Son"
+    },
+    "correct_answer": "B",
+    "explanation": "A is the father of B, and B is the sister of C. Therefore, A is the father of C.",
+    "difficulty": "Easy",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "BR_002",
+    "question": "P is the mother of Q. Q is married to R. S is the son of R. T is the sister of S. How is T related to P?",
+    "options": {
+      "A": "Granddaughter",
+      "B": "Daughter",
+      "C": "Aunt",
+      "D": "Mother",
+      "E": "Sister"
+    },
+    "correct_answer": "A",
+    "explanation": "P is the mother of Q. Q is married to R. S is the son of R, making Q the mother of S. T is the sister of S, so Q is also the mother of T. Therefore, T is the granddaughter of P.",
+    "difficulty": "Medium",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "BR_003",
+    "question": "A is the father of B and grandfather of C. D is the mother of C and daughter-in-law of E. F is the brother of D and son of G. G is married to E. H is the sister of B. How is H related to C?",
+    "options": {
+      "A": "Aunt",
+      "B": "Niece",
+      "C": "Mother",
+      "D": "Grandmother",
+      "E": "Sister"
+    },
+    "correct_answer": "A",
+    "explanation": "A is the father of B, and B is the father or mother of C. D is the mother of C, and D is the daughter-in-law of E, which means E is the parent of D's spouse. F is the brother of D, making F also the son of G. G is married to E, so E and G are the parents of D and F. Since A is the grandfather of C, B is C's parent. H is the sister of B, making H the aunt of C.",
+    "difficulty": "Hard",
+    "topic": "Blood Relations",
+    "reasoning_topic": "Blood Relations",
+    "main_category": "Verbal & Logical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gemini-2.0-flash-exp",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

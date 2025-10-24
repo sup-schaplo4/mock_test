@@ -1,0 +1,1206 @@
+{
+  "category": "rbi_bulletin",
+  "total_questions": 60,
+  "questions": [
+    {
+      "question": "What was the headline CPI inflation recorded in February 2025, which marked a seven-month low?",
+      "options": {
+        "A": "3.2%",
+        "B": "3.6%",
+        "C": "4.1%",
+        "D": "4.3%",
+        "E": "3.9%"
+      },
+      "correct_answer": "B",
+      "explanation": "The 'State of the Economy' article highlights that India’s macroeconomic strength is bolstered by a decline in headline CPI inflation to a seven-month low of 3.6 per cent in February 2025. (Page 31)",
+      "source_document": "RBI_Bulletin_Mar_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:24:33.126581",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the approximate percentage of maintainable complaints under the RBI’s Integrated Ombudsman Scheme in 2023-24 that required mediation or formal intervention from the RBI Ombudsmen?",
+      "options": {
+        "A": "25%",
+        "B": "42%",
+        "C": "50%",
+        "D": "57%",
+        "E": "65%"
+      },
+      "correct_answer": "D",
+      "explanation": "In the speech titled 'Transforming Grievance Redress: The AI Advantage', it is mentioned that nearly 57 per cent of the maintainable complaints in 2023-24 required mediation or formal intervention by the RBI Ombudsmen. (Page 8)",
+      "source_document": "RBI_Bulletin_Mar_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:24:33.126652",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the value of the RBI's Financial Inclusion Index (FI-Index) for the period ending March 2024?",
+      "options": {
+        "A": "60.1",
+        "B": "43.4",
+        "C": "64.2",
+        "D": "71.5",
+        "E": "58.9"
+      },
+      "correct_answer": "C",
+      "explanation": "The inaugural address by M. Rajeshwar Rao at the IIMK-NSE conference states that the Reserve Bank of India’s Financial Inclusion Index (FI-Index), a multidimensional composite index, stood at 64.2 in March 2024. (Page 24)",
+      "source_document": "RBI_Bulletin_Mar_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:24:33.126656",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to a World Bank report cited in the bulletin, what was the estimated value of personal remittances received by India in 2024, making it the largest recipient globally?",
+      "options": {
+        "A": "USD 100 billion",
+        "B": "USD 110 billion",
+        "C": "USD 130 billion",
+        "D": "USD 150 billion",
+        "E": "USD 250 billion"
+      },
+      "correct_answer": "C",
+      "explanation": "In the speech on Digital Payments Awareness Week 2025, it is stated that as per a World Bank report, it has been estimated that in 2024, India received remittances totalling approximately 130 billion USD. (Page 18-19)",
+      "source_document": "RBI_Bulletin_Mar_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Current_Affairs",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:24:33.126659",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the 2023-24 survey data on inward remittances by banks, which of the following groups of Advanced Economies (AEs) collectively surpassed a 50% share of India's total remittances, reflecting a shift from GCC countries?",
+      "options": {
+        "A": "United States, United Kingdom, and Canada",
+        "B": "United States, United Arab Emirates, and Singapore",
+        "C": "United States, United Kingdom, Singapore, Canada, and Australia",
+        "D": "United Kingdom, Canada, Australia, and Germany",
+        "E": "United States, Singapore, Australia, and New Zealand"
+      },
+      "correct_answer": "C",
+      "explanation": "The article 'Changing Dynamics of India’s Remittances' notes that the US, UK, Singapore, Canada, and Australia together accounted for more than half of remittances in 2023-24. A calculation from Table 1 confirms this: US (27.7%) + UK (10.8%) + Singapore (6.6%) + Canada (3.8%) + Australia (2.3%) equals 51.2%. (Page 99)",
+      "source_document": "RBI_Bulletin_Mar_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:24:33.126662",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the headline CPI inflation rate recorded in June 2025, marking the fifth consecutive month it remained below 4 per cent?",
+      "options": {
+        "A": "1.9%",
+        "B": "2.1%",
+        "C": "2.6%",
+        "D": "2.8%",
+        "E": "3.2%"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the 'State of the Economy' article, headline inflation, as measured by y-o-y changes in the CPI, declined to 2.1 per cent in June 2025, which was the lowest since January 2019. (Page 44)",
+      "source_document": "RBI_Bulletin_Jul_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:25:31.223592",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As of June 2025, what percentage of India's installed power capacity was accounted for by non-fossil fuel sources, achieving a major energy transition target five years ahead of schedule?",
+      "options": {
+        "A": "45.6%",
+        "B": "48.0%",
+        "C": "50.1%",
+        "D": "52.7%",
+        "E": "55.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "The document states that as of June 2025, non-fossil fuel sources accounted for 50.1 per cent of India’s installed power capacity. This achieved the Nationally Determined Contributions target of around 50 per cent by 2030, five years ahead of schedule. (Page 43, Chart III.9)",
+      "source_document": "RBI_Bulletin_Jul_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:25:31.223677",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the value of the composite Financial Inclusion (FI)-Index in 2024, as mentioned in the bulletin?",
+      "options": {
+        "A": "49.9",
+        "B": "55.6",
+        "C": "60.1",
+        "D": "64.2",
+        "E": "68.5"
+      },
+      "correct_answer": "D",
+      "explanation": "The bulletin notes that the composite Financial Inclusion (FI)-Index, which measures the extent of financial inclusion, improved substantially from 49.9 in 2019 to 64.2 in 2024. (Page 15)",
+      "source_document": "RBI_Bulletin_Jul_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:25:31.223682",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on an empirical analysis presented in the bulletin, what is the estimated impact on India's headline inflation for every 10 per cent increase in international crude oil prices?",
+      "options": {
+        "A": "An increase of around 10 basis points",
+        "B": "An increase of around 15 basis points",
+        "C": "An increase of around 20 basis points",
+        "D": "An increase of around 25 basis points",
+        "E": "An increase of around 30 basis points"
+      },
+      "correct_answer": "C",
+      "explanation": "The article 'Revisiting the Oil Price and Inflation Nexus in India' concludes that a 10 per cent increase in international crude oil prices could raise India's headline inflation by around 20 basis points on a contemporaneous basis. (Page 66, 74)",
+      "source_document": "RBI_Bulletin_Jul_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:25:31.223685",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the sectoral deployment of bank credit data for May 2025, which of the following sectors experienced a year-on-year contraction in credit from scheduled commercial banks?",
+      "options": {
+        "A": "Agriculture Credit",
+        "B": "Industry Credit",
+        "C": "Personal Loans",
+        "D": "Credit to Non-Banking Financial Companies (NBFCs)",
+        "E": "Housing Loans"
+      },
+      "correct_answer": "D",
+      "explanation": "Chart A6: 'Sectoral Deployment of Bank Credit' shows that for May 2025, the year-on-year growth for 'Services Credit - NBFC' was -0.3%, indicating a contraction. This is also supported by the text which states, 'Bank credit to NBFCs, on a y-o-y basis, contracted in May 2025'. (Page 51, Page 63)",
+      "source_document": "RBI_Bulletin_Jul_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:25:31.223689",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As of early September 2024, what was the all-time high level reached by India's foreign exchange reserves?",
+      "options": {
+        "A": "US$ 649.2 billion",
+        "B": "US$ 669.2 billion",
+        "C": "US$ 689.2 billion",
+        "D": "US$ 709.2 billion",
+        "E": "US$ 729.2 billion"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the 'State of the Economy' article, as of September 6, 2024, India’s foreign exchange reserves rose to an all-time high of US$ 689.2 billion. This was equivalent to more than 12 months of imports for 2023-24. (Page 113)",
+      "source_document": "RBI_Bulletin_Sep_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:26:47.260835",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Gross Non-Performing Assets (GNPA) ratio of banks reached its lowest level since end-March 2011 at the end of June 2024. What was this ratio?",
+      "options": {
+        "A": "2.5%",
+        "B": "2.7%",
+        "C": "2.9%",
+        "D": "3.1%",
+        "E": "3.3%"
+      },
+      "correct_answer": "B",
+      "explanation": "In the speech on 'Global Financial Stability', it is mentioned in a footnote that the Gross Non-Performing Assets (GNPA) ratio of banks was 2.7 per cent at end-June 2024, which was the lowest since end-March 2011. (Page 12)",
+      "source_document": "RBI_Bulletin_Sep_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:26:47.260929",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In September 2024, the union cabinet approved the 'PM E-DRIVE' scheme to promote the electric vehicle ecosystem. What is the financial outlay for this scheme?",
+      "options": {
+        "A": "₹8,900 crore",
+        "B": "₹9,900 crore",
+        "C": "₹10,900 crore",
+        "D": "₹11,900 crore",
+        "E": "₹12,900 crore"
+      },
+      "correct_answer": "C",
+      "explanation": "The 'State of the Economy' article mentions that the union cabinet approved the Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) scheme on September 11, 2024 with an outlay of ₹10,900 crore. (Page 82)",
+      "source_document": "RBI_Bulletin_Sep_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:26:47.260933",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For the first quarter of 2024-25, what was the growth rate registered by the manufacturing sector, as measured by Gross Value Added (GVA)?",
+      "options": {
+        "A": "6.8%",
+        "B": "7.0%",
+        "C": "7.7%",
+        "D": "9.5%",
+        "E": "10.5%"
+      },
+      "correct_answer": "B",
+      "explanation": "As per the 'State of the Economy' article, within the industrial sector, the manufacturing component recorded a strong growth of 7.0 per cent in Q1:2024-25. Overall GVA expanded by 6.8 per cent. (Page 90)",
+      "source_document": "RBI_Bulletin_Sep_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:26:47.260936",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "With reference to the financial stability indicators for banks and Non-Banking Financial Companies (NBFCs) as of end-June 2024, which of the following statements is incorrect?",
+      "options": {
+        "A": "The Gross NPA ratio for banks stood at 2.7 per cent, its lowest since March 2011.",
+        "B": "The Capital to Risk-weighted Assets Ratio (CRAR) for NBFCs was significantly above the regulatory threshold, standing at 26.6 per cent.",
+        "C": "The annualized Return on Assets (RoA) for banks at 1.4 per cent was higher than the RoA for NBFCs.",
+        "D": "The annualized slippage ratio for banks, measuring new NPA accretions, continued to decline and reached 1.3 per cent.",
+        "E": "The Gross NPA ratio of NBFCs was 2.8 per cent, its lowest level since March 2021."
+      },
+      "correct_answer": "C",
+      "explanation": "Statement C is incorrect. According to the data provided, the annualized Return on Assets (RoA) for banks stood at 1.4 per cent, while the RoA for NBFCs stood at 3.2 per cent at end-June 2024. Therefore, the RoA for NBFCs was higher than that for banks. All other statements are correct based on the information in the footnote. (Page 12)",
+      "source_document": "RBI_Bulletin_Sep_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:26:47.260947",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Approximately how many transactions per month were processed through the Unified Payments Interface (UPI) as of May 2025?",
+      "options": {
+        "A": "12 billion",
+        "B": "15 billion",
+        "C": "18 billion",
+        "D": "21 billion",
+        "E": "25 billion"
+      },
+      "correct_answer": "C",
+      "explanation": "The document highlights the success of India's digital transformation, noting that the Unified Payments Interface (UPI) was processing about 18 billion transactions in a month. (Page 11)",
+      "source_document": "RBI_Bulletin_May_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Current_Affairs",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:27:45.369356",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Capital to Risk-Weighted Assets Ratio (CRAR) of Scheduled Commercial Banks (SCBs) at the end of December 2024?",
+      "options": {
+        "A": "15.5%",
+        "B": "16.0%",
+        "C": "16.5%",
+        "D": "17.0%",
+        "E": "17.5%"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the document, the soundness of scheduled commercial banks was bolstered by adequate capital buffers, with their capital to risk-weighted assets (CRAR) standing at 16.5 per cent at the end of December 2024. (Page 8)",
+      "source_document": "RBI_Bulletin_May_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:27:45.369560",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the central government’s budgeted fiscal deficit as a percentage of GDP for the fiscal year 2025-26?",
+      "options": {
+        "A": "4.0%",
+        "B": "4.4%",
+        "C": "4.8%",
+        "D": "5.1%",
+        "E": "5.5%"
+      },
+      "correct_answer": "B",
+      "explanation": "The bulletin states that the government is committed to fiscal consolidation, with the central government's fiscal deficit to GDP ratio budgeted to moderate further to 4.4 per cent in 2025-26. (Page 9)",
+      "source_document": "RBI_Bulletin_May_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:27:45.369566",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the approximate value of India's mobile phone exports in the fiscal year 2023-24, reflecting the success of policies like the Production-Linked Incentive (PLI) scheme?",
+      "options": {
+        "A": "USD 5.6 billion",
+        "B": "USD 10.1 billion",
+        "C": "USD 12.4 billion",
+        "D": "USD 15.6 billion",
+        "E": "USD 18.3 billion"
+      },
+      "correct_answer": "D",
+      "explanation": "The document highlights that policy measures like the PLI are showing results, with mobile phone exports increasing from 1.6 billion USD in 2018-19 to 15.6 billion USD in 2023-24. (Page 10, Footnote 9)",
+      "source_document": "RBI_Bulletin_May_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Current_Affairs",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:27:45.369569",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Union Budget 2025 proposed raising the Foreign Direct Investment (FDI) limit in the insurance sector to 100 per cent, subject to what specific condition?",
+      "options": {
+        "A": "At least 50% of the board members must be Indian citizens.",
+        "B": "The foreign entity must form a joint venture with a public sector insurer.",
+        "C": "The company must be listed on an Indian stock exchange within five years.",
+        "D": "The entire premium collected must be invested within India.",
+        "E": "A minimum of 30% of its workforce must be employed from rural areas."
+      },
+      "correct_answer": "D",
+      "explanation": "Footnote 1 on page 7 clarifies the details of the FDI liberalisation in the insurance sector. It specifies that the announced increase in the FDI cap to 100 per cent comes 'with the condition that the entire premium is invested within India.' This requires careful reading of the details provided in the footnote. (Page 7, Footnote 1)",
+      "source_document": "RBI_Bulletin_May_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:27:45.369573",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Following the Monetary Policy Committee meeting in April 2025, what was the new policy repo rate set at?",
+      "options": {
+        "A": "5.75%",
+        "B": "6.00%",
+        "C": "6.25%",
+        "D": "6.50%",
+        "E": "6.75%"
+      },
+      "correct_answer": "B",
+      "explanation": "The Monetary Policy Committee (MPC) unanimously voted to reduce the policy repo rate by 25 basis points to 6.00 per cent with immediate effect. (Page 7)",
+      "source_document": "RBI_Bulletin_Apr_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:28:45.816558",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected real GDP growth for the financial year 2025-26 as per the April 2025 Monetary Policy Statement?",
+      "options": {
+        "A": "6.0%",
+        "B": "6.3%",
+        "C": "6.5%",
+        "D": "6.7%",
+        "E": "7.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "Taking all factors into consideration, the real GDP growth for 2025-26 is projected at 6.5 per cent, with quarterly breakdowns of Q1 at 6.5%, Q2 at 6.7%, Q3 at 6.6%, and Q4 at 6.3%. (Page 9)",
+      "source_document": "RBI_Bulletin_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:28:45.817086",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the April 2025 Statement on Developmental and Regulatory Policies, which entity has been proposed to be empowered to revise transaction limits for Person to Merchant (P2M) UPI payments based on evolving user needs?",
+      "options": {
+        "A": "Reserve Bank of India (RBI)",
+        "B": "National Payments Corporation of India (NPCI)",
+        "C": "Ministry of Finance",
+        "D": "Individual Banks",
+        "E": "Securities and Exchange Board of India (SEBI)"
+      },
+      "correct_answer": "B",
+      "explanation": "It is proposed that NPCI, in consultation with banks and other stakeholders of the UPI ecosystem, may announce and revise transaction limits for P2M payments based on evolving user needs, while the P2P transaction cap remains at ₹1 lakh. (Pages 19, 20)",
+      "source_document": "RBI_Bulletin_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:28:45.817094",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the level of India's foreign exchange reserves as of April 4, 2025?",
+      "options": {
+        "A": "625.5 billion US dollars",
+        "B": "650.1 billion US dollars",
+        "C": "676.3 billion US dollars",
+        "D": "690.8 billion US dollars",
+        "E": "710.2 billion US dollars"
+      },
+      "correct_answer": "C",
+      "explanation": "As of April 4, 2025, India’s foreign exchange reserves stood at 676.3 billion US dollars, which provided an import cover of about 11 months. (Page 10)",
+      "source_document": "RBI_Bulletin_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Current_Affairs",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:28:45.817104",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the financial soundness parameters for December 2024, which of the following statements correctly compares the performance of Scheduled Commercial Banks (SCBs) and Non-Banking Financial Companies (NBFCs)?",
+      "options": {
+        "A": "The Capital to Risk Weighted Assets Ratio (CRAR) for SCBs was higher than that for NBFCs.",
+        "B": "The Return on Assets (RoA) for SCBs was higher than that for NBFCs.",
+        "C": "NBFCs had a lower Gross Non-Performing Asset (GNPA) ratio than SCBs.",
+        "D": "NBFCs had a higher Gross Non-Performing Asset (GNPA) ratio than SCBs.",
+        "E": "Both SCBs and NBFCs reported a Return on Assets (RoA) below 1%."
+      },
+      "correct_answer": "D",
+      "explanation": "As per the data in the footnotes, in December 2024, the GNPA ratio for NBFCs was 2.53%, while for SCBs it was 2.42%. Therefore, the GNPA ratio of NBFCs was higher than that of SCBs. The CRAR for NBFCs (26.22%) was higher than SCBs (16.43%), and the RoA for NBFCs (2.86%) was higher than SCBs (1.37%). (Page 11, footnotes 23 & 26)",
+      "source_document": "RBI_Bulletin_Apr_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:28:45.817108",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In its October 2024 meeting, what policy repo rate did the Monetary Policy Committee (MPC) decide to maintain?",
+      "options": {
+        "A": "6.00%",
+        "B": "6.25%",
+        "C": "6.50%",
+        "D": "6.75%",
+        "E": "7.00%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Monetary Policy Committee, in its meeting from October 7-9, 2024, decided by a majority of 5 out of 6 members to keep the policy repo rate unchanged at 6.50 per cent. (Page 7)",
+      "source_document": "RBI_Bulletin_Oct_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:29:43.416808",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected real GDP growth for India for the financial year 2024-25?",
+      "options": {
+        "A": "6.7%",
+        "B": "7.0%",
+        "C": "7.2%",
+        "D": "7.4%",
+        "E": "7.5%"
+      },
+      "correct_answer": "C",
+      "explanation": "Taking various domestic and global factors into consideration, the real GDP growth for 2024-25 is projected at 7.2 per cent. (Page 9)",
+      "source_document": "RBI_Bulletin_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:29:43.416921",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the October 2024 Monetary Policy Statement, what is the projected CPI inflation for the financial year 2024-25?",
+      "options": {
+        "A": "4.1%",
+        "B": "4.2%",
+        "C": "4.5%",
+        "D": "4.8%",
+        "E": "5.1%"
+      },
+      "correct_answer": "C",
+      "explanation": "Taking into account various factors including food price momentum and global commodity prices, the CPI inflation for 2024-25 is projected at 4.5 per cent. (Page 10)",
+      "source_document": "RBI_Bulletin_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:29:43.416926",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Following the recent policy announcements to enhance digital payments, what is the new per-transaction limit for UPI Lite?",
+      "options": {
+        "A": "₹500",
+        "B": "₹1,000",
+        "C": "₹2,000",
+        "D": "₹5,000",
+        "E": "₹10,000"
+      },
+      "correct_answer": "B",
+      "explanation": "To encourage wider adoption of UPI, it has been decided to increase the UPI Lite wallet limit to ₹5,000 and the per-transaction limit from ₹500 to ₹1,000. (Pages 14, 22)",
+      "source_document": "RBI_Bulletin_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:29:43.416929",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the risk scenarios analyzed for the baseline inflation path, what is the estimated increase in domestic inflation if international crude oil prices rise by 10 per cent above the baseline assumption?",
+      "options": {
+        "A": "10 bps",
+        "B": "15 bps",
+        "C": "25 bps",
+        "D": "30 bps",
+        "E": "50 bps"
+      },
+      "correct_answer": "D",
+      "explanation": "The risk analysis section of the Monetary Policy Report indicates that if crude oil prices were to be 10 per cent above the baseline, domestic inflation could be higher by around 30 basis points (bps). (Page 34)",
+      "source_document": "RBI_Bulletin_Oct_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:29:43.416933",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In its meeting from June 4-6, 2025, what was the policy repo rate decided by the Monetary Policy Committee (MPC)?",
+      "options": {
+        "A": "5.25%",
+        "B": "5.50%",
+        "C": "6.00%",
+        "D": "6.25%",
+        "E": "6.50%"
+      },
+      "correct_answer": "B",
+      "explanation": "The Monetary Policy Committee (MPC) decided to reduce the policy repo rate under the liquidity adjustment facility (LAF) by 50 basis points to 5.50 per cent with immediate effect. (Page 7)",
+      "source_document": "RBI_Bulletin_Jun_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:30:40.589104",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the level of India’s foreign exchange reserves as on May 30, 2025?",
+      "options": {
+        "A": "US$ 681.5 billion",
+        "B": "US$ 691.5 billion",
+        "C": "US$ 701.5 billion",
+        "D": "US$ 675.5 billion",
+        "E": "US$ 695.5 billion"
+      },
+      "correct_answer": "B",
+      "explanation": "The document states that as on May 30, 2025, India’s foreign exchange reserves stood at US$ 691.5 billion, sufficient to fund more than 11 months of goods imports. (Page 10)",
+      "source_document": "RBI_Bulletin_Jun_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:30:40.589183",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected real GDP growth for the financial year 2025-26?",
+      "options": {
+        "A": "6.3%",
+        "B": "6.4%",
+        "C": "6.5%",
+        "D": "6.7%",
+        "E": "7.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "Taking all factors into consideration, the real GDP growth for 2025-26 is projected at 6.5 per cent, with quarterly projections of Q1 at 6.5%, Q2 at 6.7%, Q3 at 6.6% and Q4 at 6.3%. (Page 9, 15)",
+      "source_document": "RBI_Bulletin_Jun_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:30:40.589185",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Reserve Bank announced a phased reduction in the Cash Reserve Ratio (CRR) during 2025. What will be the new CRR as a percentage of Net Demand and Time Liabilities (NDTL) after the reduction is fully implemented?",
+      "options": {
+        "A": "4.00%",
+        "B": "3.75%",
+        "C": "3.50%",
+        "D": "3.25%",
+        "E": "3.00%"
+      },
+      "correct_answer": "E",
+      "explanation": "It has been decided to reduce the cash reserve ratio (CRR) by 100 basis points (bps) to 3.0 per cent of net demand and time liabilities (NDTL) in a staggered manner, with the full reduction effective by November 29, 2025. (Page 11)",
+      "source_document": "RBI_Bulletin_Jun_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:30:40.589186",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the financial parameters of Scheduled Commercial Banks (SCBs) for December 2024, which of the following statements is INCORRECT?",
+      "options": {
+        "A": "The Gross Non-Performing Assets (GNPA) ratio improved to 2.42 per cent from 2.96 per cent a year ago.",
+        "B": "The Net Interest Margin (NIM) showed a year-on-year expansion.",
+        "C": "The system-level Capital to Risk Weighted Assets Ratio (CRAR) was 16.43 per cent.",
+        "D": "The annualised Return on Assets (RoA) stood at 1.37 per cent.",
+        "E": "The Net Non-Performing Assets (NNPA) ratio improved to 0.55 per cent from 0.69 per cent in December 2023."
+      },
+      "correct_answer": "B",
+      "explanation": "According to footnote 40, the Net Interest Margin (NIM) was 3.49 per cent for December 2024, which is a contraction compared to 3.64 per cent in December 2023. Therefore, the statement that NIM showed a year-on-year expansion is incorrect. All other statements are factually correct based on the data provided in the footnote. (Page 11)",
+      "source_document": "RBI_Bulletin_Jun_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:30:40.589188",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Following the Monetary Policy Committee meeting in February 2025, what was the new policy repo rate set at?",
+      "options": {
+        "A": "6.00%",
+        "B": "6.25%",
+        "C": "6.50%",
+        "D": "6.75%",
+        "E": "7.00%"
+      },
+      "correct_answer": "B",
+      "explanation": "In its February 2025 meeting, the Monetary Policy Committee (MPC) unanimously decided to reduce the policy repo rate by 25 basis points, bringing it down from 6.50 per cent to 6.25 per cent. (Page 8)",
+      "source_document": "RBI_Bulletin_Feb_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:31:49.207002",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was India's Current Account Deficit (CAD) as a percentage of GDP in the second quarter of the financial year 2024-25?",
+      "options": {
+        "A": "1.0%",
+        "B": "1.2%",
+        "C": "1.3%",
+        "D": "1.5%",
+        "E": "1.7%"
+      },
+      "correct_answer": "B",
+      "explanation": "India’s current account deficit (CAD) moderated to 1.2 per cent of GDP in Q2:2024-25, down from 1.3 per cent of GDP in the corresponding quarter of the previous year. (Page 10)",
+      "source_document": "RBI_Bulletin_Feb_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:31:49.207118",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "To enhance trust and combat digital fraud in the financial sector, the Reserve Bank of India announced the implementation of an exclusive internet domain for Indian banks. What is this new domain?",
+      "options": {
+        "A": ".rbi",
+        "B": ".bank.gov",
+        "C": ".bank.in",
+        "D": ".fin.india",
+        "E": ".indbank"
+      },
+      "correct_answer": "C",
+      "explanation": "As a measure to enhance digital security, the Reserve Bank announced it shall implement the ‘bank.in’ exclusive Internet Domain for Indian banks to help avoid banking frauds like phishing. This will be followed by a 'fin.in' domain for the wider financial sector. (Page 11, 15)",
+      "source_document": "RBI_Bulletin_Feb_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:31:49.207130",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the targeted Gross Fiscal Deficit (GFD) as a percentage of GDP for the fiscal year 2025-26, as per the Union Budget assessment?",
+      "options": {
+        "A": "4.1%",
+        "B": "4.4%",
+        "C": "4.8%",
+        "D": "5.0%",
+        "E": "5.1%"
+      },
+      "correct_answer": "B",
+      "explanation": "The Union Budget 2025-26 balances growth imperatives with fiscal prudence by targeting a Gross Fiscal Deficit (GFD) at 4.4 per cent of GDP for the Budget Estimates (BE) of 2025-26, down from the Revised Estimates (RE) of 4.8 per cent in 2024-25. (Page 77)",
+      "source_document": "RBI_Bulletin_Feb_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:31:49.207134",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "During the monetary policy tightening period from May 2022 to December 2024, the repo rate increased by 250 basis points. In this context, which statement accurately compares the monetary policy transmission to fresh deposits and fresh rupee loans between Public Sector Banks (PSBs) and Private Sector Banks (PVBs)?",
+      "options": {
+        "A": "Transmission to fresh deposit rates was higher in PVBs, while transmission to fresh lending rates was higher in PSBs.",
+        "B": "PSBs demonstrated higher transmission than PVBs in both fresh deposit rates and fresh lending rates.",
+        "C": "PVBs showed stronger transmission than PSBs across both fresh deposit and fresh lending rates.",
+        "D": "Transmission to fresh lending rates was higher in PVBs, while transmission to fresh deposit rates was higher in PSBs.",
+        "E": "Both bank groups experienced identical transmission in fresh deposit rates, but PSBs had a lower transmission in fresh lending rates."
+      },
+      "correct_answer": "B",
+      "explanation": "During the May 2022 to December 2024 period, Public Sector Banks (PSBs) showed a higher transmission of the policy rate hike. The Weighted Average Domestic Term Deposit Rate (WADTDR) on fresh deposits increased by 274 bps for PSBs compared to 214 bps for Private Sector Banks (PVBs). Similarly, the Weighted Average Lending Rate (WALR) on fresh rupee loans increased by 177 bps for PSBs versus 163 bps for PVBs. (Page 62, Charts IV.11 and IV.12)",
+      "source_document": "RBI_Bulletin_Feb_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:31:49.207136",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What real GDP growth has the Reserve Bank of India projected for the fiscal year 2024-25?",
+      "options": {
+        "A": "7.0%",
+        "B": "7.2%",
+        "C": "7.5%",
+        "D": "7.8%",
+        "E": "8.0%"
+      },
+      "correct_answer": "B",
+      "explanation": "In a speech on the Indian macroeconomic experience, it was stated that for the current year (2024-25), the Reserve Bank of India has projected real GDP growth of 7.2 per cent, with risks evenly balanced around this forecast. (Page 20)",
+      "source_document": "RBI_Bulletin_Nov_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:32:48.443042",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In its meeting in October 2024, the Monetary Policy Committee (MPC) changed its policy stance to 'neutral'. What was the immediate prior stance?",
+      "options": {
+        "A": "Accommodative",
+        "B": "Calibrated Tightening",
+        "C": "Withdrawal of accommodation",
+        "D": "Gradual easing",
+        "E": "Targeted liquidity provision"
+      },
+      "correct_answer": "C",
+      "explanation": "In the meeting on October 7-9, 2024, the MPC decided to change the monetary policy stance from 'withdrawal of accommodation' to 'neutral' to provide greater flexibility in responding to evolving economic conditions. (Page 13)",
+      "source_document": "RBI_Bulletin_Nov_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:32:48.444689",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the data on India's external sector, what was the Current Account Deficit (CAD) as a percentage of GDP for the fiscal year 2023-24?",
+      "options": {
+        "A": "0.7 per cent",
+        "B": "1.1 per cent",
+        "C": "1.5 per cent",
+        "D": "2.0 per cent",
+        "E": "2.2 per cent"
+      },
+      "correct_answer": "A",
+      "explanation": "The bulletin states that India's current account deficit (CAD) remained within a manageable limit, standing at 0.7 per cent of GDP in FY 2023-24. This compares to 1.1 per cent in Q1:2024-25 and 2.0 per cent in FY 2022-23. (Page 14)",
+      "source_document": "RBI_Bulletin_Nov_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:32:48.444696",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Gross Non-Performing Assets (GNPA) ratio of Indian banks as a percentage of total assets at the end of June 2024?",
+      "options": {
+        "A": "2.5 per cent",
+        "B": "2.7 per cent",
+        "C": "3.0 per cent",
+        "D": "3.2 per cent",
+        "E": "3.5 per cent"
+      },
+      "correct_answer": "B",
+      "explanation": "As part of improving financial soundness, impairment in banks' balance sheets was brought down, with Gross non-performing assets reaching just 2.7 per cent of total assets at the end of June 2024. (Page 27)",
+      "source_document": "RBI_Bulletin_Nov_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:32:48.444700",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Considering India's recent export performance, which of the following statements is/are correct?\n1. India holds approximately one-sixth of the global market share in petroleum products.\n2. India ranks as the world's largest exporter of insecticides.\n3. In the global semiconductor export market, India is ranked ninth.",
+      "options": {
+        "A": "Only 1 and 2",
+        "B": "Only 2 and 3",
+        "C": "Only 1 and 3",
+        "D": "All 1, 2, and 3",
+        "E": "Only 1"
+      },
+      "correct_answer": "C",
+      "explanation": "Statement 1 is correct as the document states, 'India currently holds 13 per cent or a sixth of the global market share in petroleum products'. Statement 2 is incorrect; India is the 'third largest exporter of insecticides', not the largest. Statement 3 is correct as India is ranked 'ninth in semiconductors'. Therefore, only statements 1 and 3 are correct. (Page 39)",
+      "source_document": "RBI_Bulletin_Nov_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Current_Affairs",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:32:48.444704",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was India's total renewable energy capacity, including wind, solar, hybrid, biomass, small hydro, and nuclear, as of December 2024?",
+      "options": {
+        "A": "150.5 GW",
+        "B": "189.2 GW",
+        "C": "209.4 GW",
+        "D": "225.8 GW",
+        "E": "250.0 GW"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the 'State of the Economy' article, the total renewable energy capacity in India – comprising wind, solar, hybrid, biomass, small hydro, and nuclear – stood at 209.4 GW as of December 2024. (Page 10)",
+      "source_document": "RBI_Bulletin_Jan_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:02.256479",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the first advance estimates by the National Statistics Office (NSO), what was the projected real GDP growth for India for the financial year 2024-25?",
+      "options": {
+        "A": "6.2%",
+        "B": "6.4%",
+        "C": "6.8%",
+        "D": "7.0%",
+        "E": "8.2%"
+      },
+      "correct_answer": "B",
+      "explanation": "The first advance estimates (FAE) of national income, released on January 7, 2025, placed the real GDP growth for 2024-25 at 6.4 per cent. This was a moderation from the 8.2 per cent growth recorded a year ago. (Page 9, 16)",
+      "source_document": "RBI_Bulletin_Jan_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:02.256567",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the first advance estimates for 2024-25, what was the positive contribution of net exports to India's GDP growth?",
+      "options": {
+        "A": "1.3 percentage points",
+        "B": "1.5 percentage points",
+        "C": "1.7 percentage points",
+        "D": "1.9 percentage points",
+        "E": "2.1 percentage points"
+      },
+      "correct_answer": "C",
+      "explanation": "In 2024-25, India’s exports grew by 5.9 per cent while imports contracted by 1.3 per cent. This enabled net exports to contribute positively to GDP growth by 1.7 percentage points. (Page 16)",
+      "source_document": "RBI_Bulletin_Jan_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:02.256572",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The share of gold in the Net Foreign Assets (NFA) of the Reserve Bank saw a significant increase, rising from 8.1 per cent at the end of October 2023 to what level as on January 10, 2025?",
+      "options": {
+        "A": "9.5%",
+        "B": "10.3%",
+        "C": "11.2%",
+        "D": "12.1%",
+        "E": "13.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "On the sources side (assets), the share of gold in NFA increased from 8.1 per cent as at end-October 2023 to 11.2 per cent as on January 10, 2025, mainly due to revaluation gains. (Page 37)",
+      "source_document": "RBI_Bulletin_Jan_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Current_Affairs",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:02.256575",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the context of India's aggregate supply for 2024-25, which of the following statements correctly reflects the growth performance of the key GVA sectors?",
+      "options": {
+        "A": "The agriculture sector, with a growth of 5.2%, outperformed the services sector which grew at 3.8%.",
+        "B": "The industrial sector's GVA growth was the highest at 8.6%, driven by strong manufacturing performance.",
+        "C": "The services sector demonstrated resilience with a growth of 7.4%, while the industrial sector's GVA growth subsided to 5.2%.",
+        "D": "Both industrial GVA and services sector GVA grew at an identical rate of 6.4%.",
+        "E": "Manufacturing slackened to 7.4%, while growth in the construction sub-sector moderated to 5.3%."
+      },
+      "correct_answer": "C",
+      "explanation": "For 2024-25, the services sector growth remained resilient at 7.4 per cent. In contrast, industrial GVA growth subsided to 5.2 per cent, with manufacturing slackening to 5.3 per cent. Agriculture growth was 3.8 per cent. This makes statement C the only correct representation of the sectoral performance. (Page 25, 26)",
+      "source_document": "RBI_Bulletin_Jan_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:02.256578",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the Monetary Policy Committee meeting of August 2025, what was the policy repo rate maintained at?",
+      "options": {
+        "A": "5.25%",
+        "B": "5.50%",
+        "C": "5.75%",
+        "D": "6.00%",
+        "E": "6.25%"
+      },
+      "correct_answer": "B",
+      "explanation": "The Monetary Policy Committee (MPC) unanimously voted to keep the policy repo rate under the liquidity adjustment facility (LAF) unchanged at 5.50 per cent.",
+      "source_document": "RBI_Bulletin_Aug_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:58.431046",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the CPI headline inflation rate recorded in June 2025, which marked a 77-month low?",
+      "options": {
+        "A": "1.9%",
+        "B": "2.1%",
+        "C": "2.6%",
+        "D": "3.1%",
+        "E": "4.4%"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the Governor's statement, CPI headline inflation declined for the eighth consecutive month to a 77-month low of 2.1 per cent in June 2025, primarily driven by a sharp decline in food inflation. (Page 8, 9)",
+      "source_document": "RBI_Bulletin_Aug_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:58.431159",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected real GDP growth for the financial year 2025-26 as per the August 2025 Monetary Policy Statement?",
+      "options": {
+        "A": "6.3%",
+        "B": "6.5%",
+        "C": "6.6%",
+        "D": "6.7%",
+        "E": "7.0%"
+      },
+      "correct_answer": "B",
+      "explanation": "Taking all factors into account, the real GDP growth for 2025-26 is projected at 6.5 per cent, with quarterly breakdowns of Q1 at 6.5%, Q2 at 6.7%, Q3 at 6.6%, and Q4 at 6.3%. (Page 8)",
+      "source_document": "RBI_Bulletin_Aug_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:58.431164",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Which new functionality was announced to be expanded in the RBI Retail-Direct platform to facilitate systematic investments by retail investors?",
+      "options": {
+        "A": "Auto-bidding facility for Corporate Bonds",
+        "B": "Investment in Treasury Bills through systematic investment plans",
+        "C": "Direct trading in currency derivatives",
+        "D": "Investment in Sovereign Gold Bonds via a mobile app",
+        "E": "Systematic withdrawal plans from State Development Loans"
+      },
+      "correct_answer": "B",
+      "explanation": "Among the consumer-centric announcements, the Governor stated the expansion of functionality in the RBI Retail-Direct platform to enable retail investors to invest in treasury bills through systematic investment plans. (Page 11)",
+      "source_document": "RBI_Bulletin_Aug_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:58.431168",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "With reference to the performance parameters of Scheduled Commercial Banks (SCBs) for June 2025, which of the following statements is INCORRECT?",
+      "options": {
+        "A": "The system-level Capital to Risk Weighted Assets Ratio (CRAR) was robust at 17.44%.",
+        "B": "The Gross Non-Performing Assets (GNPA) ratio improved to 2.24% compared to 2.67% a year ago.",
+        "C": "The annualised Return on Assets (RoA) and Return on Equity (RoE) stood at 1.34% and 12.70%, respectively.",
+        "D": "The Net Interest Margin (NIM) improved to 3.54% from 3.24% in the corresponding period of the previous year.",
+        "E": "The Net Non-Performing Assets (NNPA) ratio stood at 0.53%."
+      },
+      "correct_answer": "D",
+      "explanation": "All statements are correct except D. The Net Interest Margin (NIM) was 3.24 per cent for June 2025, which is a decrease from 3.54 per cent in June 2024, not an improvement. (Page 11, footnote 29)",
+      "source_document": "RBI_Bulletin_Aug_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:34:58.431171",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the policy repo rate maintained by the Monetary Policy Committee (MPC) following its meeting from December 4-6, 2024?",
+      "options": {
+        "A": "6.25%",
+        "B": "6.50%",
+        "C": "6.75%",
+        "D": "6.00%",
+        "E": "7.00%"
+      },
+      "correct_answer": "B",
+      "explanation": "The Monetary Policy Committee, in its meeting held from December 4 to 6, 2024, decided by a 4 to 2 majority to keep the policy repo rate unchanged at 6.50 per cent. (Page 7)",
+      "source_document": "RBI_Bulletin_Dec_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Current_Affairs",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:35:59.915658",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the RBI's projection for India's real GDP growth for the financial year 2024-25, as stated in the December 2024 Monetary Policy Statement?",
+      "options": {
+        "A": "5.4%",
+        "B": "6.2%",
+        "C": "6.6%",
+        "D": "6.8%",
+        "E": "7.2%"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the Governor's Statement, after considering various domestic and global factors, the real GDP growth for 2024-25 is projected at 6.6 per cent, with Q3 at 6.8 per cent and Q4 at 7.2 per cent. (Page 9)",
+      "source_document": "RBI_Bulletin_Dec_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Economic_Updates",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:35:59.915896",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In December 2024, the RBI announced a reduction in the Cash Reserve Ratio (CRR) by 50 bps to 4.0 per cent. What is the estimated amount of primary liquidity that this measure is expected to release into the banking system?",
+      "options": {
+        "A": "₹1.00 lakh crore",
+        "B": "₹1.50 lakh crore",
+        "C": "₹1.25 lakh crore",
+        "D": "₹1.16 lakh crore",
+        "E": "₹0.99 lakh crore"
+      },
+      "correct_answer": "D",
+      "explanation": "The decision to reduce the CRR by 50 bps in two equal tranches would release primary liquidity of about ₹1.16 lakh crore to the banking system, restoring the CRR to the level prevailing before the policy tightening cycle in April 2022. (Page 11, 21)",
+      "source_document": "RBI_Bulletin_Dec_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:35:59.915909",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "To enhance credit availability for small and marginal farmers, the RBI has increased the limit for collateral-free agriculture loans. What is the newly enhanced limit per borrower?",
+      "options": {
+        "A": "₹1.6 lakh",
+        "B": "₹1.8 lakh",
+        "C": "₹2.0 lakh",
+        "D": "₹2.5 lakh",
+        "E": "₹3.0 lakh"
+      },
+      "correct_answer": "C",
+      "explanation": "Taking into account the rise in agricultural input costs and overall inflation since the last revision in 2019, it has been decided to increase the limit for collateral-free agriculture loans from ₹1.6 lakh to ₹2 lakh per borrower. (Page 13, 22)",
+      "source_document": "RBI_Bulletin_Dec_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:35:59.915913",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In a move to attract more capital inflows, the RBI revised the interest rate ceilings on FCNR(B) deposits in December 2024. Which of the following statements regarding this revision is/are correct?\n1. The ceiling for deposits with a maturity of 1 year to less than 3 years has been increased to overnight ARR plus 400 bps.\n2. The ceiling for deposits with a maturity of 3 to 5 years has been increased to overnight ARR plus 500 bps.\n3. The relaxation in interest rate ceilings is available until March 31, 2025.",
+      "options": {
+        "A": "Only 1",
+        "B": "Only 1 and 2",
+        "C": "Only 2 and 3",
+        "D": "All 1, 2, and 3",
+        "E": "Only 3"
+      },
+      "correct_answer": "D",
+      "explanation": "All three statements are correct. Banks are permitted to raise fresh FCNR(B) deposits of 1 year to less than 3 years maturity at rates not exceeding overnight Alternative Reference Rate (ARR) plus 400 bps (up from 250 bps). For deposits of 3 to 5 years maturity, the ceiling has been increased to overnight ARR plus 500 bps (up from 350 bps). This relaxation is available till March 31, 2025. (Page 12, 21)",
+      "source_document": "RBI_Bulletin_Dec_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Policy_Changes",
+      "subject": "General_Awareness",
+      "report_category": "rbi_bulletin",
+      "generated_date": "2025-10-02T22:35:59.915916",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    }
+  ]
+}

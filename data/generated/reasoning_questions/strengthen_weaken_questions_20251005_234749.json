@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "strengthen_weaken_001",
+    "question": "A local bakery claims that their new gluten-free bread is as nutritious as their regular whole grain bread, as it contains similar levels of fiber and vitamins. However, sales have decreased since the introduction of the new product. The bakery concludes that their customers do not care about nutritional content when choosing bread.\n\nWhich of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "The gluten-free bread is priced higher than the regular whole grain bread.",
+      "B": "Customers of the bakery are more interested in taste than nutritional content.",
+      "C": "The gluten-free bread is sold in smaller loaves than the regular whole grain bread.",
+      "D": "A survey shows that a significant number of customers have allergies to gluten.",
+      "E": "The regular whole grain bread has been on sale at a discount since the new product launch."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) The conclusion is that customers do not care about nutritional content. (2) The assumption is that sales decrease is due to lack of interest in nutrition. (3) Option E weakens this by suggesting another reason for the sales drop—price competition, not indifference to nutrition. (4) Other options either support different causes or do not address the primary sales decrease issue directly.",
+    "difficulty": "Easy",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_002",
+    "question": "A study claims that people who exercise regularly are less likely to suffer from depression. The researchers conclude that exercising directly reduces the likelihood of depression.\n\nWhich of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "People who are already depressed are less likely to start exercising.",
+      "B": "Regular exercise increases the production of endorphins, which are known to improve mood.",
+      "C": "The study only included participants who were already physically healthy.",
+      "D": "People who exercise regularly also tend to have healthier diets.",
+      "E": "The study found that people who do yoga, a form of exercise, have lower rates of depression."
+    },
+    "correct_answer": "B",
+    "explanation": "Analysis: (1) The conclusion is that exercising reduces depression risk. (2) The assumption is that exercise has a direct causal link to reduced depression. (3) Option B strengthens by providing a biological mechanism (endorphins) explaining the link. (4) Other options either discuss correlates of exercise or potential biases in the study.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_003",
+    "question": "A technology company claims that its new data encryption method is unbreakable, based on tests showing it took experts significantly longer to attempt to breach it than other systems. The company concludes it provides the highest level of security available.\n\nWhich of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "The tests did not simulate real-world hacking attempts that exploit human error.",
+      "B": "Other companies have also developed similar encryption methods recently.",
+      "C": "The experts used in the tests were not informed about updates in encryption technology.",
+      "D": "The tests were conducted using outdated computer systems.",
+      "E": "Some experts argue that no encryption can be truly unbreakable."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) The conclusion claims the method is the highest security due to test difficulty. (2) Assumes tests reflect real-world security efficacy. (3) Option A weakens by showing tests don't account for real-world vulnerabilities like human error, questioning method's true security. (4) Other options either challenge the notion of unbreakability or question comparability without undermining test relevance.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_004",
+    "question": "A recent government report concludes that the introduction of a new tax on sugary drinks will reduce sugar consumption significantly. This conclusion is based on the premise that higher prices will deter purchases.\n\nAll of the following weaken the argument EXCEPT:",
+    "options": {
+      "A": "Some consumers may switch to buying sugary drinks in bulk from places with lower prices.",
+      "B": "People may replace sugary drinks with other high-sugar foods.",
+      "C": "Surveys indicate that only a small percentage of people consider price when choosing drinks.",
+      "D": "The tax revenue is being used to subsidize healthier food options, increasing their consumption.",
+      "E": "Past attempts to reduce sugar consumption through education campaigns were ineffective."
+    },
+    "correct_answer": "D",
+    "explanation": "Analysis: (1) The conclusion is that tax will reduce sugar consumption. (2) Assumes price increases lead to behavior change. (3) Option D doesn't weaken because it supports positive outcomes from tax revenue, indirectly supporting healthier choices. (4) Other options provide alternative behaviors or suggest price insensitivity.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_005",
+    "question": "A pharmaceutical company claims that their new drug reduces the risk of heart attacks by 50% based on a clinical trial. The trial was conducted on individuals aged 60 and above who have a history of heart disease.\n\nWhich of the following, if true, casts the most doubt on the company's claim?",
+    "options": {
+      "A": "Participants in the trial also followed a strict diet and exercise regimen.",
+      "B": "The trial only lasted for six months, making long-term effects unknown.",
+      "C": "The drug was found to have significant side effects in some participants.",
+      "D": "The reduction in heart attacks was similar across different age groups in the study.",
+      "E": "A significant number of participants were taking other medications for heart disease during the trial."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Conclusion is drug reduces heart attack risk by 50%. (2) Assumes reduction is due to the drug alone. (3) Option A introduces a confounding factor (diet and exercise), suggesting the trial's results may not solely be attributed to the drug, thus weakening the claim. (4) Other options either focus on different issues or do not directly challenge the drug's attributed effectiveness.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_006",
+    "question": "A recent study shows that people who consume at least one cup of green tea per day are 20% less likely to develop cardiovascular diseases compared to those who do not consume green tea. Therefore, drinking green tea is a significant preventive measure against cardiovascular diseases. Which of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "The study did not account for participants' overall diet and exercise habits.",
+      "B": "The study was conducted over a period of ten years.",
+      "C": "Green tea contains antioxidants that are beneficial to heart health.",
+      "D": "Participants who drank green tea also showed a lower incidence of stress-related disorders.",
+      "E": "Many participants in the study were already at low risk for cardiovascular diseases."
+    },
+    "correct_answer": "A",
+    "explanation": "The argument concludes that drinking green tea is a preventive measure against cardiovascular diseases based on a correlation found in a study. The assumption is that green tea directly contributes to this health benefit. Option A weakens the argument by introducing the possibility that other factors like diet and exercise, which were not accounted for in the study, could have influenced the results. This exposes a flaw in the causal link the argument depends on. Other options either do not address this assumption or are irrelevant to the causal claim.",
+    "difficulty": "Easy",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_007",
+    "question": "A company claims that its new marketing strategy, which involves increased social media engagement, has led to a 30% increase in sales over the past quarter. Which of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "The company also introduced a major discount campaign during the same period.",
+      "B": "Other companies in the industry did not show a similar increase in sales.",
+      "C": "The company's social media followers increased by 50% over the past quarter.",
+      "D": "Customer satisfaction ratings have remained unchanged despite the sales increase.",
+      "E": "The company's product range was expanded to include more popular items."
+    },
+    "correct_answer": "B",
+    "explanation": "The conclusion is that the new marketing strategy involving social media engagement directly caused the sales increase. The key assumption is that this strategy, rather than other factors, led to the increase. Option B strengthens the argument by eliminating the possibility that the sales increase was due to broader industry trends, thereby supporting the specific impact of the company's strategy. Other options either introduce confounding factors or are irrelevant to the causal claim.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_008",
+    "question": "A government report argues that the introduction of new stringent emission standards for vehicles will lead to a significant reduction in urban air pollution levels within five years. Which of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "Many automobile manufacturers are already producing vehicles that meet these new standards.",
+      "B": "Urban air pollution levels have been decreasing steadily over the past decade.",
+      "C": "The new standards apply only to newly manufactured vehicles, not to those already in use.",
+      "D": "Other countries that implemented similar standards saw a reduction in pollution levels.",
+      "E": "The standards include stricter limits on both carbon emissions and particulate matter."
+    },
+    "correct_answer": "C",
+    "explanation": "The argument assumes that the introduction of new emission standards will directly lead to reduced pollution levels. However, Option C weakens the argument by highlighting that the standards do not affect existing vehicles, which may continue to contribute significantly to pollution. This undermines the conclusion that the policy will have a substantial impact on overall pollution levels. Other options either provide supporting information or are unrelated to the central assumption.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_009",
+    "question": "A recent study concludes that children who play musical instruments perform better academically than those who do not. The study suggests that music training enhances cognitive abilities and discipline. Which of the following, if true, most weakens the study's conclusion?",
+    "options": {
+      "A": "Children who play musical instruments are more likely to come from families that prioritize education.",
+      "B": "The study involved children from various cultural backgrounds.",
+      "C": "Music training has been shown to improve hand-eye coordination.",
+      "D": "The study found no difference in the academic performance of children who played different types of musical instruments.",
+      "E": "The benefits of music training were observed regardless of the duration of practice."
+    },
+    "correct_answer": "A",
+    "explanation": "The conclusion is that playing musical instruments enhances academic performance through improved cognitive abilities and discipline. The assumption is that music training, rather than other factors, is responsible for the better academic performance. Option A weakens the conclusion by suggesting that the correlation might be due to socioeconomic factors, as children from education-focused families may have more support or resources for academic success, independent of music training. Other options either support the conclusion or are irrelevant to the central assumption.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_010",
+    "question": "A health organization claims that a new drug reduces the risk of a particular type of cancer by up to 40%. However, some critics argue that the drug's long-term effects are unknown. Which of the following, if true, most strengthens the health organization's claim?",
+    "options": {
+      "A": "The drug has been tested only on individuals who have a family history of cancer.",
+      "B": "The drug works by targeting specific cancerous cells without affecting healthy cells.",
+      "C": "Long-term studies are underway but have yet to be completed.",
+      "D": "The drug is effective in reducing the risk of several other types of cancer.",
+      "E": "The reduction in cancer risk was observed only in people who took the drug consistently for more than a year."
+    },
+    "correct_answer": "B",
+    "explanation": "The argument claims that the new drug significantly reduces the risk of cancer. The key assumption is that the drug effectively targets cancerous cells and does so safely. Option B strengthens the argument by providing a mechanism through which the drug achieves its effects without harming healthy cells, thus making the claim more credible. Other options either introduce limitations or are irrelevant to the central claim.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_011",
+    "question": "A new policy at a manufacturing plant aims to increase productivity by shortening the lunch break from 60 minutes to 30 minutes, arguing that this will reduce downtime and improve overall output.\n\nWhich of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "Employees work more efficiently when they take shorter breaks.",
+      "B": "The majority of employees use their lunch break to recharge, improving their performance in the afternoon.",
+      "C": "The plant has previously increased productivity by implementing new technology.",
+      "D": "Shorter breaks are likely to reduce employee morale and satisfaction.",
+      "E": "Productivity has increased in other plants with similar break policies."
+    },
+    "correct_answer": "B",
+    "explanation": "Analysis: (1) Conclusion: Shortening lunch breaks will increase productivity. Premises: Shorter lunch breaks lead to less downtime. (2) Assumption: Employees' productivity is not adversely affected by shorter breaks. (3) Option B provides evidence that contradicts this by showing that longer breaks improve afternoon performance, thus weakening the argument. (4) Other options do not directly address the impact of break length on productivity.",
+    "difficulty": "Easy",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_012",
+    "question": "A recent study claims that a new drug reduces the risk of heart disease by 30%. However, the study was conducted on a group of male participants aged 50-60. The pharmaceutical company states that the drug will be equally effective for all adults.\n\nWhich of the following, if true, most weakens the pharmaceutical company’s claim?",
+    "options": {
+      "A": "The drug was also tested on a younger group with similar results.",
+      "B": "Women have different risk factors for heart disease compared to men.",
+      "C": "Older adults are more compliant with medication regimes than younger adults.",
+      "D": "The study did not account for participants' lifestyle choices.",
+      "E": "The drug was more expensive than existing alternatives."
+    },
+    "correct_answer": "B",
+    "explanation": "Analysis: (1) Conclusion: The drug is equally effective for all adults. Premises: Study shows effectiveness in males aged 50-60. (2) Assumption: Results are generalizable to all adults. (3) Option B introduces a gender-specific difference that questions the universality of the claim, thereby weakening the company's statement. (4) Other options don't directly address the issue of generalizability.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_013",
+    "question": "A company's report states that introducing a flexible working environment has led to increased employee productivity. The report claims that allowing employees to choose their working hours results in better work-life balance and higher job satisfaction, thereby boosting productivity.\n\nWhich of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "Employees who work the same hours every day are more productive than those with flexible schedules.",
+      "B": "Departments with strict working hours have reported decreased productivity over the same period.",
+      "C": "Flexible work schedules have made it harder for teams to coordinate on projects.",
+      "D": "The company's overall revenue has remained unchanged since the implementation of flexible schedules.",
+      "E": "Competitors without flexible schedules have also reported increased productivity."
+    },
+    "correct_answer": "B",
+    "explanation": "Analysis: (1) Conclusion: Flexible working increases productivity. Premises: Flexible hours improve work-life balance and satisfaction. (2) Assumption: Flexible hours causally link to productivity improvements. (3) Option B supports this assumption by showing a productivity decline in departments without flexible schedules, thereby strengthening the argument. (4) Other options do not directly support the causal link between flexibility and productivity.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_014",
+    "question": "A climate change model predicts that increasing carbon taxes will significantly reduce carbon emissions by discouraging the use of fossil fuels. The model assumes that consumers and businesses will switch to renewable energy sources as costs for fossil fuels rise.\n\nWhich of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "Some businesses are investing in carbon capture technologies to offset emissions.",
+      "B": "The initial cost of switching to renewable energy sources is prohibitively high for many businesses.",
+      "C": "Government subsidies for renewable energy will decrease over the next decade.",
+      "D": "The model does not account for global carbon emissions from non-taxed countries.",
+      "E": "Renewable energy sources are becoming cheaper and more efficient."
+    },
+    "correct_answer": "B",
+    "explanation": "Analysis: (1) Conclusion: Carbon taxes will reduce emissions. Premises: Taxes will lead to a shift to renewables. (2) Assumption: Switching to renewables is financially feasible. (3) Option B challenges this by highlighting the prohibitive costs, thus weakening the argument by undermining the feasibility of switching. (4) Other options do not directly contradict the assumption that taxes will lead to a switch to renewables.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_015",
+    "question": "An education board has implemented a new teaching method, arguing that it will improve students' critical thinking skills. The method emphasizes problem-solving and interactive learning. However, some educators argue that traditional methods focusing on rote learning have their own benefits.\n\nWhich of the following, if true, would most weaken the board’s argument?",
+    "options": {
+      "A": "Students in experimental classes report enjoying learning more under the new method.",
+      "B": "Standardized test scores have shown no significant difference between the new and traditional methods.",
+      "C": "The new method increases classroom engagement and participation.",
+      "D": "Parents have expressed satisfaction with the new teaching approach.",
+      "E": "Research shows that interactive learning improves retention of complex concepts."
+    },
+    "correct_answer": "B",
+    "explanation": "Analysis: (1) Conclusion: The new method will improve critical thinking. Premises: It focuses on problem-solving and interaction. (2) Assumption: The new method leads to better learning outcomes. (3) Option B undermines this assumption by showing no improvement in test scores, thereby weakening the argument. (4) Other options highlight benefits that do not directly address the claim about critical thinking skills.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_016",
+    "question": "A city council claims that installing more streetlights in dark areas of the city will significantly reduce crime rates. The council's proposal is based on a study showing that well-lit areas have lower crime rates compared to poorly lit areas. Which of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "Streetlights are cost-effective and can be quickly installed in most areas.",
+      "B": "Criminals tend to avoid areas that are well-lit because they fear being identified.",
+      "C": "Most crimes in the city occur during daylight hours.",
+      "D": "Some well-lit areas still experience high crime rates.",
+      "E": "The city council has previously succeeded with a different crime reduction program."
+    },
+    "correct_answer": "B",
+    "explanation": "(1) Conclusion: Installing more streetlights will reduce crime rates. (2) Premises: Well-lit areas have lower crime rates. (3) Key Assumption: Criminals avoid well-lit areas. (4) Option B strengthens by supporting this assumption. Other options either do not address the key assumption or are irrelevant.",
+    "difficulty": "Easy",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_017",
+    "question": "A new study suggests that implementing a four-day workweek can improve employee productivity. The study observed that employees working four days a week produced as much work as those on a traditional five-day schedule. However, the study participants were all volunteers from the same company. Which of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "The company that participated in the study typically has a higher productivity level than the industry average.",
+      "B": "Employees in other companies have reported similar increases in productivity with a four-day workweek.",
+      "C": "The majority of the volunteers were already among the company's top performers.",
+      "D": "The company plans to expand the four-day workweek pilot to include more departments.",
+      "E": "The study only measured productivity without considering employee satisfaction."
+    },
+    "correct_answer": "C",
+    "explanation": "(1) Conclusion: A four-day workweek improves productivity. (2) Premises: Similar productivity levels in four vs. five days. (3) Key Assumption: Results are generalizable. (4) Option C weakens by showing volunteers are not representative of the general workforce. Other options are less relevant to the generalizability issue.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_018",
+    "question": "A recent report states that companies using a particular type of customer relationship management (CRM) software have seen a 20% increase in sales. The report suggests adopting this CRM software as a strategy for boosting sales across the industry. Which of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "The CRM software is more expensive than competitors but offers more features.",
+      "B": "Companies that adopted the software also invested heavily in staff training and customer support enhancements.",
+      "C": "The CRM software has won several awards for its ease of use and functionality.",
+      "D": "Most companies that did not see a sales increase had not implemented the software correctly.",
+      "E": "The CRM software includes unique analytics tools that help target customer needs effectively."
+    },
+    "correct_answer": "E",
+    "explanation": "(1) Conclusion: Adopting the CRM software boosts sales. (2) Premises: 20% sales increase reported. (3) Key Assumption: The software directly contributes to the sales increase. (4) Option E strengthens by identifying a direct benefit of the software that explains the sales increase. Other options provide less direct support.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_019",
+    "question": "A government report claims that raising the minimum wage will lead to an overall increase in consumer spending, thereby boosting the economy. This conclusion is based on data showing higher income workers tend to spend more. Critics argue that the increase could lead to job losses. Which of the following, if true, would most weaken the government's argument?",
+    "options": {
+      "A": "Most businesses plan to absorb the additional wage costs without reducing their workforce.",
+      "B": "Studies show that consumer spending does not significantly increase with small wage hikes.",
+      "C": "The report failed to consider that some industries may face greater wage cost burdens than others.",
+      "D": "Inflation is expected to rise, negating any potential spending increases from wage hikes.",
+      "E": "The majority of minimum wage workers are employed in sectors unlikely to reduce spending following wage increases."
+    },
+    "correct_answer": "B",
+    "explanation": "(1) Conclusion: Raising minimum wage boosts economy via increased spending. (2) Premises: Higher income leads to more spending. (3) Key Assumption: Wage increase significantly impacts spending. (4) Option B weakens by showing that spending does not rise significantly with wage hikes. Other options address secondary issues or provide less direct counterevidence.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_020",
+    "question": "A study indicates that students who study with background music tend to have higher test scores compared to those who study in silence. The researchers conclude that background music enhances learning. Which of the following, if true, would cast the most doubt on the study's conclusion?",
+    "options": {
+      "A": "Students who listen to music while studying also tend to study longer hours.",
+      "B": "The music used in the study was specifically chosen to be non-distracting.",
+      "C": "There is no significant difference in test scores when comparing students who prefer different genres of music.",
+      "D": "Many students reported feeling more relaxed and focused when studying with music.",
+      "E": "Schools that banned music in study areas saw no improvement in student performance."
+    },
+    "correct_answer": "A",
+    "explanation": "(1) Conclusion: Background music enhances learning. (2) Premises: Higher test scores with music. (3) Key Assumption: Music directly influences learning positively. (4) Option A weakens by suggesting that longer study hours, not music, may explain score improvements. Other options either support the premise or are less relevant.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_021",
+    "question": "A new city policy mandates that all public parks must close by 8 PM to reduce vandalism. The city council argues that since most vandalism occurs at night, closing parks early will significantly decrease these incidents.\n\nWhich of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "Vandalism in parks predominantly occurs between 6 PM and 8 PM.",
+      "B": "Nearby towns that close parks early have seen a rise in vandalism.",
+      "C": "The majority of park visitors prefer using the park after 8 PM.",
+      "D": "A recent survey indicates that park vandalism is more related to lack of security personnel than park hours.",
+      "E": "Reports show that lighting improvements reduce park vandalism."
+    },
+    "correct_answer": "D",
+    "explanation": "The argument concludes that closing parks early will reduce vandalism based on the premise that vandalism occurs at night. Option D weakens the argument by suggesting that vandalism is more related to insufficient security rather than the park's operating hours. Other options do not directly address the assumption or provide alternative explanations that weaken the argument.",
+    "difficulty": "Easy",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_022",
+    "question": "A recent study found that children who play musical instruments tend to perform better in mathematics. The researchers conclude that learning a musical instrument enhances cognitive skills that improve mathematical ability.\n\nWhich of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "Schools that prioritize music education report higher overall academic performance.",
+      "B": "Children who excel in mathematics often have parents who are highly involved in their education.",
+      "C": "The study did not account for children's socioeconomic status, which affects access to musical instruments.",
+      "D": "A separate study shows that students who play sports also perform better in mathematics.",
+      "E": "Children who play musical instruments also spend more time on extracurricular activities unrelated to academics."
+    },
+    "correct_answer": "A",
+    "explanation": "The conclusion is that playing musical instruments enhances cognitive skills that improve math performance. Option A strengthens this argument by suggesting a broader correlation between music education and overall academic success, implying that music may indeed contribute to cognitive development. Other options either introduce alternative factors or lack relevance to the specific causal link being evaluated.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_023",
+    "question": "A tech company claims that implementing a four-day work week has increased productivity among its employees. They argue that this schedule leads to better work-life balance and less burnout.\n\nWhich of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "Employees report feeling more energized with an extra day off each week.",
+      "B": "Productivity measurements were taken during a seasonal slump when workload was lower.",
+      "C": "Other companies with similar policies have reported mixed results in productivity.",
+      "D": "The four-day work week has become a popular topic in management studies.",
+      "E": "Some employees use the extra day off to pursue personal interests unrelated to work."
+    },
+    "correct_answer": "B",
+    "explanation": "The argument is that a four-day work week increases productivity due to better work-life balance. Option B weakens the argument by indicating that productivity measurements might not be reliable due to timing during a seasonal slump, suggesting that the perceived productivity increase might not be due to the policy change. Other options do not directly challenge the causal link between the four-day work week and increased productivity.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_024",
+    "question": "A pharmaceutical company claims that its new drug reduces the duration of the common cold by 30%. The claim is based on a study where participants who took the drug reported feeling better in a shorter time compared to those who took a placebo.\n\nWhich of the following, if true, would cast the most doubt on the conclusion?",
+    "options": {
+      "A": "Participants in the study who took the placebo reported feeling better after consuming hot beverages.",
+      "B": "The study found no significant difference in cold duration between male and female participants.",
+      "C": "The drug was administered along with a high-dose vitamin regimen.",
+      "D": "Participants were more likely to report symptoms honestly when taking the new drug.",
+      "E": "The drug's price is significantly higher than that of other cold remedies."
+    },
+    "correct_answer": "C",
+    "explanation": "The conclusion is that the new drug reduces the duration of the common cold by 30%. Option C weakens the argument by suggesting that the vitamin regimen could have contributed to the perceived reduction in symptoms, thus introducing an alternative explanation. Other options do not directly challenge the claim about the drug's effectiveness.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_025",
+    "question": "A city introduces a new tax on sugary drinks, claiming it will reduce the consumption of unhealthy beverages and improve public health outcomes.\n\nWhich of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "The tax revenue will be used to fund public health campaigns.",
+      "B": "In similar cities, sugary drink consumption declined significantly after a tax was implemented.",
+      "C": "The cost of sugary drinks remains affordable despite the tax.",
+      "D": "Most residents are unaware of the health risks associated with sugary drink consumption.",
+      "E": "The local government plans to review the tax policy annually."
+    },
+    "correct_answer": "B",
+    "explanation": "The argument claims that a sugary drink tax will reduce consumption and improve public health. Option B strengthens the argument by providing evidence from similar cities where such a tax led to a decline in consumption, supporting the causal link between the tax and reduced unhealthy beverage intake. Other options do not directly confirm the tax's effectiveness in achieving the stated health outcomes.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_026",
+    "question": "The city council claims that implementing a new bike-sharing program will reduce traffic congestion in the downtown area. The council points to a similar program in another city that reduced traffic by 15% as supporting evidence. Which of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "The downtown area has fewer bike lanes compared to the other city.",
+      "B": "The other city also implemented new public transportation routes at the same time as the bike-sharing program.",
+      "C": "The population of the city is expected to grow significantly in the next year.",
+      "D": "Residents of the downtown area have shown a strong preference for driving over cycling.",
+      "E": "The bike-sharing program in the other city was subsidized by local businesses."
+    },
+    "correct_answer": "B",
+    "explanation": "Analysis: (1) Conclusion: The new bike-sharing program will reduce traffic congestion. (2) Key assumption: The bike-sharing program alone caused the reduction in traffic. (3) Option B introduces an alternative explanation, showing that new public transport could be responsible for the traffic reduction, thus weakening the argument. (4) Other options do not directly address the causal link between the bike program and reduced traffic.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_027",
+    "question": "A recent study claims that students who study in short, regular intervals retain more information than those who study in longer, infrequent sessions. Which of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "Students who study in longer sessions often report feeling more stressed and tired.",
+      "B": "Regular breaks during study sessions are known to improve focus and concentration.",
+      "C": "The study was conducted with students across multiple universities in diverse fields.",
+      "D": "Some students prefer to study in longer sessions because they find it more comfortable.",
+      "E": "Students who studied in short intervals reported higher test scores across various subjects."
+    },
+    "correct_answer": "E",
+    "explanation": "Analysis: (1) Conclusion: Short, regular study intervals improve retention. (2) Key assumption: Such study patterns lead to better academic performance. (3) Option E directly supports the assumption by providing evidence of improved test scores, thus strengthening the argument. (4) Other options do not directly link study intervals to retention outcomes.",
+    "difficulty": "Medium",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_028",
+    "question": "Researchers have found that people who drink coffee regularly tend to live longer. They concluded that coffee consumption directly contributes to longevity. Which of the following, if true, most weakens the argument?",
+    "options": {
+      "A": "Regular coffee drinkers also tend to exercise more frequently than non-coffee drinkers.",
+      "B": "Coffee contains antioxidants that are known to have health benefits.",
+      "C": "The study included participants from a wide range of age groups and ethnic backgrounds.",
+      "D": "People who avoid coffee often have different dietary preferences compared to coffee drinkers.",
+      "E": "Coffee drinkers reported fewer visits to the doctor than non-coffee drinkers."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Conclusion: Coffee consumption leads to longer life. (2) Key assumption: Coffee directly causes longevity, not other factors. (3) Option A suggests that exercise, a known contributor to longevity, could explain the correlation, weakening the argument by introducing an alternative cause. (4) Other options do not sufficiently challenge the causal link between coffee and longevity.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_029",
+    "question": "A company claims that their newly developed app will significantly reduce water wastage by alerting users to leaks and excessive usage. Which of the following, if true, most strengthens the argument?",
+    "options": {
+      "A": "The app includes a feature that automatically shuts off water supply when a leak is detected.",
+      "B": "Similar apps have struggled to gain a significant user base in the past.",
+      "C": "The app requires users to manually input their water usage data.",
+      "D": "The app offers tips on how to reduce overall water consumption.",
+      "E": "Users have reported difficulty in setting up the app on their devices."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Conclusion: The app will reduce water wastage. (2) Key assumption: The app effectively prevents water loss. (3) Option A strengthens the argument by showing that the app has a proactive feature that directly addresses leaks, thereby potentially reducing wastage significantly. (4) Other options do not demonstrate the app's effectiveness in reducing actual water wastage.",
+    "difficulty": "Easy",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "strengthen_weaken_030",
+    "question": "A report claims that implementing a new work-from-home policy will increase employee productivity. The report is based on a survey where 70% of employees reported feeling more productive while working from home. Which of the following, if true, casts the most doubt on the conclusion?",
+    "options": {
+      "A": "Employees who preferred working from the office were less likely to participate in the survey.",
+      "B": "The survey was conducted during a period of unusual weather, which may have influenced responses.",
+      "C": "Some employees reported issues with internet connectivity while working from home.",
+      "D": "Employees working from home have fewer interactions with their colleagues.",
+      "E": "A similar policy in another company showed mixed results in terms of productivity."
+    },
+    "correct_answer": "A",
+    "explanation": "Analysis: (1) Conclusion: Work-from-home policy will increase productivity. (2) Key assumption: Survey results accurately reflect general employee productivity. (3) Option A suggests a sample bias, where less productive employees (preferring the office) were underrepresented, thus weakening the argument. (4) Other options do not directly challenge the survey's representativeness.",
+    "difficulty": "Hard",
+    "topic": "Strengthening/Weakening Arguments",
+    "reasoning_topic": "Strengthen/Weaken",
+    "main_category": "Analytical & Critical Reasoning",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

@@ -1,0 +1,343 @@
+{
+  "topic": "Strengthening/Weakening Arguments",
+  "total_questions": 11,
+  "questions": [
+    {
+      "id": "2017_Q117",
+      "question_number": 117,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Decision: The Government of the State decided that no car in the city X shall be allowed to have tinted glasses from next month. I. Most of the crimes reported in the past few months in city X had an involvement of cars with tinted glasses. II. Tinted glasses were responsible for a large number of accidents in city X as they affected visibility during night.",
+      "options": {
+        "A": "Statement I strengthens the decision while Statement II weakens the decision.",
+        "B": "Both Statement I and Statement II weaken the decision.",
+        "C": "Both Statement I and Statement II strengthen the decision.",
+        "D": "Both Statement I and Statement II are neutral Statements.",
+        "E": "Statement I weakens the decision while Statement II strengthens the decision."
+      },
+      "correct_answer": "C",
+      "explanation": "Statement I states that most crimes that takes place in city X involves cars with tinted glasses which strengthen the decision of the government to ban cars in the city X with tinted glasses. Statement II states that cars with tinted glasses are responsible for accidents in city X as it affects the visibility in night which also strengthen the government decision of ban cars in the city X with tinted glasses. Hence, both statements strengthen the government decision.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthening/Weakening Arguments",
+      "question_id": "REASONING_00007",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253980"
+      }
+    },
+    {
+      "id": "2017_Q142",
+      "question_number": 142,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the following information and answer the question given. School X had been allowing local people to use their basketball court and cricket ground after school hours by charging a fees for the same. This had helped the school generate a significant amount of additional income in the past few years. However, this year the school decided to discontinue the practice. Which of the following statements does not strengthen the decision of School X of discontinuing the practice?",
+      "options": {
+        "A": "The number of people using the basket ball court and cricket ground of school is slightly decreased last year as other schools in the vicinity also started following the same practice.",
+        "B": "School X could not win even a single trophy in past few years annual inter-school games competition as the participants did not get adequate time for practice due to access of grounds to local people.",
+        "C": "Complaints by the nearby residents of school X have increased about the increased disturbance created by the users of the basketball court and cricket ground beyond school hours.",
+        "D": "The damage caused to the basketball court and cricket ground of school X has increased significantly due to over-use by the subsiders thus not allowing the students to play.",
+        "E": "The governing board of school X denied the acess to school premises in any number by the subsiders(other than parents of students) in this year’s board meeting for security reasons."
+      },
+      "correct_answer": "E",
+      "explanation": "Statement A states that the other schools in the neighborhood of school X also allowed local people to use their basketball courts and cricket schools. Statement B states that school X did not win a single trophy in the past few years due to lack of practice. Statement C states that nearby residents of school X complaints about the disturbance created by the local residents who uses the basketball court and cricket ground after school hours. Statement D states that local residents damaged the property of school X. Statement E states the decision taken by governing board of school X to give access to the number of subsiders. Hence, statement E does not strengthen the decision of school X of discontinuing the practice.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthening/Weakening Arguments",
+      "question_id": "REASONING_00032",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254010"
+      }
+    },
+    {
+      "id": "2017_Q155",
+      "question_number": 155,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "‘Goldkart’, a leading gold jewellery chain in country ‘Rikmaya’ is famous for good jewellery with intricate designs. However, it recently chose to import jewellery from Country X for sale besides selling just intricate designs. Which of the following cannot be a reason behind the decisions taken by ‘Goldkart’?",
+      "options": {
+        "A": "Gold jewellery with intricate designs was a brain child of ‘Goldkart’ in order to have an edge over other jewellery companies. Since these designs are now overused, they wish to bring a newer concept of designs.",
+        "B": "The new concept of layered gold jewellery recently started by company X is widely in news worldwide.",
+        "C": "The Jewellery designers of ‘Goldkart’ haven’t updated their skills since 5-6 years making them incompetent as compared to other designers of the country.",
+        "D": "Since country X has quoted high prices to export gold jewellery to ‘Goldkart’, the profit gained by ‘Goldkart’ is just 18% more than the usual profit.",
+        "E": "None of those given as options."
+      },
+      "correct_answer": "E",
+      "explanation": "Hence, the given statements cannot be a reason behind the decision taken by ‘Goldkart’ as all the statements did not deal with the idea of ‘goldkart’ to import jewellery to country X.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthen/Weaken",
+      "question_id": "REASONING_00043",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254022",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q170",
+      "question_number": 170,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Which of the following may be a reason for increased tourism in Country G? A. The tourism packages offered by various travel agencies for visiting places in Country G were much cheaper and attractive. B. The government of Country G had started special buses, trains and flights at highly subsidized rates for passengers during holidays. C. The various hotels and travel agencies of City F in Country G started holiday packages of 18% lesser price than any other tourist spot in the country. D. Country G was found to be the most preferred tourist destination for the last three years globally.",
+      "options": {
+        "A": "All A, B, C and D",
+        "B": "Both A and D",
+        "C": "Both B and C",
+        "D": "A, B and D",
+        "E": "Both A and B"
+      },
+      "correct_answer": "D",
+      "explanation": "Statement A states the tourism package offered by various travel agencies of country G. Statement C states that the country G have started special buses, trains and flights at reasonable rates for passengers. Statement C states that city F in country G lower their holiday packages for tourists. Statement D states that country G was most preferred tourist destination from the last three years.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthen/Weaken",
+      "question_id": "REASONING_00058",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254041",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q86",
+      "question_number": 86,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "It is believed that algae grows faster in slow-flowing water. On the other hand, it is also argued that growth of algae causes hindrance to the flow of water. As more algae grows the speed at which water flows decreases. Which of the following, if true, would most appropriately weaken the argument that growth of algae reduces speed of water?",
+      "options": {
+        "A": "Algae grows at the same rate in still water as the rate at which it grows in flowing water.",
+        "B": "Algae grows faster in shallow water than in deep water.",
+        "C": "Propagation of algae takes place faster in flowing water than in still water.",
+        "D": "The South African perennial rivers, which flow very fast throughout the year, are home to a large variety of algae.",
+        "E": "The rivers closer to the equator, which receive good amount of sunlight throughout the year and have the thickest algae population, are the fastest-flowing rivers."
+      },
+      "correct_answer": "E",
+      "explanation": "We need to show that growth of algae does not decrease the speed of water flow. Choice(A) talks about growth of algae but does not indicate anything about the change in the speed of flow after the growth of algae. Choice(B) talks about the depth but not speed. Choice(C) talks about how flow helps in propagation of algae but does not talk about how the growth of algae affects the speed of flow. Choice(D) talks about the number of varieties of algae that are housed in fast flowing water but not about the population of algae. Choice(E) states that the speed of the rivers which house the thickest population of algae is the highest. This goes against the argument that growth of algae reduces speed of water.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthen/Weaken",
+      "question_id": "REASONING_00113",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254107",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q60",
+      "question_number": 60,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Statement: Digital payment systems have ballooned in popularity in India since the government scrapped large-value banknotes in 2016. Inferences: I. People find it easier to pay via electronic methods rather than cash. II. The common people have realised the convenience of digital payments, which is why it has gained popularity. III. Digital payments methods have become popular in India because of good advertising.",
+      "options": {
+        "A": "Only I follows",
+        "B": "Only II follows",
+        "C": "Both I and II follow",
+        "D": "Both II and III follow",
+        "E": "Both I and III follow"
+      },
+      "correct_answer": "C",
+      "explanation": "Both inferences I and II follow. The given statement says that digital payments have grown in popularity since the government scrapped large value banknotes more than a year ago. We can easily infer that people must have found the new mode of payment easy and convenient, which is why they stuck to this method even after more than a year. Therefore, option C is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthen/Weaken",
+      "question_id": "REASONING_00177",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254179",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q185",
+      "question_number": 185,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statement: Should the institutes of higher learnings in India like IITs and IIMs be made totally free from government control? Arguments: I. No, government needs to regulate functions of these institutes for national interest. II. Yes, such institutes in the developed countries are run by non-government agencies. III. No, these institutes are not capable to take policy decisions for smooth functioning.",
+      "options": {
+        "A": "Only I is strong",
+        "B": "Only III is strong",
+        "C": "I and II are strong",
+        "D": "I and III are strong",
+        "E": "All the three are strong"
+      },
+      "correct_answer": "A",
+      "explanation": "2nd argument is based on example and hence it is a weak argument. 3rd argument is also weak.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthen/Weaken",
+      "question_id": "REASONING_00218",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254224",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q161",
+      "question_number": 161,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "A word and number arrangement machine when given an input line of words and numbers rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement. Input: 25 36 18 49 12 55 22 33 Step I: 12 25 36 18 49 55 22 33 Step II: 12 18 25 36 49 55 22 33 Step III: 12 18 22 25 36 49 55 33 Step IV: 12 18 22 25 33 36 49 55 And Step IV is the last step of the above input. As per the rules followed in the above steps, find out in each of the following questions the appropriate step for the given input. Input: 42 15 68 29 74 37 51 23. Which number would be at the 5th position from the right end in Step III?",
+      "options": {
+        "A": "29",
+        "B": "37",
+        "C": "42",
+        "D": "51",
+        "E": "68"
+      },
+      "correct_answer": "A",
+      "explanation": "Option A weakens the argument put forward by the committee as it makes a case for forgiving the players and not taking back the award from them.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthening/Weakening Arguments",
+      "question_id": "REASONING_00249",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254259"
+      }
+    },
+    {
+      "id": "2023_Q163",
+      "question_number": 163,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Statement: For-profit colleges serve far fewer students than either public or private non-profit colleges. At the same time, relative to non-profit colleges, for-profit colleges draw a disproportionate share of federal and state financial aid, such as tuition grants and guaranteed loans, for their students. It must be, then, that for-profit colleges enrol a greater proportion of financially disadvantaged students than do non-profit colleges. Which of the following, if true, most seriously weakens the conclusion drawn above?",
+      "options": {
+        "A": "Some students at for-profit colleges are not financially disadvantaged.",
+        "B": "Public colleges receive more federal and state financial aid than do for-profit colleges.",
+        "C": "For-profit colleges enrol a greater proportion of students who are older and attend college part-time.",
+        "D": "The average amount of federal and state financial aid received per student is higher at for-profit colleges than at non-profit colleges.",
+        "E": "Students at for-profit colleges are less likely to complete their degrees than are students at non-profit colleges."
+      },
+      "correct_answer": "B",
+      "explanation": "(A) Differences among non-profit colleges – such as public vs. private – are irrelevant to the argument. (B) This is the correct choice. One alternative reason that might explain the disproportionate aid distribution is that for-profit colleges engaged in fraudulent practices to obtain unneeded financial assistance for their students. This answer choice asserts that this was NOT in fact the case, thereby eliminating this alternative explanation and highlighting a key assumption upon which the statement rests. (C) The actual number of students receiving aid at for-profit vs. non-profit colleges is irrelevant to the statement. (D) The relative educational quality of for-profit vs. non-profit colleges lies outside the scope of the argument, which is focused solely on differences in financial aid distribution. (E) Whether students successfully repay their loans after college is immaterial to the claim made in the statement.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthen/Weaken",
+      "question_id": "REASONING_00251",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254261",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q165",
+      "question_number": 165,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Statement: A recent study has shown that people who eat a diet rich in fruits and vegetables are less likely to develop heart disease. Which of the following, if true, most seriously weakens the conclusion drawn above?",
+      "options": {
+        "A": "The study was conducted on a small sample size.",
+        "B": "The people who eat a diet rich in fruits and vegetables also exercise regularly.",
+        "C": "The study did not control for other factors that may affect heart disease.",
+        "D": "Some fruits and vegetables are high in sugar.",
+        "E": "Heart disease is a leading cause of death in developed countries."
+      },
+      "correct_answer": "E",
+      "explanation": "Option E is the correct answer. As stated in the statement, \"he had caused the pilings to be driven until additional penetration into the ground was no greater than two inches after twenty-four hammer blows.\" The statement indicates that additional penetration was possible with a sufficient number of hammer blows.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthen/Weaken",
+      "question_id": "REASONING_00253",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254263",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q166",
+      "question_number": 166,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Statement: The use of artificial intelligence in the workplace is increasing rapidly. This trend is likely to lead to significant job losses in the coming years. Which of the following, if true, most seriously weakens the conclusion drawn above?",
+      "options": {
+        "A": "Artificial intelligence can only perform simple, repetitive tasks.",
+        "B": "Many new jobs will be created as a result of the development of artificial intelligence.",
+        "C": "The adoption of artificial intelligence will be gradual.",
+        "D": "Some workers will be able to adapt to the changing job market.",
+        "E": "The benefits of artificial intelligence outweigh the potential costs."
+      },
+      "correct_answer": "E",
+      "explanation": "As per the argument, Max is clearly an incompetent detective as he has solved a smaller percentage of the cases assigned to him in the last 3 years, i.e., only 1 out of 25. This argument can be weakened by adding an explanation for the low proportion of cases solved by Max and thus, challenging the premise. Option (e) says that since the police chief regards Max as the most capable detective, he assigns him only the most difficult cases, ones that others have failed to solve, and thus, adds the required explanation.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Strengthening/Weakening Arguments",
+      "topic": "Strengthening/Weakening Arguments",
+      "question_id": "REASONING_00254",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254264"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

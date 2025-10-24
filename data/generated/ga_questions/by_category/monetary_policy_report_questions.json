@@ -1,0 +1,906 @@
+{
+  "category": "monetary_policy_report",
+  "total_questions": 45,
+  "questions": [
+    {
+      "question": "What was the policy repo rate maintained by the Monetary Policy Committee (MPC) through the first half of FY 2024-25?",
+      "options": {
+        "A": "6.00%",
+        "B": "6.25%",
+        "C": "6.50%",
+        "D": "6.75%",
+        "E": "7.00%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Monetary Policy Committee (MPC) kept the policy repo rate unchanged at 6.5 per cent through H1 of FY 2024-25 to align inflation with the target while supporting growth. (Page 2)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390588",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected real GDP growth for India for the financial year 2024-25?",
+      "options": {
+        "A": "6.7%",
+        "B": "6.9%",
+        "C": "7.0%",
+        "D": "7.2%",
+        "E": "7.4%"
+      },
+      "correct_answer": "D",
+      "explanation": "Taking into account baseline assumptions, survey indicators, and model forecasts, the real GDP growth is expected at 7.2 per cent in 2024-25. (Page 9)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390705",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected average CPI inflation for the financial year 2024-25?",
+      "options": {
+        "A": "4.1%",
+        "B": "4.2%",
+        "C": "4.5%",
+        "D": "4.8%",
+        "E": "5.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "The projection of CPI inflation for 2024-25 was retained at 4.5 per cent by the MPC. This is also mentioned in the inflation outlook section. (Page 2, 17)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390709",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the real Gross Domestic Product (GDP) growth rate recorded in Q1:2024-25?",
+      "options": {
+        "A": "6.5%",
+        "B": "6.7%",
+        "C": "7.0%",
+        "D": "7.2%",
+        "E": "7.4%"
+      },
+      "correct_answer": "B",
+      "explanation": "According to data from the National Statistical Office (NSO), India's real gross domestic product (GDP) grew by 6.7 per cent in Q1:2024-25. (Page 11, 45)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390713",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In May 2024, core CPI inflation (CPI excluding food and fuel) fell to its lowest level since January 2012. What was this level?",
+      "options": {
+        "A": "2.8%",
+        "B": "3.1%",
+        "C": "3.3%",
+        "D": "3.5%",
+        "E": "3.9%"
+      },
+      "correct_answer": "B",
+      "explanation": "Core inflation was on a steadily declining path, and in May 2024, it fell to its lowest level of 3.1 per cent in the current series (since January 2012). (Page 11)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390716",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the average food price inflation during the period of April-August 2024?",
+      "options": {
+        "A": "5.2%",
+        "B": "6.1%",
+        "C": "6.5%",
+        "D": "6.9%",
+        "E": "7.2%"
+      },
+      "correct_answer": "D",
+      "explanation": "Food price inflation remained elevated, averaging 6.9 per cent over the five months from April to August 2024, contributing significantly to headline inflation. (Page 11)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390719",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "By what majority did the Monetary Policy Committee (MPC) decide to keep the policy repo rate unchanged in its June 2024 meeting?",
+      "options": {
+        "A": "Unanimously",
+        "B": "5-1",
+        "C": "4-2",
+        "D": "3-3 with Governor's casting vote",
+        "E": "6-0"
+      },
+      "correct_answer": "C",
+      "explanation": "In the June 2024 meeting, the MPC decided by a majority of 4-2 to keep the policy rate unchanged at 6.5 per cent and to continue with the stance of withdrawal of accommodation. (Page 12)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390722",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the growth rate of Private Final Consumption Expenditure (PFCE) in Q1 of FY 2024-25?",
+      "options": {
+        "A": "4.0%",
+        "B": "5.5%",
+        "C": "6.7%",
+        "D": "7.4%",
+        "E": "8.2%"
+      },
+      "correct_answer": "D",
+      "explanation": "Private Final Consumption Expenditure (PFCE) rebounded strongly in Q1:2024-25, growing at 7.4 per cent and contributing 4.2 percentage points to overall GDP growth. (Page 11, 46)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390725",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What level of Capacity Utilisation (CU) was recorded in the manufacturing sector in Q1:2024-25?",
+      "options": {
+        "A": "73.8%",
+        "B": "74.0%",
+        "C": "74.6%",
+        "D": "75.8%",
+        "E": "76.8%"
+      },
+      "correct_answer": "B",
+      "explanation": "Capacity utilisation (CU) in the manufacturing sector recorded a seasonal dip to 74.0 per cent in Q1:2024-25 from 76.8 per cent in Q4:2023-24. (Page 50)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390728",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the baseline assumption for the price of the Indian basket of crude oil for H2:2024-25?",
+      "options": {
+        "A": "US$ 75 per barrel",
+        "B": "US$ 78 per barrel",
+        "C": "US$ 80 per barrel",
+        "D": "US$ 83.5 per barrel",
+        "E": "US$ 85 per barrel"
+      },
+      "correct_answer": "C",
+      "explanation": "As per Table I.2: Baseline Assumptions for Projections, the price for the Indian basket of crude oil is assumed at US$ 80 per barrel during H2:2024-25. (Page 13)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390730",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is RBI's projected CPI inflation for Q3 of 2024-25?",
+      "options": {
+        "A": "4.1%",
+        "B": "4.2%",
+        "C": "4.5%",
+        "D": "4.8%",
+        "E": "5.1%"
+      },
+      "correct_answer": "D",
+      "explanation": "CPI inflation is projected to be 4.1 per cent in Q2, 4.8 per cent in Q3, and 4.2 per cent in Q4 of 2024-25. (Page 17)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390739",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the risk assessment scenarios, what is the estimated impact on domestic inflation if international crude oil prices are 10 per cent above the baseline?",
+      "options": {
+        "A": "Inflation could be lower by 15 bps",
+        "B": "Inflation could be higher by 15 bps",
+        "C": "Inflation could be higher by 30 bps",
+        "D": "Inflation could be lower by 30 bps",
+        "E": "There would be no significant impact on inflation"
+      },
+      "correct_answer": "C",
+      "explanation": "In the scenario assuming crude oil prices to be 10 per cent above the baseline, domestic inflation could be higher by 30 bps, while GDP growth could be weaker by around 15 bps. (Page 20)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390741",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the risk scenarios considered, what is the potential impact on India's real GDP growth if the Indian Rupee (INR) depreciates by 5 per cent over the baseline?",
+      "options": {
+        "A": "GDP growth could moderate by 35 bps",
+        "B": "GDP growth could edge up by 25 bps",
+        "C": "GDP growth could moderate by 25 bps",
+        "D": "GDP growth could edge up by 35 bps",
+        "E": "GDP growth would remain unchanged"
+      },
+      "correct_answer": "B",
+      "explanation": "In the scenario where the INR depreciates by 5 per cent over the baseline, inflation could be higher by around 35 bps while GDP growth could edge up by around 25 bps through short-term stimulation of exports. (Page 21)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390744",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the analytical framework presented in Box I.1, what monetary policy action is warranted in a scenario of repeated food inflation shocks coupled with robust aggregate demand conditions?",
+      "options": {
+        "A": "A less aggressive monetary policy action due to the transitory nature of shocks.",
+        "B": "No policy response, as monetary policy should look through food inflation.",
+        "C": "A more aggressive monetary policy action to counter compounding effects on core inflation.",
+        "D": "A neutral stance, waiting for supply-side measures to take effect.",
+        "E": "An immediate reduction in the policy rate to support growth."
+      },
+      "correct_answer": "C",
+      "explanation": "Scenario 2 in Box I.1 illustrates that in the event of robust demand conditions, the spike in core inflation from repeated food shocks will be compounded, warranting more aggressive monetary policy action. (Page 22)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390746",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the September 2024 Survey of Professional Forecasters, what is the median projection for the combined gross fiscal deficit as a percentage of GDP for 2024-25?",
+      "options": {
+        "A": "4.9%",
+        "B": "6.9%",
+        "C": "7.2%",
+        "D": "7.4%",
+        "E": "7.9%"
+      },
+      "correct_answer": "E",
+      "explanation": "Table I.3, which details projections from the Survey of Professional Forecasters, indicates a median projection for the combined gross fiscal deficit (Centre and States) at 7.9 per cent of GDP for 2024-25. (Page 16)",
+      "source_document": "Monetary_Policy_Report_Oct_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:37:11.390749",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the real GDP growth projected by the Reserve Bank for the financial year 2024-25?",
+      "options": {
+        "A": "6.5%",
+        "B": "6.7%",
+        "C": "7.0%",
+        "D": "7.3%",
+        "E": "7.6%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Reserve Bank's baseline projection for real GDP growth for 2024-25 is 7.0 per cent. (Page 18, Table I.3)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.379893",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the policy repo rate maintained by the Monetary Policy Committee in its meetings between October 2023 and February 2024?",
+      "options": {
+        "A": "6.00%",
+        "B": "6.25%",
+        "C": "6.50%",
+        "D": "6.75%",
+        "E": "7.00%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Monetary Policy Committee (MPC) kept the policy repo rate unchanged at 6.50 per cent through H2:2023-24 to align inflation with the target while supporting growth. (Page 12)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380045",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected average CPI inflation for 2024-25, assuming a normal monsoon?",
+      "options": {
+        "A": "4.1%",
+        "B": "4.5%",
+        "C": "4.9%",
+        "D": "5.1%",
+        "E": "5.4%"
+      },
+      "correct_answer": "B",
+      "explanation": "CPI inflation is projected to average 4.5 per cent in 2024-25, with risks evenly balanced, taking into account initial conditions, survey signals, and model estimates. (Page 17)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380051",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The second advance estimates (SAE) placed real GDP growth for Q3:2023-24 at what level, outpacing consensus forecasts?",
+      "options": {
+        "A": "7.3%",
+        "B": "7.6%",
+        "C": "8.1%",
+        "D": "8.4%",
+        "E": "7.0%"
+      },
+      "correct_answer": "D",
+      "explanation": "Real GDP growth for Q3:2023-24 was placed at 8.4 per cent, underpinned by strong investment and an improvement in private consumption. (Page 11)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380055",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Core inflation (CPI excluding food and fuel) fell to what level in February 2024, which was among the lowest prints in the current CPI series (2012=100)?",
+      "options": {
+        "A": "3.0%",
+        "B": "3.4%",
+        "C": "3.8%",
+        "D": "4.0%",
+        "E": "4.2%"
+      },
+      "correct_answer": "B",
+      "explanation": "Core inflation has been on a steadily declining path, falling to 3.4 per cent in February 2024, among the lowest prints in the current CPI series. (Page 11)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380058",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the baseline assumption for the price of the Indian basket of crude oil for generating projections for 2024-25?",
+      "options": {
+        "A": "US$ 75 per barrel",
+        "B": "US$ 80 per barrel",
+        "C": "US$ 83 per barrel",
+        "D": "US$ 85 per barrel",
+        "E": "US$ 90 per barrel"
+      },
+      "correct_answer": "D",
+      "explanation": "Taking into account various factors including geopolitical tensions and demand-supply mismatches, the baseline assumption for crude price (Indian basket) is retained at US$ 85 per barrel for 2024-25. (Page 13, Table I.2)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380080",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the level of Capacity Utilisation (CU) in the manufacturing sector during Q3:2023-24?",
+      "options": {
+        "A": "73.6%",
+        "B": "74.0%",
+        "C": "74.6%",
+        "D": "74.7%",
+        "E": "75.1%"
+      },
+      "correct_answer": "D",
+      "explanation": "Capacity utilisation (CU) in the manufacturing sector rose to 74.7 per cent in Q3:2023-24 from 74.0 per cent recorded in the previous quarter. (Page 50)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380086",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "For the financial year 2024-25, what is the CPI inflation projected for the second quarter (Q2)?",
+      "options": {
+        "A": "4.9%",
+        "B": "4.6%",
+        "C": "4.5%",
+        "D": "3.8%",
+        "E": "4.1%"
+      },
+      "correct_answer": "D",
+      "explanation": "CPI inflation for 2024-25 is projected to be 4.9 per cent in Q1, 3.8 per cent in Q2, 4.6 per cent in Q3 and 4.5 per cent in Q4. (Page 17)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380090",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As per the Second Advance Estimates for 2023-24, what was the estimated year-on-year growth in Gross Fixed Capital Formation (GFCF)?",
+      "options": {
+        "A": "3.4%",
+        "B": "6.6%",
+        "C": "7.6%",
+        "D": "10.2%",
+        "E": "11.6%"
+      },
+      "correct_answer": "D",
+      "explanation": "The Second Advance Estimates (SAE) for 2023-24 indicate that Gross Fixed Capital Formation grew by 10.2 per cent. (Page 46, Table III.1)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380117",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the Monetary Policy Committee meetings during H2:2023-24, what was the voting pattern for retaining the stance of 'withdrawal of accommodation'?",
+      "options": {
+        "A": "Unanimous",
+        "B": "4-2 majority",
+        "C": "5-1 majority",
+        "D": "3-3 with Governor's casting vote",
+        "E": "6-0 majority"
+      },
+      "correct_answer": "C",
+      "explanation": "In both the October 2023 and December 2023 meetings, the MPC voted by a majority of 5-1 to remain focused on the stance of withdrawal of accommodation. (Page 12)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380120",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the median projections of professional forecasters, what is the estimated central government gross fiscal deficit as a percentage of GDP for 2024-25?",
+      "options": {
+        "A": "4.5%",
+        "B": "5.1%",
+        "C": "5.8%",
+        "D": "6.0%",
+        "E": "5.9%"
+      },
+      "correct_answer": "B",
+      "explanation": "The median projection from the Survey of Professional Forecasters for the central government's gross fiscal deficit for 2024-25 is 5.1 per cent of GDP. (Page 18, Table I.3)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380123",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the alternative risk scenarios, what is the estimated impact on domestic inflation if the Indian Rupee (INR) appreciates by 5 per cent relative to the baseline?",
+      "options": {
+        "A": "It could moderate by around 25 bps.",
+        "B": "It could moderate by around 35 bps.",
+        "C": "It could edge up by around 25 bps.",
+        "D": "It could edge up by around 35 bps.",
+        "E": "There would be no significant impact."
+      },
+      "correct_answer": "B",
+      "explanation": "In the scenario where the INR appreciates by 5 per cent relative to the baseline, inflation could moderate by around 35 bps and GDP growth could be higher by around 25 bps. (Page 23)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380126",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Which statement accurately reflects the difference between the Reserve Bank's and the Professional Forecasters' median projections for 2024-25 as presented in the report?",
+      "options": {
+        "A": "RBI projects higher GDP growth and higher Q4 inflation than forecasters.",
+        "B": "RBI projects lower GDP growth and lower Q4 inflation than forecasters.",
+        "C": "RBI projects higher GDP growth but lower Q4 inflation than forecasters.",
+        "D": "RBI projects lower GDP growth but higher Q4 inflation than forecasters.",
+        "E": "Both have identical projections for GDP growth and inflation."
+      },
+      "correct_answer": "C",
+      "explanation": "Table I.3 shows RBI's projections for 2024-25 as Real GDP growth of 7.0% and Q4 inflation of 4.5%. Professional Forecasters' median projections are 6.7% for Real GDP growth and 4.6% for Q4 inflation. Thus, RBI projects higher growth but slightly lower Q4 inflation. (Page 18, Table I.3)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380129",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the impulse response analysis to a policy rate shock, what is the differential timing of the maximum impact on private consumption (PFCE) versus fixed investment (GFCF)?",
+      "options": {
+        "A": "The maximum impact on both is seen around the second quarter.",
+        "B": "The impact on PFCE peaks after two quarters, while for GFCF it peaks around the fifth quarter.",
+        "C": "The impact on GFCF is swifter, peaking in the second quarter, while for PFCE it takes five quarters.",
+        "D": "The maximum impact for both materializes after a full year (four quarters).",
+        "E": "The impact on both is immediate and peaks in the first quarter following the shock."
+      },
+      "correct_answer": "B",
+      "explanation": "The analysis in Box III.1 suggests that private consumption exhibits a swift adverse response, reaching its peak approximately after two quarters following a policy rate shock, while the maximum response of fixed investment is seen around the fifth quarter. (Page 48)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380132",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the assessment of risks to baseline projections, what would be the approximate impact on domestic inflation and growth if international crude oil prices are 10 per cent above the baseline?",
+      "options": {
+        "A": "Inflation higher by 15 bps and growth weaker by 30 bps.",
+        "B": "Inflation higher by 30 bps and growth weaker by 30 bps.",
+        "C": "Inflation higher by 30 bps and growth weaker by 15 bps.",
+        "D": "Inflation lower by 30 bps and growth stronger by 15 bps.",
+        "E": "Inflation and growth would both be higher by 15 bps."
+      },
+      "correct_answer": "C",
+      "explanation": "The report's analysis on the balance of risks indicates that assuming crude oil prices to be 10 per cent above the baseline, domestic inflation could be higher by 30 bps and growth weaker by around 15 bps, respectively. (Page 21)",
+      "source_document": "Monetary_Policy_Report_Apr_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:38:23.380134",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the policy repo rate set by the Monetary Policy Committee in its February 2025 meeting?",
+      "options": {
+        "A": "6.00%",
+        "B": "6.25%",
+        "C": "6.50%",
+        "D": "6.75%",
+        "E": "7.00%"
+      },
+      "correct_answer": "B",
+      "explanation": "In its February 2025 meeting, the Monetary Policy Committee (MPC) unanimously voted to reduce the policy repo rate by 25 basis points (bps) to 6.25 per cent. (Page 12-13)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.449965",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the Reserve Bank's baseline projection for real GDP growth for the financial year 2025-26?",
+      "options": {
+        "A": "6.4%",
+        "B": "6.5%",
+        "C": "6.7%",
+        "D": "7.0%",
+        "E": "7.2%"
+      },
+      "correct_answer": "B",
+      "explanation": "The report projects real GDP growth at 6.5 per cent in 2025-26, with risks evenly balanced around this baseline path. (Page 20, Table I.3)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450060",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the headline CPI inflation recorded in February 2025, which was noted as a seven-month low?",
+      "options": {
+        "A": "3.3%",
+        "B": "3.6%",
+        "C": "3.8%",
+        "D": "4.0%",
+        "E": "4.2%"
+      },
+      "correct_answer": "B",
+      "explanation": "Headline consumer price index (CPI) inflation eased to a seven-month low of 3.6 per cent in February 2025, driven by a sharp decline in vegetable prices inflation. (Page 11)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450065",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In December 2024, the Reserve Bank implemented a measure to ease liquidity conditions by reducing the Cash Reserve Ratio (CRR). By how many basis points was the CRR reduced?",
+      "options": {
+        "A": "25 bps",
+        "B": "50 bps",
+        "C": "75 bps",
+        "D": "100 bps",
+        "E": "No change was made"
+      },
+      "correct_answer": "B",
+      "explanation": "In December 2024, the Reserve Bank reduced the cash reserve ratio (CRR) maintained by banks by 50 bps to ease liquidity conditions. (Page 12, 59)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Policy",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450069",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the Reserve Bank's baseline projection for average CPI inflation for the financial year 2025-26?",
+      "options": {
+        "A": "3.8%",
+        "B": "4.0%",
+        "C": "4.2%",
+        "D": "4.3%",
+        "E": "4.5%"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the Reserve Bank's baseline projections, CPI inflation is projected to average 4.0 per cent in 2025-26. (Page 18, Table I.3)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450072",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As per the Second Advance Estimates (SAE) by the NSO, what was the estimated real Gross Domestic Product (GDP) growth for 2024-25?",
+      "options": {
+        "A": "6.2%",
+        "B": "6.4%",
+        "C": "6.5%",
+        "D": "6.6%",
+        "E": "7.2%"
+      },
+      "correct_answer": "C",
+      "explanation": "The second advance estimates (SAE) released by the national statistical office (NSO) estimated real gross domestic product (GDP) growth at 6.5 per cent year-on-year (y-o-y) in 2024-25. (Page 11)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450075",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Headline CPI inflation breached the upper tolerance band in October 2024. What was the inflation rate recorded in that month?",
+      "options": {
+        "A": "5.6%",
+        "B": "5.8%",
+        "C": "6.0%",
+        "D": "6.2%",
+        "E": "6.5%"
+      },
+      "correct_answer": "D",
+      "explanation": "Headline consumer price index (CPI) inflation increased to 6.2 per cent in October 2024, breaching the upper tolerance band. (Page 11, 25)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450078",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the level of capacity utilisation (CU) in the manufacturing sector during Q3:2024-25?",
+      "options": {
+        "A": "73.8%",
+        "B": "74.7%",
+        "C": "75.3%",
+        "D": "75.4%",
+        "E": "76.0%"
+      },
+      "correct_answer": "D",
+      "explanation": "Capacity utilisation (CU) in the manufacturing sector increased to 75.4 per cent in Q3:2024-25 from 74.7 per cent in the same quarter of the previous year. (Page 51)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450081",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What baseline assumption for the price of the Indian basket of crude oil was used for projections for 2025-26?",
+      "options": {
+        "A": "US$ 65 per barrel",
+        "B": "US$ 70 per barrel",
+        "C": "US$ 75 per barrel",
+        "D": "US$ 80 per barrel",
+        "E": "US$ 86 per barrel"
+      },
+      "correct_answer": "B",
+      "explanation": "The baseline assumption for crude price (Indian basket) is reduced to US$ 70 per barrel during 2025-26, as stated in the April 2025 MPR. (Page 14, Table I.2)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450084",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the survey of professional forecasters, what is the median projection for CPI inflation for Q4 of 2025-26 (y-o-y)?",
+      "options": {
+        "A": "3.9%",
+        "B": "4.0%",
+        "C": "4.3%",
+        "D": "4.4%",
+        "E": "4.5%"
+      },
+      "correct_answer": "E",
+      "explanation": "The median projections of professional forecasters for year-on-year CPI inflation in Q4 of 2025-26 is 4.5 per cent. (Page 18, Table I.3)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450087",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Real GDP growth in Q3:2024-25 showed an improvement from the previous quarter. What was the y-o-y growth rate recorded in Q3:2024-25?",
+      "options": {
+        "A": "5.4%",
+        "B": "5.6%",
+        "C": "6.2%",
+        "D": "6.5%",
+        "E": "6.7%"
+      },
+      "correct_answer": "C",
+      "explanation": "Aggregate demand conditions recovered as real gross domestic product (GDP) growth improved to 6.2 per cent (y-o-y) in Q3:2024-25 from 5.6 per cent in the previous quarter. (Page 47, Table III.1)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450090",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Among the quarterly projections for real GDP growth in 2025-26, which quarter is expected to witness the highest growth rate?",
+      "options": {
+        "A": "Q1:2025-26",
+        "B": "Q2:2025-26",
+        "C": "Q3:2025-26",
+        "D": "Q4:2025-26",
+        "E": "All quarters are projected to have the same growth rate"
+      },
+      "correct_answer": "B",
+      "explanation": "The quarterly real GDP growth projections for 2025-26 are: 6.5% in Q1, 6.7% in Q2, 6.6% in Q3, and 6.3% in Q4. Therefore, Q2 is projected to have the highest growth. (Page 20)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Growth_Outlook",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450092",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the VEC model analysis of factors affecting inflation expectations, which of the following was found to impact the expectations of self-employed and daily workers but not of financial sector employees?",
+      "options": {
+        "A": "Weighted average call rate",
+        "B": "Past CPI inflation",
+        "C": "Share of government expenditure in GDP",
+        "D": "Crude oil prices",
+        "E": "All of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "The VEC model results in Box I.1 suggest that crude oil prices are found to impact inflation expectations of self-employed and daily workers only, and not financial sector employees. (Page 16, Table 1)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450095",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In a risk scenario where the Indian Rupee (INR) depreciates by 5 per cent over the baseline, what is the estimated impact on domestic inflation and GDP growth?",
+      "options": {
+        "A": "Inflation rises by 50 bps and GDP growth falls by 25 bps",
+        "B": "Inflation rises by 35 bps and GDP growth rises by 25 bps",
+        "C": "Inflation falls by 35 bps and GDP growth falls by 25 bps",
+        "D": "Inflation rises by 25 bps and GDP growth rises by 35 bps",
+        "E": "No significant impact is expected"
+      },
+      "correct_answer": "B",
+      "explanation": "The report's analysis on the balance of risks indicates that if the INR depreciates by 5 per cent over the baseline, inflation could rise by around 35 bps while GDP growth could benefit by around 25 bps through the trade channel. (Page 22-23)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450098",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In February 2025, the contribution of imported components to headline inflation registered a sequential increase. What was the percentage point contribution of these components to the overall headline inflation rate of 3.6 per cent?",
+      "options": {
+        "A": "0.5 percentage points",
+        "B": "0.8 percentage points",
+        "C": "1.2 percentage points",
+        "D": "2.1 percentage points",
+        "E": "3.6 percentage points"
+      },
+      "correct_answer": "B",
+      "explanation": "The contribution of imported components to headline inflation was at 21 per cent in February 2025, which translates to a contribution of 0.8 percentage points to the headline inflation rate of 3.6 per cent for that month. (Page 30)",
+      "source_document": "Monetary_Policy_Report_Apr_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Inflation",
+      "subject": "General_Awareness",
+      "report_category": "monetary_policy_report",
+      "generated_date": "2025-10-02T22:39:47.450101",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    }
+  ]
+}

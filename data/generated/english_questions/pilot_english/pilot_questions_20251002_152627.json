@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "total_questions": 15,
+    "generation_date": "2025-10-02T15:26:27.665767",
+    "model": "gemini-2.5-flash",
+    "type": "pilot_run",
+    "topics_tested": [
+      "Vocabulary",
+      "Error_Spotting",
+      "Fill_in_the_Blanks"
+    ]
+  },
+  "questions": [
+    {
+      "question": "Choose the word CLOSEST in meaning to the word 'OBFUSCATE' as used in the given sentence.\n\nThe central bank's communication strategy should aim for transparency rather than attempting to **obfuscate** the true state of inflation.",
+      "options": {
+        "A": "Elucidate",
+        "B": "Clarify",
+        "C": "Conceal",
+        "D": "Obscure",
+        "E": "Simplify"
+      },
+      "correct_answer": "D",
+      "explanation": "The word 'obfuscate' means to make something unclear, confusing, or difficult to understand. In the context of a central bank's communication, it refers to making the economic situation harder for the public to comprehend. Options A, B, and E ('Elucidate', 'Clarify', 'Simplify') are antonyms, meaning to make clear or explain. Option C ('Conceal') implies hiding something entirely, while 'obfuscate' is more about making it ambiguous or perplexing rather than completely hidden. 'Obscure' (D) is the closest synonym, meaning to make something difficult to see, hear, or understand, precisely fitting the nuanced meaning of obfuscate in this sentence.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:20.489546",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "Choose the word OPPOSITE in meaning to the word 'SANGUINE' as used in the given sentence.\n\nDespite the recent market volatility, the analyst remained **sanguine** about the long-term prospects of the banking sector.",
+      "options": {
+        "A": "Optimistic",
+        "B": "Buoyant",
+        "C": "Hopeful",
+        "D": "Pessimistic",
+        "E": "Confident"
+      },
+      "correct_answer": "D",
+      "explanation": "The word 'sanguine' means optimistic or positive, especially in an apparently difficult or challenging situation. The analyst's outlook is positive despite market volatility. Options A, B, C, and E ('Optimistic', 'Buoyant', 'Hopeful', 'Confident') are all synonyms or closely related in meaning to 'sanguine'. The exact opposite of being optimistic or positive is being 'Pessimistic' (D), which means tending to see the worst aspect of things or believe that the worst will happen. This perfectly captures the contrasting sentiment.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:20.489771",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "Choose the word CLOSEST in meaning to the word 'AMELIORATE' as used in the given sentence.\n\nThe government introduced new fiscal policies designed to **ameliorate** the economic hardship faced by low-income households.",
+      "options": {
+        "A": "Exacerbate",
+        "B": "Aggravate",
+        "C": "Intensify",
+        "D": "Worsen",
+        "E": "Alleviate"
+      },
+      "correct_answer": "E",
+      "explanation": "The word 'ameliorate' means to make something bad or unsatisfactory better or more tolerable. In the context, the fiscal policies aim to improve the difficult economic situation. Options A, B, C, and D ('Exacerbate', 'Aggravate', 'Intensify', 'Worsen') are all antonyms, meaning to make a problem or situation worse. 'Alleviate' (E) is the closest synonym, as it means to make suffering, deficiency, or a problem less severe, which directly aligns with the goal of improving economic hardship.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:20.489779",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "Choose the word CLOSEST in meaning to the word 'PERVASIVE' as used in the given sentence.\n\nThe **pervasive** influence of digital transformation is reshaping traditional banking operations globally.",
+      "options": {
+        "A": "Confined",
+        "B": "Sporadic",
+        "C": "Prevalent",
+        "D": "Isolated",
+        "E": "Incidental"
+      },
+      "correct_answer": "C",
+      "explanation": "The word 'pervasive' means spreading widely throughout an area or a group of people, or existing in every part of something. Here, it describes the widespread and comprehensive impact of digital transformation. Options A, B, and D ('Confined', 'Sporadic', 'Isolated') are antonyms, suggesting limited or infrequent presence. 'Incidental' (E) means occurring as a minor accompaniment or by chance, which doesn't fit the strong and widespread influence described. 'Prevalent' (C) means widespread in a particular area or at a particular time; it is the closest synonym to 'pervasive', indicating a widespread and common presence.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:20.489810",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "Choose the word OPPOSITE in meaning to the word 'STRINGENT' as used in the given sentence.\n\nTo prevent financial crises, regulatory bodies have imposed **stringent** capital requirements on banks.",
+      "options": {
+        "A": "Rigorous",
+        "B": "Exacting",
+        "C": "Lax",
+        "D": "Demanding",
+        "E": "Uncompromising"
+      },
+      "correct_answer": "C",
+      "explanation": "The word 'stringent' means strict, precise, and exacting. In the financial context, it refers to tough and uncompromising rules or requirements. Options A, B, D, and E ('Rigorous', 'Exacting', 'Demanding', 'Uncompromising') are all synonyms or very closely related in meaning to 'stringent'. The direct opposite of being strict or tough is being lenient or relaxed. 'Lax' (C) means not sufficiently strict, severe, or careful, which perfectly captures the antonym of 'stringent' in this regulatory context.",
+      "difficulty": "Hard",
+      "topic": "Vocabulary",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:20.489814",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "(A) The central bank's recent announcement / (B) regarding a marginal adjustment in the cash reserve ratio / (C), along with its cautious outlook on inflation, / (D) have significantly influenced market sentiment.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "No error"
+      },
+      "correct_answer": "D",
+      "explanation": "In part (D), the verb 'have' is incorrect. The subject of the sentence is 'announcement' (singular), not 'cash reserve ratio' or 'outlook'. The phrase 'along with its cautious outlook on inflation' is an additive phrase, not part of the compound subject, and therefore does not affect the number of the verb. The verb should agree with the singular subject 'announcement'. Thus, 'have' should be 'has'. The corrected sentence would be: 'The central bank's recent announcement regarding a marginal adjustment in the cash reserve ratio, along with its cautious outlook on inflation, has significantly influenced market sentiment.'",
+      "difficulty": "Hard",
+      "topic": "Error_Spotting",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:49.916555",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "(A) Despite the sustained efforts by the RBI / (B) to stabilize the currency in recent months, / (C) the market volatility has been persisted / (D) due to external economic pressures.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "No error"
+      },
+      "correct_answer": "C",
+      "explanation": "In part (C), the verb phrase 'has been persisted' is grammatically incorrect. The verb 'persist' is typically intransitive, meaning it does not take a direct object and cannot usually be used in the passive voice. Volatility itself 'persists' or 'has persisted'. The correct active voice present perfect form should be used here. Thus, 'has been persisted' should be 'has persisted'. The corrected sentence would be: 'Despite the sustained efforts by the RBI to stabilize the currency in recent months, the market volatility has persisted due to external economic pressures.'",
+      "difficulty": "Hard",
+      "topic": "Error_Spotting",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:49.916629",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "(A) Financial institutions are now mandated / (B) to strictly adhere with the new cybersecurity protocols / (C) stipulated by regulatory bodies / (D) to safeguard customer data.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "No error"
+      },
+      "correct_answer": "B",
+      "explanation": "In part (B), the preposition 'with' is incorrectly used after the verb 'adhere'. The verb 'adhere' typically takes the preposition 'to' when it means 'to stick firmly to a belief, system, or plan'. Therefore, 'adhere with' should be 'adhere to'. The corrected sentence would be: 'Financial institutions are now mandated to strictly adhere to the new cybersecurity protocols stipulated by regulatory bodies to safeguard customer data.'",
+      "difficulty": "Hard",
+      "topic": "Error_Spotting",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:49.916634",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "(A) The monetary policy committee emphasized / (B) that central banks across the globe / (C) must maintain its independence / (D) from political interference to ensure effective governance.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "No error"
+      },
+      "correct_answer": "C",
+      "explanation": "In part (C), the possessive pronoun 'its' is incorrect. The pronoun 'its' is singular, but the antecedent it refers to is 'central banks across the globe', which is plural. Therefore, the plural possessive pronoun 'their' should be used instead of 'its'. The corrected sentence would be: 'The monetary policy committee emphasized that central banks across the globe must maintain their independence from political interference to ensure effective governance.'",
+      "difficulty": "Hard",
+      "topic": "Error_Spotting",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:49.916637",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "(A) The Reserve Bank of India consistently monitors / (B) liquidity conditions in the financial system / (C) to ensure adequate credit flow / (D) and mitigate systemic risks effectively.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "No error"
+      },
+      "correct_answer": "E",
+      "explanation": "The entire sentence is grammatically correct and structurally sound. There are no errors in subject-verb agreement, tense usage, preposition choice, article usage, or pronoun agreement. All parts of the sentence contribute to a clear and concise statement about the functions of the Reserve Bank of India.",
+      "difficulty": "Hard",
+      "topic": "Error_Spotting",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:25:49.916640",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "The central bank's proactive measures were essential to ______ the impending liquidity crisis that threatened to destabilize the entire financial system.",
+      "options": {
+        "A": "exacerbate",
+        "B": "mitigate",
+        "C": "instigate",
+        "D": "intensify",
+        "E": "propagate"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence discusses the central bank's actions to address a looming crisis. The word that correctly describes the action of reducing the severity or impact of a crisis is 'mitigate'. 'Exacerbate' and 'intensify' mean to make something worse. 'Instigate' means to initiate or provoke. 'Propagate' means to spread or transmit. Therefore, 'mitigate' is the only option that logically fits the context of averting a financial threat.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:26:27.664548",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "______ the government’s efforts to rein in fiscal deficits, the national debt continues to be a significant concern for international rating agencies.",
+      "options": {
+        "A": "Although",
+        "B": "Despite",
+        "C": "However",
+        "D": "Therefore",
+        "E": "Moreover"
+      },
+      "correct_answer": "B",
+      "explanation": "The sentence presents a contrast: government efforts to control deficits versus the persistent concern over national debt. Both 'Although' and 'Despite' introduce contrast. However, 'Although' is a conjunction that requires a full clause (subject + verb) immediately after it (e.g., 'Although the government has made efforts...'). 'Despite' is a preposition that is followed by a noun or a gerund phrase (e.g., 'Despite the government’s efforts...'). Since the blank is followed by a noun phrase 'the government’s efforts', 'Despite' is the grammatically correct choice. 'However', 'Therefore', and 'Moreover' are adverbs or conjunctions that require different sentence structures or convey different logical relationships.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:26:27.664605",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "To enhance operational efficiency and customer experience, the bank decided to ______ the process of opening new savings accounts through a fully digital KYC mechanism.",
+      "options": {
+        "A": "obstruct",
+        "B": "hinder",
+        "C": "expedite",
+        "D": "delay",
+        "E": "protract"
+      },
+      "correct_answer": "C",
+      "explanation": "The sentence indicates that the bank wants to improve efficiency and customer experience by using a digital mechanism. The word that means to make a process happen sooner or more quickly is 'expedite'. 'Obstruct', 'hinder', 'delay', and 'protract' all mean to slow down, impede, or prolong a process, which is contrary to the stated goal of enhancing efficiency. Thus, 'expedite' is the most suitable word.",
+      "difficulty": "Easy",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:26:27.664608",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "The Reserve Bank of India is expected to introduce ______ measures to ______ systemic risks stemming from the rapid expansion of unsecured credit.",
+      "options": {
+        "A": "lax, amplify",
+        "B": "prudent, ameliorate",
+        "C": "lenient, bolster",
+        "D": "aggressive, exacerbate",
+        "E": "restrictive, ignore"
+      },
+      "correct_answer": "B",
+      "explanation": "For the first blank, the RBI would introduce sensible and wise measures to deal with systemic risks. 'Prudent' (meaning acting with or showing care and thought for the future) fits this context perfectly. 'Lax' and 'lenient' suggest a lack of strictness, which is unlikely for risk management. 'Aggressive' could imply strong, but 'prudent' emphasizes wisdom. For the second blank, the goal is to reduce or improve the negative impact of systemic risks. 'Ameliorate' means to make something bad or unsatisfactory better, which aligns with mitigating risks. 'Amplify' and 'exacerbate' mean to make worse. 'Bolster' means to support or strengthen, which doesn't fit 'risks'. 'Ignore' is clearly incorrect. Therefore, 'prudent, ameliorate' forms the most logical and contextually appropriate pair.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:26:27.664610",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    },
+    {
+      "question": "The new RBI directive aims to ______ the market’s reliance on speculative derivatives and instead ______ a more stable, long-term investment approach.",
+      "options": {
+        "A": "curtail, foster",
+        "B": "promote, undermine",
+        "C": "encourage, suppress",
+        "D": "bolster, negate",
+        "E": "amplify, discourage"
+      },
+      "correct_answer": "A",
+      "explanation": "For the first blank, the RBI would seek to reduce or limit the market's dependence on risky speculative derivatives. 'Curtail' (meaning to reduce in extent or quantity; impose a restriction on) fits this purpose. 'Promote', 'encourage', 'bolster', and 'amplify' all suggest increasing or strengthening, which is contrary to reducing reliance on speculative instruments. For the second blank, the RBI would want to encourage or develop a stable investment approach. 'Foster' (meaning to encourage or promote the development of something good) perfectly matches this objective. 'Undermine', 'suppress', 'negate', and 'discourage' all imply hindering or opposing, which would contradict the goal of promoting stability. Hence, 'curtail, foster' is the most coherent and logical pair.",
+      "difficulty": "Hard",
+      "topic": "Fill_in_the_Blanks",
+      "subject": "English",
+      "generated_date": "2025-10-02T15:26:27.664613",
+      "source": "AI_Generated_Pilot",
+      "reference_count": 8,
+      "generation_model": "gemini-2.5-flash"
+    }
+  ]
+}

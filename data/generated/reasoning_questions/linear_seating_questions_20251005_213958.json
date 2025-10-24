@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "linear_seating_arrangement_001",
+    "question": "Five friends, A, B, C, D, and E are sitting in a single row facing north. C is sitting between A and B. A is third from the left. E is not at the end. Who is sitting at the rightmost end?",
+    "options": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correct_answer": "D",
+    "explanation": "The arrangement is D, A, C, B, E from left to right. D is at the rightmost end.",
+    "difficulty": "Easy",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_002",
+    "question": "Seven friends P, Q, R, S, T, U, and V are sitting in a row facing north. Q is sitting third to the left of T. V is sitting at one of the ends and S is sitting fourth to the right of V. R is not an immediate neighbor of Q or T. P is to the immediate left of U. Who is sitting between Q and T?",
+    "options": {
+      "A": "P",
+      "B": "R",
+      "C": "S",
+      "D": "U",
+      "E": "None"
+    },
+    "correct_answer": "D",
+    "explanation": "The arrangement from left to right is: V, S, Q, U, T, P, R. U is sitting between Q and T.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_003",
+    "question": "Eight persons M, N, O, P, Q, R, S, and T are sitting in a single row facing north. M is fourth to the left of R. O is sitting to the immediate right of T. Q is third to the right of N and second to the left of S, who is sitting at an extreme end. How many persons are sitting between M and Q?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "None"
+    },
+    "correct_answer": "A",
+    "explanation": "The arrangement from left to right is: N, M, T, O, Q, R, P, S. Only one person (T) is sitting between M and Q.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_004",
+    "question": "Nine students A, B, C, D, E, F, G, H, and I are sitting in a single row facing north. E is third to the right of A and second to the left of F. C is sitting second to the right of G, who is at one of the ends. D is sitting fourth to the left of I. H is not an immediate neighbor of E. Who is sitting at the leftmost end?",
+    "options": {
+      "A": "G",
+      "B": "A",
+      "C": "D",
+      "D": "C",
+      "E": "H"
+    },
+    "correct_answer": "A",
+    "explanation": "The arrangement from left to right is: G, B, D, A, H, E, I, C, F. G is at the leftmost end.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_005",
+    "question": "Ten executives J, K, L, M, N, O, P, Q, R, and S are sitting in two parallel rows of five each, facing each other. J, K, L, M, and N are in row 1 facing south, while O, P, Q, R, and S are in row 2 facing north. N is opposite to the person who is third to the right of O. L is second to the right of J and sits opposite P. M is not opposite Q or S. R is sitting at one of the ends. Who is sitting opposite M?",
+    "options": {
+      "A": "O",
+      "B": "P",
+      "C": "Q",
+      "D": "R",
+      "E": "S"
+    },
+    "correct_answer": "C",
+    "explanation": "The arrangement is: Row 1 (from left to right): J, L, M, K, N; Row 2 (from left to right): O, P, Q, S, R. M is opposite Q.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_006",
+    "question": "Six friends A, B, C, D, E, and F are sitting in a single row facing north. D is sitting second to the left of F. A is sitting to the immediate right of F. B is sitting at the extreme end and has one person between him and C. Who is sitting in the middle of the row?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correct_answer": "A",
+    "explanation": "The arrangement is B, D, C, F, A, E. A is sitting in the middle of the row.",
+    "difficulty": "Easy",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_007",
+    "question": "Seven people P, Q, R, S, T, U, and V are sitting in a row facing north. S is fourth to the left of V. T is third to the right of R. Q is not at any of the ends. P is sitting immediately next to V. Who is sitting at the second position from the left?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "U"
+    },
+    "correct_answer": "D",
+    "explanation": "The arrangement is S, T, Q, R, U, P, V. S is sitting at the second position from the left.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_008",
+    "question": "Eight people A, B, C, D, E, F, G, and H are sitting in two parallel rows containing four people each. In Row 1, facing south are A, B, C, and D. In Row 2, facing north are E, F, G, and H. B is exactly opposite to G. E sits to the immediate right of H. F is not at an end. D and H are not sitting directly opposite each other. Who is sitting directly opposite to A?",
+    "options": {
+      "A": "E",
+      "B": "F",
+      "C": "G",
+      "D": "H",
+      "E": "Cannot be determined"
+    },
+    "correct_answer": "B",
+    "explanation": "The arrangement is A-H, B-G, C-F, D-E. F is sitting directly opposite to A.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_009",
+    "question": "Nine people I, J, K, L, M, N, O, P, and Q are sitting in a single row. K is sitting third to the right of J. P is sitting second to the left of K. L is not sitting at any of the ends but is sitting third to the left of M. Q is sitting second to the right of N. Who is sitting at the far right end of the row?",
+    "options": {
+      "A": "I",
+      "B": "J",
+      "C": "M",
+      "D": "O",
+      "E": "Q"
+    },
+    "correct_answer": "C",
+    "explanation": "The arrangement is I, J, N, P, K, O, L, Q, M. M is sitting at the far right end of the row.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_010",
+    "question": "Ten people A, B, C, D, E, F, G, H, I, and J are sitting in two parallel rows. In Row 1, facing south are A, B, C, D, and E. In Row 2, facing north are F, G, H, I, and J. C is directly opposite to I and two places to the left of A. G is the immediate neighbor of F who is at one of the ends. D is not opposite to any of H, G, or F. E is directly opposite to J. Who is sitting to the immediate left of D?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "E",
+      "E": "Cannot be determined"
+    },
+    "correct_answer": "B",
+    "explanation": "The arrangement is: Row 1 (south): E, D, B, C, A; Row 2 (north): J, H, G, I, F. B is sitting to the immediate left of D.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_011",
+    "question": "Five friends - A, B, C, D, and E are sitting in a row. Each of them is facing North. Consider the following conditions:\n1. A is sitting at one of the ends.\n2. C is sitting second to the right of B.\n3. D is not sitting at any of the ends.\n4. E is sitting to the immediate left of D.\nWho is sitting in the middle?",
+    "options": {
+      "A": "B",
+      "B": "C",
+      "C": "D",
+      "D": "E",
+      "E": "A"
+    },
+    "correct_answer": "D",
+    "explanation": "Arrangement: A, B, E, D, C.\nA is at the end, B is second from A, and C is second to the right of B. D cannot be at the end, and E is to the immediate left of D.",
+    "difficulty": "Easy",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_012",
+    "question": "Seven people - M, N, O, P, Q, R, and S are sitting in a row facing North. The following conditions apply:\n1. M is sitting third to the left of R.\n2. N is sitting at one of the ends.\n3. S is sitting immediately to the right of Q.\n4. P is sitting exactly between M and Q.\n5. O is sitting to the left of M.\nWho is sitting at the second position from the left?",
+    "options": {
+      "A": "N",
+      "B": "O",
+      "C": "M",
+      "D": "P",
+      "E": "Q"
+    },
+    "correct_answer": "B",
+    "explanation": "Arrangement: N, O, M, P, Q, S, R.\nN is at the end, M is third left of R, S is right of Q, and P is between M and Q.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_013",
+    "question": "Eight people - A, B, C, D, E, F, G, and H are sitting in a row facing North. The conditions are:\n1. D is sitting third from the right end.\n2. E is second to the left of D.\n3. F is sitting at one of the ends.\n4. A is sitting exactly between B and G.\n5. H is to the immediate right of G.\n6. C is not sitting at any end.\nWho is sitting at the fourth position from the left?",
+    "options": {
+      "A": "B",
+      "B": "C",
+      "C": "D",
+      "D": "E",
+      "E": "A"
+    },
+    "correct_answer": "E",
+    "explanation": "Arrangement: F, B, A, E, G, H, C, D.\nD is third from the right, E is second left of D, F is at an end, A is between B and G, and H is right of G.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_014",
+    "question": "Nine people - A, B, C, D, E, F, G, H, and I are sitting in a row. All of them are facing North. Consider these conditions:\n1. C is sitting third to the right of A.\n2. F is sitting to the immediate right of D.\n3. G is sitting fourth to the left of H.\n4. B is sitting at one of the ends.\n5. I is sitting second to the right of G.\n6. E is sitting second to the left of F.\n7. H is sitting to the right of C.\nWho is sitting immediately to the left of H?",
+    "options": {
+      "A": "I",
+      "B": "G",
+      "C": "E",
+      "D": "C",
+      "E": "F"
+    },
+    "correct_answer": "A",
+    "explanation": "Arrangement: B, A, E, G, C, I, D, F, H.\nC is third right of A, F is right of D, G is fourth left of H, B is at an end, I is second right of G, E is second left of F, and H is right of C.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_015",
+    "question": "Ten people - J, K, L, M, N, O, P, Q, R, and S are sitting in a row facing North. The following conditions apply:\n1. L is sitting fourth from the left end.\n2. R is sitting third to the right of P.\n3. J is sitting second to the left of M.\n4. K and S are immediate neighbors but neither is at the ends.\n5. Q is sitting to the immediate right of K.\n6. O is sitting second from the right end.\n7. N is not sitting near J.\nWho is sitting third from the left?",
+    "options": {
+      "A": "K",
+      "B": "Q",
+      "C": "P",
+      "D": "J",
+      "E": "M"
+    },
+    "correct_answer": "C",
+    "explanation": "Arrangement: J, P, K, L, Q, S, N, M, R, O.\nL is fourth from left, R is third right of P, J is second left of M, K and S are neighbors, Q is right of K, O is second from right, N is not near J.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_016",
+    "question": "Five friends, Lisa, John, Kate, Mark, and Sam, are sitting in a row facing north. John is sitting to the right of Sam but to the left of Mark. Lisa is not sitting at either end. Sam is sitting third to the right of Lisa. Who is sitting at the far right end?",
+    "options": {
+      "A": "Kate",
+      "B": "Mark",
+      "C": "Lisa",
+      "D": "John",
+      "E": "Sam"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct seating order from left to right is: Kate, Lisa, Sam, John, Mark. Thus, Mark is sitting at the far right end.",
+    "difficulty": "Easy",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_017",
+    "question": "Seven people - A, B, C, D, E, F, and G - are sitting in a row facing north. C sits fourth to the right of A. E is not an immediate neighbor of C or A. B sits exactly between F and D. G is not sitting at an end but is sitting immediately to the right of E. Who is sitting to the immediate right of D?",
+    "options": {
+      "A": "C",
+      "B": "G",
+      "C": "B",
+      "D": "E",
+      "E": "F"
+    },
+    "correct_answer": "C",
+    "explanation": "The seating order from left to right is: A, F, B, D, C, G, E. D has C on his right.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_018",
+    "question": "Eight people are sitting in two parallel rows containing four people each. In row 1, P, Q, R, and S are sitting, and all of them are facing south. In row 2, A, B, C, and D are sitting, and all of them are facing north. P sits second to the left of R. B is an immediate neighbor of the person who faces Q. C sits third to the left of A. D faces S. Who is sitting opposite to P?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "No one"
+    },
+    "correct_answer": "A",
+    "explanation": "The seating arrangements are: Row 1 - P, Q, S, R; Row 2 - A, D, B, C. A faces P.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_019",
+    "question": "Nine people, L, M, N, O, P, Q, R, S, and T, are sitting in a single row facing north. N is third to the left of P, who is fourth to the right of M. S is an immediate neighbor of L but not of T or R. R is fourth to the right of Q, who is to the left of O. Who is sitting at the extreme ends of the row?",
+    "options": {
+      "A": "L and T",
+      "B": "M and T",
+      "C": "N and R",
+      "D": "L and P",
+      "E": "N and Q"
+    },
+    "correct_answer": "B",
+    "explanation": "The seating order from left to right is: M, Q, O, N, S, L, R, P, T. Thus, M and T are at the extreme ends.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_020",
+    "question": "Ten people, A, B, C, D, E, F, G, H, I, and J, are seated in two parallel rows of five each. In row 1, A, B, C, D, and E are seated and face south. In row 2, F, G, H, I, and J are seated and face north. Each person in one row faces exactly one person from the other row. A sits at an extreme end of the row. B is third to the left of D. F sits opposite C. I is not an immediate neighbor of F and sits second to the right of G. H is the immediate neighbor of F, and J sits to the right of I. Who is sitting opposite to E?",
+    "options": {
+      "A": "F",
+      "B": "G",
+      "C": "H",
+      "D": "I",
+      "E": "J"
+    },
+    "correct_answer": "D",
+    "explanation": "The seating arrangement is: Row 1 (facing south): A, B, E, D, C; Row 2 (facing north): G, J, I, H, F. E faces I.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_021",
+    "question": "Five friends A, B, C, D, and E are sitting in a row. Each of them faces north. Can you determine who sits in the middle based on the following clues? 1) A is sitting to the left of B. 2) E is sitting to the right of C. 3) D is not sitting at either end of the row. 4) C is sitting next to D.",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "correct_answer": "B",
+    "explanation": "To solve this puzzle, place the friends according to the given clues: 1) A must be to the left of B. 2) E is to the right of C. 3) Since D is not at the ends, the possible order is C-D-A-B-E. Therefore, B is sitting in the middle.",
+    "difficulty": "Easy",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_022",
+    "question": "Eight people, P, Q, R, S, T, U, V, and W are sitting in a single row facing north. Which of the following conditions help you determine who sits at both ends of the row? 1) R sits third to the left of T. 2) S is not at any end. 3) V sits second to the right of P. 4) Q is between U and W. 5) T is not next to W.",
+    "options": {
+      "A": "R and T",
+      "B": "P and V",
+      "C": "U and W",
+      "D": "S and R",
+      "E": "P and U"
+    },
+    "correct_answer": "E",
+    "explanation": "From the clues, place P and V with V sitting second to the right of P, which means P must be at one end. R is third left of T, so R cannot be at an end. With S not being at any end and Q between U and W, P and U are at the ends of the row.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_023",
+    "question": "In a row, eight people, A, B, C, D, E, F, G, and H are sitting facing north. The following conditions are given: 1) B is fourth to the right of D. 2) H sits immediately to the left of A. 3) E is at an extreme end. 4) C is between F and G. 5) A and F are not neighbors.",
+    "options": {
+      "A": "A, B, C, D, E, F, G, H",
+      "B": "H, A, B, F, C, G, D, E",
+      "C": "E, G, C, F, H, A, B, D",
+      "D": "E, D, F, C, G, H, A, B",
+      "E": "E, D, G, C, F, H, A, B"
+    },
+    "correct_answer": "D",
+    "explanation": "Start by placing E at one end. If E is at the left end, the conditions fit as E, D, F, C, G, H, A, B: H sits immediately to the left of A, B is fourth to the right of D, C is between F and G, and A and F are not neighbors.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_024",
+    "question": "Ten students, A, B, C, D, E, F, G, H, I, and J, are to be seated in a straight line facing north. Solve the arrangement using these conditions: 1) A is fourth to the left of H. 2) F is second to the right of B. 3) D sits at one of the ends. 4) There are two people between G and I. 5) C is adjacent to J, who is fourth to the right of E. 6) G is not adjacent to B.",
+    "options": {
+      "A": "D, E, J, C, A, B, F, I, H, G",
+      "B": "D, G, J, E, I, B, F, C, A, H",
+      "C": "H, A, C, E, J, F, D, G, I, B",
+      "D": "E, J, C, B, F, A, G, D, I, H",
+      "E": "F, I, G, J, E, C, B, H, A, D"
+    },
+    "correct_answer": "A",
+    "explanation": "Starting from D at the end, use the given conditions: A is fourth to the left of H, so H is at the other end. F is second to the right of B. J is fourth to the right of E and adjacent to C. With G not next to B, the arrangement D, E, J, C, A, B, F, I, H, G satisfies all conditions.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_025",
+    "question": "Ten colleagues J, K, L, M, N, O, P, Q, R, and S are seated in a single row facing north. Determine the position of P using these clues: 1) N is third to the left of M. 2) S is at one end and J is at the other. 3) L is fourth to the right of Q. 4) K is not next to L. 5) R is between O and M. 6) P is not next to M or J.",
+    "options": {
+      "A": "S, N, K, J, Q, L, O, R, M, P",
+      "B": "J, N, L, Q, M, R, O, K, P, S",
+      "C": "S, L, Q, K, N, O, R, M, P, J",
+      "D": "S, Q, L, K, N, R, O, M, P, J",
+      "E": "J, L, N, Q, O, R, M, P, K, S"
+    },
+    "correct_answer": "C",
+    "explanation": "The ends are S and J, with P not next to either. N is third to the left of M, and L is fourth to the right of Q. With R between O and M, the order fits S, L, Q, K, N, O, R, M, P, J. P is not adjacent to J or M, fitting all conditions.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_026",
+    "question": "Five friends, A, B, C, D, and E, are sitting in a row facing north. Each friend likes a different fruit: Apple, Banana, Cherry, Date, and Elderberry. You need to find who likes which fruit based on the following conditions:\n1. A is sitting at one of the ends.\n2. The one who likes Cherry is sitting immediately to the left of B.\n3. E is sitting in the middle.\n4. D is sitting second to the right of the person who likes Apple.\n5. C likes Banana.\n\nWho is sitting next to the person who likes Elderberry?",
+    "options": {
+      "A": "The person who likes Apple",
+      "B": "The person who likes Banana",
+      "C": "The person who likes Cherry",
+      "D": "The person who likes Date",
+      "E": "The person who likes Apple and Banana"
+    },
+    "correct_answer": "C",
+    "explanation": "The seating arrangement is as follows: A (Apple) - C (Banana) - E (Elderberry) - D (Cherry) - B (Date). The person who likes Elderberry is E, who is sitting between C and D. Therefore, the person who likes Cherry is sitting next to the one who likes Elderberry.",
+    "difficulty": "Easy",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_027",
+    "question": "Seven people, P, Q, R, S, T, U, and V, are sitting in a straight row facing north. The following conditions apply:\n1. T is sitting third to the left of V.\n2. S is sitting second to the right of R.\n3. Q is sitting to the immediate left of U.\n4. R is sitting at one of the ends.\n5. P and U are sitting together.\n6. Q is not sitting next to V.\n\nWho is sitting in the middle of the row?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "T"
+    },
+    "correct_answer": "E",
+    "explanation": "Arranging the people according to the conditions, the order is R, T, P, U, Q, S, V. Therefore, T is sitting in the middle of the row.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_028",
+    "question": "Eight persons, L, M, N, O, P, Q, R, and S, are sitting in a single row facing north with the following conditions:\n1. N is third to the left of Q.\n2. S is sitting second from the right end.\n3. O is sitting third to the right of L.\n4. M is not sitting at any end.\n5. P is sitting immediately to the left of R.\n6. L and M are not sitting together.\n7. There are two people between Q and S.\n\nWho is sitting at the extreme left end?",
+    "options": {
+      "A": "L",
+      "B": "M",
+      "C": "N",
+      "D": "O",
+      "E": "P"
+    },
+    "correct_answer": "C",
+    "explanation": "The complete arrangement from left to right is N, L, O, M, Q, P, R, S. Thus, N is sitting at the extreme left end.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_029",
+    "question": "Nine people, A, B, C, D, E, F, G, H, and I, are sitting in a single row facing south. Given the following:\n1. B is fourth to the right of G.\n2. E is sitting second to the left of D.\n3. F is not an immediate neighbor of I.\n4. A is sitting at the extreme left.\n5. H is sitting between E and F.\n6. C and G are sitting together.\n7. I is fourth to the right of C.\n8. H is third to the right of B.\n\nWho is sitting second from the right?",
+    "options": {
+      "A": "E",
+      "B": "F",
+      "C": "G",
+      "D": "H",
+      "E": "I"
+    },
+    "correct_answer": "E",
+    "explanation": "The arrangement is A, D, E, H, F, B, G, C, I. Therefore, I is sitting second from the right end.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_030",
+    "question": "Ten people are sitting in two parallel rows containing five people each. In Row 1, P, Q, R, S, and T are seated and all of them are facing north. In Row 2, A, B, C, D, and E are seated and all of them are facing south. Each person in one row faces exactly one person from the other row.\nThe following conditions apply:\n1. Q sits second to the right of R.\n2. The one who faces R sits immediately to the left of D.\n3. S does not sit at any end of the row.\n4. A and E sit at the extreme ends of one of the rows.\n5. P faces the person who sits second to the right of B.\n6. C sits third to the left of the one who faces S.\n7. D does not face T.\n8. The one who faces Q sits second to the left of E.\n\nWho is sitting third to the left of the person who faces A?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "T"
+    },
+    "correct_answer": "B",
+    "explanation": "Arranging the people with conditions in mind:\nRow 1 (North): T, R, S, Q, P\nRow 2 (South): E, C, B, D, A\nQ faces B; therefore, the person who is third to the left of the person facing A (D) is Q.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

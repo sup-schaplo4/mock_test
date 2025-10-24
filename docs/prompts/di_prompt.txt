@@ -1,0 +1,176 @@
+DI_TYPES = [
+    "Table",
+    "Bar Chart", 
+    "Line Chart",
+    "Pie Chart",
+    "Mixed Charts",
+    "Caselet"
+]
+
+DI_TOPICS = [
+    "Sales & Revenue Analysis",
+    "Population & Demographics",
+    "Production & Manufacturing",
+    "Import & Export",
+    "Budget & Expenditure",
+    "Profit & Loss Analysis",
+    "Market Share Analysis",
+    "Employee & HR Statistics",
+    "Agriculture & Crop Production",
+    "Banking & Finance",
+    "Education Statistics",
+    "Healthcare Data",
+    "Transportation & Logistics",
+    "Energy & Power",
+    "Sports Statistics"
+]
+
+
+def get_di_system_prompt() -> str:
+    """
+    Get the system prompt for DI generation
+    
+    Returns:
+        str: System prompt for OpenAI API
+    """
+
+def get_di_generation_prompt(
+    di_type: str,
+    topic: str,
+    difficulty: str,
+    num_questions: int = 5,
+    additional_instructions: Optional[str] = None
+) -> str:
+    """
+    Generate the main prompt for DI set creation
+    
+    Args:
+        di_type: Type of DI (Table, Bar Chart, etc.)
+        topic: Topic/theme for the DI set
+        difficulty: Difficulty level (Easy, Medium, Hard)
+        num_questions: Number of questions to generate (default: 5)
+        additional_instructions: Optional additional requirements
+    
+    Returns:
+        str: Complete prompt for DI generation
+    """
+def _get_type_specific_instructions(di_type: str) -> str:
+    """Get specific instructions based on DI type"""
+def _get_difficulty_guidelines(difficulty: str) -> str:
+    """Get difficulty-specific guidelines"""
+def _get_di_json_schema(di_type: str, num_questions: int) -> str:
+    """Get the JSON schema for the response"""
+def get_table_di_prompt(topic: str, difficulty: str, num_questions: int = 5) -> str:
+    """Generate prompt specifically for Table-based DI"""
+def get_bar_chart_di_prompt(topic: str, difficulty: str, num_questions: int = 5) -> str:
+    """Generate prompt specifically for Bar Chart DI"""
+def get_line_chart_di_prompt(topic: str, difficulty: str, num_questions: int = 5) -> str:
+    """Generate prompt specifically for Line Chart DI"""
+def get_pie_chart_di_prompt(topic: str, difficulty: str, num_questions: int = 5) -> str:
+    """Generate prompt specifically for Pie Chart DI"""
+def get_mixed_chart_di_prompt(topic: str, difficulty: str, num_questions: int = 5) -> str:
+    """Generate prompt specifically for Mixed Charts DI"""
+def get_caselet_di_prompt(topic: str, difficulty: str, num_questions: int = 5) -> str:
+    """Generate prompt specifically for Caselet DI"""
+def get_di_validation_prompt(di_set: dict) -> str:
+    """
+    Generate prompt for validating a DI set
+    
+    Args:
+        di_set: The DI set dictionary to validate
+    
+    Returns:
+        str: Validation prompt
+    """
+def get_di_enhancement_prompt(di_set: dict, enhancement_type: str) -> str: 
+    """ Generate prompt for enhancing an existing DI set
+
+        Args:
+            di_set: The DI set to enhance
+            enhancement_type: Type of enhancement (difficulty, variety, clarity)
+
+        Returns:
+            str: Enhancement prompt
+    """
+def get_banking_finance_di_prompt(di_type: str, difficulty: str, num_questions: int = 5) -> str: 
+    """Generate DI prompt with banking/finance context"""
+def get_sales_revenue_di_prompt(di_type: str, difficulty: str, num_questions: int = 5) -> str: 
+    """Generate DI prompt with sales/revenue context"""
+def get_demographic_di_prompt(di_type: str, difficulty: str, num_questions: int = 5) -> str: 
+    """Generate DI prompt with demographic/population context"""
+def get_batch_di_generation_prompt( specifications: List[Dict[str, any]] ) -> str: 
+    """ Generate prompt for creating multiple DI sets in one call
+
+        Args:
+            specifications: List of specs, each with di_type, topic, difficulty, num_questions
+
+        Returns:
+            str: Batch generation prompt
+        """
+def get_di_regeneration_prompt( original_di_set: dict, issues: List[str], preserve_data: bool = True ) -> str: 
+    """ Generate prompt for regenerating a DI set to fix issues
+
+        Args:
+            original_di_set: The original DI set with issues
+            issues: List of issues to fix
+            preserve_data: Whether to keep the same data source
+
+        Returns:
+            str: Regeneration prompt
+        """
+def get_additional_question_prompt( di_set: dict, num_additional_questions: int = 2, question_types: Optional[List[str]] = None ) -> str: 
+    """ Generate prompt for adding more questions to an existing DI set
+
+        Args:
+            di_set: Existing DI set
+            num_additional_questions: Number of questions to add
+            question_types: Optional list of specific question types to include
+
+        Returns:
+            str: Prompt for generating additional questions
+        """
+def get_difficulty_adjustment_prompt( di_set: dict, target_difficulty: str ) -> str: 
+    """ Generate prompt for adjusting difficulty of an existing DI set
+
+        Args:
+            di_set: Existing DI set
+            target_difficulty: Target difficulty level (Easy/Medium/Hard)
+
+        Returns:
+            str: Difficulty adjustment prompt
+        """
+def format_di_prompt_with_examples( di_type: str, topic: str, difficulty: str, example_di_sets: List[dict], num_questions: int = 5 ) -> str: 
+    """ Generate DI prompt with example DI sets for context
+
+        Args:
+            di_type: Type of DI
+            topic: Topic for the DI set
+            difficulty: Difficulty level
+            example_di_sets: List of example DI sets to use as reference
+            num_questions: Number of questions to generate
+
+        Returns:
+            str: Prompt with examples
+        """
+def get_custom_di_prompt( di_type: str, topic: str, difficulty: str, num_questions: int, custom_requirements: Dict[str, any] ) -> str: 
+    """ Generate a fully customized DI prompt
+
+        Args:
+            di_type: Type of DI
+            topic: Topic for the DI set
+            difficulty: Difficulty level
+            num_questions: Number of questions
+            custom_requirements: Dictionary of custom requirements
+
+        Returns:
+            str: Customized prompt
+        """
+def get_di_test_prompt(di_type: str = "Table") -> str: 
+    """ Get a simple test prompt for verifying DI generation
+
+        Args:
+            di_type: Type of DI to test
+
+        Returns:
+            str: Simple test prompt
+        """

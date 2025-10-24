@@ -1,0 +1,641 @@
+[
+  {
+    "di_set_id": "DI_BAR_CHART_001",
+    "topic": "Bar Chart - Sales Revenue by Product Category",
+    "difficulty": "Easy",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Sales Revenue by Product Category (Q1-Q4)",
+      "data": {
+        "categories": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ],
+        "series": [
+          {
+            "name": "Electronics",
+            "values": [
+              450,
+              520,
+              480,
+              610
+            ]
+          },
+          {
+            "name": "Clothing",
+            "values": [
+              380,
+              420,
+              450,
+              520
+            ]
+          },
+          {
+            "name": "Furniture",
+            "values": [
+              300,
+              350,
+              400,
+              450
+            ]
+          }
+        ]
+      },
+      "units": "Revenue in Lakhs (₹)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BAR_001_Q1",
+        "question": "What was the total sales revenue for Electronics in Q3?",
+        "options": {
+          "A": "480 Lakhs",
+          "B": "450 Lakhs",
+          "C": "520 Lakhs",
+          "D": "610 Lakhs",
+          "E": "420 Lakhs"
+        },
+        "correct_answer": "A",
+        "explanation": "The sales revenue for Electronics in Q3 is directly given as 480 Lakhs.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BAR_001_Q2",
+        "question": "Which product category saw the highest revenue increase from Q1 to Q4?",
+        "options": {
+          "A": "Electronics",
+          "B": "Clothing",
+          "C": "Furniture",
+          "D": "All categories increased equally",
+          "E": "None of the above"
+        },
+        "correct_answer": "A",
+        "explanation": "Electronics increased from 450 to 610 (160 Lakhs). Clothing increased from 380 to 520 (140 Lakhs). Furniture increased from 300 to 450 (150 Lakhs). Electronics had the highest increase.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BAR_001_Q3",
+        "question": "What is the percentage increase in Clothing revenue from Q1 to Q2?",
+        "options": {
+          "A": "10.53%",
+          "B": "12.50%",
+          "C": "8.33%",
+          "D": "11.11%",
+          "E": "9.09%"
+        },
+        "correct_answer": "B",
+        "explanation": "Percentage increase = ((420 - 380) / 380) * 100 = (40 / 380) * 100 = 10.53%",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BAR_001_Q4",
+        "question": "Calculate the total sales revenue for all categories in Q4.",
+        "options": {
+          "A": "1580 Lakhs",
+          "B": "1585 Lakhs",
+          "C": "1570 Lakhs",
+          "D": "1600 Lakhs",
+          "E": "1590 Lakhs"
+        },
+        "correct_answer": "C",
+        "explanation": "Total revenue in Q4 = 610 (Electronics) + 520 (Clothing) + 450 (Furniture) = 1580 Lakhs.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BAR_001_Q5",
+        "question": "By what percentage is Furniture's revenue in Q2 less than Electronics' revenue in Q2?",
+        "options": {
+          "A": "32.69%",
+          "B": "33.33%",
+          "C": "34.62%",
+          "D": "35.00%",
+          "E": "30.00%"
+        },
+        "correct_answer": "C",
+        "explanation": "Difference in revenue = 520 (Electronics) - 350 (Furniture) = 170 Lakhs. Percentage = (170 / 520) * 100 = 32.69%",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:34:14.554705",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0117225,
+      "tokens_used": 1929
+    }
+  },
+  {
+    "di_set_id": "DI_BAR_CHART_002",
+    "topic": "Bar Chart - Bank Deposits by Quarter",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Bank Deposits in Different Accounts (Q1-Q4)",
+      "data": {
+        "categories": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ],
+        "series": [
+          {
+            "name": "Savings",
+            "values": [
+              750,
+              800,
+              780,
+              820
+            ]
+          },
+          {
+            "name": "Current",
+            "values": [
+              600,
+              630,
+              650,
+              670
+            ]
+          },
+          {
+            "name": "Fixed Deposit",
+            "values": [
+              900,
+              920,
+              950,
+              980
+            ]
+          }
+        ]
+      },
+      "units": "Deposits in Crores (₹)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BC_001_Q1",
+        "question": "What is the total deposit in Savings accounts across all quarters?",
+        "options": {
+          "A": "3,150 Crores",
+          "B": "3,200 Crores",
+          "C": "3,050 Crores",
+          "D": "3,100 Crores",
+          "E": "3,250 Crores"
+        },
+        "correct_answer": "A",
+        "explanation": "Add the deposits for Savings: 750 + 800 + 780 + 820 = 3,150 Crores.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BC_001_Q2",
+        "question": "What is the percentage increase in Current account deposits from Q1 to Q4?",
+        "options": {
+          "A": "11.67%",
+          "B": "12.50%",
+          "C": "15.00%",
+          "D": "10.00%",
+          "E": "13.33%"
+        },
+        "correct_answer": "A",
+        "explanation": "Percentage increase = [(670 - 600) / 600] * 100 = 11.67%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BC_001_Q3",
+        "question": "What is the ratio of Fixed Deposit to Savings account deposits in Q3?",
+        "options": {
+          "A": "95:78",
+          "B": "97:78",
+          "C": "98:80",
+          "D": "95:80",
+          "E": "97:80"
+        },
+        "correct_answer": "A",
+        "explanation": "Fixed Deposit in Q3 = 950, Savings in Q3 = 780. Ratio = 950:780 = 95:78.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BC_001_Q4",
+        "question": "Which account type shows the highest average deposit over the four quarters?",
+        "options": {
+          "A": "Savings",
+          "B": "Current",
+          "C": "Fixed Deposit",
+          "D": "All have equal average",
+          "E": "None of these"
+        },
+        "correct_answer": "C",
+        "explanation": "Average for Savings = 3,150/4 = 787.5, Current = 2,550/4 = 637.5, Fixed Deposit = 3,750/4 = 937.5. Highest is Fixed Deposit with 937.5 Crores.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BC_001_Q5",
+        "question": "By how much did the total bank deposits in Q4 exceed those in Q1 across all account types?",
+        "options": {
+          "A": "120 Crores",
+          "B": "140 Crores",
+          "C": "160 Crores",
+          "D": "180 Crores",
+          "E": "200 Crores"
+        },
+        "correct_answer": "C",
+        "explanation": "Total in Q1 = 750 + 600 + 900 = 2,250 Crores, Total in Q4 = 820 + 670 + 980 = 2,470 Crores. Difference = 2,470 - 2,250 = 220 Crores.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:34:34.184319",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0121575,
+      "tokens_used": 1980
+    }
+  },
+  {
+    "di_set_id": "DI_BAR_CHART_003",
+    "topic": "Bar Chart - Population & Demographics",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Population by Age Group (2018-2023)",
+      "data": {
+        "categories": [
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ],
+        "series": [
+          {
+            "name": "0-14 years",
+            "values": [
+              120000,
+              122000,
+              123500,
+              124000,
+              125500,
+              126000
+            ]
+          },
+          {
+            "name": "15-64 years",
+            "values": [
+              350000,
+              355000,
+              360000,
+              365000,
+              370000,
+              375000
+            ]
+          },
+          {
+            "name": "65 years and above",
+            "values": [
+              50000,
+              52000,
+              54000,
+              56000,
+              58000,
+              60000
+            ]
+          }
+        ]
+      },
+      "units": "Population in Thousands"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BARCHART_001_Q1",
+        "question": "What was the total population in the year 2020?",
+        "options": {
+          "A": "537,500",
+          "B": "537,000",
+          "C": "538,000",
+          "D": "538,500",
+          "E": "536,500"
+        },
+        "correct_answer": "A",
+        "explanation": "In 2020, the populations are: 0-14 years: 123,500; 15-64 years: 360,000; 65+ years: 54,000. Total = 123,500 + 360,000 + 54,000 = 537,500.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_BARCHART_001_Q2",
+        "question": "What is the percentage increase in the population of the 15-64 years age group from 2018 to 2023?",
+        "options": {
+          "A": "7.14%",
+          "B": "7.14",
+          "C": "7%",
+          "D": "8%",
+          "E": "8.57%"
+        },
+        "correct_answer": "A",
+        "explanation": "Population in 2018: 350,000; in 2023: 375,000. Increase = 375,000 - 350,000 = 25,000. Percentage increase = (25,000 / 350,000) * 100 = 7.14%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BARCHART_001_Q3",
+        "question": "What is the average population of the 0-14 years age group over the 6 years?",
+        "options": {
+          "A": "123,000",
+          "B": "123,166",
+          "C": "123,333",
+          "D": "123,500",
+          "E": "123,667"
+        },
+        "correct_answer": "C",
+        "explanation": "Total population over 6 years: 120,000 + 122,000 + 123,500 + 124,000 + 125,500 + 126,000 = 741,000. Average = 741,000 / 6 = 123,500.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BARCHART_001_Q4",
+        "question": "In which year did the 65 years and above age group have the highest percentage increase compared to the previous year?",
+        "options": {
+          "A": "2019",
+          "B": "2020",
+          "C": "2021",
+          "D": "2022",
+          "E": "2023"
+        },
+        "correct_answer": "A",
+        "explanation": "2018 to 2019: (52000-50000)/50000*100 = 4%; 2019 to 2020: (54000-52000)/52000*100 = 3.85%; 2020 to 2021: (56000-54000)/54000*100 = 3.70%; 2021 to 2022: (58000-56000)/56000*100 = 3.57%; 2022 to 2023: (60000-58000)/58000*100 = 3.45%. Highest in 2019.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BARCHART_001_Q5",
+        "question": "What is the ratio of the population of 0-14 years to 65 years and above in 2023?",
+        "options": {
+          "A": "63:30",
+          "B": "21:10",
+          "C": "21:11",
+          "D": "63:31",
+          "E": "63:32"
+        },
+        "correct_answer": "B",
+        "explanation": "In 2023, 0-14 years = 126,000; 65+ years = 60,000. Ratio = 126,000:60,000 = 21:10.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:34:46.775623",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.01439,
+      "tokens_used": 2204
+    }
+  },
+  {
+    "di_set_id": "DI_BAR_CHART_004",
+    "topic": "Bar Chart - Production & Manufacturing",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Quarterly Production of Units by Department (2023)",
+      "data": {
+        "categories": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4"
+        ],
+        "series": [
+          {
+            "name": "Electronics",
+            "values": [
+              1200,
+              1350,
+              1500,
+              1650
+            ]
+          },
+          {
+            "name": "Automobiles",
+            "values": [
+              1100,
+              1250,
+              1400,
+              1550
+            ]
+          },
+          {
+            "name": "Textiles",
+            "values": [
+              1300,
+              1450,
+              1600,
+              1750
+            ]
+          }
+        ]
+      },
+      "units": "Units Produced (in Thousands)"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BAR_001_Q1",
+        "question": "What is the total production in Q3 for all departments combined?",
+        "options": {
+          "A": "4500",
+          "B": "4700",
+          "C": "4800",
+          "D": "4900",
+          "E": "5000"
+        },
+        "correct_answer": "C",
+        "explanation": "Sum of production in Q3: 1500 (Electronics) + 1400 (Automobiles) + 1600 (Textiles) = 4500. Convert to thousands: 4500 x 1000 = 4,500,000 units or 4500 in thousands.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BAR_001_Q2",
+        "question": "By what percentage did the production of Electronics increase from Q1 to Q4?",
+        "options": {
+          "A": "35%",
+          "B": "37.5%",
+          "C": "40%",
+          "D": "45%",
+          "E": "50%"
+        },
+        "correct_answer": "B",
+        "explanation": "Percentage increase = ((1650 - 1200) / 1200) * 100 = 37.5%",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BAR_001_Q3",
+        "question": "Which department showed the highest average production over the four quarters?",
+        "options": {
+          "A": "Electronics",
+          "B": "Automobiles",
+          "C": "Textiles",
+          "D": "All departments have the same average",
+          "E": "Not determinable from the data"
+        },
+        "correct_answer": "C",
+        "explanation": "Average production: Electronics = (1200+1350+1500+1650)/4 = 1425; Automobiles = (1100+1250+1400+1550)/4 = 1325; Textiles = (1300+1450+1600+1750)/4 = 1525. Textiles has the highest average.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_BAR_001_Q4",
+        "question": "If the production of Automobiles is expected to grow by 10% next year, what will be the expected production in Q1 next year?",
+        "options": {
+          "A": "1210",
+          "B": "1215",
+          "C": "1220",
+          "D": "1230",
+          "E": "1235"
+        },
+        "correct_answer": "A",
+        "explanation": "Expected production = 1100 + (10% of 1100) = 1100 + 110 = 1210",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BAR_001_Q5",
+        "question": "Calculate the compound annual growth rate (CAGR) of the Textiles department's production from Q1 to Q4.",
+        "options": {
+          "A": "11.18%",
+          "B": "12.93%",
+          "C": "13.56%",
+          "D": "14.29%",
+          "E": "15.00%"
+        },
+        "correct_answer": "D",
+        "explanation": "CAGR = [(1750/1300)^(1/3) - 1] * 100 = (1.3462^(1/3) - 1) * 100 ≈ 14.29%",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:34:55.352156",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012615000000000001,
+      "tokens_used": 2040
+    }
+  },
+  {
+    "di_set_id": "DI_BAR_CHART_005",
+    "topic": "Bar Chart - Import & Export",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "bar_chart",
+      "title": "Import & Export Values by Country (2019-2022)",
+      "data": {
+        "categories": [
+          "2019",
+          "2020",
+          "2021",
+          "2022"
+        ],
+        "series": [
+          {
+            "name": "Imports (in million USD)",
+            "values": [
+              1200,
+              1350,
+              1250,
+              1450
+            ]
+          },
+          {
+            "name": "Exports (in million USD)",
+            "values": [
+              1100,
+              1300,
+              1200,
+              1500
+            ]
+          }
+        ]
+      },
+      "units": "Values in Million USD"
+    },
+    "questions": [
+      {
+        "question_id": "DI_BARCHART_001_Q1",
+        "question": "What is the percentage increase in imports from 2019 to 2022?",
+        "options": {
+          "A": "20.83%",
+          "B": "25.00%",
+          "C": "16.67%",
+          "D": "18.33%",
+          "E": "21.67%"
+        },
+        "correct_answer": "A",
+        "explanation": "The percentage increase in imports from 2019 to 2022 is calculated as: ((1450 - 1200) / 1200) * 100 = 20.83%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BARCHART_001_Q2",
+        "question": "In which year was the trade surplus (Exports - Imports) the greatest?",
+        "options": {
+          "A": "2019",
+          "B": "2020",
+          "C": "2021",
+          "D": "2022",
+          "E": "None of these"
+        },
+        "correct_answer": "D",
+        "explanation": "Calculating trade surplus: 2019: -100, 2020: -50, 2021: -50, 2022: 50. The greatest surplus was in 2022.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BARCHART_001_Q3",
+        "question": "What is the average annual export value over the given period?",
+        "options": {
+          "A": "1275 million USD",
+          "B": "1200 million USD",
+          "C": "1300 million USD",
+          "D": "1325 million USD",
+          "E": "1250 million USD"
+        },
+        "correct_answer": "A",
+        "explanation": "Average exports = (1100 + 1300 + 1200 + 1500) / 4 = 1275 million USD.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BARCHART_001_Q4",
+        "question": "Find the ratio of total exports to total imports over the four years.",
+        "options": {
+          "A": "0.95",
+          "B": "1.05",
+          "C": "1.00",
+          "D": "1.10",
+          "E": "0.90"
+        },
+        "correct_answer": "B",
+        "explanation": "Total exports = 5100 million USD, total imports = 5250 million USD. Ratio = 5100/5250 = 0.97 (approximately 1.05).",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_BARCHART_001_Q5",
+        "question": "What was the compound annual growth rate (CAGR) of exports from 2019 to 2022?",
+        "options": {
+          "A": "10.87%",
+          "B": "11.54%",
+          "C": "12.22%",
+          "D": "9.87%",
+          "E": "11.26%"
+        },
+        "correct_answer": "A",
+        "explanation": "CAGR = [(1500/1100)^(1/3) - 1] * 100 = 10.87%.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:35:05.324900",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.011935000000000001,
+      "tokens_used": 1972
+    }
+  }
+]

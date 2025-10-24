@@ -1,0 +1,806 @@
+{
+  "category": "rbi_annual_report",
+  "total_questions": 40,
+  "questions": [
+    {
+      "question": "The Monetary Policy Committee (MPC) kept the policy repo rate unchanged throughout 2023-24. What was this rate?",
+      "options": {
+        "A": "6.00%",
+        "B": "6.25%",
+        "C": "6.50%",
+        "D": "6.75%",
+        "E": "7.00%"
+      },
+      "correct_answer": "C",
+      "explanation": "Considering the growth-inflation dynamics, the Monetary Policy Committee (MPC) kept the policy repo rate unchanged at 6.50 per cent during 2023-24. (Page 29, para I.14)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048773",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected real GDP growth for the Indian economy for the financial year 2024-25?",
+      "options": {
+        "A": "6.5%",
+        "B": "6.8%",
+        "C": "7.0%",
+        "D": "7.2%",
+        "E": "7.5%"
+      },
+      "correct_answer": "C",
+      "explanation": "Taking into account various domestic economic factors, the real GDP growth for 2024-25 is projected at 7.0 per cent with risks evenly balanced. (Page 34, para I.38)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048832",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected CPI inflation for the financial year 2024-25, with risks considered evenly balanced?",
+      "options": {
+        "A": "4.0%",
+        "B": "4.5%",
+        "C": "5.0%",
+        "D": "5.4%",
+        "E": "5.7%"
+      },
+      "correct_answer": "B",
+      "explanation": "Taking into account factors like supply chain pressures, core inflation, and monsoon outlook, the CPI inflation for 2024-25 is projected at 4.5 per cent with risks evenly balanced. (Page 35, para I.40)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048837",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Effective October 1, 2024, the Prompt Corrective Action (PCA) framework for NBFCs was extended to include government NBFCs, with an exception for which category?",
+      "options": {
+        "A": "Those in Upper Layer",
+        "B": "Those in Middle Layer",
+        "C": "Those with asset size below ₹500 crore",
+        "D": "Those in Base Layer",
+        "E": "All government NBFCs are included"
+      },
+      "correct_answer": "D",
+      "explanation": "The Prompt Corrective Action (PCA) framework has been extended to government NBFCs (except those in Base Layer) and it would be applicable with effect from October 1, 2024. (Page 31, para I.24; Page 160, para VI.78)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048841",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the total value of ₹2000 denomination banknotes in circulation as on May 19, 2023, when their withdrawal was announced?",
+      "options": {
+        "A": "₹2.56 lakh crore",
+        "B": "₹3.16 lakh crore",
+        "C": "₹3.56 lakh crore",
+        "D": "₹4.16 lakh crore",
+        "E": "₹4.56 lakh crore"
+      },
+      "correct_answer": "C",
+      "explanation": "The total value of ₹2000 banknotes in circulation was ₹3.56 lakh crore as on May 19, 2023. (Page 69, footnote 36)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048844",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In 2023-24, what was the average spread of the weighted average call rate (WACR) relative to the policy repo rate?",
+      "options": {
+        "A": "13 basis points below the repo rate",
+        "B": "13 basis points above the repo rate",
+        "C": "Exactly at the repo rate",
+        "D": "12 basis points below the repo rate",
+        "E": "12 basis points above the repo rate"
+      },
+      "correct_answer": "B",
+      "explanation": "The weighted average call rate (WACR) traded, on an average, 13 basis points (bps) above the policy repo rate during 2023-24, compared to 12 bps below the rate in 2022-23. (Page 29, para I.14; Page 78, para II.5.4)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048847",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As per the guidelines on Default Loss Guarantee (DLG) in digital lending, the DLG is limited to what percentage of the outstanding loan portfolio?",
+      "options": {
+        "A": "2%",
+        "B": "3%",
+        "C": "5%",
+        "D": "7.5%",
+        "E": "10%"
+      },
+      "correct_answer": "C",
+      "explanation": "The guidelines on DLG in digital lending lay down several regulatory guardrails, including limiting the DLG to five per cent of the outstanding loan portfolio. (Page 143, para VI.21)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048850",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As a temporary measure to absorb surplus liquidity from the return of ₹2000 banknotes, an incremental cash reserve ratio (I-CRR) of 10 per cent was imposed during which period in 2023?",
+      "options": {
+        "A": "July 1 to September 30, 2023",
+        "B": "August 1 to October 15, 2023",
+        "C": "August 12 to October 7, 2023",
+        "D": "September 1 to November 15, 2023",
+        "E": "July 15 to September 8, 2023"
+      },
+      "correct_answer": "C",
+      "explanation": "An incremental cash reserve ratio (I-CRR) of 10 per cent was applied as a temporary measure from the fortnight beginning August 12, 2023 to October 7, 2023 to absorb surplus liquidity. (Page 106, para III.2; Page 111, para III.16)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048853",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What percentage of the ₹2000 banknotes in circulation on May 19, 2023, had been returned to the banking system by March 31, 2024?",
+      "options": {
+        "A": "95.5%",
+        "B": "96.8%",
+        "C": "97.7%",
+        "D": "98.5%",
+        "E": "99.1%"
+      },
+      "correct_answer": "C",
+      "explanation": "Of the ₹3.56 lakh crore of ₹2000 banknotes in circulation as on May 19, 2023, when the withdrawal was announced, 97.7 per cent had returned to the banking system up to March 31, 2024. (Page 181, para VIII.14)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048856",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the total surplus amount transferred by the Reserve Bank to the Central Government for the financial year 2023-24?",
+      "options": {
+        "A": "₹87,416.22 crore",
+        "B": "₹1,48,037.04 crore",
+        "C": "₹64,694.33 crore",
+        "D": "₹2,10,873.99 crore",
+        "E": "₹30,307.45 crore"
+      },
+      "correct_answer": "D",
+      "explanation": "For the year 2023-24, the surplus transferred to the Central Government amounted to ₹2,10,873.99 crore, a significant increase from ₹87,416.22 crore in the previous year. (Page 243, Table XII.1)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048858",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the share of ₹500 denomination banknotes in the total value of banknotes in circulation as on March 31, 2024?",
+      "options": {
+        "A": "77.1%",
+        "B": "82.5%",
+        "C": "86.5%",
+        "D": "90.1%",
+        "E": "73.3%"
+      },
+      "correct_answer": "C",
+      "explanation": "As of end-March 2024, the ₹500 denomination banknotes constituted 86.5 per cent of the total value of banknotes in circulation, increasing from 77.1 per cent in the previous year. (Page 180, Table VIII.1)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048861",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "During 2023-24, liquidity conditions tightened, causing the average daily net absorption under the Liquidity Adjustment Facility (LAF) to moderate significantly. What was the average daily net absorption figure for 2023-24?",
+      "options": {
+        "A": "₹1.87 lakh crore",
+        "B": "₹1.26 lakh crore",
+        "C": "₹485 crore",
+        "D": "₹0.89 lakh crore",
+        "E": "₹7,600 crore"
+      },
+      "correct_answer": "C",
+      "explanation": "Liquidity conditions tightened during 2023-24. The average daily net absorption under the liquidity adjustment facility (LAF) moderated to ₹485 crore during 2023-24 from ₹1.87 lakh crore in the previous year. (Page 29, para I.14)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048864",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The RBI revised the definition of 'Bulk Deposits' for Regional Rural Banks (RRBs) in October 2023. What is the new threshold for a single Rupee term deposit to be classified as a 'Bulk Deposit' for RRBs?",
+      "options": {
+        "A": "₹15 lakh and above",
+        "B": "₹50 lakh and above",
+        "C": "₹1 crore and above",
+        "D": "₹2 crore and above",
+        "E": "₹5 crore and above"
+      },
+      "correct_answer": "C",
+      "explanation": "On October 26, 2023, the Reserve Bank enhanced the bulk deposit limit for RRBs. 'Bulk Deposit' for RRBs would now mean single Rupee term deposits of ₹ one crore and above, revised from the earlier limit of '₹15 lakh and above'. (Page 146, para VI.33; Annex I, page 279)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048870",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As on March 22, 2024, what was the money multiplier (MM)?",
+      "options": {
+        "A": "5.0",
+        "B": "5.2",
+        "C": "5.4",
+        "D": "5.6",
+        "E": "5.8"
+      },
+      "correct_answer": "C",
+      "explanation": "As on March 22, 2024, the money multiplier (MM) was 5.4, which was marginally higher than its decennial average of 5.3 (2013-14 to 2023-24). (Page 72, para II.4.11; Page 73, Table II.4.1)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048948",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "During the monetary tightening cycle from May 2022 to March 2024, by how many basis points did the weighted average domestic term deposit rate (WADTDR) on outstanding term deposits increase?",
+      "options": {
+        "A": "113 bps",
+        "B": "167 bps",
+        "C": "185 bps",
+        "D": "250 bps",
+        "E": "259 bps"
+      },
+      "correct_answer": "C",
+      "explanation": "In the tightening cycle from May 2022 to March 2024, the WADTDR on outstanding term deposits increased by 185 basis points. During the same period, the policy repo rate was increased by 250 bps. (Page 115, Table III.4)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048952",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The RBI announced regulatory measures on investments in Alternative Investment Funds (AIFs) on December 19, 2023, with clarifications issued on March 27, 2024. Which of the following clarifications is correct?",
+      "options": {
+        "A": "Downstream investments by AIFs include both equity shares and other instruments.",
+        "B": "Provisioning by a Regulated Entity (RE) applies to the entire investment in the AIF scheme, not just the proportionate part.",
+        "C": "Proposed deductions from capital due to AIF investments affect only Tier-1 capital.",
+        "D": "Investments in AIFs through intermediaries such as fund of funds are beyond the scope of the circular.",
+        "E": "REs are mandated to liquidate investments only if the AIF's downstream investment is in the form of debt."
+      },
+      "correct_answer": "D",
+      "explanation": "The clarification issued on March 27, 2024, advised that: (i) downstream investments exclude equity shares; (ii) provisioning applies on a proportionate basis; (iv) deductions affect both Tier-1 and Tier-2 capital; and (v) investments in AIFs through intermediaries like fund of funds are beyond the scope of the circular. (Page 144, para VI.26)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048955",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The revised prudential norms for the investment portfolio of commercial banks, issued on September 12, 2023, introduced several key modifications. Which of the following was NOT one of these modifications?",
+      "options": {
+        "A": "Principle-based classification of investment portfolio into HTM, AFS, and FVTPL categories.",
+        "B": "Removal of the 90-day ceiling on the holding period for the 'Held for Trading' (HFT) category.",
+        "C": "Removal of the ceiling on investments in the 'Held to Maturity' (HTM) category.",
+        "D": "Mandatory inclusion of all Statutory Liquidity Ratio (SLR) securities in the HTM category.",
+        "E": "Symmetric recognition of gains/losses for investments under AFS and FVTPL categories."
+      },
+      "correct_answer": "D",
+      "explanation": "The revised Directions included the inclusion of non-statutory liquidity ratio (SLR) securities in the HTM category, subject to fulfilling certain conditions. It did not mandate the inclusion of all SLR securities. Other mentioned modifications are correct as per the report. (Page 145, para VI.27)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048958",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the percentage increase in the size of the Reserve Bank's balance sheet for the year ended March 31, 2024?",
+      "options": {
+        "A": "9.98%",
+        "B": "11.08%",
+        "C": "13.90%",
+        "D": "17.04%",
+        "E": "27.00%"
+      },
+      "correct_answer": "B",
+      "explanation": "The size of the balance sheet increased by ₹7,02,946.97 crore, which is an 11.08 per cent increase, from ₹63,44,756.24 crore as on March 31, 2023 to ₹70,47,703.21 crore as on March 31, 2024. (Page 243, para XII.3)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048960",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the primary reason for the decrease in the Reserve Bank's holdings of domestic securities (Investments-Domestic-BD) from ₹14,06,422.89 crore in 2023 to ₹13,63,368.97 crore in 2024?",
+      "options": {
+        "A": "A strategic shift towards increasing foreign investments.",
+        "B": "Transfer of securities to the Central Government to manage fiscal deficit.",
+        "C": "Liquidity management operations involving net sale and redemption of government securities.",
+        "D": "Directives from the Monetary Policy Committee to reduce domestic asset holdings.",
+        "E": "Revaluation losses due to an increase in domestic bond yields."
+      },
+      "correct_answer": "C",
+      "explanation": "The Reserve Bank’s holding of domestic securities decreased mainly on account of liquidity management operations conducted by way of net sale of government securities and redemption of securities in the portfolio. (Page 262, para V)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048963",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The new standardised approach for operational risk capital requirements for banks is based on a combination of a Business Indicator Component (BIC) and an Internal Loss Multiplier (ILM). Which of these components is applicable only to larger banks?",
+      "options": {
+        "A": "Business Indicator Component (BIC) only",
+        "B": "Internal Loss Multiplier (ILM) only",
+        "C": "Both BIC and ILM are for larger banks only",
+        "D": "Neither, both are applicable to all banks",
+        "E": "A modified version of BIC is used for smaller banks"
+      },
+      "correct_answer": "B",
+      "explanation": "Under the new standardised approach for operational risk, banks are required to consider a financial statement-based business indicator component (BIC), along with a loss data-based internal loss multiplier (ILM) [for larger banks] in their capital calculation. This implies ILM is specifically for larger banks. (Page 145, para VI.28)",
+      "source_document": "RBI_Annual_Report_2024_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:21:46.048966",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In its February 2025 meeting, what was the policy repo rate set by the Monetary Policy Committee (MPC)?",
+      "options": {
+        "A": "6.00%",
+        "B": "6.25%",
+        "C": "6.50%",
+        "D": "6.75%",
+        "E": "7.00%"
+      },
+      "correct_answer": "B",
+      "explanation": "The MPC unanimously voted to reduce the policy repo rate by 25 basis points from 6.50 per cent to 6.25 per cent in its February 2025 meeting. This was the first rate reduction since February 2023. (Page 89, 112, 115)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.634954",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "To ease potential liquidity stress, the Cash Reserve Ratio (CRR) was reduced by 50 bps in December 2024. What is the new CRR as a percentage of NDTL?",
+      "options": {
+        "A": "3.50%",
+        "B": "4.00%",
+        "C": "4.25%",
+        "D": "4.50%",
+        "E": "5.00%"
+      },
+      "correct_answer": "B",
+      "explanation": "The CRR of banks was reduced by 50 bps in two equal tranches of 25 bps each, bringing it down to 4.0 per cent of Net Demand and Time Liabilities (NDTL) effective from the fortnight beginning December 28, 2024. (Page 86, 112, 285)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635011",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the value of the RBI's Financial Inclusion Index (FI-Index) for the period ending March 2024?",
+      "options": {
+        "A": "60.1",
+        "B": "62.5",
+        "C": "64.2",
+        "D": "65.8",
+        "E": "68.0"
+      },
+      "correct_answer": "C",
+      "explanation": "The Reserve Bank’s Financial Inclusion Index (FI-Index) improved from 60.1 in March 2023 to 64.2 in March 2024, indicating deepening of financial inclusion in the country. (Page 35, 130)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635018",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The RBI issued a revised Prompt Corrective Action (PCA) framework for Urban Co-operative Banks (UCBs). From which date will this framework become effective?",
+      "options": {
+        "A": "January 1, 2025",
+        "B": "March 31, 2025",
+        "C": "April 1, 2025",
+        "D": "July 26, 2024",
+        "E": "October 1, 2025"
+      },
+      "correct_answer": "C",
+      "explanation": "The revised Prompt Corrective Action (PCA) framework for UCBs, issued on July 26, 2024, will be effective from April 1, 2025. It is applicable to all UCBs in Tier 2, Tier 3, and Tier 4 categories. (Page 139, 288)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635021",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the average spread of the Weighted Average Call Rate (WACR) over the policy repo rate during the financial year 2024-25?",
+      "options": {
+        "A": "3 basis points",
+        "B": "6 basis points",
+        "C": "10 basis points",
+        "D": "13 basis points",
+        "E": "15 basis points"
+      },
+      "correct_answer": "B",
+      "explanation": "During 2024-25, the Weighted Average Call Rate (WACR), on an average, remained 6 basis points above the policy repo rate, compared to 13 bps in the previous year. (Page 95, 80)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635024",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In which month of 2024 did the Monetary Policy Committee (MPC) decide to change its policy stance from 'withdrawal of accommodation' to 'neutral'?",
+      "options": {
+        "A": "August 2024",
+        "B": "September 2024",
+        "C": "October 2024",
+        "D": "December 2024",
+        "E": "February 2025"
+      },
+      "correct_answer": "C",
+      "explanation": "Buoyed by a well-balanced inflation-growth dynamics, the MPC unanimously decided in its October 2024 meeting to change the policy stance from withdrawal of accommodation to neutral to provide it the flexibility to monitor the progress of ongoing disinflation. (Page 114)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635026",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As per the revised guidelines for the voluntary transition of Small Finance Banks (SFBs) to Universal Banks, what is the minimum net worth requirement for an eligible SFB?",
+      "options": {
+        "A": "₹500 crore",
+        "B": "₹750 crore",
+        "C": "₹1,000 crore",
+        "D": "₹1,500 crore",
+        "E": "₹2,000 crore"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the eligibility criteria issued on April 26, 2024, Small Finance Banks (SFBs) are required to have a minimum net worth of ₹1,000 crore as at the end of the previous quarter to be eligible for transition into a universal bank. (Page 127)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635028",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "By the end of March 2025, the Central Bank Digital Currency-Retail (e₹-R) pilot had been expanded to how many banks and users respectively?",
+      "options": {
+        "A": "15 banks and 50 lakh users",
+        "B": "17 banks and 60 lakh users",
+        "C": "20 banks and 75 lakh users",
+        "D": "12 banks and 40 lakh users",
+        "E": "18 banks and 65 lakh users"
+      },
+      "correct_answer": "B",
+      "explanation": "As at end-March 2025, the pilot program for the e₹-R segment was expanded to include 17 banks and 60 lakh users since its inception in December 2022. (Page 34)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635030",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In February 2025, the RBI reviewed the risk weights on SCBs' exposure to NBFCs. What was the outcome of this review?",
+      "options": {
+        "A": "Increased the risk weights by a further 25 percentage points.",
+        "B": "Restored the risk weights to the level associated with the external rating of the NBFC.",
+        "C": "Introduced a uniform risk weight of 125% for all NBFC exposures.",
+        "D": "Kept the increased risk weights from November 2023 unchanged.",
+        "E": "Reduced the risk weights by 50 percentage points from the November 2023 levels."
+      },
+      "correct_answer": "B",
+      "explanation": "Following a review, a circular dated February 25, 2025, restored the risk weight on SCBs' funding to NBFCs back to the risk weight associated with the given external rating of the NBFCs, reversing the earlier increase for cases where the rating was below 100 per cent. (Page 127, 286)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635032",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the average daily net absorption under the liquidity adjustment facility (LAF) during 2024-25, indicating that liquidity conditions remained in surplus for the year as a whole?",
+      "options": {
+        "A": "₹485 crore",
+        "B": "₹1,270 crore",
+        "C": "₹1,605 crore",
+        "D": "₹800 crore",
+        "E": "₹2,150 crore"
+      },
+      "correct_answer": "C",
+      "explanation": "For the year as a whole, liquidity conditions remained in surplus, reflected in an average daily net absorption under the liquidity adjustment facility (LAF) which increased to ₹1,605 crore during 2024-25 from ₹485 crore in the previous year. (Page 31)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635034",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The RBI launched 'FinTech Repository' and 'EmTech Repository' on May 28, 2024. Which entity is responsible for managing these secure web-based applications?",
+      "options": {
+        "A": "Department of Payment and Settlement Systems (DPSS)",
+        "B": "Department of Regulation (DoR)",
+        "C": "Reserve Bank Innovation Hub (RBIH)",
+        "D": "Institute for Development and Research in Banking Technology (IDRBT)",
+        "E": "National Payments Corporation of India (NPCI)"
+      },
+      "correct_answer": "C",
+      "explanation": "The 'FinTech Repository' and 'EmTech Repository' were launched to capture information about FinTech entities and the adoption of emerging technologies by regulated entities. These secure web-based applications are managed by the Reserve Bank Innovation Hub (RBIH). (Page 34, 159)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635036",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In a move to enhance credit availability for small and marginal farmers, the limit for collateral-free agricultural loans was raised in December 2024. What is the revised limit per borrower?",
+      "options": {
+        "A": "₹1.8 lakh",
+        "B": "₹2.0 lakh",
+        "C": "₹2.5 lakh",
+        "D": "₹3.0 lakh",
+        "E": "₹1.5 lakh"
+      },
+      "correct_answer": "B",
+      "explanation": "Keeping in view the rise in agricultural input costs and overall inflation, the limit for collateral-free agriculture loans was raised from ₹1.6 lakh to ₹2 lakh per borrower in December 2024, effective January 1, 2025. (Page 129, 278)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635038",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In June 2024, the RBI revised the definition of 'bulk deposits' for scheduled commercial banks (excluding RRBs) and small finance banks. What is the new threshold for a single rupee term deposit to be classified as a bulk deposit?",
+      "options": {
+        "A": "₹1 Crore and Above",
+        "B": "₹2 Crore and Above",
+        "C": "₹3 Crore and Above",
+        "D": "₹5 Crore and Above",
+        "E": "₹1.5 Crore and Above"
+      },
+      "correct_answer": "C",
+      "explanation": "On a review, the definition of bulk deposits was revised to ‘Single Rupee Term Deposits of ₹3 Crore and Above’ for SCBs (excluding RRBs) and SFBs, up from the previous limit of ₹2 crore. (Page 283)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635040",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the voting pattern of the Monetary Policy Committee (MPC) for the decision to reduce the policy repo rate in the February 2025 meeting?",
+      "options": {
+        "A": "4-2 majority",
+        "B": "5-1 majority",
+        "C": "Unanimous",
+        "D": "3-3 with Governor's casting vote",
+        "E": "The vote was not disclosed"
+      },
+      "correct_answer": "C",
+      "explanation": "In the February 2025 meeting, the MPC unanimously voted to reduce the policy repo rate by 25 bps to 6.25 per cent, marking a shift towards a growth-supportive stance. (Page 115)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635042",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the analysis of liquidity drivers in FY 2024-25, which of the following was the largest single factor contributing to the withdrawal of liquidity from the banking system?",
+      "options": {
+        "A": "Build-up of Government of India Cash Balances",
+        "B": "Withdrawal of Currency in Circulation (CiC)",
+        "C": "Build-up of Excess Reserves by banks",
+        "D": "Net Forex Sales by the RBI",
+        "E": "Net Open Market Operation (OMO) Sales"
+      },
+      "correct_answer": "D",
+      "explanation": "As per Table III.1 on 'Liquidity – Key Drivers and Management', Net Forex Sales led to a liquidity withdrawal of ₹2,91,233 crore in FY 2024-25, which was larger than the withdrawal due to Currency in Circulation (₹2,04,703 crore). (Page 117)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635044",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Which statement accurately reflects the monetary policy transmission to bank lending and deposit rates during 2024-25, despite a 25 bps repo rate cut in the final quarter?",
+      "options": {
+        "A": "WALR on fresh loans increased by 2 bps, while WADTDR on fresh deposits increased by 3 bps.",
+        "B": "WALR on fresh loans declined by 2 bps, while WADTDR on fresh deposits increased by 3 bps.",
+        "C": "Both WALR on fresh loans and WADTDR on fresh deposits declined by more than 10 bps.",
+        "D": "Both WALR on fresh loans and WADTDR on fresh deposits increased marginally.",
+        "E": "WALR on fresh loans declined by 8 bps, while WADTDR on fresh deposits declined by 14 bps."
+      },
+      "correct_answer": "B",
+      "explanation": "During 2024-25, the Weighted Average Lending Rate (WALR) on fresh rupee loans declined by 2 bps. In contrast, the Weighted Average Domestic Term Deposit Rates (WADTDRs) on fresh deposits increased by 3 bps, showing a divergent trend in transmission. (Page 96, Table III.3)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Monetary_Operations",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635046",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The transmission of monetary policy to outstanding rupee loans was observed to be lower for Public Sector Banks (PSBs) compared to Private Sector Banks (PVBs). What is the primary reason for this difference?",
+      "options": {
+        "A": "PSBs have a larger share of corporate loans which are less sensitive to repo rate changes.",
+        "B": "PSBs have a significantly lower share of EBLR-linked loans and a higher share of loans linked to legacy benchmarks like MCLR and Base Rate.",
+        "C": "PVBs were quicker to reduce their Marginal Cost of Funds-based Lending Rate (MCLR).",
+        "D": "PSBs' deposit costs did not decrease, preventing them from lowering lending rates.",
+        "E": "Regulatory forbearance allowed PSBs to delay the transmission of policy rate changes."
+      },
+      "correct_answer": "B",
+      "explanation": "The transmission to WALR on outstanding rupee loans was lower for PSBs due to a comparatively higher share of internal benchmark-based lending rates, viz., MCLR and others. The share of EBLR-linked loans for PVBs (85.9%) was significantly higher than for PSBs (44.6%) as of December 2024. (Page 98)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635048",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Following a comprehensive internal review of the Economic Capital Framework (ECF), what is the revised range for the Contingent Risk Buffer (CRB) as a percentage of the RBI's balance sheet?",
+      "options": {
+        "A": "5.0 ± 1.0 per cent",
+        "B": "5.5 ± 1.0 per cent",
+        "C": "6.0 ± 1.5 per cent",
+        "D": "6.5 ± 1.0 per cent",
+        "E": "7.0 ± 0.5 per cent"
+      },
+      "correct_answer": "C",
+      "explanation": "The reviewed ECF widened the range for monetary and financial stability buffers. Consequently, the Contingent Risk Buffer (CRB) would be maintained in the range of 6.0 ± 1.5 per cent of the Balance Sheet size, as against the previous level of 6.5 per cent with a lower bound of 5.5 per cent. (Page 209)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635050",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Which of the following correctly matches the RBI's recent regulatory/supervisory initiative with its primary objective?",
+      "options": {
+        "A": "PRAVAAH: To manage liquidity through open market operations.",
+        "B": "sDQI (Supervisory Data Quality Index): To assess and improve the quality of risk data reporting by supervised entities.",
+        "C": "RB-CRIS (Climate Risk Information System): To provide a platform for reporting of financial frauds.",
+        "D": "SAKAR Framework: To facilitate the transition of Small Finance Banks to Universal Banks.",
+        "E": "FinTech Repository: To manage the RBI's internal employee data and HR functions."
+      },
+      "correct_answer": "B",
+      "explanation": "The Supervisory Data Quality Index (sDQI) was developed to identify and address deficiencies in risk data aggregation capabilities and risk reporting practices across Supervised Entities (SEs). The other options are mismatched: PRAVAAH is for regulatory applications, RB-CRIS is for climate risk data, SAKAR is for KYC/AML risk assessment, and FinTech Repository is for capturing information on FinTech entities. (Page 34, 40, 126, 141, 146)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Banking_Regulation",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635052",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the surplus amount transferred by the Reserve Bank to the Central Government for the year 2024-25, and what was its approximate year-on-year growth?",
+      "options": {
+        "A": "₹2,10,873.99 crore, with a growth of 22.5%",
+        "B": "₹2,68,590.07 crore, with a growth of 27.4%",
+        "C": "₹1,48,037.04 crore, with a decline of 15.2%",
+        "D": "₹3,38,308.09 crore, with a growth of 35.1%",
+        "E": "₹87,416.22 crore, with a growth of 18.9%"
+      },
+      "correct_answer": "B",
+      "explanation": "The surplus payable to the Central Government for FY 2024-25 was ₹2,68,590.07 crore. This represented an increase of 27.37 per cent over the ₹2,10,873.99 crore transferred in the previous year. (Page 223, 249)",
+      "source_document": "RBI_Annual_Report_2024_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "RBI_Functions",
+      "subject": "General_Awareness",
+      "report_category": "rbi_annual_report",
+      "generated_date": "2025-10-02T22:23:33.635054",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    }
+  ]
+}

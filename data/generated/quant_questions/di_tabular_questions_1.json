@@ -1,0 +1,698 @@
+[
+  {
+    "di_set_id": "DI_TABLE_001",
+    "topic": "Table - Sales & Revenue Analysis",
+    "difficulty": "Easy",
+    "data_source": {
+      "type": "table",
+      "title": "Quarterly Sales (in million dollars) by Region (2022)",
+      "data": {
+        "headers": [
+          "Quarter",
+          "Region A",
+          "Region B",
+          "Region C",
+          "Region D"
+        ],
+        "rows": [
+          [
+            "Q1",
+            "120",
+            "150",
+            "180",
+            "200"
+          ],
+          [
+            "Q2",
+            "130",
+            "160",
+            "170",
+            "210"
+          ],
+          [
+            "Q3",
+            "140",
+            "155",
+            "190",
+            "220"
+          ],
+          [
+            "Q4",
+            "150",
+            "165",
+            "200",
+            "230"
+          ]
+        ]
+      },
+      "units": "in million dollars"
+    },
+    "questions": [
+      {
+        "question_id": "DI_Table_001_Q1",
+        "question": "What was the total sales in Q2 across all regions?",
+        "options": {
+          "A": "670 million dollars",
+          "B": "680 million dollars",
+          "C": "690 million dollars",
+          "D": "700 million dollars",
+          "E": "710 million dollars"
+        },
+        "correct_answer": "B",
+        "explanation": "Total sales in Q2 = 130 + 160 + 170 + 210 = 670 million dollars.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q2",
+        "question": "What is the percentage increase in sales for Region D from Q1 to Q4?",
+        "options": {
+          "A": "10%",
+          "B": "15%",
+          "C": "20%",
+          "D": "25%",
+          "E": "30%"
+        },
+        "correct_answer": "C",
+        "explanation": "Percentage increase = ((230 - 200) / 200) * 100 = 15%.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q3",
+        "question": "Which region had the highest total sales in 2022?",
+        "options": {
+          "A": "Region A",
+          "B": "Region B",
+          "C": "Region C",
+          "D": "Region D",
+          "E": "All regions had equal sales"
+        },
+        "correct_answer": "D",
+        "explanation": "Total sales: Region A = 540, Region B = 630, Region C = 740, Region D = 860. Region D had the highest total sales.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q4",
+        "question": "What is the ratio of sales between Region A and Region C in Q3?",
+        "options": {
+          "A": "7:9",
+          "B": "14:19",
+          "C": "7:10",
+          "D": "14:20",
+          "E": "9:12"
+        },
+        "correct_answer": "B",
+        "explanation": "Sales in Q3: Region A = 140, Region C = 190. Ratio = 140:190 = 14:19.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q5",
+        "question": "By how much did the sales in Region B increase from Q1 to Q4?",
+        "options": {
+          "A": "10 million dollars",
+          "B": "15 million dollars",
+          "C": "20 million dollars",
+          "D": "25 million dollars",
+          "E": "30 million dollars"
+        },
+        "correct_answer": "C",
+        "explanation": "Increase in sales = 165 - 150 = 15 million dollars.",
+        "difficulty": "Easy"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:32:46.459809",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.010995,
+      "tokens_used": 1854
+    }
+  },
+  {
+    "di_set_id": "DI_TABLE_002",
+    "topic": "Table - Bank Loan Disbursement (2018-2022)",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "table",
+      "title": "Loan Disbursement by Bank (in million USD)",
+      "data": {
+        "headers": [
+          "Year",
+          "Bank A",
+          "Bank B",
+          "Bank C",
+          "Bank D"
+        ],
+        "rows": [
+          [
+            "2018",
+            "500",
+            "450",
+            "600",
+            "550"
+          ],
+          [
+            "2019",
+            "520",
+            "480",
+            "630",
+            "580"
+          ],
+          [
+            "2020",
+            "540",
+            "500",
+            "650",
+            "600"
+          ],
+          [
+            "2021",
+            "560",
+            "520",
+            "670",
+            "620"
+          ],
+          [
+            "2022",
+            "580",
+            "540",
+            "690",
+            "640"
+          ]
+        ]
+      }
+    },
+    "questions": [
+      {
+        "question_id": "DI_TABLE_001_Q1",
+        "question": "What was the total loan disbursement by Bank C over the years 2019 to 2022?",
+        "options": {
+          "A": "2,580 million USD",
+          "B": "2,580 million USD",
+          "C": "2,600 million USD",
+          "D": "2,620 million USD",
+          "E": "2,540 million USD"
+        },
+        "correct_answer": "A",
+        "explanation": "Sum of loans from 2019 to 2022 for Bank C: 630 + 650 + 670 + 690 = 2,640 million USD.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_TABLE_001_Q2",
+        "question": "What is the percentage increase in loan disbursement by Bank A from 2018 to 2022?",
+        "options": {
+          "A": "16%",
+          "B": "20%",
+          "C": "18%",
+          "D": "15%",
+          "E": "12%"
+        },
+        "correct_answer": "B",
+        "explanation": "Percentage increase = [(580 - 500) / 500] * 100 = 16%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_TABLE_001_Q3",
+        "question": "In which year did Bank D have the highest loan disbursement?",
+        "options": {
+          "A": "2020",
+          "B": "2021",
+          "C": "2018",
+          "D": "2022",
+          "E": "2019"
+        },
+        "correct_answer": "D",
+        "explanation": "Bank D's disbursements: 550 (2018), 580 (2019), 600 (2020), 620 (2021), 640 (2022). Highest in 2022.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_TABLE_001_Q4",
+        "question": "What is the ratio of total loans disbursed by Bank B to Bank D over all years?",
+        "options": {
+          "A": "11:12",
+          "B": "10:11",
+          "C": "9:10",
+          "D": "8:9",
+          "E": "7:8"
+        },
+        "correct_answer": "A",
+        "explanation": "Total for Bank B: 450 + 480 + 500 + 520 + 540 = 2,490 million USD. Total for Bank D: 550 + 580 + 600 + 620 + 640 = 2,990 million USD. Ratio: 2,490:2,990 simplifies to 11:12.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_TABLE_001_Q5",
+        "question": "If all banks increased their loan disbursement by 10% in 2023, what would be the expected disbursement for Bank A in 2023?",
+        "options": {
+          "A": "638 million USD",
+          "B": "640 million USD",
+          "C": "644 million USD",
+          "D": "642 million USD",
+          "E": "646 million USD"
+        },
+        "correct_answer": "C",
+        "explanation": "2022 disbursement of Bank A: 580 million USD. 10% increase: 580 * 1.10 = 638 million USD.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:32:55.126176",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.012380000000000002,
+      "tokens_used": 2000
+    }
+  },
+  {
+    "di_set_id": "DI_TABLE_003",
+    "topic": "Table - Population & Demographics",
+    "difficulty": "Medium",
+    "data_source": {
+      "type": "table",
+      "title": "Population Distribution Across Cities (2019-2023)",
+      "data": {
+        "headers": [
+          "Year",
+          "City A",
+          "City B",
+          "City C",
+          "City D"
+        ],
+        "rows": [
+          [
+            "2019",
+            "1,200,000",
+            "850,000",
+            "1,500,000",
+            "650,000"
+          ],
+          [
+            "2020",
+            "1,230,000",
+            "870,000",
+            "1,520,000",
+            "670,000"
+          ],
+          [
+            "2021",
+            "1,260,000",
+            "900,000",
+            "1,550,000",
+            "700,000"
+          ],
+          [
+            "2022",
+            "1,280,000",
+            "920,000",
+            "1,580,000",
+            "720,000"
+          ],
+          [
+            "2023",
+            "1,310,000",
+            "940,000",
+            "1,600,000",
+            "740,000"
+          ]
+        ]
+      },
+      "units": "in people"
+    },
+    "questions": [
+      {
+        "question_id": "DI_Table_001_Q1",
+        "question": "What was the total population of all cities combined in 2021?",
+        "options": {
+          "A": "4,410,000",
+          "B": "4,350,000",
+          "C": "4,410,000",
+          "D": "4,410,000",
+          "E": "4,420,000"
+        },
+        "correct_answer": "A",
+        "explanation": "In 2021, the population of City A was 1,260,000, City B was 900,000, City C was 1,550,000, City D was 700,000. Total = 1,260,000 + 900,000 + 1,550,000 + 700,000 = 4,410,000.",
+        "difficulty": "Easy"
+      },
+      {
+        "question_id": "DI_Table_001_Q2",
+        "question": "What is the percentage increase in population of City C from 2019 to 2023?",
+        "options": {
+          "A": "6.67%",
+          "B": "8.67%",
+          "C": "9.33%",
+          "D": "6.25%",
+          "E": "6.00%"
+        },
+        "correct_answer": "A",
+        "explanation": "Population in 2019 was 1,500,000, and in 2023 it was 1,600,000. Increase = 1,600,000 - 1,500,000 = 100,000. Percentage increase = (100,000 / 1,500,000) * 100 = 6.67%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_001_Q3",
+        "question": "Which city had the highest average annual growth rate from 2019 to 2023?",
+        "options": {
+          "A": "City A",
+          "B": "City B",
+          "C": "City C",
+          "D": "City D",
+          "E": "All cities had the same growth rate"
+        },
+        "correct_answer": "B",
+        "explanation": "Calculate the annual growth rate for each city: City A = (1,310,000 - 1,200,000)/4 = 27,500, City B = (940,000 - 850,000)/4 = 22,500, City C = (1,600,000 - 1,500,000)/4 = 25,000, City D = (740,000 - 650,000)/4 = 22,500. City B had the highest growth rate.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_001_Q4",
+        "question": "What is the ratio of the population of City D to City A in 2022?",
+        "options": {
+          "A": "9:16",
+          "B": "7:17",
+          "C": "9:18",
+          "D": "8:16",
+          "E": "9:17"
+        },
+        "correct_answer": "E",
+        "explanation": "In 2022, City D's population = 720,000, City A's population = 1,280,000. Ratio = 720,000:1,280,000 = 9:16.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_001_Q5",
+        "question": "By how many people did the total population of City B and City D together increase from 2019 to 2023?",
+        "options": {
+          "A": "160,000",
+          "B": "180,000",
+          "C": "140,000",
+          "D": "150,000",
+          "E": "170,000"
+        },
+        "correct_answer": "D",
+        "explanation": "2019: City B = 850,000, City D = 650,000. Total = 1,500,000. 2023: City B = 940,000, City D = 740,000. Total = 1,680,000. Increase = 1,680,000 - 1,500,000 = 180,000.",
+        "difficulty": "Medium"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:33:06.726689",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0147225,
+      "tokens_used": 2235
+    }
+  },
+  {
+    "di_set_id": "DI_TABLE_004",
+    "topic": "Table - Production & Manufacturing",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "table",
+      "title": "Production and Sales Data of Four Products (2018-2023)",
+      "data": {
+        "headers": [
+          "Year",
+          "Product A",
+          "Product B",
+          "Product C",
+          "Product D"
+        ],
+        "rows": [
+          [
+            "2018",
+            "520",
+            "600",
+            "480",
+            "450"
+          ],
+          [
+            "2019",
+            "580",
+            "640",
+            "500",
+            "470"
+          ],
+          [
+            "2020",
+            "610",
+            "680",
+            "530",
+            "490"
+          ],
+          [
+            "2021",
+            "640",
+            "710",
+            "560",
+            "510"
+          ],
+          [
+            "2022",
+            "670",
+            "750",
+            "590",
+            "530"
+          ],
+          [
+            "2023",
+            "700",
+            "780",
+            "620",
+            "550"
+          ]
+        ]
+      },
+      "units": "in tons"
+    },
+    "questions": [
+      {
+        "question_id": "DI_Table_001_Q1",
+        "question": "What is the percentage increase in production of Product A from 2018 to 2023?",
+        "options": {
+          "A": "34.6%",
+          "B": "40.2%",
+          "C": "34.9%",
+          "D": "36.5%",
+          "E": "38.5%"
+        },
+        "correct_answer": "C",
+        "explanation": "The production of Product A increased from 520 tons in 2018 to 700 tons in 2023. The percentage increase is calculated as ((700 - 520) / 520) * 100% = 34.6%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Table_001_Q2",
+        "question": "Calculate the average annual growth rate of Product B from 2018 to 2023.",
+        "options": {
+          "A": "5.4%",
+          "B": "5.5%",
+          "C": "5.6%",
+          "D": "5.7%",
+          "E": "5.8%"
+        },
+        "correct_answer": "B",
+        "explanation": "The CAGR is calculated using the formula: CAGR = [(FV/PV)^(1/n)] - 1. Where FV = 780, PV = 600, n = 5. CAGR = [(780/600)^(1/5)] - 1 = 5.5%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Table_001_Q3",
+        "question": "What is the ratio of total production of Product C to Product D over the period 2018-2023?",
+        "options": {
+          "A": "1.04",
+          "B": "1.10",
+          "C": "1.15",
+          "D": "1.20",
+          "E": "1.25"
+        },
+        "correct_answer": "D",
+        "explanation": "Total production of Product C = 480 + 500 + 530 + 560 + 590 + 620 = 3280 tons. Total production of Product D = 450 + 470 + 490 + 510 + 530 + 550 = 3000 tons. Ratio = 3280 / 3000 = 1.0933 (approx 1.10).",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Table_001_Q4",
+        "question": "If the production cost per ton for Product A in 2023 was $500, what was the total production cost?",
+        "options": {
+          "A": "$350,000",
+          "B": "$360,000",
+          "C": "$365,000",
+          "D": "$375,000",
+          "E": "$380,000"
+        },
+        "correct_answer": "D",
+        "explanation": "Production for Product A in 2023 is 700 tons. Total cost = 700 * $500 = $350,000.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Table_001_Q5",
+        "question": "In 2022, if Products B and D had the same sales price per ton and the sales revenue for Product B was $1,500,000, what was the sales revenue for Product D?",
+        "options": {
+          "A": "$1,060,000",
+          "B": "$1,080,000",
+          "C": "$1,100,000",
+          "D": "$1,120,000",
+          "E": "$1,150,000"
+        },
+        "correct_answer": "C",
+        "explanation": "Sales revenue for Product B = $1,500,000 for 750 tons. Price per ton = $1,500,000 / 750 = $2,000. Product D's revenue = 530 * $2,000 = $1,060,000.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:33:18.604796",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.0136375,
+      "tokens_used": 2140
+    }
+  },
+  {
+    "di_set_id": "DI_TABLE_005",
+    "topic": "Table - Import & Export Analysis",
+    "difficulty": "Hard",
+    "data_source": {
+      "type": "table",
+      "title": "Import and Export Values of Goods by Country (in Million USD)",
+      "data": {
+        "headers": [
+          "Year",
+          "Country A Imports",
+          "Country A Exports",
+          "Country B Imports",
+          "Country B Exports",
+          "Country C Imports",
+          "Country C Exports"
+        ],
+        "rows": [
+          [
+            "2018",
+            "450",
+            "520",
+            "380",
+            "460",
+            "500",
+            "480"
+          ],
+          [
+            "2019",
+            "480",
+            "540",
+            "410",
+            "480",
+            "530",
+            "510"
+          ],
+          [
+            "2020",
+            "500",
+            "560",
+            "430",
+            "500",
+            "550",
+            "530"
+          ],
+          [
+            "2021",
+            "520",
+            "580",
+            "450",
+            "520",
+            "570",
+            "550"
+          ],
+          [
+            "2022",
+            "550",
+            "600",
+            "470",
+            "540",
+            "590",
+            "570"
+          ]
+        ]
+      },
+      "units": "Million USD"
+    },
+    "questions": [
+      {
+        "question_id": "DI_Table_001_Q1",
+        "question": "What was the total value of exports for Country B over the period 2018 to 2022?",
+        "options": {
+          "A": "2,500 Million USD",
+          "B": "2,400 Million USD",
+          "C": "2,300 Million USD",
+          "D": "2,600 Million USD",
+          "E": "2,700 Million USD"
+        },
+        "correct_answer": "A",
+        "explanation": "The total value of exports for Country B is calculated by summing the exports for each year: 460 + 480 + 500 + 520 + 540 = 2,500 Million USD.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_001_Q2",
+        "question": "What was the percentage increase in Country A's imports from 2018 to 2022?",
+        "options": {
+          "A": "22.22%",
+          "B": "20.00%",
+          "C": "25.00%",
+          "D": "15.56%",
+          "E": "18.18%"
+        },
+        "correct_answer": "A",
+        "explanation": "Percentage increase = [(550 - 450) / 450] * 100 = 22.22%.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_001_Q3",
+        "question": "Which year had the highest total trade value (sum of imports and exports) for Country C?",
+        "options": {
+          "A": "2018",
+          "B": "2019",
+          "C": "2020",
+          "D": "2021",
+          "E": "2022"
+        },
+        "correct_answer": "E",
+        "explanation": "Calculate total trade value for each year for Country C: 2018: 500+480=980, 2019: 530+510=1040, 2020: 550+530=1080, 2021: 570+550=1120, 2022: 590+570=1160. The highest is 1160 in 2022.",
+        "difficulty": "Medium"
+      },
+      {
+        "question_id": "DI_Table_001_Q4",
+        "question": "What is the compound annual growth rate (CAGR) of Country B's imports from 2018 to 2022?",
+        "options": {
+          "A": "5.50%",
+          "B": "4.41%",
+          "C": "4.50%",
+          "D": "5.00%",
+          "E": "4.75%"
+        },
+        "correct_answer": "B",
+        "explanation": "CAGR = [(End Value/Start Value)^(1/Number of Years) - 1] * 100 = [(470/380)^(1/4) - 1] * 100 = 4.41%.",
+        "difficulty": "Hard"
+      },
+      {
+        "question_id": "DI_Table_001_Q5",
+        "question": "If Country A wants to maintain a trade surplus (Exports > Imports) in 2023 by increasing exports by 5% from 2022 levels, what should be the maximum import value in 2023?",
+        "options": {
+          "A": "630 Million USD",
+          "B": "620 Million USD",
+          "C": "615 Million USD",
+          "D": "610 Million USD",
+          "E": "605 Million USD"
+        },
+        "correct_answer": "B",
+        "explanation": "To maintain a trade surplus, Exports > Imports. 2023 exports = 600 * 1.05 = 630. Thus, imports must be < 630 Million USD. Therefore, the maximum import value is 620 Million USD.",
+        "difficulty": "Hard"
+      }
+    ],
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-08",
+      "generation_timestamp": "2025-10-08T02:33:30.923583",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "api_cost": 0.013597499999999998,
+      "tokens_used": 2136
+    }
+  }
+]

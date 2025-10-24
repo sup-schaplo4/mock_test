@@ -1,0 +1,782 @@
+[
+  {
+    "question_id": "NS_001",
+    "question_text": "Find the missing number in the series: 2, 6, 12, 20, 30, ?",
+    "options": {
+      "A": "40",
+      "B": "42",
+      "C": "44",
+      "D": "46",
+      "E": "48"
+    },
+    "correct_answer": "B",
+    "solution": "The pattern is n(n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42",
+    "difficulty": "Easy",
+    "topic": "Number Series",
+    "subtopic": "Product Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:10.486503",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 1,
+      "api_cost": 0.0018789999999999998,
+      "question_number": 1
+    }
+  },
+  {
+    "question_id": "NS_002",
+    "question_text": "Find the missing number in the series: 3, 9, 27, 81, ?",
+    "options": {
+      "A": "162",
+      "B": "243",
+      "C": "324",
+      "D": "729",
+      "E": "1458"
+    },
+    "correct_answer": "B",
+    "solution": "This is a geometric progression with a common ratio of 3: 3×3=9, 9×3=27, 27×3=81, 81×3=243",
+    "difficulty": "Easy",
+    "topic": "Number Series",
+    "subtopic": "Geometric Progression",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:10.486522",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 1,
+      "api_cost": 0.0018789999999999998,
+      "question_number": 2
+    }
+  },
+  {
+    "question_id": "NS_003",
+    "question_text": "Find the missing number in the series: 1, 4, 9, 16, 25, ?",
+    "options": {
+      "A": "30",
+      "B": "35",
+      "C": "36",
+      "D": "49",
+      "E": "64"
+    },
+    "correct_answer": "C",
+    "solution": "The series consists of square numbers: 1^2=1, 2^2=4, 3^2=9, 4^2=16, 5^2=25, 6^2=36",
+    "difficulty": "Easy",
+    "topic": "Number Series",
+    "subtopic": "Square Numbers",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:10.486532",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 1,
+      "api_cost": 0.0018789999999999998,
+      "question_number": 3
+    }
+  },
+  {
+    "question_id": "NS_004",
+    "question_text": "Find the missing number in the series: 2, 3, 5, 7, 11, ?",
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "14",
+      "D": "15",
+      "E": "16"
+    },
+    "correct_answer": "B",
+    "solution": "The series is a list of consecutive prime numbers: 2, 3, 5, 7, 11, 13",
+    "difficulty": "Easy",
+    "topic": "Number Series",
+    "subtopic": "Prime Numbers",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:10.486539",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 1,
+      "api_cost": 0.0018789999999999998,
+      "question_number": 4
+    }
+  },
+  {
+    "question_id": "NS_005",
+    "question_text": "Find the missing number in the series: 5, 10, 20, 40, ?",
+    "options": {
+      "A": "60",
+      "B": "70",
+      "C": "80",
+      "D": "100",
+      "E": "120"
+    },
+    "correct_answer": "C",
+    "solution": "The series doubles each time: 5×2=10, 10×2=20, 20×2=40, 40×2=80",
+    "difficulty": "Easy",
+    "topic": "Number Series",
+    "subtopic": "Geometric Progression",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:10.486546",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 1,
+      "api_cost": 0.0018789999999999998,
+      "question_number": 5
+    }
+  },
+  {
+    "question_id": "NS_001",
+    "question_text": "Find the missing number in the series: 2, 6, 12, 20, 30, ?",
+    "options": {
+      "A": "40",
+      "B": "42",
+      "C": "44",
+      "D": "46",
+      "E": "48"
+    },
+    "correct_answer": "B",
+    "solution": "The pattern is n(n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42",
+    "difficulty": "Easy",
+    "topic": "Number Series",
+    "subtopic": "Product Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:22.904043",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 2,
+      "api_cost": 0.0020489999999999996,
+      "question_number": 6
+    }
+  },
+  {
+    "question_id": "NS_002",
+    "question_text": "Find the missing number in the series: 3, 5, 9, 15, 23, ?",
+    "options": {
+      "A": "41",
+      "B": "35",
+      "C": "37",
+      "D": "39",
+      "E": "33"
+    },
+    "correct_answer": "E",
+    "solution": "The pattern is adding consecutive prime numbers: 3+2=5, 5+4=9, 9+6=15, 15+8=23, 23+10=33 (where 2, 4, 6, 8, 10 are consecutive even numbers).",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Prime and Even Number Series",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:22.904081",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 2,
+      "api_cost": 0.0020489999999999996,
+      "question_number": 7
+    }
+  },
+  {
+    "question_id": "NS_003",
+    "question_text": "Find the missing number in the series: 5, 10, 8, 16, 14, ?",
+    "options": {
+      "A": "18",
+      "B": "21",
+      "C": "22",
+      "D": "28",
+      "E": "32"
+    },
+    "correct_answer": "D",
+    "solution": "The pattern alternates between multiplying by 2 and subtracting 2: 5×2=10, 10-2=8, 8×2=16, 16-2=14, 14×2=28.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Alternating Operations",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:22.904094",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 2,
+      "api_cost": 0.0020489999999999996,
+      "question_number": 8
+    }
+  },
+  {
+    "question_id": "NS_004",
+    "question_text": "Find the missing number in the series: 2, 5, 10, 17, 26, ?",
+    "options": {
+      "A": "27",
+      "B": "28",
+      "C": "29",
+      "D": "30",
+      "E": "37"
+    },
+    "correct_answer": "E",
+    "solution": "The pattern follows the sequence of n^2 + 1: 1^2+1=2, 2^2+1=5, 3^2+1=10, 4^2+1=17, 5^2+1=26, hence 6^2+1=37.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Square Plus One",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:22.904110",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 2,
+      "api_cost": 0.0020489999999999996,
+      "question_number": 9
+    }
+  },
+  {
+    "question_id": "NS_005",
+    "question_text": "Find the missing number in the series: 7, 13, 25, 49, ?",
+    "options": {
+      "A": "49",
+      "B": "95",
+      "C": "94",
+      "D": "99",
+      "E": "97"
+    },
+    "correct_answer": "E",
+    "solution": "The pattern is doubling the number and subtracting 1: 7×2-1=13, 13×2-1=25, 25×2-1=49, 49×2-1=97.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Doubling and Subtracting",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:22.904122",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 2,
+      "api_cost": 0.0020489999999999996,
+      "question_number": 10
+    }
+  },
+  {
+    "question_id": "NS_001",
+    "question_text": "Find the missing number in the series: 3, 8, 18, 38, 78, ?",
+    "options": {
+      "A": "158",
+      "B": "148",
+      "C": "168",
+      "D": "188",
+      "E": "208"
+    },
+    "correct_answer": "A",
+    "solution": "The pattern is a combination of doubling the number and adding 2. 3×2+2=8, 8×2+2=18, 18×2+2=38, 38×2+2=78, 78×2+2=158.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Mixed Operations",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:34.260926",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 3,
+      "api_cost": 0.0019829999999999995,
+      "question_number": 11
+    }
+  },
+  {
+    "question_id": "NS_002",
+    "question_text": "Find the missing number in the series: 5, 7, 12, 19, 31, ?",
+    "options": {
+      "A": "50",
+      "B": "52",
+      "C": "51",
+      "D": "53",
+      "E": "55"
+    },
+    "correct_answer": "A",
+    "solution": "This series is similar to a Fibonacci series where each number is the sum of the previous two numbers plus 1. (5+7+1=13, but 12 is given, hence correction: 12+7=19, 19+12=31, 31+19=50).",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Fibonacci-like Series",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:34.260957",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 3,
+      "api_cost": 0.0019829999999999995,
+      "question_number": 12
+    }
+  },
+  {
+    "question_id": "NS_003",
+    "question_text": "Find the missing number in the series: 11, 13, 17, 19, 23, ?",
+    "options": {
+      "A": "27",
+      "B": "29",
+      "C": "31",
+      "D": "33",
+      "E": "35"
+    },
+    "correct_answer": "B",
+    "solution": "The series consists of consecutive prime numbers: 11, 13, 17, 19, 23, and the next prime number is 29.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Prime Number Series",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:34.260966",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 3,
+      "api_cost": 0.0019829999999999995,
+      "question_number": 13
+    }
+  },
+  {
+    "question_id": "NS_004",
+    "question_text": "Find the missing number in the series: 2, 5, 10, 17, 26, ?",
+    "options": {
+      "A": "35",
+      "B": "37",
+      "C": "38",
+      "D": "39",
+      "E": "41"
+    },
+    "correct_answer": "B",
+    "solution": "The pattern involves adding consecutive odd numbers: 2+3=5, 5+5=10, 10+7=17, 17+9=26, and 26+11=37.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Difference Series",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:34.260974",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 3,
+      "api_cost": 0.0019829999999999995,
+      "question_number": 14
+    }
+  },
+  {
+    "question_id": "NS_005",
+    "question_text": "Find the missing number in the series: 1, 4, 9, 16, 25, ?",
+    "options": {
+      "A": "36",
+      "B": "34",
+      "C": "38",
+      "D": "40",
+      "E": "42"
+    },
+    "correct_answer": "A",
+    "solution": "This series consists of consecutive perfect squares: 1^2=1, 2^2=4, 3^2=9, 4^2=16, 5^2=25, and 6^2=36.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Square Series",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:34.260988",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 3,
+      "api_cost": 0.0019829999999999995,
+      "question_number": 15
+    }
+  },
+  {
+    "question_id": "NS_002",
+    "question_text": "Find the missing number in the series: 3, 9, 27, 81, ?",
+    "options": {
+      "A": "162",
+      "B": "243",
+      "C": "324",
+      "D": "405",
+      "E": "486"
+    },
+    "correct_answer": "B",
+    "solution": "This is a geometric progression where each number is multiplied by 3: 3×3=9, 9×3=27, 27×3=81, 81×3=243.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Geometric Progression",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:45.005589",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 4,
+      "api_cost": 0.001937,
+      "question_number": 16
+    }
+  },
+  {
+    "question_id": "NS_003",
+    "question_text": "Find the missing number in the series: 5, 11, 23, 47, ?",
+    "options": {
+      "A": "95",
+      "B": "93",
+      "C": "99",
+      "D": "97",
+      "E": "67"
+    },
+    "correct_answer": "E",
+    "solution": "This series follows the pattern 2^n + 3: 2^2+3=5, 2^3+3=11, 2^4+3=23, 2^5+3=47, 2^6+3=67.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Exponential Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:45.005614",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 4,
+      "api_cost": 0.001937,
+      "question_number": 17
+    }
+  },
+  {
+    "question_id": "NS_004",
+    "question_text": "Find the missing number in the series: 2, 3, 5, 8, 12, ?",
+    "options": {
+      "A": "17",
+      "B": "18",
+      "C": "19",
+      "D": "20",
+      "E": "21"
+    },
+    "correct_answer": "A",
+    "solution": "This series adds an increasing sequence: 2+1=3, 3+2=5, 5+3=8, 8+4=12, 12+5=17.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Incremental Addition",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:45.005623",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 4,
+      "api_cost": 0.001937,
+      "question_number": 18
+    }
+  },
+  {
+    "question_id": "NS_005",
+    "question_text": "Find the missing number in the series: 1, 4, 9, 16, 25, ?, 49",
+    "options": {
+      "A": "34",
+      "B": "36",
+      "C": "38",
+      "D": "40",
+      "E": "42"
+    },
+    "correct_answer": "B",
+    "solution": "This series consists of consecutive squares: 1^2=1, 2^2=4, 3^2=9, 4^2=16, 5^2=25, 6^2=36, 7^2=49.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Square Numbers",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:45.005633",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 4,
+      "api_cost": 0.001937,
+      "question_number": 19
+    }
+  },
+  {
+    "question_id": "NS_006",
+    "question_text": "Find the missing number in the series: 13, 17, 19, 23, 29, ?, 37",
+    "options": {
+      "A": "31",
+      "B": "32",
+      "C": "33",
+      "D": "34",
+      "E": "35"
+    },
+    "correct_answer": "A",
+    "solution": "This series consists of consecutive prime numbers: 13, 17, 19, 23, 29, 31, 37.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Prime Numbers",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:45.005642",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 4,
+      "api_cost": 0.001937,
+      "question_number": 20
+    }
+  },
+  {
+    "question_id": "NS_001",
+    "question_text": "Find the missing number in the series: 1, 2, 6, 24, 120, ?",
+    "options": {
+      "A": "360",
+      "B": "480",
+      "C": "720",
+      "D": "840",
+      "E": "960"
+    },
+    "correct_answer": "C",
+    "solution": "The pattern is the factorial series: 1! = 1, 2! = 2, 3! = 6, 4! = 24, 5! = 120, so 6! = 720.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Factorial Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:58.523466",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 5,
+      "api_cost": 0.002163,
+      "question_number": 21
+    }
+  },
+  {
+    "question_id": "NS_002",
+    "question_text": "Find the missing number in the series: 2, 5, 10, 17, 26, ?",
+    "options": {
+      "A": "83",
+      "B": "65",
+      "C": "85",
+      "D": "17",
+      "E": "37"
+    },
+    "correct_answer": "E",
+    "solution": "The pattern is n^2 + 1: 1^2+1=2, 2^2+1=5, 3^2+1=10, 4^2+1=17, 5^2+1=26, 6^2+1=37.",
+    "difficulty": "Medium",
+    "topic": "Number Series",
+    "subtopic": "Power Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:58.523493",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 5,
+      "api_cost": 0.002163,
+      "question_number": 22
+    }
+  },
+  {
+    "question_id": "NS_003",
+    "question_text": "Find the missing number in the series: 3, 5, 11, 29, 83, ?",
+    "options": {
+      "A": "245",
+      "B": "247",
+      "C": "177",
+      "D": "255",
+      "E": "157"
+    },
+    "correct_answer": "C",
+    "solution": "The next term is derived from the pattern: (previous term × 2) + prime number. 3×2+1=7, 5×2+3=13, 11×2+5=27, 29×2+7=65, 83×2+11=177.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Prime-Multiplication Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:58.523508",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 5,
+      "api_cost": 0.002163,
+      "question_number": 23
+    }
+  },
+  {
+    "question_id": "NS_004",
+    "question_text": "Find the missing number in the series: 4, 18, 48, 100, 180, ?",
+    "options": {
+      "A": "294",
+      "B": "300",
+      "C": "336",
+      "D": "312",
+      "E": "318"
+    },
+    "correct_answer": "C",
+    "solution": "The pattern is n^3 - n: 1^3-1=0, 2^3-2=6, 3^3-3=24, 4^3-4=60, 5^3-5=120, 6^3-6=210, 7^3-7=336.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Cube-Difference Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:58.523518",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 5,
+      "api_cost": 0.002163,
+      "question_number": 24
+    }
+  },
+  {
+    "question_id": "NS_005",
+    "question_text": "Find the missing number in the series: 2, 5, 10, 17, 26, 37,?",
+    "options": {
+      "A": "50",
+      "B": "40",
+      "C": "44",
+      "D": "35",
+      "E": "55"
+    },
+    "correct_answer": "A",
+    "solution": "The series follows the pattern: (n^2 + 1) × 2. Therefore, 1^2+1=2, 2^2+1=5, 3^2+1=10, 4^2+1=17, 5^2+1=26, 6^2+1=37, 7^2+1=50.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Square-Increment Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:31:58.523527",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 5,
+      "api_cost": 0.002163,
+      "question_number": 25
+    }
+  },
+  {
+    "question_id": "NS_001",
+    "question_text": "Find the missing number in the series: 2, 9, 21, 39, 63, 124, ?",
+    "options": {
+      "A": "93",
+      "B": "99",
+      "C": "105",
+      "D": "117",
+      "E": "215"
+    },
+    "correct_answer": "E",
+    "solution": "The pattern is n^3 - 1: 2^3-1=7, 3^3-1=26, 4^3-1=63, 5^3-1=124, 6^3-1=215",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Cube and Adjusted Difference",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:32:17.923094",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 6,
+      "api_cost": 0.002405,
+      "question_number": 26
+    }
+  },
+  {
+    "question_id": "NS_002",
+    "question_text": "Find the missing number in the series: 1, 1, 2, 6, 24, ?",
+    "options": {
+      "A": "120",
+      "B": "60",
+      "C": "48",
+      "D": "96",
+      "E": "192"
+    },
+    "correct_answer": "A",
+    "solution": "The pattern follows n!: 0!=1, 1!=1, 2!=2, 3!=6, 4!=24, 5!=120. Thus, the next number is 5! = 120.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Factorial Series",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:32:17.923118",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 6,
+      "api_cost": 0.002405,
+      "question_number": 27
+    }
+  },
+  {
+    "question_id": "NS_003",
+    "question_text": "Find the missing number in the series: 2, 3, 10, 29, 66, ?",
+    "options": {
+      "A": "217",
+      "B": "123",
+      "C": "130",
+      "D": "145",
+      "E": "155"
+    },
+    "correct_answer": "A",
+    "solution": "The pattern is based on n^3 + 1: 1^3+1=2, 2^3+1=9, 3^3+1=28, 4^3+1=65, 5^3+1=126. Therefore, 6^3 + 1 = 217.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Cube Plus Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:32:17.923128",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 6,
+      "api_cost": 0.002405,
+      "question_number": 28
+    }
+  },
+  {
+    "question_id": "NS_004",
+    "question_text": "Find the missing number in the series: 0, 3.5, 13, 31.5, 70, ?",
+    "options": {
+      "A": "126",
+      "B": "128",
+      "C": "151",
+      "D": "156",
+      "E": "161"
+    },
+    "correct_answer": "A",
+    "solution": "The pattern is (n^3 - 1)/2: (1^3-1)/2=0, (2^3-1)/2=3.5, (3^3-1)/2=13, (4^3-1)/2=31.5, (5^3-1)/2=70, (6^3-1)/2=126.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Cube Subtract Pattern",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:32:17.923143",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 6,
+      "api_cost": 0.002405,
+      "question_number": 29
+    }
+  },
+  {
+    "question_id": "NS_005",
+    "question_text": "Find the missing number in the series: 3, 6, 14, 40, ?",
+    "options": {
+      "A": "152",
+      "B": "122",
+      "C": "122",
+      "D": "135",
+      "E": "142"
+    },
+    "correct_answer": "A",
+    "solution": "The pattern is 2^n + n!: 2^1+1!=3, 2^2+2!=6, 2^3+3!=14, 2^4+4!=40, 2^5+5!=152.",
+    "difficulty": "Hard",
+    "topic": "Number Series",
+    "subtopic": "Exponential and Factorial",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-06",
+      "generation_timestamp": "2025-10-06T04:32:17.923159",
+      "exam": "RBI Grade B Phase 1",
+      "reviewed": false,
+      "batch_number": 6,
+      "api_cost": 0.002405,
+      "question_number": 30
+    }
+  }
+]

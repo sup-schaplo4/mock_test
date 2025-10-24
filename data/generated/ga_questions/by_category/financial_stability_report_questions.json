@@ -1,0 +1,806 @@
+{
+  "category": "financial_stability_report",
+  "total_questions": 40,
+  "questions": [
+    {
+      "question": "What was the Gross Non-Performing Assets (GNPA) ratio for Scheduled Commercial Banks as of September 2023?",
+      "options": {
+        "A": "3.0%",
+        "B": "3.2%",
+        "C": "3.5%",
+        "D": "3.9%",
+        "E": "0.8%"
+      },
+      "correct_answer": "B",
+      "explanation": "According to the report, the Gross Non-Performing Assets (GNPA) ratio for Scheduled Commercial Banks fell to a multi-year low of 3.2 per cent in September 2023. (Page 19, 46)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.799942",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As of September 2023, what was the Capital to Risk-weighted Assets Ratio (CRAR) for Scheduled Commercial Banks?",
+      "options": {
+        "A": "13.7%",
+        "B": "15.5%",
+        "C": "16.8%",
+        "D": "17.3%",
+        "E": "12.9%"
+      },
+      "correct_answer": "C",
+      "explanation": "The report states that for Scheduled Commercial Banks, the Capital to Risk-weighted Assets Ratio (CRAR) stood at 16.8 per cent in September 2023. (Page 19, 63)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Easy",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800046",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Household Net Financial Savings (HNFS) fell sharply in 2022-23 compared to the pandemic peak in 2020-21. What was the HNFS as a percentage of GDP for the year 2022-23?",
+      "options": {
+        "A": "11.5%",
+        "B": "7.5%",
+        "C": "5.8%",
+        "D": "5.1%",
+        "E": "10.9%"
+      },
+      "correct_answer": "D",
+      "explanation": "Household net financial savings (HNFS) fell sharply to 5.1 per cent of GDP in 2022-23 from 11.5 per cent in 2020-21. This was primarily driven by a rapid rise in financial liabilities. (Page 50)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Financial_Stability",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800051",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the Systemic Risk Survey of November 2023, which component of institutional risk saw a marginal increase, moving it into the 'high' risk category?",
+      "options": {
+        "A": "Global growth slowdown",
+        "B": "Interest rate risk",
+        "C": "Cyber risk",
+        "D": "Commodity price risk",
+        "E": "Operational risk"
+      },
+      "correct_answer": "C",
+      "explanation": "The Systemic Risk Survey conducted in November 2023 showed that Cyber risk, a key component of institutional risk, increased marginally and moved up to the ‘high’ risk category. (Page 62, 140)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800066",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Compound Annual Growth Rate (CAGR) of bank lending to Non-Banking Financial Companies (NBFCs) between June 2021 and June 2023?",
+      "options": {
+        "A": "14.8%",
+        "B": "20.5%",
+        "C": "26.3%",
+        "D": "30.1%",
+        "E": "18.6%"
+      },
+      "correct_answer": "C",
+      "explanation": "The report highlights that bank lending to NBFCs increased at a CAGR of 26.3 per cent during the past two years (i.e., from June 2021 to June 2023), which was well above the overall bank credit growth. (Page 67)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800070",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Capital to Risk-weighted Assets Ratio (CRAR) of the Non-Banking Financial Companies (NBFC) sector as of September 2023?",
+      "options": {
+        "A": "15.0%",
+        "B": "16.9%",
+        "C": "20.8%",
+        "D": "27.6%",
+        "E": "29.5%"
+      },
+      "correct_answer": "D",
+      "explanation": "The CRAR of NBFCs stood at 27.6 per cent in September 2023, which is well above the regulatory minimum of 15 per cent, indicating substantial capital buffers. (Page 19, 71)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Financial_Stability",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800072",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Following recent regulatory measures to address potential stress in consumer credit, what is the new risk weight on consumer credit exposure for commercial banks, which was increased from 100 per cent?",
+      "options": {
+        "A": "110%",
+        "B": "115%",
+        "C": "125%",
+        "D": "150%",
+        "E": "175%"
+      },
+      "correct_answer": "C",
+      "explanation": "To curb potential build-up of stress, the Reserve Bank raised the risk weights on consumer credit exposure of commercial banks to 125 per cent from the previous 100 per cent. (Page 127)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Medium",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800101",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the macro stress tests for credit risk, what is the projected Gross NPA ratio for Public Sector Banks (PSBs) by September 2024 under the severe stress scenario?",
+      "options": {
+        "A": "3.6%",
+        "B": "4.4%",
+        "C": "4.5%",
+        "D": "5.1%",
+        "E": "4.1%"
+      },
+      "correct_answer": "D",
+      "explanation": "Under the severe stress scenario, the macro stress tests project that the GNPA ratio of Public Sector Banks (PSBs) may swell from 4.4 per cent in September 2023 to 5.1 per cent by September 2024. (Page 91)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800107",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Following the regulatory increase in risk weights on certain consumer credit segments, what is the estimated decline in the banking system's CRAR and CET1 ratio, respectively, in basis points (bps)?",
+      "options": {
+        "A": "58 bps and 71 bps",
+        "B": "71 bps and 58 bps",
+        "C": "75 bps and 60 bps",
+        "D": "60 bps and 75 bps",
+        "E": "100 bps and 75 bps"
+      },
+      "correct_answer": "B",
+      "explanation": "The report estimates that after adjusting for the increase in risk weights, the CRAR of the banking system (PSBs + PVBs) would decline by 71 bps, and the CET1 ratio would fall by 58 bps. (Page 68)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800111",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the macro stress test projections for Scheduled Commercial Banks, what are the anticipated system-level CRAR figures by September 2024 under the medium and severe stress scenarios, respectively?",
+      "options": {
+        "A": "14.8% and 13.5%",
+        "B": "13.5% and 12.2%",
+        "C": "16.6% and 14.8%",
+        "D": "12.2% and 11.1%",
+        "E": "14.8% and 12.2%"
+      },
+      "correct_answer": "B",
+      "explanation": "The macro stress tests project that the system-level CRAR of 46 major banks may go down to 13.5 per cent in the medium stress scenario and to 12.2 per cent under the severe stress scenario by September 2024. (Page 90)",
+      "source_document": "Financial_Stability_Report_Dec_2023.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:40:57.800114",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Gross Non-Performing Assets (GNPA) ratio of Scheduled Commercial Banks (SCBs) as of September 2024, which was noted as a 12-year low?",
+      "options": {
+        "A": "2.2%",
+        "B": "2.6%",
+        "C": "3.0%",
+        "D": "3.5%",
+        "E": "3.9%"
+      },
+      "correct_answer": "B",
+      "explanation": "The asset quality of Scheduled Commercial Banks (SCBs) improved significantly, with their Gross Non-Performing Assets (GNPA) ratio declining to a 12-year low of 2.6 per cent in September 2024. (Page 80)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747677",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected real Gross Domestic Product (GDP) growth for India in the financial year 2024-25?",
+      "options": {
+        "A": "6.0%",
+        "B": "6.2%",
+        "C": "6.6%",
+        "D": "7.0%",
+        "E": "7.2%"
+      },
+      "correct_answer": "C",
+      "explanation": "In the uncertain global environment, the Indian economy is projected to show resilience, with real gross domestic product (GDP) forecasted to grow at 6.6 per cent in 2024-25. (Page 24)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Financial_Stability",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747804",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Capital to Risk-Weighted Assets Ratio (CRAR) for Scheduled Commercial Banks (SCBs) as of September 2024?",
+      "options": {
+        "A": "14.0%",
+        "B": "15.5%",
+        "C": "16.7%",
+        "D": "17.8%",
+        "E": "18.2%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Capital to Risk-weighted Assets Ratio (CRAR) of Scheduled Commercial Banks stood at 16.7 per cent in September 2024, which is significantly higher than the regulatory minimum. (Page 85)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747809",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Provisioning Coverage Ratio (PCR) of Scheduled Commercial Banks improved in September 2024. What was this ratio?",
+      "options": {
+        "A": "73.1%",
+        "B": "75.0%",
+        "C": "77.0%",
+        "D": "78.5%",
+        "E": "80.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "Supported by proactive provisioning, the provisioning coverage ratio (PCR) of Scheduled Commercial Banks improved further to 77.0 per cent in September 2024. (Page 80)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747812",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the November 2024 Systemic Risk Survey (SRS), what percentage of respondents assessed better or similar prospects for the Indian banking sector over a one-year horizon?",
+      "options": {
+        "A": "40%",
+        "B": "50%",
+        "C": "60%",
+        "D": "80%",
+        "E": "95%"
+      },
+      "correct_answer": "C",
+      "explanation": "The latest Systemic Risk Survey carried out in November 2024 found that 60 per cent of the respondents assessed better or similar prospects for the Indian banking sector over a one-year horizon. (Page 22)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747816",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the share of stressed assets, defined as 31-180 days past due (dpd), in the microfinance sector as of September 2024?",
+      "options": {
+        "A": "2.15%",
+        "B": "3.50%",
+        "C": "4.30%",
+        "D": "5.80%",
+        "E": "6.50%"
+      },
+      "correct_answer": "C",
+      "explanation": "The microfinance sector showed signs of stress, with the share of stressed assets (31-180 days past due) rising from 2.15 per cent in March 2024 to 4.30 per cent in September 2024. (Page 67)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Financial_Stability",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747818",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "India's weightage in the MSCI Emerging Markets Index (MSCI-EMI) increased significantly by November 2024. What was the new weightage?",
+      "options": {
+        "A": "15.5%",
+        "B": "17.2%",
+        "C": "18.6%",
+        "D": "19.9%",
+        "E": "21.3%"
+      },
+      "correct_answer": "D",
+      "explanation": "The Indian equity market outperformed its emerging market peers, leading to an increase in India’s weightage in the MSCI Emerging Markets Index (MSCI-EMI) to 19.9 per cent in November 2024. (Page 46)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Financial_Stability",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747820",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the macro stress tests for Scheduled Commercial Banks, what is the projected aggregate GNPA ratio by March 2026 under the severe 'adverse scenario 2'?",
+      "options": {
+        "A": "3.0%",
+        "B": "4.5%",
+        "C": "5.0%",
+        "D": "5.3%",
+        "E": "7.3%"
+      },
+      "correct_answer": "D",
+      "explanation": "The macro stress tests project that the aggregate GNPA ratio of the 46 select banks may rise from 2.6 per cent in September 2024 to 5.3 per cent by March 2026 under the severe 'adverse scenario 2'. (Page 91)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747822",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In the event of a hypothetical failure of the NBFC with the maximum capacity to cause solvency losses, what would be the estimated impact on the total Tier 1 capital of the banking system as of September 2024?",
+      "options": {
+        "A": "A solvency loss of 1.80% of Tier 1 capital, leading to the failure of one bank.",
+        "B": "A solvency loss of 2.29% of Tier 1 capital, without any bank failures.",
+        "C": "A solvency loss of 2.74% of Tier 1 capital, without any bank failures.",
+        "D": "A solvency loss of 4.14% of Tier 1 capital, leading to the failure of two banks.",
+        "E": "A solvency loss of 5.06% of Tier 1 capital, without any bank failures."
+      },
+      "correct_answer": "C",
+      "explanation": "Contagion analysis indicates that the hypothetical failure of the NBFC with the maximum capacity to cause solvency losses would result in a loss of 2.74 per cent of the banking system's total Tier 1 capital, but it would not lead to the failure of any additional bank. (Page 122)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747832",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "In a sensitivity analysis scenario involving a parallel upward shift of 250 bps in the yield curve, what would be the estimated reduction in the system-level Capital to Risk-weighted Assets Ratio (CRAR) and how many foreign banks would breach the regulatory minimum of 9%?",
+      "options": {
+        "A": "A reduction of 77 bps in CRAR, with two foreign banks breaching the minimum.",
+        "B": "A reduction of 114 bps in CRAR, with four foreign banks breaching the minimum.",
+        "C": "A reduction of 115 bps in CRAR, with four foreign banks breaching the minimum.",
+        "D": "A reduction of 318 bps in CRAR, with no banks breaching the minimum.",
+        "E": "A reduction of 608 bps in CRAR, with all foreign banks breaching the minimum."
+      },
+      "correct_answer": "B",
+      "explanation": "It is assessed that a parallel upward shift of 250 bps in the yield curve on the fair-valued portfolio (AFS and FVTPL) would reduce the system-level CRAR by 114 bps. At a disaggregated level, this major shock would cause four foreign banks' CRAR to fall below the regulatory minimum of 9 per cent. (Page 97)",
+      "source_document": "Financial_Stability_Report_Dec_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:42:09.747834",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Gross Non-Performing Assets (GNPA) ratio for Scheduled Commercial Banks as of March 2024, which marked a multi-year low?",
+      "options": {
+        "A": "2.5%",
+        "B": "2.8%",
+        "C": "3.1%",
+        "D": "3.5%",
+        "E": "3.9%"
+      },
+      "correct_answer": "B",
+      "explanation": "As of March 2024, the Gross Non-Performing Assets (GNPA) ratio of Scheduled Commercial Banks fell to a multi-year low of 2.8 per cent. The Net Non-Performing Assets (NNPA) ratio also fell to 0.6 per cent. (Page 18, 58)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111795",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Capital to Risk-weighted Assets Ratio (CRAR) of Scheduled Commercial Banks stood well above the regulatory minimum in March 2024. What was this ratio?",
+      "options": {
+        "A": "15.9%",
+        "B": "16.2%",
+        "C": "16.8%",
+        "D": "17.1%",
+        "E": "17.5%"
+      },
+      "correct_answer": "C",
+      "explanation": "For Scheduled Commercial Banks (SCBs), the Capital to Risk-weighted Assets Ratio (CRAR) stood at 16.8 per cent in March 2024, indicating strong capital buffers. (Page 18)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Easy",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111924",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What is the projected real GDP growth for India for the fiscal year 2024-25, as stated by the Monetary Policy Committee (MPC)?",
+      "options": {
+        "A": "6.8%",
+        "B": "7.0%",
+        "C": "7.2%",
+        "D": "7.8%",
+        "E": "8.2%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Monetary Policy Committee (MPC) has projected India's real GDP to grow by 7.2 per cent during 2024-25. This follows a real GDP growth of 8.2 per cent in 2023-24. (Page 34)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Financial_Stability",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111935",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the macro stress tests for credit risk, what is the projected Capital to Risk-weighted Assets Ratio (CRAR) for Scheduled Commercial Banks by March 2025 under a severe stress scenario?",
+      "options": {
+        "A": "16.1%",
+        "B": "14.4%",
+        "C": "13.0%",
+        "D": "11.5%",
+        "E": "9.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "The macro stress test results project that the aggregate CRAR of 46 major banks may go down to 13.0 per cent under the severe stress scenario by March 2025, which is still above the minimum capital requirement of 9 per cent. (Page 85)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111939",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What were the Return on Assets (RoA) and Return on Equity (RoE) for Scheduled Commercial Banks respectively in March 2024, which were close to decadal highs?",
+      "options": {
+        "A": "1.1% and 12.8%",
+        "B": "1.3% and 13.8%",
+        "C": "1.5% and 14.5%",
+        "D": "1.0% and 11.5%",
+        "E": "1.2% and 13.2%"
+      },
+      "correct_answer": "B",
+      "explanation": "Amidst strong profitability, the Return on Assets (RoA) and Return on Equity (RoE) for Scheduled Commercial Banks remained strong at 1.3 per cent and 13.8 per cent, respectively, in March 2024. (Page 18, 58)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111942",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Systemic Risk Survey (SRS) conducted in May 2024 identified several major risks to domestic financial stability. Which of the following risk categories was perceived to have moved from 'medium' to 'high'?",
+      "options": {
+        "A": "Foreign exchange rate risk",
+        "B": "Liquidity risk",
+        "C": "Cyber risk",
+        "D": "Equity price volatility",
+        "E": "Asset quality deterioration"
+      },
+      "correct_answer": "D",
+      "explanation": "According to the Systemic Risk Survey in May 2024, risk from equity price volatility was perceived to have moved from the 'medium' to the 'high' risk category. Cyber risk rose but remained within the 'high' category. (Page 71, 120)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111945",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Under the macro stress tests, what is the projected Gross NPA (GNPA) ratio for all Scheduled Commercial Banks by March 2025 in a severe stress scenario?",
+      "options": {
+        "A": "2.5%",
+        "B": "2.8%",
+        "C": "3.4%",
+        "D": "4.1%",
+        "E": "4.5%"
+      },
+      "correct_answer": "C",
+      "explanation": "While the GNPA ratio of all SCBs is projected to improve to 2.5 per cent by March 2025 under the baseline scenario, it may rise to 3.4 per cent if the macroeconomic environment worsens to a severe stress scenario. (Page 86)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Medium",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111948",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the credit risk sensitivity analysis, what magnitude of shock in terms of standard deviations (SD) to the GNPA ratio would be required to bring the system-level CRAR below the regulatory minimum of 9 per cent?",
+      "options": {
+        "A": "2.1 SD",
+        "B": "3.5 SD",
+        "C": "4.6 SD",
+        "D": "5.1 SD",
+        "E": "6.2 SD"
+      },
+      "correct_answer": "D",
+      "explanation": "The reverse stress test within the credit risk sensitivity analysis shows that a shock of 5.1 standard deviations would be required to bring the system-level Capital to Risk-weighted Assets Ratio (CRAR) below the regulatory minimum of 9 per cent. (Page 87)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111963",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As per the risk parameter disclosures for mutual funds for May 2024, what was the range of days required to liquidate 25% of the portfolio for the top 5 smallcap schemes, and what does this imply about their liquidity risk?",
+      "options": {
+        "A": "4 to 13 days, indicating lower liquidity risk compared to midcap schemes.",
+        "B": "12 to 36 days, indicating higher liquidity risk compared to midcap schemes.",
+        "C": "4 to 13 days, indicating higher liquidity risk compared to midcap schemes.",
+        "D": "12 to 36 days, indicating lower liquidity risk compared to midcap schemes.",
+        "E": "10 to 20 days, indicating similar liquidity risk as midcap schemes."
+      },
+      "correct_answer": "B",
+      "explanation": "According to the disclosure for May 2024, the time taken to liquidate 25% of the portfolio for the top 5 smallcap schemes ranged from 12 to 36 days. This is longer than the 4 to 13 days required for midcap schemes, indicating higher liquidity risk for smallcap funds. (Page 52)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Financial_Stability",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111966",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the contagion analysis as of March 2024, the hypothetical failure of which type of entity would cause the maximum solvency loss to the banking system's total Tier 1 capital?",
+      "options": {
+        "A": "The largest public sector bank",
+        "B": "The NBFC with the maximum capacity to cause solvency losses",
+        "C": "The bank with the maximum capacity to cause contagion losses",
+        "D": "The HFC with the maximum capacity to cause solvency losses",
+        "E": "The largest private sector bank"
+      },
+      "correct_answer": "C",
+      "explanation": "Contagion analysis indicates that if the bank with the maximum capacity to cause contagion losses fails, it would cause a solvency loss of 5.06% of total Tier 1 capital. In comparison, the failure of the top HFC would cause a 3.87% loss, and the failure of the top NBFC would cause a 2.29% loss. Therefore, the failure of the top triggering bank poses the largest solvency risk. (Page 99)",
+      "source_document": "Financial_Stability_Report_Jun_2024.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:43:37.111969",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Capital to Risk-weighted Assets Ratio (CRAR) for Scheduled Commercial Banks (SCBs) as of March 2025?",
+      "options": {
+        "A": "16.8%",
+        "B": "17.0%",
+        "C": "17.3%",
+        "D": "17.5%",
+        "E": "18.1%"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the performance indicators of SCBs, the CRAR stood at a record high of 17.3 per cent as of March 2025, up from 16.8 per cent in March 2024. (Page 55, Chart 1.44)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020199",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the May 2025 Systemic Risk Survey (SRS), what percentage of respondents expressed higher or similar levels of confidence in the Indian financial system?",
+      "options": {
+        "A": "75%",
+        "B": "82%",
+        "C": "88%",
+        "D": "92%",
+        "E": "95%"
+      },
+      "correct_answer": "D",
+      "explanation": "The May 2025 Systemic Risk Survey found that respondents remained optimistic about the domestic financial system, with 92 per cent expressing higher or similar levels of confidence. (Page 20, Assessment of Systemic Risk)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Easy",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020335",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As per the macro stress tests, what is the projected Gross Non-Performing Asset (GNPA) ratio for Scheduled Commercial Banks by March 2027 under the 'Geopolitical risk scenario' (Adverse Scenario 1)?",
+      "options": {
+        "A": "2.5%",
+        "B": "5.3%",
+        "C": "5.6%",
+        "D": "5.9%",
+        "E": "7.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "The macro stress test projects that the aggregate GNPA ratio of 46 major banks may rise from 2.3% in March 2025 to 5.6% by March 2027 under Adverse Scenario 1, which represents a geopolitical risk scenario. (Page 84, Chart 2.11)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020340",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "What was the Gross Non-Performing Asset (GNPA) ratio for the unsecured retail loan portfolio of Scheduled Commercial Banks as of March 2025?",
+      "options": {
+        "A": "1.2%",
+        "B": "1.5%",
+        "C": "1.8%",
+        "D": "2.3%",
+        "E": "3.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "The asset quality of unsecured retail loans, while having weakened slightly, showed a GNPA ratio of 1.8 per cent for Scheduled Commercial Banks (SCBs) as of March 2025. (Page 58, Chart 1.48a)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020344",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As of end-December 2024, what was the approximate level of India's household debt as a percentage of GDP?",
+      "options": {
+        "A": "35.7%",
+        "B": "38.2%",
+        "C": "41.9%",
+        "D": "45.1%",
+        "E": "48.6%"
+      },
+      "correct_answer": "C",
+      "explanation": "India’s household debt has been increasing, reaching 41.9 per cent of GDP at current market prices as of end-December 2024, although this remains relatively low compared to other Emerging Market Economies (EMEs). (Page 51, para 1.47)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Financial_Stability",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020347",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "The Banking Stability Indicator (BSI) reflects the overall resilience of the banking system. What was the value of the BSI in March 2025, indicating an improvement in stability?",
+      "options": {
+        "A": "0.27",
+        "B": "0.29",
+        "C": "0.32",
+        "D": "0.35",
+        "E": "0.42"
+      },
+      "correct_answer": "A",
+      "explanation": "The Banking Stability Indicator (BSI) improved, with its value decreasing from 0.32 in March 2024 to 0.27 in March 2025, reflecting enhanced resilience of the banking system. (Page 64, Chart 1.59a)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020350",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "According to the contagion analysis, what would be the impact on the banking system's total Tier 1 capital from a hypothetical failure of the NBFC with the maximum capacity to cause solvency losses?",
+      "options": {
+        "A": "A reduction of 1.9%",
+        "B": "A reduction of 2.9%",
+        "C": "A reduction of 3.7%",
+        "D": "A reduction of 4.5%",
+        "E": "No significant impact"
+      },
+      "correct_answer": "B",
+      "explanation": "The contagion analysis for end-March 2025 shows that the hypothetical failure of the top NBFC with the maximum capacity to cause solvency losses would knock off 2.9 per cent of the banking system's total Tier 1 capital. (Page 115, para 2.86 & Table 2.14)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Medium",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020362",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the reverse stress test using the cumulative CRAR-depletion curve for March 2025, how many of the top largest borrowers would need to default to cause a depletion of 200 basis points in the system-level CRAR?",
+      "options": {
+        "A": "7",
+        "B": "15",
+        "C": "22",
+        "D": "35",
+        "E": "46"
+      },
+      "correct_answer": "C",
+      "explanation": "The reverse stress test on credit concentration risk for March 2025 revealed that it would take the default of the top 7, 22, and 46 largest borrowers to deplete the system level CRAR by 100, 200, and 300 basis points, respectively. (Page 88, para 'Reverse stress test...')",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020365",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "As of March 31, 2025, what was the share of loans linked to the External Benchmark-Based Lending Rate (EBLR) within the total retail loan portfolio of All Scheduled Commercial Banks (SCBs)?",
+      "options": {
+        "A": "34.9%",
+        "B": "54.7%",
+        "C": "57.5%",
+        "D": "65.1%",
+        "E": "75.7%"
+      },
+      "correct_answer": "C",
+      "explanation": "Table 1.4 on the distribution of retail loans by interest rate framework shows that for All SCBs, 57.5 per cent of the total retail loans were linked to the EBLR framework as of March 31, 2025. (Page 59, Table 1.4)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Banking_Sector",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020373",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    },
+    {
+      "question": "Based on the Duration Gap Analysis (DGA) as of March 2025, which of the following correctly describes the impact on the Market Value of Equity (MVE) for Public Sector Banks (PSBs) and Private Sector Banks (PVBs) following a 200 basis points increase in interest rates?",
+      "options": {
+        "A": "PSBs' MVE decreases by 1.0%; PVBs' MVE decreases by 2.5%",
+        "B": "PSBs' MVE increases by 1.0%; PVBs' MVE increases by 2.5%",
+        "C": "PSBs' MVE increases by 1.0%; PVBs' MVE decreases by 2.5%",
+        "D": "PSBs' MVE decreases by 2.5%; PVBs' MVE increases by 1.0%",
+        "E": "Both PSBs' and PVBs' MVE decrease by more than 2.0%"
+      },
+      "correct_answer": "C",
+      "explanation": "The Duration Gap Analysis revealed contrasting impacts of an interest rate rise on different bank groups. For a 200 bps increase, the MVE for PSBs would be muted with a slight increase of 1.0%, while for PVBs, it would fall by 2.5%. (Page 92, Table 2.6)",
+      "source_document": "Financial_Stability_Report_Jun_2025.pdf",
+      "difficulty": "Hard",
+      "topic": "Risk_Assessment",
+      "subject": "General_Awareness",
+      "report_category": "financial_stability_report",
+      "generated_date": "2025-10-02T22:45:06.020377",
+      "generation_model": "gemini-2.5-pro",
+      "generation_type": "Per_PDF_RAG"
+    }
+  ]
+}

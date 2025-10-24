@@ -1,0 +1,36 @@
+{
+  "generation_date": "2025-10-05 22:22:59",
+  "model_used": "gpt-4o",
+  "total_questions_requested": 30,
+  "total_questions_generated": 30,
+  "difficulty_distribution": {
+    "Easy": 6,
+    "Medium": 12,
+    "Hard": 12
+  },
+  "batch_configuration": {
+    "total_batches": 6,
+    "batch_size": 5,
+    "successful_batches": 6,
+    "failed_batches": 0
+  },
+  "token_usage": {
+    "input_tokens": 5136,
+    "output_tokens": 12331,
+    "total_tokens": 17467
+  },
+  "cost": {
+    "input_cost": 0.01284,
+    "output_cost": 0.12331,
+    "total_cost": 0.13615
+  },
+  "time": {
+    "total_time_seconds": 197.67,
+    "api_time_seconds": 182.63
+  },
+  "output_files": {
+    "questions": "data/generated/floor_puzzle_questions_20251005_221941.json",
+    "errors": "data/generated/floor_puzzle_errors_20251005_221941.log",
+    "metadata": "data/generated/floor_puzzle_metadata_20251005_221941.json"
+  }
+}

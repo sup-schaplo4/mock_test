@@ -1,0 +1,971 @@
+{
+  "topic": "Scheduling Puzzle",
+  "total_questions": 31,
+  "questions": [
+    {
+      "id": "2017_Q143",
+      "question_number": 143,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the information carefully and answer the questions. Professors O, P, Q, R, S, T, U, V, W, X, Y and Z had lectures in different months of the same year viz. January, March, April, May, June and December but not necessarily in the same order. All the lectures are either in 12th or 25th of these months. No two professors had lectures in the same day. Each professor also likes a different colour namely Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey but not necessarily in the same order. Note : No lecture was conducted in any other month of the same year. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Which of the following combinations indicate those who had a lecture in March?",
+      "options": {
+        "A": "The one who likes Maroon and R",
+        "B": "U and X",
+        "C": "P and R",
+        "D": "The one who likes Green and the one who likes pink",
+        "E": "R and V"
+      },
+      "correct_answer": "C",
+      "explanation": "Person- O, P, Q, R, S, T, U, V, W, X, Y and Z Month- January, March, April, May, June and December Colour- Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey 1. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) ||V |||| | 25th |Q |||||| Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |||V |(Red) || | | 25th ||||Q ||| 2. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) |U (Green) |V (Violet) |Z |W (White) |P(Blue) | | 25th |Q |X |(Orange) |O (Pink) ||R | Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U (Green) |P(Blue) |V (Violet) |(Red) |Z (White) |W | | 25th |X |R (Orange) |O |Q |(Pink) || 3. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. This is not possible in case 1. So, case 2 is correct. | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |Y(Red) |Z (White) |W(Silver) | | 25th |X(Maroon) |R (Orange) |O(Yellow) |Q(Grey) |S(Pink) |T(Brown) | Hence, P and R had lectures in March.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00033",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254012",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q144",
+      "question_number": 144,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the information carefully and answer the questions. Professors O, P, Q, R, S, T, U, V, W, X, Y and Z had lectures in different months of the same year viz. January, March, April, May, June and December but not necessarily in the same order. All the lectures are either in 12th or 25th of these months. No two professors had lectures in the same day. Each professor also likes a different colour namely Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey but not necessarily in the same order. Note : No lecture was conducted in any other month of the same year. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Which of the following combination is correct?",
+      "options": {
+        "A": "W-White",
+        "B": "X-Pink",
+        "C": "U-Grey",
+        "D": "V-Violet",
+        "E": "O-Red"
+      },
+      "correct_answer": "D",
+      "explanation": "Person- O, P, Q, R, S, T, U, V, W, X, Y and Z Month- January, March, April, May, June and December Colour- Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey 1. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) ||V |||| | 25th |Q |||||| Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |||V |(Red) || | | 25th ||||Q ||| 2. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) |U(Green) |V(Violet) |Z |W (White) |P(Blue) | | 25th |Q |X |(Orange) |O(Pink) ||R | Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |(Red) |Z (White) |W | | 25th |X |R(Orange) |O |Q |(Pink) || 3. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. This is not possible in case 1. So, case 2 is correct. | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |Y(Red) |Z (White) |W(Silver) | | 25th |X(Maroon) |R (Orange) |O(Yellow) |Q(Grey) |S(Pink) |T(Brown) | Hence, V- Violet is the correct combination.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00034",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254013",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q145",
+      "question_number": 145,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the information carefully and answer the questions. Professors O, P, Q, R, S, T, U, V, W, X, Y and Z had lectures in different months of the same year viz. January, March, April, May, June and December but not necessarily in the same order. All the lectures are either in 12th or 25th of these months. No two professors had lectures in the same day. Each professor also likes a different colour namely Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey but not necessarily in the same order. Note : No lecture was conducted in any other month of the same year. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. If Y is related to White and P is related to Violet based on the given arrangement, then which of the following is related to O following the same pattern?",
+      "options": {
+        "A": "Grey",
+        "B": "Pink",
+        "C": "Brown",
+        "D": "Maroon",
+        "E": "Silver"
+      },
+      "correct_answer": "A",
+      "explanation": "Person- O, P, Q, R, S, T, U, V, W, X, Y and Z Month- January, March, April, May, June and December Colour- Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey 1. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) ||V |||| | 25th |Q |||||| Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |||V |(Red) || | | 25th ||||Q ||| 2. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) |U(Green) |V(Violet) |Z |W (White) |P(Blue) | | 25th |Q |X |(Orange) |O(Pink) ||R | Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |(Red) |Z (White) |W | | 25th |X |R(Orange) |O |Q |(Pink) || 3. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. This is not possible in case 1. So, case 2 is correct. | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |Y(Red) |Z (White) |W(Silver) | | 25th |X(Maroon) |R (Orange) |O(Yellow) |Q(Grey) |S(Pink) |T(Brown) | Hence, O is related to grey.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00035",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254014",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q146",
+      "question_number": 146,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the information carefully and answer the questions. Professors O, P, Q, R, S, T, U, V, W, X, Y and Z had lectures in different months of the same year viz. January, March, April, May, June and December but not necessarily in the same order. All the lectures are either in 12th or 25th of these months. No two professors had lectures in the same day. Each professor also likes a different colour namely Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey but not necessarily in the same order. Note : No lecture was conducted in any other month of the same year. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. How many people have lectures between the lectures by X and Y?",
+      "options": {
+        "A": "Two",
+        "B": "Four",
+        "C": "None",
+        "D": "One",
+        "E": "Three"
+      },
+      "correct_answer": "B",
+      "explanation": "Person- O, P, Q, R, S, T, U, V, W, X, Y and Z Month- January, March, April, May, June and December Colour- Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey 1. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) ||V |||| | 25th |Q |||||| Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |||V |(Red) || | | 25th ||||Q ||| 2. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) |U(Green) |V(Violet) |Z |W (White) |P(Blue) | | 25th |Q |X |(Orange) |O(Pink) ||R | Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |(Red) |Z (White) |W | | 25th |X |R(Orange) |O |Q |(Pink) || 3. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. This is not possible in case 1. So, case 2 is correct. | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |Y(Red) |Z (White) |W(Silver) | | 25th |X(Maroon) |R (Orange) |O(Yellow) |Q(Grey) |S(Pink) |T(Brown) | Hence, four people have lectures between X and Y.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00036",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254015",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q147",
+      "question_number": 147,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the information carefully and answer the questions. Professors O, P, Q, R, S, T, U, V, W, X, Y and Z had lectures in different months of the same year viz. January, March, April, May, June and December but not necessarily in the same order. All the lectures are either in 12th or 25th of these months. No two professors had lectures in the same day. Each professor also likes a different colour namely Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey but not necessarily in the same order. Note : No lecture was conducted in any other month of the same year. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Four of the following five are alike in a certain way based on the given seating arrangement and hence form a group. Which of the following does not belong to that group?",
+      "options": {
+        "A": "12-Y",
+        "B": "25-O",
+        "C": "12-Green",
+        "D": "25-T",
+        "E": "12-Pink"
+      },
+      "correct_answer": "E",
+      "explanation": "Person- O, P, Q, R, S, T, U, V, W, X, Y and Z Month- January, March, April, May, June and December Colour- Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey 1. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) ||V |||| | 25th |Q |||||| Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |||V |(Red) || | | 25th ||||Q ||| 2. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) |U(Green) |V(Violet) |Z |W (White) |P(Blue) | | 25th |Q |X |(Orange) |O(Pink) ||R | Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |(Red) |Z (White) |W | | 25th |X |R(Orange) |O |Q |(Pink) || 3. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. This is not possible in case 1. So, case 2 is correct. | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |Y(Red) |Z (White) |W(Silver) | | 25th |X(Maroon) |R (Orange) |O(Yellow) |Q(Grey) |S(Pink) |T(Brown) | Hence, 12-Pink is not the correct combination.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00037",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254016",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q148",
+      "question_number": 148,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Study the information carefully and answer the questions. Professors O, P, Q, R, S, T, U, V, W, X, Y and Z had lectures in different months of the same year viz. January, March, April, May, June and December but not necessarily in the same order. All the lectures are either in 12th or 25th of these months. No two professors had lectures in the same day. Each professor also likes a different colour namely Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey but not necessarily in the same order. Note : No lecture was conducted in any other month of the same year. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Who amongst the following had lecture in the same month as S?",
+      "options": {
+        "A": "V",
+        "B": "The one who likes Grey",
+        "C": "The one who likes White",
+        "D": "The one who likes Yellow",
+        "E": "W"
+      },
+      "correct_answer": "C",
+      "explanation": "Person- O, P, Q, R, S, T, U, V, W, X, Y and Z Month- January, March, April, May, June and December Colour- Red, Blue, Green, Yellow, Orange, White, Pink, Silver, Maroon, Violet, Brown and Grey 1. V had a lecture on 12th April. Only two people had lectures between V and Q. The one who likes red had a lecture in the same month as Q. Q does not like red. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) ||V |||| | 25th |Q |||||| Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |||V |(Red) || | | 25th ||||Q ||| 2. The one who likes White had a lecture on an even numbered date of the month which had exactly 30 days. V does not like white. Only three people had a lecture between the one who likes White and the one who likes Violet. As many people had lectures between the one who likes red and O as between Q and the one who likes White. Only two people had lectures between O and the one who likes Blue. U had a lecture on 12th of a month before the one who likes Violet. U likes neither red nor blue. Only two people had lectures between U and the one who likes Orange. Only two people had lectures between the one who likes Orange and the one who likes Green. X had a lecture in the same month as the one who likes green. As many people had a lecture after W as before X. Only one person had a lecture between W and Z. Z had a lecture before W. the one who likes Pink had a lecture on an odd numbered day in the same month as Z. P had a lecture on 12th of the same month as R. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. Case 1: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |(Red) |U(Green) |V(Violet) |Z |W (White) |P(Blue) | | 25th |Q |X |(Orange) |O(Pink) ||R | Case 2: | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |(Red) |Z (White) |W | | 25th |X |R(Orange) |O |Q |(Pink) || 3. Only two people had lectures between P and the one who likes Yellow. The one who likes maroon had a lecture before P. T likes brown. S does not like Red. W does not like Grey. This is not possible in case 1. So, case 2 is correct. | |January |March |April |May |June |December | | ---|---|---|---|---|---|---| | 12th |U(Green) |P(Blue) |V(Violet) |Y(Red) |Z (White) |W(Silver) | | 25th |X(Maroon) |R (Orange) |O(Yellow) |Q(Grey) |S(Pink) |T(Brown) | Hence, the one who likes white had lecture in the same month as S.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00038",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254017",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q81",
+      "question_number": 81,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions: 6 persons P, Q, R, S, T and V travel to Delhi either on 2nd or 30th of 4 different months, each having exactly 30 days. Each of them drives a different car - Alto, Breeza, Creta, Ferrari, Mercedes and Swift but not necessarily in the same order. There are 2 days on which no person travels to Delhi. T travels to Delhi on 30th of a month by Swift. Both P and V travels in a same month. Only 3 persons travel on each particular date (i.e. 3 persons travel on 2nd and 3 persons travel on 30th). Only 4 persons can travel between T and Q. Person who drives Breeza travels on 30th . P travels to Delhi before T but after Q. No one travels between V and T. S drives Breeza but not in April. Number of persons travelling before T are same as that of travelling after the one who is driving Alto. One who drives Mercedes travels immediately after Creta. Who travels to Delhi on 2nd april?",
+      "options": {
+        "A": "Q",
+        "B": "R",
+        "C": "V",
+        "D": "P",
+        "E": "can not be determined"
+      },
+      "correct_answer": "B",
+      "explanation": "Months having exactly 30 days: April, June, September and November. i) P travels to Delhi before T but after Q. ii) Both P and V travels in a same month. iii) T travels to Delhi on 30th of a month by Swift. (so, there are 2 possible cases). iv) No one travels between V and T. v) Only 4 persons T and Q. Case 1: Case 2: vi) Number of persons travelling before T are same as that of travelling after the one who is driving Alto. Case 1: Case 2: vii) S drives Breeza on 30th but not in April. Case 1: Case 2: viii) Only 3 persons travel on each particular date. Case 1: Case 2: ix) One who drives Mercedes travels immediately after Creta. (so, case 1 gets eliminated as it does not satisfy the condition). Therefore, after filling the remaining data, 11) Option b) is the correct answer as R travels to Delhi on 2nd april.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00108",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254102",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q82",
+      "question_number": 82,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions: 6 persons P, Q, R, S, T and V travel to Delhi either on 2nd or 30th of 4 different months, each having exactly 30 days. Each of them drives a different car - Alto, Breeza, Creta, Ferrari, Mercedes and Swift but not necessarily in the same order. There are 2 days on which no person travels to Delhi. T travels to Delhi on 30th of a month by Swift. Both P and V travels in a same month. Only 3 persons travel on each particular date (i.e. 3 persons travel on 2nd and 3 persons travel on 30th). Only 4 persons can travel between T and Q. Person who drives Breeza travels on 30th . P travels to Delhi before T but after Q. No one travels between V and T. S drives Breeza but not in April. Number of persons travelling before T are same as that of travelling after the one who is driving Alto. One who drives Mercedes travels immediately after Creta. Who travels immediately after one who drives Breeza?",
+      "options": {
+        "A": "Q",
+        "B": "R",
+        "C": "P",
+        "D": "V",
+        "E": "T"
+      },
+      "correct_answer": "C",
+      "explanation": "Months having exactly 30 days: April, June, September and November. i) P travels to Delhi before T but after Q. ii) Both P and V travels in a same month. iii) T travels to Delhi on 30th of a month by Swift. (so, there are 2 possible cases). iv) No one travels between V and T. v) Only 4 persons T and Q. Case 1: Case 2: vi) Number of persons travelling before T are same as that of travelling after the one who is driving Alto. Case 1: Case 2: vii) S drives Breeza on 30th but not in April. Case 1: Case 2: viii) Only 3 persons travel on each particular date. Case 1: Case 2: ix) One who drives Mercedes travels immediately after Creta. (so, case 1 gets eliminated as it does not satisfy the condition). Therefore, after filling the remaining data, Option c) is the correct answer as P travels immediately after one who drives Breeza.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00109",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254103",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q83",
+      "question_number": 83,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions: 6 persons P, Q, R, S, T and V travel to Delhi either on 2nd or 30th of 4 different months, each having exactly 30 days. Each of them drives a different car - Alto, Breeza, Creta, Ferrari, Mercedes and Swift but not necessarily in the same order. There are 2 days on which no person travels to Delhi. T travels to Delhi on 30th of a month by Swift. Both P and V travels in a same month. Only 3 persons travel on each particular date (i.e. 3 persons travel on 2nd and 3 persons travel on 30th). Only 4 persons can travel between T and Q. Person who drives Breeza travels on 30th . P travels to Delhi before T but after Q. No one travels between V and T. S drives Breeza but not in April. Number of persons travelling before T are same as that of travelling after the one who is driving Alto. One who drives Mercedes travels immediately after Creta. Which of the following statement(s) is true?",
+      "options": {
+        "A": "Only 1 person travels between S and Q.",
+        "B": "T travels on 30th September.",
+        "C": "V drives Creta",
+        "D": "No one travels between S and P.",
+        "E": "All the given statements are true"
+      },
+      "correct_answer": "D",
+      "explanation": "Months having exactly 30 days: April, June, September and November. i) P travels to Delhi before T but after Q. ii) Both P and V travels in a same month. iii) T travels to Delhi on 30th of a month by Swift. (so, there are 2 possible cases). iv) No one travels between V and T. v) Only 4 persons T and Q. Case 1: Case 2: vi) Number of persons travelling before T are same as that of travelling after the one who is driving Alto. Case 1: Case 2: vii) S drives Breeza on 30th but not in April. Case 1: Case 2: viii) Only 3 persons travel on each particular date. Case 1: Case 2: ix) One who drives Mercedes travels immediately after Creta. (so, case 1 gets eliminated as it does not satisfy the condition). Therefore, after filling the remaining data, Option a) is the correct answer as no on travels between S and P.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00110",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254104",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q84",
+      "question_number": 84,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions: 6 persons P, Q, R, S, T and V travel to Delhi either on 2nd or 30th of 4 different months, each having exactly 30 days. Each of them drives a different car - Alto, Breeza, Creta, Ferrari, Mercedes and Swift but not necessarily in the same order. There are 2 days on which no person travels to Delhi. T travels to Delhi on 30th of a month by Swift. Both P and V travels in a same month. Only 3 persons travel on each particular date (i.e. 3 persons travel on 2nd and 3 persons travel on 30th). Only 4 persons can travel between T and Q. Person who drives Breeza travels on 30th . P travels to Delhi before T but after Q. No one travels between V and T. S drives Breeza but not in April. Number of persons travelling before T are same as that of travelling after the one who is driving Alto. One who drives Mercedes travels immediately after Creta. How many persons travel between S and P?",
+      "options": {
+        "A": "None",
+        "B": "1",
+        "C": "2",
+        "D": "3",
+        "E": "More than 3"
+      },
+      "correct_answer": "A",
+      "explanation": "Months having exactly 30 days: April, June, September and November. i) P travels to Delhi before T but after Q. ii) Both P and V travels in a same month. iii) T travels to Delhi on 30th of a month by Swift. (so, there are 2 possible cases). iv) No one travels between V and T. v) Only 4 persons T and Q. Case 1: Case 2: vi) Number of persons travelling before T are same as that of travelling after the one who is driving Alto. Case 1: Case 2: vii) S drives Breeza on 30th but not in April. Case 1: Case 2: viii) Only 3 persons travel on each particular date. Case 1: Case 2: ix) One who drives Mercedes travels immediately after Creta. (so, case 1 gets eliminated as it does not satisfy the condition). Therefore, after filling the remaining data, Option e) is the correct answer as no one travels on 30th April.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00111",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254105",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q85",
+      "question_number": 85,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully and answer the given questions: 6 persons P, Q, R, S, T and V travel to Delhi either on 2nd or 30th of 4 different months, each having exactly 30 days. Each of them drives a different car - Alto, Breeza, Creta, Ferrari, Mercedes and Swift but not necessarily in the same order. There are 2 days on which no person travels to Delhi. T travels to Delhi on 30th of a month by Swift. Both P and V travels in a same month. Only 3 persons travel on each particular date (i.e. 3 persons travel on 2nd and 3 persons travel on 30th). Only 4 persons can travel between T and Q. Person who drives Breeza travels on 30th . P travels to Delhi before T but after Q. No one travels between V and T. S drives Breeza but not in April. Number of persons travelling before T are same as that of travelling after the one who is driving Alto. One who drives Mercedes travels immediately after Creta. Who travels on 30th April?",
+      "options": {
+        "A": "S",
+        "B": "V",
+        "C": "T",
+        "D": "R",
+        "E": "None of these"
+      },
+      "correct_answer": "E",
+      "explanation": "Months having exactly 30 days: April, June, September and November. i) P travels to Delhi before T but after Q. ii) Both P and V travels in a same month. iii) T travels to Delhi on 30th of a month by Swift. (so, there are 2 possible cases). iv) No one travels between V and T. v) Only 4 persons T and Q. Case 1: Case 2: vi) Number of persons travelling before T are same as that of travelling after the one who is driving Alto. Case 1: Case 2: vii) S drives Breeza on 30th but not in April. Case 1: Case 2: viii) Only 3 persons travel on each particular date. Case 1: Case 2: ix) One who drives Mercedes travels immediately after Creta. (so, case 1 gets eliminated as it does not satisfy the condition). Therefore, after filling the remaining data, 15) Option e) is the correct answer as no one travels on 30th April.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00112",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254106",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q16",
+      "question_number": 16,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. Who among the following goes to the market immediately before F?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "E",
+        "E": "F"
+      },
+      "correct_answer": "B",
+      "explanation": "1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00133",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254129",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q17",
+      "question_number": 17,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. Who among the following goes to the market on Monday?",
+      "options": {
+        "A": "C",
+        "B": "G",
+        "C": "D",
+        "D": "E",
+        "E": "F"
+      },
+      "correct_answer": "A",
+      "explanation": "1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00134",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254130",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q18",
+      "question_number": 18,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. D buys which of the following item?",
+      "options": {
+        "A": "Chair",
+        "B": "Lamp",
+        "C": "Table",
+        "D": "Either Chair or Lamp",
+        "E": "Either Lamp or Table"
+      },
+      "correct_answer": "C",
+      "explanation": "1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00135",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254131",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q19",
+      "question_number": 19,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. How many people go the market between C and B?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four",
+        "E": "More than four"
+      },
+      "correct_answer": "D",
+      "explanation": "1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00136",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254132",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q20",
+      "question_number": 20,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Study the following information carefully to answer the given questions below. Seven people A, B, C, D, E, F and G are going to market on seven different days starting from Monday to Sunday and buy any one item among Chair, Table, Lamp. Not more than three people buy the same item. E buys table before Wednesday. Three people go to the market between E and B. The one who goes to the market on Thursday buys Chair. A goes to the market immediately before G. Two people go to the market between G and F. Only A and the one who goes to the market on Saturday buy Lamp. F neither goes to the market on Thursday nor buy lamp. Only one people goes to the market between D who buys Table and the one who buys Chair. C does not buy table. C go to the market neither immediately after nor immediately before B. Four of the following five are alike in a certain way, find the one which doesn’t belong to that group.",
+      "options": {
+        "A": "EG",
+        "B": "AD",
+        "C": "CA",
+        "D": "GB",
+        "E": "EF"
+      },
+      "correct_answer": "E",
+      "explanation": "1) E buys table before Wednesday. 2) Three people goes to the market between E and B. 3) The one who goes to the market on Thursday buy Chair. (So, there can be two possible cases) Case-1: If E goes market on Tuesday: 4) A goes to the market immediately before G. 5) Two people go to the market between G and F. 6) Only A and the one who goes to the market on Saturday buy Lamp. 7) F neither goes to the market on Thursday nor buy lamp. Case-1: If E goes market on Tuesday: 8) Only one people goes to the market between D who buys Table and the one who buys Chair. 9) C does not buy table. 10) C go to the market neither immediately after nor immediately before B. (From this Case-2 will be eliminated as no place left for C in it. Now, with case-1, it is clear that D goes to the market on Friday and C goes to the market on Monday and C buy Chair)",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00137",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254133",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q162",
+      "question_number": 162,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Ten Managers namely Raman, Ankit, Raja, Aman, Akshay, Ajay, Priyank, Rahul, Shubham and Tarun from an MNC have meeting on five different days starting from Monday to Friday of the same week but not necessarily in the same order. Managers have meeting at two different time slots 08:45 AM and 12:45 PM. Shubham has a meeting on Tuesday at 08:45 AM. The number of people who have meeting between Priyank and Aman is the same as the number of people who have the meeting between Raja and Rahul. Ankit has the meeting on the day immediately before Shubham. Shubham does not have meeting on any of the days before Priyank. There is one manager who has meeting at 08:45 AM immediately before Tarun. Rahul does not have meeting at 12:45 PM. Aman does not have meeting on any day after Akshay. Only three people have meeting between Priyank and Akshay. Neither Priyank nor Akshay has any meeting on Friday. Only 2 people have meeting between Ajay and Tarun. Ajay does not have any meeting on any of the day after Rahul. Which of the following is the group of people whose meeting slot is 8:45 AM?",
+      "options": {
+        "A": "Priyank, Shubham, Akshay, Ajay, Rahul",
+        "B": "Priyank, Shubham, Raman, Ajay, Rahul",
+        "C": "Priyank, Shubham, Akshay, Ajay, Tarun",
+        "D": "Either A or B",
+        "E": "None of these"
+      },
+      "correct_answer": "A",
+      "explanation": "|        | 08:45 am | 12:45 pm | |--------|----------|----------| | Monday | Priyank  | Ankit    | | Tuesday| Shubham  | Aman     | | Wednesday| Akshay | Raja     | | Thursday| Ajay    | Raman    | | Friday | Rahul    | Tarun    |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00196",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254200",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q163",
+      "question_number": 163,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Ten Managers namely Raman, Ankit, Raja, Aman, Akshay, Ajay, Priyank, Rahul, Shubham and Tarun from an MNC have meeting on five different days starting from Monday to Friday of the same week but not necessarily in the same order. Managers have meeting at two different time slots 08:45 AM and 12:45 PM. Shubham has a meeting on Tuesday at 08:45 AM. The number of people who have meeting between Priyank and Aman is the same as the number of people who have the meeting between Raja and Rahul. Ankit has the meeting on the day immediately before Shubham. Shubham does not have meeting on any of the days before Priyank. There is one manager who has meeting at 08:45 AM immediately before Tarun. Rahul does not have meeting at 12:45 PM. Aman does not have meeting on any day after Akshay. Only three people have meeting between Priyank and Akshay. Neither Priyank nor Akshay has any meeting on Friday. Only 2 people have meeting between Ajay and Tarun. Ajay does not have any meeting on any of the day after Rahul. What is time and day for meeting of Raman?",
+      "options": {
+        "A": "Thursday – 8: 45 AM",
+        "B": "Thursday – 12: 45 PM",
+        "C": "Friday – 8: 45 AM",
+        "D": "Friday – 12: 45 PM",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "|        | 08:45 am | 12:45 pm | |--------|----------|----------| | Monday | Priyank  | Ankit    | | Tuesday| Shubham  | Aman     | | Wednesday| Akshay | Raja     | | Thursday| Ajay    | Raman    | | Friday | Rahul    | Tarun    |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00197",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254201",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q164",
+      "question_number": 164,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Ten Managers namely Raman, Ankit, Raja, Aman, Akshay, Ajay, Priyank, Rahul, Shubham and Tarun from an MNC have meeting on five different days starting from Monday to Friday of the same week but not necessarily in the same order. Managers have meeting at two different time slots 08:45 AM and 12:45 PM. Shubham has a meeting on Tuesday at 08:45 AM. The number of people who have meeting between Priyank and Aman is the same as the number of people who have the meeting between Raja and Rahul. Ankit has the meeting on the day immediately before Shubham. Shubham does not have meeting on any of the days before Priyank. There is one manager who has meeting at 08:45 AM immediately before Tarun. Rahul does not have meeting at 12:45 PM. Aman does not have meeting on any day after Akshay. Only three people have meeting between Priyank and Akshay. Neither Priyank nor Akshay has any meeting on Friday. Only 2 people have meeting between Ajay and Tarun. Ajay does not have any meeting on any of the day after Rahul. How many people have meeting between Raman and Shubham?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "Can’t be determined",
+        "E": "None of these"
+      },
+      "correct_answer": "E",
+      "explanation": "|        | 08:45 am | 12:45 pm | |--------|----------|----------| | Monday | Priyank  | Ankit    | | Tuesday| Shubham  | Aman     | | Wednesday| Akshay | Raja     | | Thursday| Ajay    | Raman    | | Friday | Rahul    | Tarun    |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00198",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254202",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q165",
+      "question_number": 165,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Ten Managers namely Raman, Ankit, Raja, Aman, Akshay, Ajay, Priyank, Rahul, Shubham and Tarun from an MNC have meeting on five different days starting from Monday to Friday of the same week but not necessarily in the same order. Managers have meeting at two different time slots 08:45 AM and 12:45 PM. Shubham has a meeting on Tuesday at 08:45 AM. The number of people who have meeting between Priyank and Aman is the same as the number of people who have the meeting between Raja and Rahul. Ankit has the meeting on the day immediately before Shubham. Shubham does not have meeting on any of the days before Priyank. There is one manager who has meeting at 08:45 AM immediately before Tarun. Rahul does not have meeting at 12:45 PM. Aman does not have meeting on any day after Akshay. Only three people have meeting between Priyank and Akshay. Neither Priyank nor Akshay has any meeting on Friday. Only 2 people have meeting between Ajay and Tarun. Ajay does not have any meeting on any of the day after Rahul. Whose meeting is on Friday?",
+      "options": {
+        "A": "Rahul and Tarun",
+        "B": "Raman and Ajay",
+        "C": "Rahul and Raman",
+        "D": "Either 2 or 3",
+        "E": "None of these"
+      },
+      "correct_answer": "A",
+      "explanation": "|        | 08:45 am | 12:45 pm | |--------|----------|----------| | Monday | Priyank  | Ankit    | | Tuesday| Shubham  | Aman     | | Wednesday| Akshay | Raja     | | Thursday| Ajay    | Raman    | | Friday | Rahul    | Tarun    |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00199",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254203",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q166",
+      "question_number": 166,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Ten Managers namely Raman, Ankit, Raja, Aman, Akshay, Ajay, Priyank, Rahul, Shubham and Tarun from an MNC have meeting on five different days starting from Monday to Friday of the same week but not necessarily in the same order. Managers have meeting at two different time slots 08:45 AM and 12:45 PM. Shubham has a meeting on Tuesday at 08:45 AM. The number of people who have meeting between Priyank and Aman is the same as the number of people who have the meeting between Raja and Rahul. Ankit has the meeting on the day immediately before Shubham. Shubham does not have meeting on any of the days before Priyank. There is one manager who has meeting at 08:45 AM immediately before Tarun. Rahul does not have meeting at 12:45 PM. Aman does not have meeting on any day after Akshay. Only three people have meeting between Priyank and Akshay. Neither Priyank nor Akshay has any meeting on Friday. Only 2 people have meeting between Ajay and Tarun. Ajay does not have any meeting on any of the day after Rahul. Which of the following statement is definitely false?",
+      "options": {
+        "A": "Shubham has meeting on Tuesday",
+        "B": "Aman has meeting on Tuesday",
+        "C": "Rahul has meeting on Friday",
+        "D": "Ajay has meeting on Monday",
+        "E": "All are true"
+      },
+      "correct_answer": "D",
+      "explanation": "|        | 08:45 am | 12:45 pm | |--------|----------|----------| | Monday | Priyank  | Ankit    | | Tuesday| Shubham  | Aman     | | Wednesday| Akshay | Raja     | | Thursday| Ajay    | Raman    | | Friday | Rahul    | Tarun    |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00200",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254204",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q167",
+      "question_number": 167,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Who among the following person lives on floor number 7?",
+      "options": {
+        "A": "The one who was born in 1990",
+        "B": "The one who was born in 1976",
+        "C": "The one who was born in 1987",
+        "D": "The one who was born in 2000",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": "C",
+      "explanation": "| Floor | Person | Age | Marks | | --- | --- | --- | --- | | 12 | B | 30 | 64 | | 11 | J | 33 | 48 | | 10 | I | 55 | 55 | | 9 | G | 31 | 90 | | 8 | E | 17 | 80 | | 7 | K | 23/22 | 83/84 | | 6 | L | 23/22 | 83/84 | | 5 | F | 20 | 59 | | 4 | C | 44 | 70 | | 3 | H | 15 | 25 | | 2 | A | 53 | 75 | | 1 | D | 48 | 76 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00255",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254265",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q168",
+      "question_number": 168,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. How many persons are older than the one who lives on floor number 4?",
+      "options": {
+        "A": "Three",
+        "B": "Four",
+        "C": "Two",
+        "D": "One",
+        "E": "None"
+      },
+      "correct_answer": "A",
+      "explanation": "| Floor | Person | Age | Marks | | --- | --- | --- | --- | | 12 | B | 30 | 64 | | 11 | J | 33 | 48 | | 10 | I | 55 | 55 | | 9 | G | 31 | 90 | | 8 | E | 17 | 80 | | 7 | K | 23/22 | 83/84 | | 6 | L | 23/22 | 83/84 | | 5 | F | 20 | 59 | | 4 | C | 44 | 70 | | 3 | H | 15 | 25 | | 2 | A | 53 | 75 | | 1 | D | 48 | 76 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00256",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254266",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q169",
+      "question_number": 169,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Four of the five among the following are similar in such a way to form a group, who among the following doesn’t belong to the group?",
+      "options": {
+        "A": "The one who was born in 1965",
+        "B": "The one who was born in 1972",
+        "C": "The one who was born in 1989",
+        "D": "The one who was born in 1998",
+        "E": "The one who was born in 2003"
+      },
+      "correct_answer": "D",
+      "explanation": "| Floor | Person | Age | Marks | | --- | --- | --- | --- | | 12 | B | 30 | 64 | | 11 | J | 33 | 48 | | 10 | I | 55 | 55 | | 9 | G | 31 | 90 | | 8 | E | 17 | 80 | | 7 | K | 23/22 | 83/84 | | 6 | L | 23/22 | 83/84 | | 5 | F | 20 | 59 | | 4 | C | 44 | 70 | | 3 | H | 15 | 25 | | 2 | A | 53 | 75 | | 1 | D | 48 | 76 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00257",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254267",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q170",
+      "question_number": 170,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. What is the difference between the ages of F and H?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20",
+        "E": "25"
+      },
+      "correct_answer": "B",
+      "explanation": "| Floor | Person | Age | Marks | | --- | --- | --- | --- | | 12 | B | 30 | 64 | | 11 | J | 33 | 48 | | 10 | I | 55 | 55 | | 9 | G | 31 | 90 | | 8 | E | 17 | 80 | | 7 | K | 23/22 | 83/84 | | 6 | L | 23/22 | 83/84 | | 5 | F | 20 | 59 | | 4 | C | 44 | 70 | | 3 | H | 15 | 25 | | 2 | A | 53 | 75 | | 1 | D | 48 | 76 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00258",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254269",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q171",
+      "question_number": 171,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Twelve people A, B, C, D, E, F, G, H, I, J, K, and L live on twelve different floors of the same building. The ground floor of the building is numbered 1, the floor immediately above the ground floor is numbered 2, and so on. The twelve people were born in the years 1965, 1967, 1972, 1976, 1987, 1989, 1990, 1997, 1998, 2000, 2003, and 2005 but not necessarily in the same order. Calculate their ages with reference to the year 2020. Who among the following person was born in 1997?",
+      "options": {
+        "A": "A",
+        "B": "C",
+        "C": "E",
+        "D": "G",
+        "E": "Cannot be determined"
+      },
+      "correct_answer": "D",
+      "explanation": "| Floor | Person | Age | Marks | | --- | --- | --- | --- | | Floor | Person | Age | Marks | | 12 | B | 30 | 64 | | 11 | J | 33 | 48 | | 10 | I | 55 | 55 | | 9 | G | 31 | 90 | | 8 | E | 17 | 80 | | 7 | K | 23/22 | 83/84 | | 6 | L | 23/22 | 83/84 | | 5 | F | 20 | 59 | | 4 | C | 44 | 70 | | 3 | H | 15 | 25 | | 2 | A | 53 | 75 | | 1 | D | 48 | 76 |",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00259",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254270",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q178",
+      "question_number": 178,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Who among the following person visited in the month of August?",
+      "options": {
+        "A": "B",
+        "B": "The one who visited immediately after the one who likes Orange",
+        "C": "K",
+        "D": "The one who visited immediately before the one who likes Red.",
+        "E": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "| Month | Name | Colour | | --- | --- | --- | | Jan | Q | Black | | Mar | B | Pink | | Apr | M | Green | | Jul | W | White | | Aug | C | Blue | | Sep | K | Orange | | Oct | Z | Brown | | Nov | G | Red | | Dec | T | Yellow |",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00265",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254276",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q179",
+      "question_number": 179,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Who among the following person likes Yellow?",
+      "options": {
+        "A": "Z",
+        "B": "The one who visited immediately after the one who likes Orange",
+        "C": "K",
+        "D": "The one who visited immediately before the one who likes Red.",
+        "E": "None of these"
+      },
+      "correct_answer": "E",
+      "explanation": "| Month | Name | Colour | | --- | --- | --- | | Jan | Q | Black | | Mar | B | Pink | | Apr | M | Green | | Jul | W | White | | Aug | C | Blue | | Sep | K | Orange | | Oct | Z | Brown | | Nov | G | Red | | Dec | T | Yellow |",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00266",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254278",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q180",
+      "question_number": 180,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Who among the following person likes Green?",
+      "options": {
+        "A": "B",
+        "B": "The one who visited three persons after Q",
+        "C": "The one who visited two persons before C",
+        "D": "Either B or C",
+        "E": "G"
+      },
+      "correct_answer": "C",
+      "explanation": "| Month | Name | Colour | | --- | --- | --- | | Jan | Q | Black | | Mar | B | Pink | | Apr | M | Green | | Jul | W | White | | Aug | C | Blue | | Sep | K | Orange | | Oct | Z | Brown | | Nov | G | Red | | Dec | T | Yellow |",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00267",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254279",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q182",
+      "question_number": 182,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Who among the following person likes Red?",
+      "options": {
+        "A": "T",
+        "B": "The one who visited immediately after the one who likes Black",
+        "C": "The one who visited immediately before the one who likes Blue",
+        "D": "Either (a) or (c)",
+        "E": "None of these"
+      },
+      "correct_answer": "B",
+      "explanation": "| Month | Name | Colour | | --- | --- | --- | | Jan | Q | Black | | Mar | B | Pink | | Apr | M | Green | | Jul | W | White | | Aug | C | Blue | | Sep | K | Orange | | Oct | Z | Brown | | Nov | G | Red | | Dec | T | Yellow |",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00268",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254280",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q183",
+      "question_number": 183,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Nine persons – B, C, G, K, M, Q, T, W, and Z visited a tourist place during nine different months viz.- January, March, April, July, August, September, October, November, and December in a year, but not necessarily in the same order. Which of the following combination is not true?",
+      "options": {
+        "A": "B – April – Red",
+        "B": "C – March – Orange",
+        "C": "G – July – Yellow",
+        "D": "K – September – Green",
+        "E": "M – January – Black"
+      },
+      "correct_answer": "D",
+      "explanation": "| Month | Name | Colour | | --- | --- | --- | | Jan | Q | Black | | Mar | B | Pink | | Apr | M | Green | | Jul | W | White | | Aug | C | Blue | | Sep | K | Orange | | Oct | Z | Brown | | Nov | G | Red | | Dec | T | Yellow |",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Scheduling Puzzle",
+      "topic": "Day/Month Puzzle",
+      "question_id": "REASONING_00269",
+      "main_category": "Puzzles & Seating Arrangements",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254281",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

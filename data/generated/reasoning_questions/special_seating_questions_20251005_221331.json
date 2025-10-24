@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "special_seating_arrangement_001",
+    "question": "Four friends, A, B, C, and D, are sitting at a square table, one on each side, facing the center. A sits on the north side, B sits opposite A. D sits to the left of C. Who sits on the east side?",
+    "options": {
+      "A": "C",
+      "B": "D",
+      "C": "A",
+      "D": "B",
+      "E": "None of these"
+    },
+    "correct_answer": "B",
+    "explanation": "A sits on the north side, so B must sit on the south side. D sits to the left of C, so C must be on the west side, and D on the east side. Hence, D sits on the east side.",
+    "difficulty": "Easy",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_002",
+    "question": "Eight people, P, Q, R, S, T, U, V, and W, are sitting around a square table in such a way that two sit on each side. Some are facing the center, and others are facing outside. U sits second to the right of Q, who faces the center. P is not an immediate neighbor of U or Q. V sits third to the left of P. R sits second to the right of T, who faces the center. S sits opposite to V, who faces outside. Who sits to the immediate right of R?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "S",
+      "D": "V",
+      "E": "W"
+    },
+    "correct_answer": "E",
+    "explanation": "U is second to the right of Q, who faces the center. Given the constraints, W sits to the immediate right of R, based on deductions from the seating arrangement.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_003",
+    "question": "Six friends, A, B, C, D, E, and F, are sitting around a triangular table with two people on each side. The ones sitting at the corners are facing outside while those sitting in the middle of the sides are facing the center. A sits at a corner and F sits in the middle of a side. B is not an immediate neighbor of F and sits opposite D. E sits to the immediate right of C. Who sits to the immediate left of D?",
+    "options": {
+      "A": "A",
+      "B": "C",
+      "C": "E",
+      "D": "F",
+      "E": "B"
+    },
+    "correct_answer": "C",
+    "explanation": "Given the conditions, A sits at one corner, F in the middle, and E sits immediately to the right of C. D sits opposite B. Thus, E is to the immediate left of D.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_004",
+    "question": "Twelve people are sitting around a hexagonal table with two on each side. The table has six corners, and the people at the corners are facing the center, while others face outside. A, B, C, D, E, F, G, H, I, J, K, and L are sitting such that A sits second to the right of D. G sits third to the left of J, who is not an immediate neighbor of D. C sits opposite to F and is third to the right of K. E sits at one of the corners, and B is not an immediate neighbor of H. Who is sitting opposite to L?",
+    "options": {
+      "A": "J",
+      "B": "I",
+      "C": "K",
+      "D": "A",
+      "E": "B"
+    },
+    "correct_answer": "A",
+    "explanation": "Placing the given conditions, you determine positions step-by-step: L sits at a corner, with J sitting opposite due to G's placement and subsequent calculations.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_005",
+    "question": "Fifteen people are divided into three groups of five, each group sitting at a separate rectangular table. The first table has people sitting with all facing the center, the second has all facing outside, and the third has mixed directions. At the first table, M sits opposite to N. At the second table, O is second to the right of P. At the third table, Q sits diagonally opposite to R, who sits on a corner. S is an immediate neighbor of T at the first table and sits directly opposite to U at the second table. Who is sitting diagonally opposite to V at the third table?",
+    "options": {
+      "A": "W",
+      "B": "X",
+      "C": "Y",
+      "D": "Z",
+      "E": "O"
+    },
+    "correct_answer": "B",
+    "explanation": "After arranging the three tables and considering each position, it is deduced that X is diagonally opposite to V at the third table based on all given clues and deductions.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_006",
+    "question": "Four friends, A, B, C, and D, are sitting at a square table, one on each side. They are all facing the center. A is sitting to the west of B. C is sitting to the south of D. Who is sitting on the north side?",
+    "options": {
+      "A": "D",
+      "B": "C",
+      "C": "B",
+      "D": "A",
+      "E": "Cannot be determined"
+    },
+    "correct_answer": "B",
+    "explanation": "If A is sitting to the west of B, B must be on the east side. Given C is south of D, D must be on the north side, and C is on the south side. Therefore, B is on the east, C on the south, D on the north, and A on the west.",
+    "difficulty": "Easy",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_007",
+    "question": "Eight people (P, Q, R, S, T, U, V, W) are sitting around a square table with two people on each side. All are facing outward. P is sitting second to the left of Q. R and T are sitting opposite to each other. S is on the immediate right of U, who is not next to T. Who is sitting to the immediate left of V?",
+    "options": {
+      "A": "R",
+      "B": "U",
+      "C": "W",
+      "D": "S",
+      "E": "P"
+    },
+    "correct_answer": "D",
+    "explanation": "After arranging the seats based on the given conditions, we find that S is to the immediate left of V. P and Q can be arranged such that P is second to the left of Q, while R and T are opposite. With U not next to T, the arrangement becomes clear.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_008",
+    "question": "Eight friends (A, B, C, D, E, F, G, and H) are sitting around a rectangular table with three on the longer sides and two on the shorter sides. They face inward. A sits at one of the shorter sides with E sitting opposite. C is not sitting at any corner. B and G are on the same side. H sits at a corner between F and G. Where does D sit?",
+    "options": {
+      "A": "Next to A",
+      "B": "Opposite C",
+      "C": "Next to H",
+      "D": "Opposite B",
+      "E": "Next to E"
+    },
+    "correct_answer": "D",
+    "explanation": "By arranging based on the conditions, D can only fit opposite B. E is opposite A on the shorter sides. C not being at a corner means it takes one of the mid-longer side positions, with B and G sharing a side. H at a corner between F and G fixes the positions.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_009",
+    "question": "Twelve people are sitting in a rectangular arrangement with four on each longer side and two on each shorter side. Some are facing inward while others outward. K is sitting opposite L, facing inside. M is sitting on the shorter side next to N, who is facing outside. O is two seats away from K. P sits opposite M. Who is sitting to the immediate left of K?",
+    "options": {
+      "A": "O",
+      "B": "N",
+      "C": "J",
+      "D": "M",
+      "E": "Q"
+    },
+    "correct_answer": "C",
+    "explanation": "Using the conditions, place K facing inward opposite L. M and P are opposite with N next to M. O is two seats from K and can be placed. After arranging, J is found to be to the left of K.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_010",
+    "question": "At a hexagonal table with six people (X, Y, Z, A1, A2, and A3), X is facing the center. Y is two places to the left of Z. A2 sits opposite X. A3 is not next to Z. A1 is sitting directly opposite Y. Who sits immediately to the right of A2?",
+    "options": {
+      "A": "Z",
+      "B": "A3",
+      "C": "Y",
+      "D": "A1",
+      "E": "X"
+    },
+    "correct_answer": "A",
+    "explanation": "Place X facing the center. A2 sits opposite X. With A1 directly opposite Y and Y two places from Z, resolve positions with A3 not next to Z. This places Z immediately to the right of A2.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_011",
+    "question": "Four friends, A, B, C, and D, are sitting at a square table with one person on each side. All are facing towards the center. A is sitting to the immediate left of B. C is not sitting opposite to A. Who is sitting opposite to D?",
+    "options": {
+      "A": "B",
+      "B": "C",
+      "C": "A",
+      "D": "C or B",
+      "E": "None of these"
+    },
+    "correct_answer": "A",
+    "explanation": "Given the conditions: 1) A is to the immediate left of B. 2) C is not opposite A. Arrange them: A sits on one side, B on the next (immediate right), then D, and finally C on the last side. Hence, B sits opposite D.",
+    "difficulty": "Easy",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_012",
+    "question": "Eight friends are sitting around a square table in such a way that there are two people on each side, and they are facing the center. P is sitting second to the left of Q. R is sitting opposite to Q. S is sitting next to P. Who is sitting to the immediate right of S?",
+    "options": {
+      "A": "Q",
+      "B": "P",
+      "C": "T",
+      "D": "U",
+      "E": "V"
+    },
+    "correct_answer": "C",
+    "explanation": "Positioning Q, R, and P based on the conditions, then S next to P, we find T is immediately right of S when facing the center.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_013",
+    "question": "Eight friends are sitting around a rectangular table with two on each long side and one on each short side. Everyone is facing the center. P and Q are sitting on the same side. R is sitting diagonally opposite to P. S is sitting next to R. T is sitting between P and Q. Who is sitting opposite to S?",
+    "options": {
+      "A": "Q",
+      "B": "P",
+      "C": "U",
+      "D": "V",
+      "E": "T"
+    },
+    "correct_answer": "D",
+    "explanation": "Following the seating arrangement logic and placing P, Q, and T on the same side, R diagonally opposite to P, we find V is directly opposite S.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_014",
+    "question": "Twelve people are sitting at a large rectangular table with three on each long side and two on each short side. Some are facing center and some are facing outward. A is sitting facing center and directly opposite B who faces outward. C is sitting to the right of A. D is diagonally opposite to E who is facing center. Who is sitting to the left of E?",
+    "options": {
+      "A": "F",
+      "B": "G",
+      "C": "H",
+      "D": "I",
+      "E": "J"
+    },
+    "correct_answer": "B",
+    "explanation": "Placing A opposite B, and following other conditions to position C, D, E, etc., G is found to be to the left of E.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_015",
+    "question": "Twelve friends are sitting in a hexagonal arrangement, each at a corner or side. Some face inward, others outward. P sits at a corner facing inward. Q is two places left of P, facing outward. R sits opposite P. S and T sit facing each other. Who sits between R and Q?",
+    "options": {
+      "A": "U",
+      "B": "V",
+      "C": "W",
+      "D": "X",
+      "E": "Y"
+    },
+    "correct_answer": "B",
+    "explanation": "Arranging based on P's position, with Q two places left and R opposite, the sequence gives V sitting between R and Q.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_016",
+    "question": "Four friends, A, B, C, and D, sit at a square table, one person per side, all facing outward. Here are the conditions: 1) A sits opposite to B. 2) C sits to the left of D. Who sits to the right of A?",
+    "options": {
+      "A": "C",
+      "B": "D",
+      "C": "B",
+      "D": "A",
+      "E": "None of these"
+    },
+    "correct_answer": "B",
+    "explanation": "Since A sits opposite B, they must be on opposite sides. C sits to the left of D, meaning when facing outward, if D is on the north side, C is on the west side. Hence, D must be to the right of A, making A sit on the south side and D on the west side.",
+    "difficulty": "Easy",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_017",
+    "question": "Eight people: A, B, C, D, E, F, G, and H are sitting around a square table with two people on each side, some facing inward and some facing outward. The conditions are: 1) A sits on the corner facing inward. 2) C sits opposite to E. 3) D sits immediately left of E. 4) F sits between G and H. 5) A sits third to the right of F. Who sits to the immediate right of G?",
+    "options": {
+      "A": "B",
+      "B": "D",
+      "C": "E",
+      "D": "H",
+      "E": "None of these"
+    },
+    "correct_answer": "D",
+    "explanation": "F sits between G and H, and A sits third to the right of F facing inward. After arranging based on these conditions and others, G sits opposite A, with H to the immediate right of G.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_018",
+    "question": "Eight friends: P, Q, R, S, T, U, V, and W are sitting in a square formation with two on each side, facing both inward and outward. The following conditions apply: 1) P sits directly opposite U, 2) R and T are neighbors but T faces inward and R faces outward, 3) Q sits to the left of S, 4) V is not facing the same direction as W. Where is V seated?",
+    "options": {
+      "A": "Next to P",
+      "B": "Next to T",
+      "C": "Next to W",
+      "D": "Next to U",
+      "E": "None of these"
+    },
+    "correct_answer": "C",
+    "explanation": "Given the positions and directions, V must sit next to W. P opposite U and other conditions help place the others appropriately, confirming V next to W with opposite direction.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_019",
+    "question": "Twelve colleagues are seated around a rectangular table with three on each side. Some face inward, others outward. The clues are: 1) A sits exactly opposite D. 2) E sits to the immediate right of A. 3) G is opposite F but not at the corners. 4) B and C sit together facing the same direction. 5) H is to the left of J but both face opposite directions. Who sits directly opposite J?",
+    "options": {
+      "A": "C",
+      "B": "A",
+      "C": "H",
+      "D": "D",
+      "E": "E"
+    },
+    "correct_answer": "D",
+    "explanation": "From the given conditions, B and C face the same direction next to each other. A is opposite D, meaning E is beside A. G and F are opposite on the longer side. With H to the left of J, D is opposite J.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_020",
+    "question": "Thirteen people: A, B, C, D, E, F, G, H, I, J, K, L, and M are arranged at a hexagonal table, two per side, facing either towards or away from the center. Conditions are: 1) A sits third to the right of B. 2) D is not a neighbor of A. 3) F and G sit together but face opposite directions. 4) E and I are exactly opposite. 5) K is between L and M, facing away from the center. Who sits to the immediate left of G?",
+    "options": {
+      "A": "F",
+      "B": "D",
+      "C": "H",
+      "D": "J",
+      "E": "C"
+    },
+    "correct_answer": "C",
+    "explanation": "Using given clues, place each person by elimination. F and G are together; A sits third to the right of B; L and M must be on the same side as K. G has F to one side, making H to the left when facing outward.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_021",
+    "question": "Four friends, A, B, C, and D, are sitting at a square table with one person on each side, all facing the center. A sits on the north side. B sits opposite D. Who sits on the west side?",
+    "options": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D",
+      "E": "None of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Since A is on the north side, D must be on the south side (opposite A). B sits opposite D, so B is on the north side. Hence, C must sit on the west side.",
+    "difficulty": "Easy",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_022",
+    "question": "Eight people - P, Q, R, S, T, U, V, and W - are sitting around a square table with two people on each side. Some are facing inward and some are facing outward. P sits second to the left of Q, who faces inward. R sits third to the right of P and faces outward. S, who faces inward, sits on the immediate left of R. U sits opposite V. W sits third to the left of T. Who sits to the immediate right of V?",
+    "options": {
+      "A": "S",
+      "B": "Q",
+      "C": "P",
+      "D": "R",
+      "E": "U"
+    },
+    "correct_answer": "C",
+    "explanation": "By processing the positions with given facing directions and ensuring oppositions, the arrangement leads to P sitting to the immediate right of V.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_023",
+    "question": "Seven friends - A, B, C, D, E, F, and G - are sitting around a triangular table with three seats per side and one corner empty. A sits at one corner, and C sits second to the left of A. G sits second to the right of C. D and B are neighbors, but neither is adjacent to A. F sits at a corner. Who is sitting at the empty corner?",
+    "options": {
+      "A": "B",
+      "B": "C",
+      "C": "D",
+      "D": "E",
+      "E": "G"
+    },
+    "correct_answer": "A",
+    "explanation": "Determining positions based on neighbor and corner constraints, B is found to be at the empty corner as others are arranged around the triangle.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_024",
+    "question": "Twelve people are sitting around a rectangular table with three people on each side. Facing directions are mixed. A and B are on the same side, with A facing inward and sitting to the immediate right of B. C is opposite B and faces outward. D sits diagonally opposite A. E sits at one of the corners and faces outward. F sits second to the right of E. G is sitting on the same side as F but faces inward. H sits opposite G and faces outward. Who sits immediately to the left of D?",
+    "options": {
+      "A": "F",
+      "B": "G",
+      "C": "H",
+      "D": "I",
+      "E": "J"
+    },
+    "correct_answer": "E",
+    "explanation": "Using the configuration given and facing directions, E sits immediately to the left of D when arranged correctly around the table.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_025",
+    "question": "A hexagonal table has six people, one on each side, with mixed directions. Person 1 sits facing outward, opposite to Person 4. Person 2 sits to the immediate right of Person 1 and faces inward. Person 5 is opposite Person 6, who faces outward and sits to the immediate left of Person 3. Who is sitting two positions to the right of Person 2?",
+    "options": {
+      "A": "Person 3",
+      "B": "Person 4",
+      "C": "Person 5",
+      "D": "Person 6",
+      "E": "Person 1"
+    },
+    "correct_answer": "D",
+    "explanation": "Arranging the people based on oppositions and immediate directions, Person 6 ends up being two positions to the right of Person 2.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_026",
+    "question": "Four friends, A, B, C, and D, are sitting at a square table, one on each side, facing the center. The following conditions apply: 1) A sits directly opposite B. 2) C sits to the right of D. 3) D is not sitting on the east side. Who is sitting on the north side?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "Cannot be determined"
+    },
+    "correct_answer": "C",
+    "explanation": "Since A sits opposite B, they can either be North-South or East-West. Given C is to the right of D and D is not on the east side, D must be on the west side and C on the north side. Thus, A and B must sit on the south and east sides respectively.",
+    "difficulty": "Easy",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_027",
+    "question": "Eight people are seated around a square table, two per side, facing outward. Conditions: 1) M sits to the immediate left of N. 2) O sits opposite P. 3) Q is not adjacent to R. 4) S sits diagonally opposite T. 5) N sits on the west side. Who is directly opposite M?",
+    "options": {
+      "A": "O",
+      "B": "P",
+      "C": "Q",
+      "D": "R",
+      "E": "S"
+    },
+    "correct_answer": "B",
+    "explanation": "With N on the west and M immediately to N’s left, M must sit on the south side. O opposite P means they are on the east and west, or north and south. S opposite T allows M and N to be placed with S or T. The remaining arrangement with all conditions satisfied means P is opposite M.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_028",
+    "question": "Eight people sit at a rectangular table, four on each long side, all facing the center. Conditions: 1) U sits at one of the corners. 2) V sits opposite W. 3) X sits next to Y and is two seats away from Z. 4) U sits next to W but not next to X. Who is directly opposite to Y?",
+    "options": {
+      "A": "U",
+      "B": "V",
+      "C": "Z",
+      "D": "W",
+      "E": "Cannot be determined"
+    },
+    "correct_answer": "B",
+    "explanation": "U at a corner with V opposite W suggests a setup where W and U are on opposite sides with U next to W, but not X. This arrangement allows X and Y to sit together with W and U spaced accordingly, placing V directly opposite Y.",
+    "difficulty": "Medium",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_029",
+    "question": "Twelve people are seated at a rectangular table, three on each side. Conditions: 1) A sits two seats away from B. 2) C is opposite D. 3) E is two seats away from F on the same side. 4) G is to the immediate left of H. 5) B is opposite I. 6) J is diagonally opposite K. Where does L sit in relation to G?",
+    "options": {
+      "A": "Next to G",
+      "B": "Opposite G",
+      "C": "Two seats away from G",
+      "D": "Diagonally opposite G",
+      "E": "Cannot be determined"
+    },
+    "correct_answer": "C",
+    "explanation": "The layout has A and B positioned with a gap, C opposite D, and arrangements placing E and F on the same side. G and H's position to each other allows B opposite I. With J and K diagonally positioned, L ends up two seats from G.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "special_seating_arrangement_030",
+    "question": "Sixteen people are seated at a hexagonal table, four on each side. Conditions: 1) M is opposite N. 2) O is two places to the right of P. 3) Q and R are diagonally opposite. 4) S sits directly opposite T. 5) U sits between V and W. 6) X is three places from Y. Which side does Z sit?",
+    "options": {
+      "A": "With M",
+      "B": "With P",
+      "C": "With R",
+      "D": "With U",
+      "E": "With Y"
+    },
+    "correct_answer": "E",
+    "explanation": "The hexagonal setup requires logical placement where conditions 1-6 are met. Given opposites and diagonal placements, Z logically aligns on the same side as Y due to the three places condition with X and complex interdependencies with V, W, and U.",
+    "difficulty": "Hard",
+    "topic": "Special Seating",
+    "reasoning_topic": "Special Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

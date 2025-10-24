@@ -1,0 +1,722 @@
+[
+  {
+    "question_id": "scheduling_puzzle_001",
+    "question": "Five employees - Alex, Brooke, Casey, Dylan, and Evan - have presentations scheduled on five consecutive days from Monday to Friday. The following conditions must be satisfied: \n1. Alex's presentation is on Monday.\n2. Casey's presentation is two days after Brooke's.\n3. Dylan's presentation is the day before Evan's.\n4. Evan's presentation is not on Friday.\nWho gives their presentation on Tuesday?",
+    "options": {
+      "A": "Brooke",
+      "B": "Alex",
+      "C": "Casey",
+      "D": "Dylan",
+      "E": "Evan"
+    },
+    "correct_answer": "A",
+    "explanation": "Alex is on Monday, and Dylan is a day before Evan. Evan is not on Friday, so Evan is on Thursday and Dylan on Wednesday. Casey is two days after Brooke, hence Brooke must be on Tuesday and Casey on Thursday. Thus, Brooke gives her presentation on Tuesday.",
+    "difficulty": "Easy",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_002",
+    "question": "Seven friends - Gary, Helen, Irene, James, Kevin, Lisa, and Mona - visit a library on different days of the same week, starting from Monday to Sunday. Each of them also reads a unique book: A, B, C, D, E, F, and G. Consider the following conditions:\n1. Gary visits before Mona but after Lisa.\n2. Kevin visits on Wednesday.\n3. The person who reads book D visits on Friday.\n4. Irene visits the day before the person who reads book C.\n5. Helen visits after the person who reads book F.\n6. James reads book B.\n7. The person who visits on Sunday reads book G.\nWho reads book A?",
+    "options": {
+      "A": "Mona",
+      "B": "Gary",
+      "C": "Helen",
+      "D": "Irene",
+      "E": "Lisa"
+    },
+    "correct_answer": "D",
+    "explanation": "Kevin visits on Wednesday. Book D is read on Friday, hence Helen must visit before Friday. Lisa visits on Monday, followed by Gary on Tuesday. Irene visits on Thursday and reads book A, which is before the book C reader on Friday. Mona visits on Saturday, Helen on Sunday reading book G.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_003",
+    "question": "Eight people - Alan, Beth, Carl, Dana, Ed, Finn, Gina, and Hanna - attend workshops across eight distinct time slots, Monday to Sunday, with an extra slot on Monday afternoon. The following conditions apply:\n1. Alan attends after Dana but before Beth.\n2. Carl and Finn attend on the same day, Finn's workshop is in the afternoon.\n3. Ed's session is not on Tuesday.\n4. Gina attends immediately before Hanna.\n5. The Monday afternoon slot is taken by someone whose name starts with a vowel.\n6. Dana attends on Friday.\n7. Hanna attends the day before Carl and Finn.\nWhich day does Beth attend?",
+    "options": {
+      "A": "Monday",
+      "B": "Wednesday",
+      "C": "Friday",
+      "D": "Sunday",
+      "E": "Saturday"
+    },
+    "correct_answer": "E",
+    "explanation": "Dana is on Friday. Alan after Dana, but before Beth, suggests Beth on Saturday. Carl and Finn on the same day with Finn in the afternoon, likely Monday if not Tuesday (due to Ed), and Gina-Hanna sequence means Hanna on Monday, making Carl and Finn on Tuesday. Ed slots in on Sunday.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_004",
+    "question": "In a two-week schedule, 10 projects labeled A through J are planned, with each project starting on a distinct day. Each project lasts exactly one day. The two weeks start on a Monday. The following rules must be followed:\n1. Project A starts on the first Monday.\n2. Project B starts after Project D, but not on the same week as Project A.\n3. Project E starts on the day after Project F.\n4. Project G starts two days before Project H, which starts two days before Project I.\n5. Project J starts after Project C but on a Tuesday.\nWhich day does Project G start?",
+    "options": {
+      "A": "Wednesday, Week 1",
+      "B": "Thursday, Week 1",
+      "C": "Friday, Week 1",
+      "D": "Monday, Week 2",
+      "E": "Tuesday, Week 2"
+    },
+    "correct_answer": "D",
+    "explanation": "Project A starts on Monday of Week 1. Project B is after D in Week 2. Project E is after F on consecutive days, so they fit in Week 1. Project G is two days before H, which is two days before I, placing G on Monday Week 2. Project J is on the Tuesday after C, fitting with the second week constraint.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_005",
+    "question": "Nine conferences are planned for a technology summit, taking place over three months: April, May, and June. Each month sees conferences held on the 5th, 15th, and 25th. The following conditions must be respected:\n1. The AI conference is on the same date as the Networking conference but in the following month.\n2. The Cybersecurity conference is on April 5th.\n3. The Blockchain conference is held two days before the Data Science conference in any given month.\n4. The IoT conference is after the Cloud Computing conference, but in the same month.\n5. The VR conference and the Robotics conference are held in consecutive months, but not the same month as AI.\n6. The AI conference is not in June.\nOn which date is the Data Science conference held?",
+    "options": {
+      "A": "April 25",
+      "B": "May 25",
+      "C": "June 25",
+      "D": "May 15",
+      "E": "June 5"
+    },
+    "correct_answer": "A",
+    "explanation": "The AI conference is in May on the 15th, followed by Networking in June on the 15th. Cybersecurity on April 5th, placing Blockchain and Data Science in April on 23rd and 25th respectively. IoT and Cloud Computing can fit in May 5th and 25th or June 5th, dependent on earlier placements. VR/Robotics can be adjusted accordingly, fitting the only available slot for the latter conferences.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_006",
+    "question": "Five friends (Amy, Ben, Cara, Dan, and Eva) decided to meet once during the weekdays (Monday to Friday). Each one meets on a different day. The conditions are as follows: 1) Ben meets before Dan. 2) Cara meets two days after Amy. 3) Eva meets on Wednesday. On which day does Dan meet?",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "Friday"
+    },
+    "correct_answer": "E",
+    "explanation": "Eva meets on Wednesday. Amy must meet on Monday for Cara to meet two days later on Wednesday. Ben meets before Dan, so Ben meets on Tuesday, allowing Dan to meet on Friday.",
+    "difficulty": "Easy",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_007",
+    "question": "Seven tasks (T1, T2, T3, T4, T5, T6, T7) are to be completed over a week (Monday to Sunday). The following conditions must be met: 1) T1 must be completed before T5. 2) T3 must be completed on Monday or Tuesday. 3) T6 is completed the day after T3. 4) T4 is completed on a weekend day. 5) T2 must be completed on Wednesday. Which task is completed on Sunday?",
+    "options": {
+      "A": "T1",
+      "B": "T3",
+      "C": "T4",
+      "D": "T5",
+      "E": "T7"
+    },
+    "correct_answer": "E",
+    "explanation": "T3 can only be completed on Monday, making T6 on Tuesday, and T2 on Wednesday. T1 before T5 could be Thursday or Friday. T4 is on a weekend, either Saturday or Sunday, so T7 is completed on Sunday.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_008",
+    "question": "Eight employees (P, Q, R, S, T, U, V, W) must each conduct a training session over eight consecutive days, starting from 1st October to 8th October. The conditions are: 1) P's session is 3 days after Q's. 2) R conducts his session immediately after S. 3) T and U conduct their sessions on consecutive days, with T ahead of U. 4) V's session is on 5th October. 5) W's session is 2 days after P's. On which day does S conduct his session?",
+    "options": {
+      "A": "1st October",
+      "B": "2nd October",
+      "C": "3rd October",
+      "D": "4th October",
+      "E": "5th October"
+    },
+    "correct_answer": "B",
+    "explanation": "V is on 5th October. If P is on 3rd, then Q is on 1st, allowing W to be on 5th, but that overlaps with V. Thus, Q is on 3rd, P on 6th, W on 8th, R is on 3rd. S must be on 2nd to allow R immediately after, leaving T on 1st and U on 2nd.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_009",
+    "question": "Ten workshops (W1, W2, W3, ..., W10) are scheduled across five consecutive days in a month (1st to 5th). Each day hosts two workshops: one in the morning, one in the afternoon. Conditions: 1) W1 is on the afternoon of the first day. 2) W5 is two days after W1. 3) W6 and W7 are on the same day. 4) W3 is immediately after W2. 5) W8 is in the afternoon of the day before W5. 6) W9 is not on the first or second day. Which workshop is scheduled on the morning of the third day?",
+    "options": {
+      "A": "W1",
+      "B": "W3",
+      "C": "W4",
+      "D": "W5",
+      "E": "W9"
+    },
+    "correct_answer": "B",
+    "explanation": "W1 is on the afternoon of the 1st, and W5 is on the 3rd day in the afternoon. W8 is the afternoon of the 2nd. W2 then W3 are on the morning of the 3rd, making W3 the answer. W6 and W7 share a day, only possible on the 4th. W9 is on the 5th.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_010",
+    "question": "Nine different events are scheduled over the span of three months: January, February, and March. Each month hosts exactly three events. Conditions are: 1) Event A is scheduled before Event B. 2) Event C and Event D are in different months. 3) Event E is in February, but not the last event. 4) Event F is scheduled immediately after Event G, and both are in March. 5) Event H is not in January. 6) The first event of March is Event I. In which month is Event B scheduled?",
+    "options": {
+      "A": "January",
+      "B": "February",
+      "C": "March",
+      "D": "Could be either February or March",
+      "E": "Could be any month"
+    },
+    "correct_answer": "A",
+    "explanation": "Given Event F and G must be in March, and F follows G, I is the first. This sets A in January for B to follow. Event E being in February before last means C or D joins it in a non-January position. A must be the first month, ensuring B follows in January.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_011",
+    "question": "There are five meetings scheduled across a week from Monday to Friday. The meetings are with different clients: Alpha, Beta, Gamma, Delta, and Epsilon. The schedule must follow these constraints: 1) The meeting with Alpha is on Monday. 2) There is one meeting between Beta and Gamma. 3) Delta's meeting is the day after Gamma's. 4) Epsilon's meeting is not on Wednesday. On which day is the meeting with Epsilon?",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "Friday"
+    },
+    "correct_answer": "D",
+    "explanation": "From the conditions: 1) Alpha is on Monday. 2) The meeting with Beta is either on Tuesday or Thursday since there must be a meeting in between Beta and Gamma. 3) Delta follows Gamma, so they must be on consecutive days. 4) Epsilon cannot be on Wednesday, so by elimination, Epsilon's meeting is on Thursday. The final arrangement is: Monday - Alpha, Tuesday - Gamma, Wednesday - Delta, Thursday - Epsilon, Friday - Beta.",
+    "difficulty": "Easy",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_012",
+    "question": "Eight employees—Adam, Brian, Charlie, David, Ethan, Frank, George, and Harry—need to present their projects on eight different days in March from 1st to 8th. The conditions are: 1) Adam presents on the 1st. 2) Ethan presents two days after Charlie. 3) David's presentation is between Frank and George's presentations. 4) Brian presents immediately before Harry. 5) Frank presents on an odd-numbered day. Who presents on the 5th?",
+    "options": {
+      "A": "Ethan",
+      "B": "Frank",
+      "C": "George",
+      "D": "Charlie",
+      "E": "Harry"
+    },
+    "correct_answer": "B",
+    "explanation": "1) Adam is on the 1st. 2) Charlie must present on the 3rd for Ethan to be on the 5th. 3) Frank must be on the 5th due to being on an odd day, so Ethan must be on the 6th. 4) Brian and Harry must be consecutive, so they can only be on the 2nd and 3rd, which places Harry on the 3rd and Brian on the 2nd. 5) That places David on the 4th, between Frank and George. Thus, George must be on the 6th. Therefore, Frank presents on the 5th.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_013",
+    "question": "A conference is held over six months from January to June with six keynote speakers: A, B, C, D, E, and F. The following conditions apply: 1) A speaks in March. 2) B speaks one month before C. 3) D speaks two months after B. 4) E speaks in May. 5) F does not speak in June. Determine the month when F gives his speech.",
+    "options": {
+      "A": "January",
+      "B": "February",
+      "C": "April",
+      "D": "May",
+      "E": "June"
+    },
+    "correct_answer": "C",
+    "explanation": "1) A is set for March. 2) B and C are consecutive, with B before C. The only possibility is B in February and C in March (as A is already in March, C must be April). 3) D is two months after B, so D is in April. 4) E is in May. F cannot be in June, so F must be in April. Therefore, F speaks in April.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_014",
+    "question": "Five friends—P, Q, R, S, and T—participate in a marathon, each finishing the race on different days of a week from Monday to Friday. The conditions are: 1) P finishes the race two days before Q. 2) R does not finish on the first or last day. 3) S finishes on an odd-numbered day of the week. 4) T finishes after P. 5) There is exactly one day between the finish days of Q and S. Who finishes the race on Wednesday?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "T"
+    },
+    "correct_answer": "C",
+    "explanation": "1) P must finish on Monday or Tuesday, but due to T finishing after, P is on Monday. 2) Q is on Wednesday. 3) R can't be Monday or Friday, so R must be on Wednesday. 4) S must finish on an odd day (Monday, Wednesday, or Friday), but since R is on Wednesday and Q can't be Friday, S is on Monday. 5) T must be on Thursday. The arrangement is: Monday - P, Tuesday - S, Wednesday - R, Thursday - Q, Friday - T.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_015",
+    "question": "Ten tasks labeled A to J need to be completed over five weeks, with each week having two tasks. The conditions are: 1) Task A is completed in the first week. 2) Task B is completed in the last week. 3) There is a one-week gap between tasks C and D. 4) Task E is completed before tasks F and G but after task H. 5) Task J is completed in the same week as task F. In which week is task C completed?",
+    "options": {
+      "A": "Week 1",
+      "B": "Week 2",
+      "C": "Week 3",
+      "D": "Week 4",
+      "E": "Week 5"
+    },
+    "correct_answer": "C",
+    "explanation": "1) A is in week 1. 2) B is in week 5. 3) C and D must be in weeks 3 and 5 (with a one-week gap), so C is in week 3. 4) E is before F and G but after H, meaning E is in week 2. 5) J is in the same week as F, so F and J are in week 4. Thus, task C is completed in week 3.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_016",
+    "question": "There are five friends: John, Mike, Sara, Lily, and Alex. Each of them is free on a different day from Monday to Friday. John is free two days before Sara. Mike is free on the day before John. Lily is free two days after Mike. Who is free on Thursday?",
+    "options": {
+      "A": "John",
+      "B": "Mike",
+      "C": "Sara",
+      "D": "Lily",
+      "E": "Alex"
+    },
+    "correct_answer": "D",
+    "explanation": "Mike is free on Monday, John is free on Tuesday, Sara is free on Thursday, and Lily is free on Thursday. Therefore, Lily is free on Thursday.",
+    "difficulty": "Easy",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_017",
+    "question": "Eight tasks, A through H, need to be completed over the next four days. Two tasks are completed each day. Task A is done before task B but on the same day as task D. Task C is done two days after task E, which is done on the first day. Task G and H are done on consecutive days. If task F is done on the last day, which tasks are done on the third day?",
+    "options": {
+      "A": "Task C and Task G",
+      "B": "Task G and Task H",
+      "C": "Task C and Task F",
+      "D": "Task E and Task F",
+      "E": "Task D and Task B"
+    },
+    "correct_answer": "A",
+    "explanation": "Task E is on the first day, so task C is on the third day. Since task F is on the last day, task G must be on the third day with task C. Hence, tasks C and G are done on the third day.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_018",
+    "question": "Seven seminars on different subjects (Math, Science, English, History, Geography, Art, and Music) are scheduled across seven months: January through July. The Math seminar is before the Science seminar. The English seminar is two months after the Art seminar. The History seminar is scheduled in a month before the Geography seminar. The Music seminar is neither the first nor the last. Which month is the English seminar?",
+    "options": {
+      "A": "March",
+      "B": "April",
+      "C": "May",
+      "D": "June",
+      "E": "July"
+    },
+    "correct_answer": "C",
+    "explanation": "Art is in March, so English is in May. Math and Science must be in January and February. History is before Geography, placing Geography in June, leaving July for History and May for English.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_019",
+    "question": "Ten employees (P, Q, R, S, T, U, V, W, X, Y) are given tasks from Monday to Sunday, with some days having more than one task but no task on the same day for more than two employees. P's task is before Q's. R's task is neither on Tuesday nor Wednesday. X's task is three days after W's. V is not working on Sunday. T and U work on consecutive days. If Y's task is on Saturday, on which day is U's task?",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "Friday"
+    },
+    "correct_answer": "C",
+    "explanation": "Following the conditions, if Y is on Saturday, and V can't be on Sunday, and T and U work consecutively, U has to be on Wednesday with T on Tuesday to fit the constraints.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_020",
+    "question": "In a weekly programming contest schedule from Monday to Sunday, each contest (Java, Python, Ruby, C++, Swift, JavaScript, PHP) is held once. Java is not on a weekend. The C++ contest is two days before the Ruby contest. Python contest is after the Swift contest. JavaScript contest is not on Monday or Saturday, and PHP contest is not on Tuesday or Friday. On which day is the Ruby contest held?",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "Friday"
+    },
+    "correct_answer": "E",
+    "explanation": "Considering all conditions, C++ on Wednesday places Ruby on Friday. Python can be on Sunday after Swift on Thursday, and with constraints for JavaScript and PHP, all slots fit the sequence.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_021",
+    "question": "Five friends, Alex, Ben, Charlie, David, and Ethan, have scheduled meetings on five consecutive days from Monday to Friday. Each friend has one meeting on a different day. Based on the following clues, determine which friend has a meeting on which day: \n1. Alex's meeting is before Ben's. \n2. Charlie has his meeting two days after Alex. \n3. David has his meeting the day before Ethan. \n4. Ben has his meeting on Wednesday.",
+    "options": {
+      "A": "Alex-Monday, Ben-Wednesday, Charlie-Thursday, David-Tuesday, Ethan-Friday",
+      "B": "Alex-Tuesday, Ben-Wednesday, Charlie-Monday, David-Friday, Ethan-Thursday",
+      "C": "Alex-Monday, Ben-Tuesday, Charlie-Wednesday, David-Thursday, Ethan-Friday",
+      "D": "Alex-Friday, Ben-Wednesday, Charlie-Monday, David-Thursday, Ethan-Tuesday",
+      "E": "Alex-Thursday, Ben-Monday, Charlie-Tuesday, David-Friday, Ethan-Wednesday"
+    },
+    "correct_answer": "A",
+    "explanation": "Given Ben is on Wednesday, Alex must be before Wednesday and Charlie two days after Alex. The only possibility that fits all conditions is: Alex-Monday, Ben-Wednesday, Charlie-Thursday, David-Tuesday, Ethan-Friday.",
+    "difficulty": "Easy",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_022",
+    "question": "Seven employees, G, H, I, J, K, L, and M, are assigned tasks from Monday to Sunday. Each employee has one task per day. The following conditions must be met: \n1. G's task is earlier in the week than L's. \n2. J's task is on Tuesday. \n3. H has his task the day after K. \n4. M's task is not on a weekend. \n5. L's task is on Friday.",
+    "options": {
+      "A": "G-Monday, H-Wednesday, I-Saturday, J-Tuesday, K-Thursday, L-Friday, M-Sunday",
+      "B": "G-Tuesday, H-Thursday, I-Saturday, J-Monday, K-Wednesday, L-Friday, M-Sunday",
+      "C": "G-Wednesday, H-Tuesday, I-Sunday, J-Monday, K-Thursday, L-Friday, M-Saturday",
+      "D": "G-Monday, H-Thursday, I-Sunday, J-Tuesday, K-Wednesday, L-Friday, M-Saturday",
+      "E": "G-Monday, H-Tuesday, I-Thursday, J-Wednesday, K-Friday, L-Saturday, M-Sunday"
+    },
+    "correct_answer": "D",
+    "explanation": "Given J is on Tuesday and L is on Friday, H must follow K, leaving K on Wednesday. G precedes L, so G is on Monday. M is not on the weekend, so M is on Saturday, leaving I for Sunday.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_023",
+    "question": "Eight lectures on different subjects are scheduled from Monday to Thursday in a university, two lectures per day. The subjects are: Physics, Chemistry, Biology, Mathematics, History, Geography, Literature, and Economics. Consider the following: \n1. Physics and Chemistry are scheduled on the same day. \n2. History is scheduled before Literature. \n3. Mathematics is not scheduled on Wednesday. \n4. Economics is scheduled on the same day as Biology. \n5. Geography is scheduled on Wednesday. \n6. No subject is scheduled on consecutive periods on the same day.",
+    "options": {
+      "A": "Monday: Physics, Chemistry; Tuesday: Biology, Economics; Wednesday: Geography, Mathematics; Thursday: History, Literature",
+      "B": "Monday: History, Literature; Tuesday: Physics, Chemistry; Wednesday: Biology, Economics; Thursday: Geography, Mathematics",
+      "C": "Monday: Geography, Mathematics; Tuesday: Physics, Chemistry; Wednesday: History, Literature; Thursday: Biology, Economics",
+      "D": "Monday: Mathematics, Economics; Tuesday: Physics, Chemistry; Wednesday: Geography, Biology; Thursday: History, Literature",
+      "E": "Monday: History, Geography; Tuesday: Chemistry, Physics; Wednesday: Economics, Biology; Thursday: Literature, Mathematics"
+    },
+    "correct_answer": "A",
+    "explanation": "Physics and Chemistry must be paired. Geography is on Wednesday. Mathematics can't be on Wednesday, leaving History and Literature for Thursday. Economics and Biology pair on Tuesday. Thus, the distribution is: Monday - Physics, Chemistry; Tuesday - Biology, Economics; Wednesday - Geography, Mathematics; Thursday - History, Literature.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_024",
+    "question": "Ten students, P, Q, R, S, T, U, V, W, X, and Y, are participating in a quiz contest held on different days in two weeks (Monday to Friday). Each student participates on one unique day, and no quiz is held on weekends. The conditions are as follows: \n1. P participates earlier than R. \n2. V is on Monday of the second week. \n3. S is scheduled two days after T. \n4. U and W have consecutive day slots. \n5. Y's quiz is not on a Friday. \n6. Q is scheduled before both P and Y. \n7. X is scheduled on Thursday of the first week.",
+    "options": {
+      "A": "Week 1: P-Monday, Q-Tuesday, R-Wednesday, X-Thursday, T-Friday; Week 2: U-Monday, V-Tuesday, W-Wednesday, S-Thursday, Y-Friday",
+      "B": "Week 1: V-Monday, Q-Tuesday, R-Wednesday, S-Thursday, Y-Friday; Week 2: P-Monday, U-Tuesday, W-Wednesday, T-Thursday, X-Friday",
+      "C": "Week 1: X-Monday, Q-Tuesday, P-Wednesday, R-Thursday, T-Friday; Week 2: V-Monday, S-Tuesday, U-Wednesday, W-Thursday, Y-Friday",
+      "D": "Week 1: Q-Monday, R-Tuesday, P-Wednesday, X-Thursday, T-Friday; Week 2: V-Monday, U-Tuesday, W-Wednesday, S-Thursday, Y-Friday",
+      "E": "Week 1: Q-Monday, X-Tuesday, R-Wednesday, Y-Thursday, T-Friday; Week 2: V-Monday, U-Tuesday, W-Wednesday, S-Thursday, P-Friday"
+    },
+    "correct_answer": "D",
+    "explanation": "Given X on Thursday in the first week, V on second Monday, and S two days after T, arranging U and W consecutively leads to: Week 1: Q-Monday, R-Tuesday, P-Wednesday, X-Thursday, T-Friday; Week 2: V-Monday, U-Tuesday, W-Wednesday, S-Thursday, Y-Friday.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_025",
+    "question": "Nine seminars on subjects A, B, C, D, E, F, G, H, and I are scheduled in a month having 30 days. Each seminar is on a different day, and some specific conditions need to be satisfied: \n1. Seminar A is held before seminar D. \n2. Seminars B and C are on consecutive days. \n3. Seminar F is held three days after seminar G. \n4. Seminar E is held on a weekend. \n5. Seminars H and I are not on consecutive days. \n6. Seminar I is held on a day before seminar A. \n7. Seminar G is scheduled in the first week.",
+    "options": {
+      "A": "G-1st, F-4th, B-8th, C-9th, I-10th, A-12th, D-15th, E-22nd, H-27th",
+      "B": "G-2nd, F-5th, B-10th, C-11th, I-14th, A-16th, D-20th, E-23rd, H-28th",
+      "C": "G-4th, F-7th, B-12th, C-13th, I-15th, A-17th, D-21st, E-24th, H-29th",
+      "D": "G-3rd, F-6th, B-9th, C-10th, I-11th, A-13th, D-18th, E-25th, H-30th",
+      "E": "G-5th, F-8th, B-11th, C-12th, I-15th, A-17th, D-22nd, E-26th, H-30th"
+    },
+    "correct_answer": "D",
+    "explanation": "G is on the 3rd, F follows on the 6th. B and C need consecutive slots, positioning them on 9th and 10th respectively. I precedes A, so on 11th and 13th, allowing A on 13th. Seminar D follows, placed on the 18th. E lands on a weekend, such as 25th, leaving H for the 30th.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_026",
+    "question": "Five friends - Alice, Bob, Charlie, Dave, and Eve - have different activities scheduled on different days of the week, from Monday to Friday. The activities are as follows: Gym, Cooking class, Yoga, Guitar lesson, and Dance class. Each activity is on a different day. The following conditions apply:\n1. Alice's activity is on Wednesday.\n2. Bob's activity is on the day before Gym.\n3. Charlie attends Cooking class, which is on Thursday.\n4. Dave's activity is on Friday.\n5. Eve's activity is not on Monday.\nWhich day is Gym scheduled?",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "Friday"
+    },
+    "correct_answer": "B",
+    "explanation": "Based on the conditions:\n1. Alice's activity is on Wednesday.\n2. Charlie's Cooking class is on Thursday.\n3. Dave's activity is on Friday.\n4. Eve's activity cannot be on Monday (or she would be doing Bob's activity, which is before Gym). Hence, Eve is on Wednesday, doing Yoga.\n5. Bob's activity is on Tuesday, which is before Gym.\nThus, Gym is scheduled for Tuesday. Therefore, the correct answer is B: Tuesday.",
+    "difficulty": "Easy",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_027",
+    "question": "Seven employees - Mark, Nina, Oliver, Paula, Quentin, Rachel, and Steve - have meetings scheduled on different days of a week, from Monday to Sunday. The meeting times are unique and scheduled either in the morning or afternoon. The following clues can be used:\n1. Mark's meeting is on Tuesday morning.\n2. Nina's meeting is scheduled the day after Steve's.\n3. Oliver's meeting is neither on the weekend nor in the afternoon.\n4. Paula's meeting is on Saturday afternoon.\n5. Quentin has a meeting on Friday, but not in the morning.\n6. Rachel's meeting is on a day after a weekend.\nWhat day is Steve's meeting scheduled on?",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "Friday"
+    },
+    "correct_answer": "A",
+    "explanation": "1. Mark has a meeting on Tuesday morning.\n2. Oliver's meeting must be on a weekday morning, so it's on Wednesday morning since Tuesday morning is taken by Mark.\n3. Paula's meeting is on Saturday afternoon.\n4. Quentin's meeting is on Friday afternoon.\n5. Nina must be the day after Steve, and Rachel's meeting is after a weekend, likely Monday since Paula has Saturday.\n6. Therefore, Steve's meeting is on Monday.\nThus, Steve's meeting is on Monday, making the answer A.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_028",
+    "question": "Eight students - Andy, Beth, Carol, David, Emma, Fred, Gina, and Henry - are scheduled for different sports practices on different days, from Monday to Thursday, in both morning and afternoon slots. The activities are Football, Basketball, Tennis, and Swimming. Each sport has one morning and one afternoon slot. Consider the following clues:\n1. Andy has his practice on Tuesday afternoon.\n2. Beth is scheduled for Football on Monday.\n3. Carol's practice is the morning after Emma's practice.\n4. David has Tennis practice in the morning.\n5. Fred's practice is on the same day as Gina's but in the afternoon.\n6. Henry has his practice on Wednesday morning.\n7. Swimming is scheduled the day before Gina's practice.\nWhich day is Gina's practice scheduled on?",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "None of these"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Henry's Wednesday morning practice means Emma's practice must be on Tuesday morning, as Carol follows Emma in the morning.\n2. Swimming, being a day before Gina's practice, can only be on Tuesday if Gina is Wednesday.\n3. Andy's Tuesday afternoon practice aligns with Swimming (since it must be Andy).\n4. Fred and Gina share a day, and Gina's practice must be on Wednesday.\nThus, Gina's practice is scheduled on Wednesday, making the answer C.",
+    "difficulty": "Medium",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_029",
+    "question": "Nine different seminars - Biology, Chemistry, Physics, Mathematics, Statistics, Economics, History, Geography, and English - are scheduled across three different weeks (Monday to Friday only). Each seminar is scheduled exactly once per week. The following conditions apply:\n1. The Biology seminar is always on Monday.\n2. Chemistry is scheduled on the day before Statistics.\n3. History is scheduled the same day as Economics but in different weeks.\n4. Physics is on Wednesday in the first week.\n5. Mathematics never coincides with Geography on the same week.\n6. English follows Geography immediately.\n7. The last seminar of any week is either Economics or Statistics.\nDetermine the day and week of the Geography seminar in the first week.",
+    "options": {
+      "A": "Monday",
+      "B": "Tuesday",
+      "C": "Wednesday",
+      "D": "Thursday",
+      "E": "Friday"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Biology on Monday fixes Monday for the first week.\n2. Physics is Wednesday in the first week.\n3. Geography cannot be on Wednesday due to Physics. If Geography is on Tuesday in the first week, English follows on Wednesday, but Physics is there.\n4. Thus, Geography must be Thursday, followed by English on Friday.\n5. Mathematics can align with Geography as Chemistry must be Tuesday (the day before Statistics).\nTherefore, Geography is scheduled for Thursday in the first week, making the answer C.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "scheduling_puzzle_030",
+    "question": "Ten university lectures, each on different topics, are scheduled on different days over two consecutive weeks (Monday to Friday). The topics are Psychology, Sociology, Anthropology, Philosophy, Linguistics, Mathematics, Computer Science, Physics, Chemistry, and Biology. Each week has five lectures. The constraints are:\n1. The Psychology lecture is always the first lecture of each week.\n2. Sociology and Anthropology lectures are scheduled in the same week but not consecutively.\n3. Mathematics is scheduled immediately before Chemistry.\n4. Computer Science is never in the same week as Philosophy.\n5. Linguistics is in the second week, two days after Computer Science.\n6. Physics is the last lecture of the first week.\n7. Biology is scheduled in the first week but not on the first or last day.\nDetermine the schedule for the Chemistry lecture.",
+    "options": {
+      "A": "Monday of Week 1",
+      "B": "Tuesday of Week 1",
+      "C": "Thursday of Week 1",
+      "D": "Tuesday of Week 2",
+      "E": "Friday of Week 2"
+    },
+    "correct_answer": "C",
+    "explanation": "1. Psychology is Monday for both weeks.\n2. Physics is Friday of the first week.\n3. Mathematics must be right before Chemistry. So, they should be aligned such that Chemistry can be slotted somewhere between Tuesday and Thursday.\n4. By constraint, Chemistry can go on Thursday of Week 1, with Mathematics on Wednesday.\nThus, Chemistry is scheduled for Thursday of the first week, making the answer C.",
+    "difficulty": "Hard",
+    "topic": "Day/Month Puzzle",
+    "reasoning_topic": "Scheduling Puzzle",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]

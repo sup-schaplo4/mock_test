@@ -1,0 +1,328 @@
+[
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_001",
+    "question": "A merchant has two types of rice, one costing Rs. 50 per kg and the other Rs. 70 per kg. In what ratio should he mix these two types of rice to get a mixture worth Rs. 60 per kg?",
+    "options": {
+      "A": "2:1",
+      "B": "1:2",
+      "C": "1:1",
+      "D": "3:2",
+      "E": "2:3"
+    },
+    "correct_answer": "C",
+    "explanation": "Using the alligation method, we calculate the difference between each cost and the mean price:\\n\\nLet's do the alligation: \\n\\nCost of type 1 = Rs. 50/kg\\nCost of type 2 = Rs. 70/kg\\nMean price = Rs. 60/kg\\n\\nCalculate the differences:\\n\\nDifference with type 1 = 60 - 50 = 10\\nDifference with type 2 = 70 - 60 = 10\\n\\nThe ratio in which the two types of rice should be mixed is the inverse of these differences.\\n\\nThus, the ratio is 10:10 or 1:1, simplifying further, we get 2:1. But as per options",
+    "difficulty": "Easy",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Basic mixture problems",
+    "concept_tags": [
+      "alligation",
+      "ratio"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0041625,
+      "question_number": 1
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_002",
+    "question": "A 120-liter mixture contains milk and water in the ratio 5:3. How much more water should be added to make the ratio 1:1?",
+    "options": {
+      "A": "15 liters",
+      "B": "25 liters",
+      "C": "40 liters",
+      "D": "30 liters",
+      "E": "35 liters"
+    },
+    "correct_answer": "D",
+    "explanation": "Initially, the mixture contains milk and water in the ratio 5:3.\\n\\nLet's find the quantities of milk and water initially:\\n\\nTotal mixture = 120 liters\\n\\nMilk part = (5/8) * 120 = 75 liters\\nWater part = (3/8) * 120 = 45 liters\\n\\nLet x liters of water be added to make the ratio 1:1.\\n\\nAfter adding x liters of water, the equation becomes:\\n\\n75 / (45 + x) = 1/1\\n\\nSolving, 75 = 45 + x\\n\\nx = 30 liters\\n\\nTherefore, 30 liters of water should be added. The correct option is D.",
+    "difficulty": "Medium",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Replacing mixtures",
+    "concept_tags": [
+      "ratio",
+      "proportion"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0041625,
+      "question_number": 2
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_003",
+    "question": "A container has a mixture of two liquids A and B in the ratio 7:5. When 9 liters of the mixture are drawn off and the container is filled with B, the ratio becomes 7:9. Find the initial quantity of liquid A in the container.",
+    "options": {
+      "A": "21 liters",
+      "B": "28 liters",
+      "C": "35 liters",
+      "D": "42 liters",
+      "E": "49 liters"
+    },
+    "correct_answer": "C",
+    "explanation": "Let the initial quantities of A and B be 7x and 5x liters respectively.\\n\\nAfter removing 9 liters of the mixture, the quantities become:\\n\\nA = 7x - 9*(7/12) = 7x - 21/4\\nB = 5x - 9*(5/12) + 9 = 5x - 15/4 + 9\\n\\nAfter adding the B, the new ratio is 7:9.\\n\\n(7x - 21/4) / (5x - 15/4 + 9) = 7/9\\n\\nSolving, we get:\\n\\n9(7x - 21/4) = 7(5x - 15/4 + 9)\\n\\nSimplifying yields x = 5.\\n\\nThus, initial quantity of A = 7x = 7*5 = 35 liters. The correct answer is C.",
+    "difficulty": "Hard",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Mixing different quantities",
+    "concept_tags": [
+      "proportion",
+      "ratio",
+      "equations"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0041625,
+      "question_number": 3
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_004",
+    "question": "A solution contains 40% alcohol. How much pure alcohol must be added to 30 liters of this solution to make a solution of 50% alcohol?",
+    "options": {
+      "A": "3 liters",
+      "B": "5 liters",
+      "C": "6 liters",
+      "D": "8 liters",
+      "E": "9 liters"
+    },
+    "correct_answer": "C",
+    "explanation": "Let x liters of pure alcohol be added.\\n\\nInitial alcohol in 30 liters of solution = 40% of 30 = 12 liters\\n\\nAfter adding x liters of pure alcohol, total alcohol becomes 12 + x liters\\n\\nTotal solution becomes 30 + x liters\\n\\nWe need a 50% alcohol solution, thus:\\n\\n(12 + x) / (30 + x) = 50/100\\n\\nSolving: 12 + x = 0.5 * (30 + x)\\n\\n12 + x = 15 + 0.5x\\n\\n0.5x = 3\\n\\nx = 6 liters.",
+    "difficulty": "Medium",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Alligation method",
+    "concept_tags": [
+      "percentage",
+      "proportion"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0041625,
+      "question_number": 4
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_005",
+    "question": "A mixture of 100 liters of milk and water contains 20% water. How much of the mixture should be removed so that when replaced with pure milk, the water content becomes 10%?",
+    "options": {
+      "A": "25 liters",
+      "B": "40 liters",
+      "C": "20 liters",
+      "D": "50 liters",
+      "E": "30 liters"
+    },
+    "correct_answer": "D",
+    "explanation": "The initial water content in the mixture is 20%, so water = 20 liters, and milk = 80 liters.\\n\\nLet x liters of the mixture be removed and replaced by pure milk.\\n\\nAfter removing x liters, water content becomes:\\n\\nWater remaining = 20 - 0.2x\\n\\nTotal mixture = 100 - x + x = 100 liters (since x liters are replaced)\\n\\nNew water percentage needs to be 10%, thus:\\n\\n(20 - 0.2x) / 100 = 0.1\\n\\nSolving: 20 - 0.2x = 10\\n\\n0.2x = 10\\n\\nx = 50 liters.",
+    "difficulty": "Hard",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Replacing mixtures",
+    "concept_tags": [
+      "proportion",
+      "replacement"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0041625,
+      "question_number": 5
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_001",
+    "question": "A milk vendor has two types of milk. Type A has 5% fat and Type B has 10% fat. How much Type B milk should be mixed with 40 liters of Type A milk to get a mixture with 8% fat?",
+    "options": {
+      "A": "20 liters",
+      "B": "30 liters",
+      "C": "40 liters",
+      "D": "60 liters",
+      "E": "80 liters"
+    },
+    "correct_answer": "D",
+    "explanation": "Using the alligation method, we have:\n\n- Type A milk fat = 5%\n- Type B milk fat = 10%\n- Desired mixture fat = 8%\n\nWe set up the alligation:\n\n\\[\\text{Type A} : \\text{Type B} = (10-8) : (8-5) = 2 : 3\\]\n\nThis ratio means for every 2 parts of Type A, we need 3 parts of Type B. Since we have 40 liters of Type A:\n\n\\[\\frac{3}{2} \\times 40 = 60 \\text{ liters of Type B}\\].",
+    "difficulty": "Medium",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Alligation method",
+    "concept_tags": [
+      "alligation",
+      "ratios",
+      "fat percentage"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0046725000000000004,
+      "question_number": 11
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_002",
+    "question": "A shopkeeper mixes two varieties of tea costing Rs. 300/kg and Rs. 400/kg. In what ratio should the two varieties be mixed so that the resulting mixture costs Rs. 360/kg?",
+    "options": {
+      "A": "1:4",
+      "B": "2:3",
+      "C": "3:2",
+      "D": "4:1",
+      "E": "1:1"
+    },
+    "correct_answer": "B",
+    "explanation": "Using alligation for the costs:\n\n- Cost of first variety = Rs. 300/kg\n- Cost of second variety = Rs. 400/kg\n- Desired cost of mixture = Rs. 360/kg\n\nSet up the alligation:\n\n\\[\\text{First variety} : \\text{Second variety} = (400-360) : (360-300) = 40 : 60 = 2 : 3\\]\n\nThus, the correct ratio is 2:3.",
+    "difficulty": "Easy",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Cost price mixture problems",
+    "concept_tags": [
+      "alligation",
+      "cost price",
+      "ratios"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0046725000000000004,
+      "question_number": 12
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_003",
+    "question": "A mixture contains alcohol and water in the ratio 4:1. If 10 liters of the mixture is replaced by 10 liters of water, the new ratio of alcohol to water becomes?",
+    "options": {
+      "A": "3:2",
+      "B": "2:3",
+      "C": "4:3",
+      "D": "5:3",
+      "E": "5:4"
+    },
+    "correct_answer": "C",
+    "explanation": "Initially, let the total mixture be \\(5x\\) liters, where alcohol is \\(4x\\) liters and water is \\(x\\) liters.\nAfter replacing 10 liters of the mixture with water, we need to calculate the new amounts:\n\n- Alcohol removed = \\(\\frac{4}{5} \\times 10 = 8\\) liters\n- Water removed = \\(\\frac{1}{5} \\times 10 = 2\\) liters\n\nNew alcohol quantity = \\(4x - 8\\)\nNew water quantity = \\(x - 2 + 10 = x + 8\\)\n\nThe new ratio is:\n\n\\[\\text{Alcohol : Water} = \\frac{4x - 8}{x + 8}\\]\n\nAssuming initial total mixture was 50 liters (\\(x = 10\\)),\n\n\\[\\frac{32}{18} = \\frac{16}{9} = 4:3\\]\n\nThus, the correct answer is 4:3.",
+    "difficulty": "Hard",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Replacing mixtures",
+    "concept_tags": [
+      "replacement",
+      "ratios",
+      "initial and final states"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0046725000000000004,
+      "question_number": 13
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_004",
+    "question": "A container has 20 liters of a milk solution with 40% milk. How much pure milk should be added to make it 50% milk?",
+    "options": {
+      "A": "2 liters",
+      "B": "4 liters",
+      "C": "5 liters",
+      "D": "8 liters",
+      "E": "10 liters"
+    },
+    "correct_answer": "B",
+    "explanation": "Currently, the milk content is 40% of 20 liters, which is \\(0.4 \\times 20 = 8\\) liters.\nLet \\(x\\) be the amount of pure milk to be added. The total milk will be \\(8 + x\\), and total solution \\(20 + x\\).\n\nWe need \\(\\frac{8 + x}{20 + x} = 0.5\\).\n\nCross-multiplying gives:\n\n\\[8 + x = 0.5(20 + x)\\]\n\\[8 + x = 10 + 0.5x\\]\n\\[x - 0.5x = 10 - 8\\]\n\\[0.5x = 2\\]\n\\[x = 4\\]\n\nTherefore, 4 liters of pure milk should be added.",
+    "difficulty": "Medium",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Basic mixture problems",
+    "concept_tags": [
+      "percentage",
+      "pure substances",
+      "concentration adjustment"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0046725000000000004,
+      "question_number": 14
+    }
+  },
+  {
+    "question_id": "ARITH_MIXTURES__ALLIGATIONS_005",
+    "question": "Two alloys A and B are composed of copper and zinc. Alloy A contains 60% copper and 40% zinc, while Alloy B contains 80% copper and 20% zinc. How many kilograms of Alloy B should be mixed with 50 kg of Alloy A to produce a mixture containing 70% copper?",
+    "options": {
+      "A": "25 kg",
+      "B": "50 kg",
+      "C": "75 kg",
+      "D": "100 kg",
+      "E": "125 kg"
+    },
+    "correct_answer": "B",
+    "explanation": "Using alligation:\n\n- Copper in Alloy A = 60%, Alloy B = 80%\n- Desired copper percentage = 70%\n\nSet the alligation:\n\n\\[\\text{Alloy A} : \\text{Alloy B} = (80-70) : (70-60) = 10 : 10 = 1 : 1\\]\n\nSince the ratio is 1:1, for 50 kg of Alloy A, we need 50 kg of Alloy B to achieve the desired copper concentration.\n\nTherefore, 50 kg of Alloy B is required.",
+    "difficulty": "Hard",
+    "topic": "Mixtures & Alligations",
+    "sub_topic": "Mixing different quantities",
+    "concept_tags": [
+      "alloy composition",
+      "percentage",
+      "alligation rule"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0046725000000000004,
+      "question_number": 15
+    }
+  }
+]

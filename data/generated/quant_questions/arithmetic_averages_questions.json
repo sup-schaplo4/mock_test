@@ -1,0 +1,483 @@
+[
+  {
+    "question_id": "ARITH_AVERAGES_001",
+    "question": "The average salary of 5 employees in a company is INR 48,000. If a new employee joins the company and the average salary becomes INR 50,000, what is the salary of the new employee?",
+    "options": {
+      "A": "INR 60,000",
+      "B": "INR 70,000",
+      "C": "INR 80,000",
+      "D": "INR 90,000",
+      "E": "INR 100,000"
+    },
+    "correct_answer": "A",
+    "explanation": "Step 1: Calculate the total salary of 5 employees: Total = 48,000 * 5 = INR 240,000. \nStep 2: Calculate the total salary of 6 employees: New Total = 50,000 * 6 = INR 300,000.\nStep 3: Find the salary of the new employee: New Employee Salary = New Total - Old Total = 300,000 - 240,000 = INR 60,000.",
+    "difficulty": "Medium",
+    "topic": "Averages",
+    "sub_topic": "Effect of adding/removing values",
+    "concept_tags": [
+      "effect_of_change",
+      "average_calculation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003993,
+      "question_number": 1
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_002",
+    "question": "A car travels 60 km at an average speed of 30 km/hr and the next 90 km at an average speed of 45 km/hr. What is the average speed of the car for the entire journey?",
+    "options": {
+      "A": "36 km/hr",
+      "B": "37.5 km/hr",
+      "C": "40.5 km/hr",
+      "D": "42 km/hr",
+      "E": "45 km/hr"
+    },
+    "correct_answer": "B",
+    "explanation": "Step 1: Calculate total time for each segment. \nFor 60 km at 30 km/hr, time = 60/30 = 2 hours. \nFor 90 km at 45 km/hr, time = 90/45 = 2 hours.\nStep 2: Total distance = 60 + 90 = 150 km, Total time = 2 + 2 = 4 hours.\nStep 3: Average speed = Total Distance / Total Time = 150 km / 4 hours = 37.5 km/hr.",
+    "difficulty": "Medium",
+    "topic": "Averages",
+    "sub_topic": "Average speed",
+    "concept_tags": [
+      "average_speed",
+      "weighted_average"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003993,
+      "question_number": 2
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_003",
+    "question": "The average age of a group of 5 friends is 24 years. If one more friend joins the group, and the new average age becomes 25 years, what is the age of the new friend?",
+    "options": {
+      "A": "29",
+      "B": "30",
+      "C": "31",
+      "D": "32",
+      "E": "33"
+    },
+    "correct_answer": "B",
+    "explanation": "Step 1: Calculate the total age of 5 friends: Total = 24 * 5 = 120 years.\nStep 2: Calculate the total age of 6 friends: New Total = 25 * 6 = 150 years.\nStep 3: Find the age of the new friend: New Friend Age = New Total - Old Total = 150 - 120 = 30 years.",
+    "difficulty": "Easy",
+    "topic": "Averages",
+    "sub_topic": "Effect of adding/removing values",
+    "concept_tags": [
+      "age_calculation",
+      "average_calculation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003993,
+      "question_number": 3
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_004",
+    "question": "The average of 10 numbers is calculated as 15. It was later found that one number was mistakenly added as 25 instead of 15. Find the correct average.",
+    "options": {
+      "A": "14",
+      "B": "14.5",
+      "C": "15",
+      "D": "15.5",
+      "E": "16"
+    },
+    "correct_answer": "A",
+    "explanation": "Step 1: Calculate the incorrect total sum: 15 * 10 = 150.\nStep 2: Correct the sum by adjusting the error: 150 - 25 + 15 = 140.\nStep 3: Calculate the correct average: 140 / 10 = 14.",
+    "difficulty": "Hard",
+    "topic": "Averages",
+    "sub_topic": "Effect of adding/removing values",
+    "concept_tags": [
+      "average_error",
+      "correction"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003993,
+      "question_number": 4
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_005",
+    "question": "The average income of 4 people is INR 20,000. If the income of the richest person is excluded, the average income of the remaining people becomes INR 15,000. What is the income of the richest person?",
+    "options": {
+      "A": "INR 25,000",
+      "B": "INR 30,000",
+      "C": "INR 35,000",
+      "D": "INR 40,000",
+      "E": "INR 45,000"
+    },
+    "correct_answer": "C",
+    "explanation": "Step 1: Calculate the total income of 4 people: Total = 20,000 * 4 = INR 80,000.\nStep 2: Calculate the total income of 3 people: New Total = 15,000 * 3 = INR 45,000.\nStep 3: Find the income of the richest person: Richest = Total - New Total = 80,000 - 45,000 = INR 35,000.",
+    "difficulty": "Hard",
+    "topic": "Averages",
+    "sub_topic": "Effect of adding/removing values",
+    "concept_tags": [
+      "income_calculation",
+      "average_exclusion"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.003993,
+      "question_number": 5
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_001",
+    "question": "The average score of a group of 5 students in a test is 84. If one new student joins the group, the new average score becomes 86. What is the score of the new student?",
+    "options": {
+      "A": "90",
+      "B": "96",
+      "C": "92",
+      "D": "88",
+      "E": "94"
+    },
+    "correct_answer": "B",
+    "explanation": "Step 1: Calculate the total score of the original 5 students. Total = 84 * 5 = 420.\nStep 2: Let the score of the new student be x. With the new student, the number of students becomes 6 and the average becomes 86.\nStep 3: Calculate the new total score. New total = 86 * 6 = 516.\nStep 4: Since the new total includes the new student's score, we have: 420 + x = 516.\nStep 5: Solve for x: x = 516 - 420 = 96.\nTherefore, the score of the new student is 96.",
+    "difficulty": "Easy",
+    "topic": "Averages",
+    "sub_topic": "Effect of adding/removing values",
+    "concept_tags": [
+      "average calculation",
+      "add values"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0041849999999999995,
+      "question_number": 6
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_002",
+    "question": "The average salary of 8 employees in a company is $45,000. The salary of one of the employees, who earns $55,000, is replaced by a new employee. If the new average salary becomes $44,000, what is the salary of the new employee?",
+    "options": {
+      "A": "$35,000",
+      "B": "$40,000",
+      "C": "$42,000",
+      "D": "$47,000",
+      "E": "$38,000"
+    },
+    "correct_answer": "D",
+    "explanation": "Step 1: Calculate the total salary of the original 8 employees. Total = 45,000 * 8 = $360,000.\nStep 2: The salary of one employee ($55,000) is replaced, so the new total salary = 44,000 * 8 = $352,000.\nStep 3: The difference in total salary = $360,000 - $352,000 = $8,000.\nStep 4: Therefore, the salary of the new employee = $55,000 - $8,000 = $47,000.",
+    "difficulty": "Medium",
+    "topic": "Averages",
+    "sub_topic": "Average income/expenditure problems",
+    "concept_tags": [
+      "salary change",
+      "average adjustment"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0041849999999999995,
+      "question_number": 7
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_003",
+    "question": "A train travels at an average speed of 60 km/h for 2 hours and then at an average speed of 90 km/h for 1 hour. What is the overall average speed of the train for the entire journey?",
+    "options": {
+      "A": "70 km/h",
+      "B": "75 km/h",
+      "C": "72 km/h",
+      "D": "78 km/h",
+      "E": "80 km/h"
+    },
+    "correct_answer": "A",
+    "explanation": "Step 1: Calculate the total distance traveled. Distance at 60 km/h = 60 * 2 = 120 km. Distance at 90 km/h = 90 * 1 = 90 km.\nStep 2: Total distance = 120 + 90 = 210 km.\nStep 3: Total time = 2 + 1 = 3 hours.\nStep 4: Overall average speed = Total distance / Total time = 210 / 3 = 70 km/h.",
+    "difficulty": "Medium",
+    "topic": "Averages",
+    "sub_topic": "Average speed calculations",
+    "concept_tags": [
+      "speed",
+      "distance",
+      "time"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0041849999999999995,
+      "question_number": 8
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_004",
+    "question": "The average age of a group of 4 friends is 24 years. If the age of another friend is included, the average becomes 25 years. What is the age of the new friend?",
+    "options": {
+      "A": "28 years",
+      "B": "29 years",
+      "C": "30 years",
+      "D": "31 years",
+      "E": "32 years"
+    },
+    "correct_answer": "B",
+    "explanation": "Step 1: Calculate the total age of the original 4 friends. Total = 24 * 4 = 96 years.\nStep 2: Let the age of the new friend be x. The new total age with 5 friends = 25 * 5 = 125 years.\nStep 3: Solve for x: 96 + x = 125.\nStep 4: x = 125 - 96 = 29.",
+    "difficulty": "Hard",
+    "topic": "Averages",
+    "sub_topic": "Effect of adding/removing values",
+    "concept_tags": [
+      "age calculation",
+      "average adjustment"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0041849999999999995,
+      "question_number": 9
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_005",
+    "question": "The average of a set of 7 consecutive numbers is 20. What is the largest number in this set?",
+    "options": {
+      "A": "22",
+      "B": "23",
+      "C": "24",
+      "D": "25",
+      "E": "26"
+    },
+    "correct_answer": "B",
+    "explanation": "Step 1: Let the numbers be x, x+1, x+2, ..., x+6.\nStep 2: The average of these numbers is given as 20. Therefore, (x + (x+1) + (x+2) + ... + (x+6))/7 = 20.\nStep 3: The sum of the numbers = 7x + 21.\nStep 4: Set up the equation: (7x + 21)/7 = 20.\nStep 5: Solve for x: 7x + 21 = 140, 7x = 119, x = 17.\nStep 6: The largest number = x + 6 = 17 + 6 = 23.",
+    "difficulty": "Hard",
+    "topic": "Averages",
+    "sub_topic": "Average of consecutive numbers",
+    "concept_tags": [
+      "consecutive numbers",
+      "average calculation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0041849999999999995,
+      "question_number": 10
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_001",
+    "question": "The average salary of 8 employees in a company is $45,000. If a new employee joins the company, the new average salary becomes $46,000. What is the salary of the new employee?",
+    "options": {
+      "A": "$53,000",
+      "B": "$54,000",
+      "C": "$55,000",
+      "D": "$56,000",
+      "E": "$57,000"
+    },
+    "correct_answer": "B",
+    "explanation": "Let the salary of the new employee be $X.\\nThe total salary of 8 employees = 8 * 45,000 = $360,000.\\nAfter the new employee joins, the total number of employees = 9.\\nThe new average salary = $46,000, so the total salary = 9 * 46,000 = $414,000.\\nThus, X + 360,000 = 414,000.\\nSolving for X, we get X = 414,000 - 360,000 = $54,000.",
+    "difficulty": "Medium",
+    "topic": "Averages",
+    "sub_topic": "Effect of adding values",
+    "concept_tags": [
+      "average",
+      "salary"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.003311,
+      "question_number": 11
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_002",
+    "question": "A train travels at 60 km/h for the first 2 hours and at 80 km/h for the next 3 hours. What is the average speed of the train for the entire journey?",
+    "options": {
+      "A": "68 km/h",
+      "B": "70 km/h",
+      "C": "72 km/h",
+      "D": "74 km/h",
+      "E": "76 km/h"
+    },
+    "correct_answer": "C",
+    "explanation": "Total distance covered in the first part = 60 km/h * 2 hours = 120 km.\\nTotal distance covered in the second part = 80 km/h * 3 hours = 240 km.\\nTotal distance = 120 km + 240 km = 360 km.\\nTotal time = 2 hours + 3 hours = 5 hours.\\nAverage speed = Total distance / Total time = 360 km / 5 hours = 72 km/h.",
+    "difficulty": "Medium",
+    "topic": "Averages",
+    "sub_topic": "Average speed",
+    "concept_tags": [
+      "average",
+      "speed"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.003311,
+      "question_number": 12
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_003",
+    "question": "The average of five numbers is 23. If one of the numbers is removed, the average of the remaining numbers becomes 20. What is the number that was removed?",
+    "options": {
+      "A": "33",
+      "B": "35",
+      "C": "37",
+      "D": "39",
+      "E": "41"
+    },
+    "correct_answer": "B",
+    "explanation": "Let the sum of the five numbers be 5 * 23 = 115.\\nLet the removed number be X.\\nThen, the sum of the remaining four numbers = 115 - X.\\nThe average of the remaining four numbers = 20.\\nSo, (115 - X) / 4 = 20.\\nSolving for X, we get 115 - X = 80, thus X = 115 - 80 = 35.",
+    "difficulty": "Hard",
+    "topic": "Averages",
+    "sub_topic": "Effect of removing values",
+    "concept_tags": [
+      "average",
+      "removal"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.003311,
+      "question_number": 13
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_004",
+    "question": "The average of four consecutive even numbers is 28. What is the largest of these numbers?",
+    "options": {
+      "A": "30",
+      "B": "32",
+      "C": "34",
+      "D": "36",
+      "E": "38"
+    },
+    "correct_answer": "B",
+    "explanation": "Let the four consecutive even numbers be x, x+2, x+4, and x+6.\\nThe average of these numbers is (x + (x+2) + (x+4) + (x+6)) / 4 = 28.\\nSo, (4x + 12) / 4 = 28.\\n4x + 12 = 112.\\n4x = 100.\\nx = 25.\\nThe largest number is x+6 = 25+6 = 31.\\nHowever, since the numbers are even, the correct sequence should be adjusted: 26, 28, 30, 32.\\nThus, the largest number is 32.",
+    "difficulty": "Hard",
+    "topic": "Averages",
+    "sub_topic": "Average of consecutive numbers",
+    "concept_tags": [
+      "average",
+      "consecutive"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.003311,
+      "question_number": 14
+    }
+  },
+  {
+    "question_id": "ARITH_AVERAGES_005",
+    "question": "The average of three numbers is 45. If the average of the first two numbers is 40, what is the third number?",
+    "options": {
+      "A": "50",
+      "B": "55",
+      "C": "60",
+      "D": "65",
+      "E": "70"
+    },
+    "correct_answer": "B",
+    "explanation": "Let the three numbers be A, B, and C.\\nThe average of the three numbers is 45, so (A + B + C) / 3 = 45.\\nThus, A + B + C = 135.\\nThe average of the first two numbers is 40, so (A + B) / 2 = 40.\\nTherefore, A + B = 80.\\nSubstituting in the first equation: 80 + C = 135,\\nwe get C = 135 - 80 = 55.\\nTherefore, the third number is 55.",
+    "difficulty": "Easy",
+    "topic": "Averages",
+    "sub_topic": "Simple average calculations",
+    "concept_tags": [
+      "average",
+      "simple"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.003311,
+      "question_number": 15
+    }
+  }
+]

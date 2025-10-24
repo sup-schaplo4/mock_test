@@ -1,0 +1,407 @@
+{
+  "topic": "Statement & Inference",
+  "total_questions": 13,
+  "questions": [
+    {
+      "id": "2017_Q118",
+      "question_number": 118,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Situations: Farmers of State D, who traditionally cultivate crop M, bore considerable losses owing to deficiency of nutrient Z in the soil which is vital for adequate growth of crop M. However, this year the farmers registered a 40% growth in production. I. The farmers of State D have started producing crop Y only (which does not require nutrient Z for growth) since the past two years. II. Since the past two years the farmers of State D have been adding a fertilizer to the soil which contains nutrient Z. III. The nutrition this year was 200 more than the previous year in state D.",
+      "options": {
+        "A": "Either I or III",
+        "B": "Only I",
+        "C": "All I, II and III",
+        "D": "Only III",
+        "E": "Either II or III"
+      },
+      "correct_answer": "C",
+      "explanation": "In statement I, farmers of state D starts producing crop Y which does not require nutrient Z for its growth which is the result of given situation. Statement II states that farmers of state D start adding fertilizers in their crops which contains nutrient Z which is the result of given situation as farmers registered a growth of 40% in production. Statement III states that nutrition this year was 200 more than the previous year in state D which is also the result of given situation. Hence all the statements support the given situation.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00008",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.253982",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2017_Q141",
+      "question_number": 141,
+      "year": 2017,
+      "subject": "Reasoning",
+      "questions": "Read the following information and answer the question. ‘If we take a close look at the balance sheets of previous five years, it shows that the amount of loans taken by the company against fixed assets has only increased, the result of which is poor financial health of the company this year’. Financial report of Company B. Which of the following can be inferred from the statement of the financial report of the company B? 1. Decreasing the amount of loans against fixed assets will improve the financial health of company B. 2. The value of fixed assets of Company B has decreased by taking loans against them. 3. An analysis of balance sheets of a company throws light on its financial health. 4. Company B had not taken any loans in any financial year other the said five years.",
+      "options": {
+        "A": "None can be inferred",
+        "B": "Both 1 and 4",
+        "C": "Both 1 and 3",
+        "D": "Only 4",
+        "E": "Only 2"
+      },
+      "correct_answer": "C",
+      "explanation": "Since, the balance sheets of previous five years shows that the amount of loans taken by the company against fixed assets has only increased, the result of which is poor financial health of the company this year. So, we can infer that if we decrease the amount of loans against fixed assets then the financial health of company B can be improved. Hence, Conclusion 1 will follow. An analysis of balance sheets of a company throws light on its financial health. Hence, conclusion 3will also follow.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00031",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254009",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q63",
+      "question_number": 63,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Direction: The question below, there is a statement followed by two conclusions numbered I and II. You have to assume everything in the statement to be true. Then consider the 2 conclusion together and decide which of them follows beyond a reasonable doubt from the information given in the statement. Statement: The Nobel Peace Prize conferred on the International Campaign to Abolish Nuclear Weapons(ICAN) is equally a recognition for the 122 countries that backed the 2017 UN treaty this summer to ban the bomb. Conclusions: I. Nobel peace prize highlights the urgent need to outlaw nuclear weapons II. Countries do not give importance to Nobel prize",
+      "options": {
+        "A": "Only conclusion I follows",
+        "B": "Only conclusion II follows",
+        "C": "Both conclusion I and II follows",
+        "D": "Neither conclusion I nor II follows",
+        "E": "Either conclusion I or II follows"
+      },
+      "correct_answer": "A",
+      "explanation": "122 countries backed the 2017 UN treaty this summer to ban the bomb and later the Nobel Peace Prize grants ICAN. This tells us that the Nobel Peace Prize committee wants to highlights the urgent need to outlaw nuclear weapons. This justifies conclusion 1. Conclusion 2 is irrelevant to the matter stated in the statement. Hence, option A is the correct option",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00091",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254080",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q64",
+      "question_number": 64,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Direction: A statement is given followed by three inferences numbered I, II, and III. Consider the statement to be true even if it is at variance with commonly known facts. You have to decide which of the inferences, if any, follow from the given statement. Statement: 17 million children in the US have or have had a psychiatric disorder, but there are currently less than 60,000 beds to accommodate them. Inferences: I. The US government does not give too much importance to the difficult issue of mental health. II. Funding is limited for mental health issues and for medical aid in general in the United States. III. The US has the maximum number of children who suffer from psychiatric disorders.",
+      "options": {
+        "A": "Only I follows",
+        "B": "Only II follows",
+        "C": "Both I and II follow",
+        "D": "Only III follows",
+        "E": "Both II and III follow"
+      },
+      "correct_answer": "A",
+      "explanation": "Only inference I follows. The given statement says that 17 million children in US suffer from psychiatric disorders but there are less than 60,000 beds to accommodate them. From here we can clearly infer that the US government does not give too much importance to the issue of mental health or the ratio of children suffering and the number of beds available for them wouldn’t have been so poor. Inferences II and III contain extraneous information that cannot be deduced from what is given. Besides mentioning that funding is limited for mental health issues, II also points out that it is limited for medical aid in general, which cannot be inferred from the given statement. Thus, option A is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00092",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254081"
+      }
+    },
+    {
+      "id": "2018_Q65",
+      "question_number": 65,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "Direction: A statement is given followed by three inferences numbered I, II, and III. Consider the statement to be true even if it is at variance with commonly known facts. You have to decide which of the inferences, if any, follow from the given statement. Statement: Recent radar scans of Tutankhamun's tomb conclusively prove that there are no additional chambers or passages behind the walls of the famed pharaoh's burial chamber in the Valley of the Kings, Egyptian officials announced today. Inferences: I. It was previously assumed that there were secrets chambers or other mysteries hidden behind Tutankhamun’s burial chamber. II. King Tutankhamun is one of the most well-known pharaohs in the world. III. Radar scans penetrate wood, concrete, and other walls and help figure out what’s there on the other side.",
+      "options": {
+        "A": "Only I follows",
+        "B": "Only II follows",
+        "C": "Only III follows",
+        "D": "All of them follow",
+        "E": "None of them follows"
+      },
+      "correct_answer": "D",
+      "explanation": "All the inferences follow. The given statement says that recent radar scans have proven without a doubt that there are no chambers behind the walls of Tutankhamun’s burial chamber. Inference I follows because the very fact that such scans were conducted is evidence that people believed there might be hidden chambers behind the walls. Inference II follows directly from the use of the word ‘famed’, meaning famous and well-known, to describe Tutankhamun’s pharaoh. And inference III follows because we have been told about the function of radar scans – they penetrate walls and help figuring out things on the other side. Therefore, option D is the correct answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": true,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00093",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254084",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2018_Q89",
+      "question_number": 89,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "The number of freelancers and consultants are at a steep rise in India. The credit for this goes to wider internet penetration. People prefer to work on their own terms and conditions and still make more money than what they could make in a 9-5 job. But tax filing is something which scares them a lot here. We are dealing with the tax implications for freelancers, bloggers and consultants in India. Mostly freelancers and consultants ask the question whether they have to pay income tax on their income. The answer is yes and in addition to income tax, they are also liable to pay service tax if their gross income is more than 10 lakh from freelancing as per the rate prescribed by the government. Freelancer is a term which refers to the person who is self-employed not working or committed to a particular employer or client for the long-term anywhere. Within Indian law, if you are running your own business then you are termed as the sole proprietor and the same thing applied to the freelancers. Inference: No one likes to work in 9-5 jobs.",
+      "options": {
+        "A": "Inference is definitely true",
+        "B": "Inference is probably true",
+        "C": "Data is inadequate",
+        "D": "Inference is probably false",
+        "E": "Inference is definitely false"
+      },
+      "correct_answer": "B",
+      "explanation": "The very first line of passage says that number of freelancers is at steep rise in India. Probably it can be inferred that people does not like 9-5 job. But nowhere directly mentioned in passage that people does not like 9-5 job hence statement is probably true.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00116",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254110"
+      }
+    },
+    {
+      "id": "2018_Q90",
+      "question_number": 90,
+      "year": 2018,
+      "subject": "Reasoning",
+      "questions": "The number of freelancers and consultants are at a steep rise in India. The credit for this goes to wider internet penetration. People prefer to work on their own terms and conditions and still make more money than what they could make in a 9-5 job. But tax filing is something which scares them a lot here. We are dealing with the tax implications for freelancers, bloggers and consultants in India. Mostly freelancers and consultants ask the question whether they have to pay income tax on their income. The answer is yes and in addition to income tax, they are also liable to pay service tax if their gross income is more than 10 lakh from freelancing as per the rate prescribed by the government. Freelancer is a term which refers to the person who is self-employed not working or committed to a particular employer or client for the long-term anywhere. Within Indian law, if you are running your own business then you are termed as the sole proprietor and the same thing applied to the freelancers. Inference: If the income of freelancers is more than 10 lakh then they are liable to pay service tax.",
+      "options": {
+        "A": "Inference is definitely true",
+        "B": "Inference is probably true",
+        "C": "Data is inadequate",
+        "D": "Inference is probably false",
+        "E": "Inference is definitely false"
+      },
+      "correct_answer": "C",
+      "explanation": "In line 9th-10th it is mentioned that if gross income is more than 10 lakh then they are liable to pay service tax. Gross income and net income are different. Gross income is total revenue received and net income is whatever left after the business expense and some tax-free investments etc. If a person is having net income more than 10 lakh then their gross income is even more than that. Therefore they will come in the tax bracket. But here, the type of income is not mentioned. Hence, option C is the correct response.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00117",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254111",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q51",
+      "question_number": 51,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "Read the following information carefully and answer the questions that follow. P, Q, R, S, T, V and W are seven different boxes of different colours i.e. black, silver, red, pink, yellow, white and green but not necessarily in the same order. Box S is kept immediately above the yellow colour box. More than three boxes are there between pink and silver colour box. There are two boxes between box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is kept immediately above the box W. More than three boxes are there between yellow and pink colour box. The colour of box T is red. Which box is of yellow colour?",
+      "options": {
+        "A": "Q",
+        "B": "S",
+        "C": "V",
+        "D": "W",
+        "E": "P"
+      },
+      "correct_answer": "D",
+      "explanation": "Box – P, Q, R, S, T, V and W Colour- Black, silver, red, pink, yellow, white and green 1) There are two boxes between the box Q and box T. There is only one box between box T and box W. There are three boxes between box W and box P, which is of black colour. There are only two boxes between box P and box R, which is of white colour. The silver colour box is immediately above the box W. Case 1: Case 2: 2) Box S is immediately above yellow colour box. T is of red colour box. This is not possible in case 2. So, case 1 is correct. 3) More than three boxes are there between pink and silver colour box. More than three boxes are there between yellow and pink colour box. Hence, box W is of yellow colour.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00168",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254167",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2019_Q59",
+      "question_number": 59,
+      "year": 2019,
+      "subject": "Reasoning",
+      "questions": "The lifeline of Mumbai is its railway network, which is one of the most crowded places in the city. A Group of commuters of the Mumbai suburban railways called for a strike in response to the increase in the number of accidents in some routes in the past year due to overcrowding. The commuters want to continue the strike unless the authorities agree to increase the frequency of the trains in that route. Which of the following can be inferred from the aforementioned statements?",
+      "options": {
+        "A": "Increase in the frequency of the trains would lead to decrease in the number of such accidents",
+        "B": "The trains in the Mumbai suburban run overcrowded",
+        "C": "The railway authorities are indifferent to the safety of the commuters",
+        "D": "The railways did not increase the frequency of trains in proportion to the increase in the number of commuters in the past year.",
+        "E": "None of these"
+      },
+      "correct_answer": "D",
+      "explanation": "The following facts can be gathered from the given paragraph: 1. The trains of the Mumbai suburban railways run overcrowded. 2. Accidents occur owing to overcrowded trains. 3. The strikers claim to continue the strike unless the authorities agree to increase the frequency of the trains in those routs. Point 3 indicates that the authorities have not agreed to increase the frequency of the trains in the routes where accidents are common. Thus, we can infer that the railways did not increase the frequency of trains in proportion to the increase in the number of commuters in the past year.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00176",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254178",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2022_Q152",
+      "question_number": 152,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statement: A biofuel is produced through contemporary processes from biomass rather than conventional fossil fuels. They are renewable energy resources and can play an important role in minimizing CO2 emissions. Crop residues could be turned to biofuel but our farmers require proper incentives and handholding.Which of the following can be logically inferred from the statement above?",
+      "options": {
+        "A": "Other countries are generating Bio fuels which are Eco-friendly.",
+        "B": "This is a good example of re-cycling where waste can be converted into something productive.",
+        "C": "Bio fuels have a high calorific value in comparison to the conventional fossil fuels.",
+        "D": "Government has not done much for the farmers in the past.",
+        "E": "None of these."
+      },
+      "correct_answer": "B",
+      "explanation": "No other statement except option B can be inferred from the passage. Obtaining biofuel from biomass is a good example of recycling.",
+      "difficulty": "Easy",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00187",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254190"
+      }
+    },
+    {
+      "id": "2022_Q161",
+      "question_number": 161,
+      "year": 2022,
+      "subject": "Reasoning",
+      "questions": "Statement: The banking system in India has four tiers:(a) scheduled commercial banks,(b) regional rural banks,(c) cooperative banks,(d) payment banks and small finance banks. Conclusions: I) The scheduled commercial banks are the most significant category in India’s banking system. II) India is planning to expand its banking network.",
+      "options": {
+        "A": "Only I follows",
+        "B": "Only II follows",
+        "C": "Both I and II follow",
+        "D": "Neither I nor II follows",
+        "E": "Either I or II follows"
+      },
+      "correct_answer": "D",
+      "explanation": "None of the two conclusions follow as nothing has been mentioned about them in the statement. The statement just talks about the types of banks in India.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00195",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254199",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q159",
+      "question_number": 159,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Statement: Studies have shown that lead in drinking water is a significant cause of lung cancer. However, industrial pollution is not the only source of lead in drinking water. Which of the following can be validly inferred from the above statement? Inferences: I) Lead in drinking water is absolutely safe. II) Lung cancer must have causes other than lead in drinking water. III) Lead in drinking water must have sources other than industrial pollution.",
+      "options": {
+        "A": "II only",
+        "B": "III only",
+        "C": "II or III",
+        "D": "II or III or both",
+        "E": "none of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "The statement portrays about the impact of lead in drinking water, in causing cancer. Inference I – states that lead is safe, which contradicts the statement, hence this option can be omitted. Other inferences II and III talks about the impacts of lead causing cancer, hence option D is the correct choice.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00247",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254256",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    },
+    {
+      "id": "2023_Q160",
+      "question_number": 160,
+      "year": 2023,
+      "subject": "Reasoning",
+      "questions": "Statement: Green marketing is concerned with choosing, modifying, and promoting products and services that are environmentally benign. Which of the following can be validly inferred from the above statement? Inferences: I) All products and services that are environmentally benign are promoted through green marketing. II) Green marketing is only concerned with promoting products and services. III) Products and services that are not environmentally benign are not promoted through green marketing.",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "I and III only",
+        "E": "None of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "A conclusion logically completes an idea that has been mentioned in the paragraph. The last few lines of the paragraph describe that the people who are aware of the effects of the environment or the availability of alternative products that do not harm the environment only tend to use them. So, more awareness must be created. So, Option D is the most suitable answer.",
+      "difficulty": "Hard",
+      "topics": [],
+      "skills_tested": [],
+      "has_visual": false,
+      "quality_score": 1.0,
+      "reasoning_topic": "Statement & Inference",
+      "topic": "Statement & Inference",
+      "question_id": "REASONING_00248",
+      "main_category": "Analytical & Critical Reasoning",
+      "metadata": {
+        "extracted_from": "RBI_Master_Dataset",
+        "processed_date": "2025-10-04T15:14:14.254258",
+        "manually_updated": true,
+        "last_updated": "2025-10-04 16:24:17"
+      }
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-04 16:24:17",
+    "source": "RBI_Master_Dataset"
+  }
+}

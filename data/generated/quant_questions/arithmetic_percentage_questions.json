@@ -1,0 +1,484 @@
+[
+  {
+    "question_id": "ARITH_PERCENTAGE_001",
+    "question": "A bank increased the interest rate on a savings account from 4% to 5%. By what percentage did the interest rate increase?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "10%",
+      "D": "1%",
+      "E": "5%"
+    },
+    "correct_answer": "B",
+    "explanation": "The percentage increase in the interest rate is calculated using the formula: \\( \\text{Percentage Increase} = \\frac{\\text{New Rate} - \\text{Old Rate}}{\\text{Old Rate}} \\times 100 \\). Here, \\( \\frac{5 - 4}{4} \\times 100 = 25\\% \\).",
+    "difficulty": "Easy",
+    "topic": "Percentage",
+    "sub_topic": "Percentage increase",
+    "concept_tags": [
+      "percentage increase",
+      "interest rates"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0030770000000000003,
+      "question_number": 1
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_002",
+    "question": "The price of a mobile phone is increased by 15% and then decreased by 10%. What is the net percentage change in the price?",
+    "options": {
+      "A": "2.5% increase",
+      "B": "4.5% increase",
+      "C": "3.5% increase",
+      "D": "5% increase",
+      "E": "1.5% increase"
+    },
+    "correct_answer": "C",
+    "explanation": "Let the original price be \\(100\\). After a 15% increase, the price becomes \\(115\\). After a 10% decrease, the price becomes \\(115 - (115 \\times 0.10) = 115 - 11.5 = 103.5\\). The net percentage change is \\(\\frac{103.5 - 100}{100} \\times 100 = 3.5\\%\\). Thus, Option C is correct.",
+    "difficulty": "Medium",
+    "topic": "Percentage",
+    "sub_topic": "Successive percentage changes",
+    "concept_tags": [
+      "successive percentage",
+      "net change"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0030770000000000003,
+      "question_number": 2
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_003",
+    "question": "A trader marks up the price of an item by 40% above the cost price and then offers a discount of 10% on the marked price. What is the percentage profit or loss?",
+    "options": {
+      "A": "26% profit",
+      "B": "30% profit",
+      "C": "24% profit",
+      "D": "28% profit",
+      "E": "20% profit"
+    },
+    "correct_answer": "A",
+    "explanation": "Assume the cost price is \\(100\\). After a 40% markup, the marked price is \\(140\\). A 10% discount on \\(140\\) is \\(140 - 14 = 126\\). The profit is \\(126 - 100 = 26\\). Thus, the percentage profit is \\(\\frac{26}{100} \\times 100 = 26\\%\\). Option A is correct.",
+    "difficulty": "Medium",
+    "topic": "Percentage",
+    "sub_topic": "Percentage profit/loss",
+    "concept_tags": [
+      "markup",
+      "discount",
+      "profit"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0030770000000000003,
+      "question_number": 3
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_004",
+    "question": "A company had a revenue of $1,000,000 last year. This year, the revenue increased by 8%, but expenses increased by 12%. If the expenses last year were $600,000, what is the percentage change in profit?",
+    "options": {
+      "A": "10% decrease",
+      "B": "5% decrease",
+      "C": "12% decrease",
+      "D": "8% decrease",
+      "E": "2% increase"
+    },
+    "correct_answer": "E",
+    "explanation": "Last year's profit was \\(1000000 - 600000 = 400000\\). This year, revenue is \\(1000000 \\times 1.08 = 1080000\\) and expenses are \\(600000 \\times 1.12 = 672000\\). So, current profit is \\(1080000 - 672000 = 408000\\). The percentage change in profit is \\(\\frac{408000 - 400000}{400000} \\times 100 = 2\\%\\) increase.",
+    "difficulty": "Easy",
+    "topic": "Percentage",
+    "sub_topic": "Percentage change in profit",
+    "concept_tags": [
+      "revenue",
+      "expenses",
+      "profit change"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0030770000000000003,
+      "question_number": 4
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_005",
+    "question": "A product's price was decreased by 20% to a sale price of $240. What was the original price?",
+    "options": {
+      "A": "$300",
+      "B": "$280",
+      "C": "$320",
+      "D": "$250",
+      "E": "$290"
+    },
+    "correct_answer": "A",
+    "explanation": "Let the original price be \\(x\\). After a 20% decrease, the price is \\(x - 0.20x = 0.80x = 240\\). Solving for \\(x\\), we get \\(x = \\frac{240}{0.80} = 300\\). Therefore, the original price was $300.",
+    "difficulty": "Hard",
+    "topic": "Percentage",
+    "sub_topic": "Reverse percentage problems",
+    "concept_tags": [
+      "reverse calculation",
+      "discount"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 1,
+      "api_cost": 0.0030770000000000003,
+      "question_number": 5
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_001",
+    "question": "A bank offers a 5% annual interest rate on a savings account. If a customer deposits Rs. 10,000, how much interest will they earn in one year?",
+    "options": {
+      "A": "Rs. 400",
+      "B": "Rs. 450",
+      "C": "Rs. 500",
+      "D": "Rs. 550",
+      "E": "Rs. 600"
+    },
+    "correct_answer": "C",
+    "explanation": "The interest earned is calculated using the formula: Interest = Principal × Rate × Time. Here, Principal = Rs. 10,000, Rate = 5% = 0.05, Time = 1 year. Thus, Interest = 10,000 × 0.05 × 1 = Rs. 500.",
+    "difficulty": "Easy",
+    "topic": "Percentage",
+    "sub_topic": "Basic percentage calculations",
+    "concept_tags": [
+      "interest",
+      "simple interest"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0034070000000000003,
+      "question_number": 6
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_002",
+    "question": "The price of a commodity increased from Rs. 200 to Rs. 240. What is the percentage increase in the price?",
+    "options": {
+      "A": "15%",
+      "B": "20%",
+      "C": "25%",
+      "D": "30%",
+      "E": "40%"
+    },
+    "correct_answer": "B",
+    "explanation": "Percentage increase = ((New Price - Old Price) / Old Price) × 100. Here, Old Price = Rs. 200, New Price = Rs. 240. Percentage increase = ((240 - 200) / 200) × 100 = (40 / 200) × 100 = 20%.",
+    "difficulty": "Medium",
+    "topic": "Percentage",
+    "sub_topic": "Percentage increase/decrease",
+    "concept_tags": [
+      "price increase",
+      "percentage calculation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "75 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0034070000000000003,
+      "question_number": 7
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_003",
+    "question": "A product's price was increased by 10% and then decreased by 10%. What is the net percentage change in the price?",
+    "options": {
+      "A": "0%",
+      "B": "1%",
+      "C": "2%",
+      "D": "5%",
+      "E": "10%"
+    },
+    "correct_answer": "B",
+    "explanation": "Let the original price be Rs. 100. After a 10% increase, the price becomes Rs. 110. Then, a 10% decrease on Rs. 110 is Rs. 11, so the new price is Rs. 110 - Rs. 11 = Rs. 99. The net change = Rs. 99 - Rs. 100 = -Rs. 1, a decrease of 1%.",
+    "difficulty": "Medium",
+    "topic": "Percentage",
+    "sub_topic": "Successive percentage changes",
+    "concept_tags": [
+      "successive change",
+      "percentage decrease"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0034070000000000003,
+      "question_number": 8
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_004",
+    "question": "In a company, 60% of employees are male. If there are 180 male employees, how many employees are there in total?",
+    "options": {
+      "A": "250",
+      "B": "280",
+      "C": "300",
+      "D": "320",
+      "E": "360"
+    },
+    "correct_answer": "C",
+    "explanation": "Let the total number of employees be x. Since 60% are male, 0.60x = 180. Solving for x gives x = 180 / 0.60 = 300.",
+    "difficulty": "Easy",
+    "topic": "Percentage",
+    "sub_topic": "Reverse percentage problems",
+    "concept_tags": [
+      "reverse calculation",
+      "total employees"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "100 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0034070000000000003,
+      "question_number": 9
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_005",
+    "question": "A trader marks his goods at 30% above the cost price. If he offers a discount of 15% on the marked price, what is his overall profit percentage?",
+    "options": {
+      "A": "10.5%",
+      "B": "12%",
+      "C": "13.5%",
+      "D": "15%",
+      "E": "17%"
+    },
+    "correct_answer": "A",
+    "explanation": "Let the cost price be Rs. 100. Marked price = 130% of 100 = Rs. 130. After a 15% discount, selling price = 85% of Rs. 130 = Rs. 110.50. Profit = Rs. 110.50 - Rs. 100 = Rs. 10.50. Profit percentage = (10.50 / 100) × 100 = 10.5%.",
+    "difficulty": "Hard",
+    "topic": "Percentage",
+    "sub_topic": "Comparison of percentages",
+    "concept_tags": [
+      "profit calculation",
+      "discount"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "110 seconds",
+      "batch_number": 2,
+      "api_cost": 0.0034070000000000003,
+      "question_number": 10
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_001",
+    "question": "A bank offers a 5% interest rate on a savings account. If Ramesh deposits ₹20,000, what will be the total amount in his account after 1 year?",
+    "options": {
+      "A": "₹20,500",
+      "B": "₹21,000",
+      "C": "₹21,500",
+      "D": "₹22,000",
+      "E": "₹20,100"
+    },
+    "correct_answer": "B",
+    "explanation": "The interest earned is calculated as: Principal × Rate × Time / 100 = ₹20,000 × 5 × 1 / 100 = ₹1,000. Therefore, the total amount after 1 year is: ₹20,000 + ₹1,000 = ₹21,000.",
+    "difficulty": "Easy",
+    "topic": "Percentage",
+    "sub_topic": "Basic percentage calculations",
+    "concept_tags": [
+      "simple interest",
+      "percentage application"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "60 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0034029999999999998,
+      "question_number": 11
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_002",
+    "question": "The price of a laptop was increased by 20% and then decreased by 10%. What is the net percentage change in the price of the laptop?",
+    "options": {
+      "A": "8%",
+      "B": "10%",
+      "C": "9%",
+      "D": "12%",
+      "E": "5%"
+    },
+    "correct_answer": "A",
+    "explanation": "Let the original price be ₹100. After a 20% increase, the price becomes ₹120. A 10% decrease on ₹120 reduces the price by ₹12, so the final price is ₹108. The net change is ₹108 - ₹100 = ₹8, which is an 8% increase.",
+    "difficulty": "Medium",
+    "topic": "Percentage",
+    "sub_topic": "Successive percentage changes",
+    "concept_tags": [
+      "percentage increase",
+      "successive changes"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0034029999999999998,
+      "question_number": 12
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_003",
+    "question": "The population of a town increased by 15% in the first year and by 20% in the second year. What is the total percentage increase in the population after two years?",
+    "options": {
+      "A": "35%",
+      "B": "38%",
+      "C": "32%",
+      "D": "36%",
+      "E": "30%"
+    },
+    "correct_answer": "D",
+    "explanation": "Let the initial population be 100. After the first year, the population is 115. After the second year, the population is 115 × 1.20 = 138. The total increase is 138 - 100 = 38. Hence, the percentage increase is (38/100) × 100% = 38%.",
+    "difficulty": "Medium",
+    "topic": "Percentage",
+    "sub_topic": "Successive percentage changes",
+    "concept_tags": [
+      "population growth",
+      "compound change"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "90 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0034029999999999998,
+      "question_number": 13
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_004",
+    "question": "An item's price is reduced by 25% to ₹1,500. What was the original price of the item?",
+    "options": {
+      "A": "₹2,000",
+      "B": "₹2,400",
+      "C": "₹2,250",
+      "D": "₹2,300",
+      "E": "₹2,100"
+    },
+    "correct_answer": "A",
+    "explanation": "Let the original price be ₹x. After a 25% reduction, the price is 75% of ₹x, which equals ₹1,500. Therefore, 0.75x = ₹1,500. Solving for x gives x = ₹1,500 / 0.75 = ₹2,000.",
+    "difficulty": "Hard",
+    "topic": "Percentage",
+    "sub_topic": "Reverse percentage problems",
+    "concept_tags": [
+      "price reduction",
+      "reverse calculation"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0034029999999999998,
+      "question_number": 14
+    }
+  },
+  {
+    "question_id": "ARITH_PERCENTAGE_005",
+    "question": "In a survey, 40% of respondents preferred product A, while 60% preferred product B. If 500 people were surveyed, how many more people preferred product B than product A?",
+    "options": {
+      "A": "100",
+      "B": "150",
+      "C": "200",
+      "D": "250",
+      "E": "300"
+    },
+    "correct_answer": "A",
+    "explanation": "Number of people preferring product A = 40% of 500 = 0.40 × 500 = 200. Number of people preferring product B = 60% of 500 = 0.60 × 500 = 300. The difference is 300 - 200 = 100.",
+    "difficulty": "Hard",
+    "topic": "Percentage",
+    "sub_topic": "Comparison of percentages",
+    "concept_tags": [
+      "survey analysis",
+      "preference comparison"
+    ],
+    "main_category": "Quantitative Aptitude",
+    "subject": "Arithmetic",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false,
+      "estimated_time": "120 seconds",
+      "batch_number": 3,
+      "api_cost": 0.0034029999999999998,
+      "question_number": 15
+    }
+  }
+]

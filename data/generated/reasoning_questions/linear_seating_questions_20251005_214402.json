@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "linear_seating_arrangement_001",
+    "question": "Five friends, Anna, Brian, Charles, Diana, and Edward, are sitting in a row facing north. Brian is sitting immediately to the left of Charles. Diana is at one of the ends. Anna is sitting immediately to the right of Edward. Who is sitting in the middle?",
+    "options": {
+      "A": "Brian",
+      "B": "Charles",
+      "C": "Anna",
+      "D": "Edward",
+      "E": "Diana"
+    },
+    "correct_answer": "C",
+    "explanation": "Arrangement: Diana, Brian, Charles, Anna, Edward. Brian is immediately left of Charles, and Anna is immediately right of Edward. Diana is at one of the ends. Anna is in the middle.",
+    "difficulty": "Easy",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_002",
+    "question": "Seven people, G, H, I, J, K, L, and M, are sitting in a row facing north. H is third to the right of G. L is not an immediate neighbor of either H or G. K is to the right of J but not adjacent to J. I sits exactly in the middle. Who is sitting at the left end?",
+    "options": {
+      "A": "G",
+      "B": "H",
+      "C": "I",
+      "D": "J",
+      "E": "K"
+    },
+    "correct_answer": "D",
+    "explanation": "Final arrangement: J, M, G, I, H, K, L. H is third to the right of G, I is in the middle, K is to the right of J and not adjacent. L is not next to G or H.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_003",
+    "question": "Eight colleagues, P, Q, R, S, T, U, V, and W, are sitting in two parallel rows. Row 1: P, Q, R, S. Row 2: T, U, V, W. Each person in Row 1 faces a person in Row 2. Q sits second to the left of S. W faces P. R and U are immediate neighbors. V sits at one end of Row 2. Who is opposite Q?",
+    "options": {
+      "A": "T",
+      "B": "U",
+      "C": "V",
+      "D": "W",
+      "E": "None"
+    },
+    "correct_answer": "A",
+    "explanation": "Arrangement: Row 1: P, Q, R, S. Row 2: W, T, U, V. Q is second to the left of S, and W faces P. R and U are neighbors. V sits at the end. T is opposite Q.",
+    "difficulty": "Medium",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_004",
+    "question": "Nine people, A, B, C, D, E, F, G, H, and I, are sitting in a row facing north. D sits third to the right of A. F sits second to the left of C, who is at one of the ends. B sits to the immediate right of E. G is third to the left of I. H is not an immediate neighbor of A or C. Who is sitting at the right end?",
+    "options": {
+      "A": "C",
+      "B": "A",
+      "C": "I",
+      "D": "F",
+      "E": "H"
+    },
+    "correct_answer": "C",
+    "explanation": "Arrangement: F, E, B, D, A, G, H, I, C. D is third to the right of A, F is second left of C, who is at one end. B is right of E, and G is third left of I. H is not next to A or C.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  },
+  {
+    "question_id": "linear_seating_arrangement_005",
+    "question": "Ten people, J, K, L, M, N, O, P, Q, R, and S, are seated in two parallel rows (5 in each). Row 1 facing south: J, K, L, M, N. Row 2 facing north: O, P, Q, R, S. L is not an immediate neighbor of J. S faces the one who sits second to the right of L. Q is third to the left of O. The person who faces N sits at one of the ends. P is an immediate neighbor of S. Who is facing K?",
+    "options": {
+      "A": "O",
+      "B": "P",
+      "C": "Q",
+      "D": "R",
+      "E": "S"
+    },
+    "correct_answer": "D",
+    "explanation": "Arrangement: Row 1: J, K, L, M, N. Row 2: Q, S, P, R, O. L is not next to J. S faces the second right of L. Q is third left of O. N faces a person at an end, and P neighbors S. R faces K.",
+    "difficulty": "Hard",
+    "topic": "Linear Seating Arrangement",
+    "reasoning_topic": "Linear Seating",
+    "main_category": "Puzzles & Seating Arrangements",
+    "subject": "Reasoning",
+    "exam": "RBI Grade B Phase 1",
+    "metadata": {
+      "generated_by": "gpt-4o",
+      "generation_date": "2025-10-05",
+      "reviewed": false
+    }
+  }
+]
